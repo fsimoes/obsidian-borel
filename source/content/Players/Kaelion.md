@@ -12,7 +12,13 @@
   - Conhecimento arcano
 
 ## História
-Kaelion se destacou como um usuário de magia versátil e, às vezes, impulsivo. Sua história é marcada por eventos significativos que demonstram tanto seu poder quanto as consequências de suas ações.
+Kaelion se destacou como um usuário de magia versátil e, às vezes, impulsivo. Sua história é marcada por eventos significativos que demonstram tanto seu poder quanto as consequências de suas ações. Ao longo do tempo, evoluiu de um guerreiro misterioso para um revolucionário dedicado, mesmo que isso tenha significado trair antigos companheiros.
+
+Sua trajetória foi marcada por uma transformação ideológica profunda. Inicialmente um membro cauteloso do grupo, com um passado enigmático ligado a uma antiga katana e um mestre perdido, Kaelion gradualmente desenvolveu uma forte conexão com a causa dos rebeldes. Sua decisão de trair o grupo ao revelar seus planos a Rita, declarando-se "herói do povo", marcou um ponto de virada em sua história.
+
+Durante a revolução em Alva Cidadela, Kaelion provou seu valor como combatente e estrategista. Seus momentos mais marcantes incluíram finalizar uma maga inimiga com um golpe preciso de machado e sugerir aliados como Geraldinho para fortalecer a resistência. No entanto, o destino teve uma ironia cruel reservada: foi sua ação de abrir um baú misterioso que levou ao desaparecimento de Rita, sua principal aliada.
+
+Agora, em meio à fuga para Rio Londe, Kaelion busca equilibrar sua lealdade aos ideais revolucionários com a necessidade de cooperar com seus antigos companheiros. Sua evolução de um guerreiro idealista para um revolucionário determinado, mesmo que manchada por traição e consequências inesperadas, demonstra como convicções fortes podem tanto unir quanto dividir.
 
 ### Momentos Marcantes
 
@@ -44,27 +50,89 @@ Kaelion se destacou como um usuário de magia versátil e, às vezes, impulsivo.
 - Questionou Alberto sobre a continuidade do contrato
 - Recebeu sua parte da recompensa em moedas de platina
 
-#### Evolução até a Sessão 15: A Queda da Alva Cidadela
-- Explorou o castelo em busca de itens mágicos
-- Acidentalmente ativou um artefato poderoso no baú
-- Causou o desaparecimento de Rita e do baú em uma explosão de luz
-- Executou uma fuga espetacular usando botas de velocidade e invisibilidade
-- Ajudou a proteger o grupo durante a fuga
+#### Sessão 7: A Carroça Misteriosa
+- Participou da escolta da carroça até Eldest
+- Lutou com espadas curtas durante a emboscada
+- Manteve sua compostura durante o combate
+- Demonstrou choque com as ações de Bartrock
+- Recebeu 150 moedas de ouro pela missão
+
+#### Sessão 8: Sussurros de Revolta
+- Avaliou cuidadosamente os riscos de ajudar a resistência
+- Ofereceu treinamento aos rebeldes
+- Alertou Rita sobre possíveis espiões
+- Demonstrou forte senso de justiça social
+- Começou a questionar a autoridade da nobreza
+
+#### Sessão 9: O Preço da Lealdade
+- Rejeitou buscar o dinheiro da Baronesa por princípios
+- Traiu o grupo ao contar a Rita sobre o acordo com os guardas
+- Declarou-se "herói do povo"
+- Abandonou o grupo após o confronto
+- Perdeu a chance de receber as recompensas financeiras
+
+#### Sessão 10: Sombras no Cais
+- Participou da batalha no navio contra marujos e criaturas marinhas
+- Ajudou a evitar a explosão do navio
+- Demonstrou lealdade a Rita durante a missão
+- Contribuiu para o sucesso do roubo da pólvora
+- Manteve sua posição como aliado dos rebeldes
+
+#### Sessão 11: Enigmas e Estratégias
+- Conjurou magia de suporte durante a batalha contra o golem
+- Sugeriu aliados como Geraldinho para ajudar na luta
+- Participou da batalha contra o golem de ferro
+- Comparado a Legolas por sua aparência e estilo de combate
+- Demonstrou suas habilidades mágicas em combate
+
+#### Sessão 12: Explosões e Estratégias
+- Participou da batalha após a explosão da muralha
+- Lutou contra os guardas de cristal
+- Ajudou a conquistar dois pontos estratégicos na cidadela
+- Contribuiu para o sucesso da invasão com suas magias
+- Manteve sua lealdade aos rebeldes durante o ataque
+
+#### Sessão 13: O Fogo da Revolta
+- Finalizou a maga inimiga com um golpe de machado
+- Usou Action Surge durante o combate
+- Avançou 30 pés para alcançar a maga
+- Ajudou a explorar a barraca após o combate
+- Demonstrou crescimento em suas habilidades de combate
+
+#### Sessão 14: O Cerco Final
+- Participou da captura do castelo de Alva Cidadela
+- Sugeriu aliados como Geraldinho para ajudar na luta
+- Conjurou magias de suporte durante a batalha
+- Ajudou a intimidar os guardas até sua rendição
+- Manteve sua lealdade aos rebeldes
+
+#### Sessão 15: Sombras e Fugas
+- Abriu um baú que causou o desaparecimento de Rita
+- Usou botas de velocidade e invisibilidade para fugir dos guardas
+- Convenceu o grupo de sua inocência no incidente
+- Liderou a fuga com Borin ao seu lado
+- Teme o retorno de Rita como um "Cavaleiro Spectral"
 
 ## Equipamento Notável
-- Botas de velocidade (adquiridas na Sessão 15)
-- Espada longa (perdida e recuperada na Sessão 5)
-- Itens mágicos diversos
-- Grimório de magias
-- Ferramentas de artífice
+- Machado de batalha
+- Equipamento de guerreiro
+- 98 moedas de ouro (encontradas na barraca)
+- Itens de combate diversos
+- Componentes mágicos
+- Poções de cura
+- Equipamento de acampamento
+- Itens da resistência
 
 ## Relacionamentos
-- **Dustin**: Parceiro em missões de reconhecimento
-- **Borin**: Companheiro de fuga e aventuras
-- **Rita**: Desaparecida após o incidente com o baú
-- **Alberto Eder**: Primeiro empregador em Rilonde
-- **Celeste**: Inimiga enfrentada em combate
-- **Mestre Perdido**: Figura misteriosa de seu passado
+- [[NPCs/Jorge|Jorge]]: Relação complicada após os eventos do cerco
+- [[NPCs/Rita|Rita]]: Lealdade questionada após o incidente com Emmergard
+- [[NPCs/Emmergard|Emmergard]]: Relação tensa devido à sua lealdade a Rita
+- [[NPCs/Geraldinho|Geraldinho]]: Aliado sugerido para o combate
+- [[Tony]]: Confiança abalada após sua traição
+- [[Nightwolf]]: Mantém distância após os eventos recentes
+- [[Dustin]]: Relação complicada após suas escolhas
+- [[Borin]]: Parceria estremecida pelos acontecimentos
+- [[LordBart]]: Aliança incerta após os eventos do cerco
 
 ## Estilo de Jogo
 Kaelion combina magias com combate físico, demonstrando versatilidade em situações diversas. Sua abordagem tende a ser mais racional e focada em objetivos, embora ocasionalmente tome decisões impulsivas com consequências significativas. Demonstra particular interesse em itens mágicos e conhecimento arcano.
@@ -78,7 +146,7 @@ Kaelion combina magias com combate físico, demonstrando versatilidade em situa�
 - Detecção de elementos mágicos em Lucian e no armazém
 
 ## Desenvolvimento do Personagem
-Kaelion evoluiu de um personagem misterioso para uma figura central em eventos importantes. Sua busca por conhecimento arcano e itens mágicos frequentemente o coloca em situações perigosas, mas sua habilidade de adaptação e poder mágico geralmente o ajudam a sobreviver. O incidente com Rita adicionou uma nova camada de complexidade ao seu desenvolvimento.
+Kaelion evoluiu de um guerreiro idealista para um revolucionário determinado. Sua decisão de trair o grupo em favor dos rebeldes demonstrou sua dedicação à causa, mesmo que tenha complicado suas relações pessoais. Suas habilidades de combate se desenvolveram significativamente, como mostrado ao finalizar a maga inimiga com um golpe de machado. Mantém sua convicção na causa rebelde, agora equilibrada com momentos de cooperação tática com seus antigos companheiros.
 
 ## Momentos Cômicos
 - Perda e recuperação dramática de sua espada
@@ -94,14 +162,21 @@ Kaelion evoluiu de um personagem misterioso para uma figura central em eventos i
 - A ausência de magia em Lucian apesar de sua conexão com Celeste
 
 ## Objetivos Atuais
-- Descobrir o paradeiro de Rita
-- Aperfeiçoar o uso das botas de velocidade
-- Explorar seu potencial mágico
-- Encontrar respostas sobre seu mestre perdido
-- Ajudar o grupo a chegar seguramente a Rio Londe
+- Fortalecer a posição dos rebeldes em Rio Londe
+- Desenvolver novas táticas de combate
+- Reconstruir pontes com antigos aliados
+- Proteger o grupo durante a fuga da cidade
+- Expandir sua rede de contatos revolucionários
+- Aperfeiçoar suas habilidades de liderança
+- Equilibrar lealdade aos rebeldes com antigas amizades
+- Preparar-se para possíveis retaliações da nobreza
+- Estabelecer uma nova base de operações
+- Treinar novos recrutas para a resistência
 
 ## Citações Memoráveis
 - "Eu não sei se eu posso fazer isso, mas eu não estou com a cabeça." - Repetido várias vezes durante momentos de tensão
+- "Você não sabe quem está ouvindo, Rita. Cuidado com o que diz em voz alta." - Alertando sobre espiões
+- "Eu sou herói do povo." - Declarando sua lealdade aos rebeldes
 
 ## Imagens
 ![[Kaelion_1.png]]

@@ -10,8 +10,7 @@ Welcome to the digital home of our RPG campaign! Here you'll find all the inform
 
 - [[Players/|Meet the Players]]
 - [[Sessoes/|Session Notes]]
-- [[Referencias/|World References]]
-- [[Transcricoes/|Session Transcripts]]
+- [[NPCs/]]
 
 ## Recent Updates
 

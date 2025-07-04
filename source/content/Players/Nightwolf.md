@@ -12,7 +12,13 @@
   - Vigilância e observação
 
 ## História
-Nightwolf começou sua jornada como um ranger habilidoso, especializado em combate à distância e furtividade. Sua história começou com uma fuga dramática de uma taverna, onde demonstrou suas habilidades ao ajudar a proteger seus companheiros.
+Nightwolf começou sua jornada como um ranger habilidoso, especializado em combate à distância e furtividade. Sua história começou com uma fuga dramática de uma taverna, onde demonstrou suas habilidades ao ajudar a proteger seus companheiros. Ao longo do tempo, evoluiu de um arqueiro solitário para um protetor estratégico do grupo.
+
+Sua trajetória foi marcada por eventos misteriosos, incluindo o ataque de um lobisomem, memórias apagadas por uma figura misteriosa, e o ritual no Templo de Chantaner. Essas experiências, junto com sua suspeita peculiar sobre o parentesco com Trash, o guaxinim mecânico, contribuíram para formar sua personalidade única.
+
+Durante a revolução em Alva Cidadela, Nightwolf refinou suas habilidades de combate e estratégia. Seu papel foi crucial em momentos decisivos, como a batalha no navio contra o Axolotl Ancião e o cerco do castelo. A descoberta de Jorge entre os corpos dos nobres revelou seu lado mais humano, mesmo que mascarado por seu humor peculiar.
+
+Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwolf continua sendo os olhos e ouvidos do grupo durante sua fuga para Rio Londe. Sua evolução de um ranger desconfiado para um protetor leal, embora ainda mantendo seu senso de humor único, demonstra como as circunstâncias moldaram seu caráter.
 
 ### Momentos Marcantes
 
@@ -56,29 +62,89 @@ Nightwolf começou sua jornada como um ranger habilidoso, especializado em comba
 - Recebeu sua parte da recompensa em moedas de platina
 - Participou da decisão de destruir o laboratório
 
-#### Evolução até a Sessão 15: A Queda da Alva Cidadela
+#### Sessão 7: A Carroça Misteriosa
+- Recusou inicialmente a missão por falta de informações
+- Suspeitou que Trash (guaxinim mecânico) era seu "primo" devido aos olhos vermelhos
+- Participou da escolta da carroça até Eldest
+- Tentou (e falhou) acertar flechas durante o combate com goblins
+- Recebeu 150 moedas de ouro pela missão
+
+#### Sessão 8: Sussurros de Revolta
+- Retornou a Elriste após a missão
+- Manteve-se vigilante, suspeitando de espiões
+- Observou a situação em silêncio
+- Ajudou a planejar a interceptação do carregamento
+- Demonstrou preocupação com a segurança do grupo
+
+#### Sessão 9: O Preço da Lealdade
+- Esqueceu de pegar o pagamento da Baronesa Helena
+- Fez perguntas repetitivas sobre o dinheiro perdido
+- Questionou Trash sobre o dinheiro desaparecido
+- Envolveu-se no conflito após a traição de Kaelion
+- Perdeu a chance de receber 405 moedas de ouro extras
+
+#### Sessão 10: Sombras no Cais
+- Levou o grupo a uma casa abandonada após serem expulsos da cidade
+- Serviu como guia silencioso durante a crise
+- Participou da batalha no navio contra marujos e criaturas marinhas
+- Foi mordido por um Axolotl Ancião durante o combate
+- Ofereceu refúgio seguro ao grupo em momento crítico
+
+#### Sessão 11: Enigmas e Estratégias
+- Intimidou Ivan durante a negociação, garantindo o pagamento das platinas
+- Usou sua adaga fumegante para criar uma cortina de fumaça contra o golem
+- Verificou se o grupo estava sendo seguido após a negociação
+- Zombou de Tony após sua visão mística com o dado
+- Ajudou na batalha contra o golem de ferro com táticas astutas
+
+#### Sessão 12: Explosões e Estratégias
+- Voluntariou-se para ficar de vigia durante o long rest
+- Participou da batalha contra os guardas de cristal
+- Ajudou a conquistar dois pontos estratégicos na cidadela
+- Fez piada sobre tocar música com uma "JBL no ombro"
+- Demonstrou seu lado mais cauteloso ao vigiar durante o descanso do grupo
+
+#### Sessão 13: O Fogo da Revolta
+- Usou Hunter's Mark e Snare durante a batalha contra a maga
+- Acertou três flechadas precisas na maga inimiga
+- Provocou Rita sobre sua ausência na batalha
+- Escondeu-se estrategicamente para ataques furtivos
+- Ajudou a explorar a barraca, encontrando 98 moedas de ouro
+
+#### Sessão 14: O Cerco Final
+- Participou da captura do castelo de Alva Cidadela
+- Adquiriu uma armadura studded leather mágica
+- Encontrou botas mágicas durante a exploração
+- Causou um golpe crítico de 24 de dano em um inimigo
+- Ajudou a intimidar os guardas até sua rendição
+
+#### Sessão 15: Sombras e Fugas
 - Encontrou Jorge escondido entre corpos de nobres
-- Adquiriu armadura e botas mágicas no castelo
-- Demonstrou crescimento emocional ao proteger Jorge
-- Utilizou suas habilidades de furtividade para escapar pelos telhados
-- Ajudou a esconder evidências e proteger o grupo
+- Sugeriu "matar a criança" em tom de brincadeira
+- Ajudou a esconder corpos e criar um "quebra-cabeça" macabro
+- Escapou pelos telhados usando suas habilidades furtivas
+- Protegeu o grupo durante a fuga para Rio Londe
 
 ## Equipamento Notável
-- Arco
-- Espada curta
-- Armadura (adquirida na Sessão 15)
+- Arco longo
+- Adaga fumegante
+- Studded leather armor (nova)
 - Botas mágicas (adquiridas na Sessão 15)
-- Hunter's Mark (habilidade mágica)
-- Maçã de Chantaner (item simbólico)
-- Perdeu uma adaga no Armazém 568
+- Flechas especiais
+- 98 moedas de ouro (encontradas na barraca)
+- Equipamento de sobrevivência
+- Cordas e equipamento de escalada
 
 ## Relacionamentos
-- **Jorge**: Primeiro a encontrá-lo e iniciar sua proteção
-- **Tony**: Salvou sua vida ao estabilizá-lo na batalha da cabana
-- **Dustin**: Companheiro ranger, compartilhando táticas similares
-- **Borin**: Parceiro em atividades furtivas e ocultação
-- **Chantaner**: Entidade divina que o alertou sobre seu caminho
-- **Celeste**: Inimiga que tentou manipular suas memórias
+- [[NPCs/Trash|Trash]]: Suspeita que o guaxinim mecânico seja seu "primo"
+- [[NPCs/Jorge|Jorge]]: Jovem sobrevivente que encontrou e protegeu
+- [[NPCs/Rita|Rita]]: Relação tensa após seus métodos brutais e o incidente com Emmergard
+- [[NPCs/Emmergard|Emmergard]]: Aliada durante o cerco, testemunha do conflito com Rita
+- [[Tony]]: Parceiro leal desde o resgate na cabana
+- [[Dustin]]: Companheiro de aventuras e estratégias
+- [[Kaelion]]: Relação complicada após sua traição
+- [[Borin]]: Aliado confiável nas batalhas
+- [[LordBart]]: Parceiro durante o cerco do castelo
 
 ## Estilo de Jogo
 Nightwolf se destaca por sua abordagem furtiva e tática em combate. Combina habilidades de rastreamento com combate à distância e corpo a corpo, adaptando-se conforme necessário. Sua evolução incluiu um lado mais compassivo, especialmente após encontrar Jorge, mas mantém sua eficiência como protetor e executor do grupo.
@@ -92,7 +158,7 @@ Nightwolf se destaca por sua abordagem furtiva e tática em combate. Combina hab
 - Participação no ritual do Templo de Chantaner
 
 ## Desenvolvimento do Personagem
-Nightwolf evoluiu de um guerreiro puramente tático para alguém que equilibra eficiência em combate com compaixão. Sua experiência próxima à morte na cabana, o ataque do lobisomem, e o encontro com Jorge marcaram pontos significativos em seu desenvolvimento. O aviso de Chantaner sobre seu caminho adiciona uma dimensão espiritual à sua jornada.
+Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas habilidades de rastreamento e combate à distância se refinaram significativamente, como demonstrado nas batalhas contra a maga e durante o cerco. Mantém sua natureza reservada, mas desenvolveu laços mais fortes com o grupo, especialmente após encontrar Jorge. Sua eficiência com Hunter's Mark e ataques furtivos demonstra um domínio crescente de suas habilidades.
 
 ## Momentos Cômicos
 - Sugeriu "matar a criança" em tom de brincadeira enquanto Tony tentava entreter Jorge
@@ -100,6 +166,13 @@ Nightwolf evoluiu de um guerreiro puramente tático para alguém que equilibra e
 - Suas fugas pelos telhados frequentemente resultam em situações inusitadas
 - Menção inusitada às "Torres Gêmeas" durante a investigação
 - Perda da adaga durante a tentativa de arrombamento
+- Suspeita de que Trash era seu "primo" por causa dos olhos vermelhos
+- Perguntas repetitivas sobre o dinheiro perdido
+- Interrogatório ao guaxinim mecânico
+
+## Citações Memoráveis
+- "Será que essa porra é meu primo?" - Sobre Trash
+- "Trash, foi você?" - Questionando sobre o dinheiro perdido
 
 ## Presságios e Mistérios
 - O significado da maçã de Chantaner
@@ -108,11 +181,16 @@ Nightwolf evoluiu de um guerreiro puramente tático para alguém que equilibra e
 - A conexão com o lobisomem que o atacou
 
 ## Objetivos Atuais
-- Proteger Jorge durante a viagem para Rio Londe
-- Aperfeiçoar o uso de sua nova armadura e botas mágicas
-- Manter o grupo seguro usando suas habilidades de furtividade
-- Desenvolver ainda mais seu lado protetor sem perder a eficiência em combate
-- Descobrir o significado do aviso de Chantaner
+- Aperfeiçoar o uso da nova armadura e botas mágicas
+- Investigar a verdadeira natureza de Trash
+- Proteger Jorge durante a fuga para Rio Londe
+- Desenvolver novas táticas de combate com sua adaga fumegante
+- Manter vigilância contra possíveis perseguidores
+- Explorar os limites de suas habilidades de rastreamento
+- Fortalecer os laços com os companheiros sobreviventes
+- Descobrir mais sobre seu passado misterioso
+- Aprimorar suas técnicas de infiltração e furtividade
+- Preparar rotas de fuga seguras para o grupo
 
 ## Imagens
 ![[Nightwolf_1.png]]

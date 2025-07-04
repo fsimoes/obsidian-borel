@@ -13,7 +13,13 @@
   - Estilo impulsivo e caótico
 
 ## História
-Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. Sua jornada começou com ações impulsivas que definiram o início da aventura, e após sua aparente morte, retornou como Bartrock, uma versão mais sombria e misteriosa de si mesmo.
+Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. Sua jornada começou com ações impulsivas que definiram o início da aventura, e após sua aparente morte, retornou como Bartrock, uma versão mais sombria e misteriosa de si mesmo. Ao longo do tempo, sua transformação física e mental continuou a intrigar e surpreender seus companheiros.
+
+Sua trajetória foi marcada por momentos de intenso contraste: da nobreza à bestialidade, do caos ao controle estratégico. A aquisição da máscara mágica e seu comportamento cada vez mais enigmático adicionaram camadas de mistério à sua personalidade. Momentos marcantes como devorar o braço do ogro como uma cobra demonstraram sua natureza dual, enquanto suas habilidades mágicas continuaram a se desenvolver de formas inesperadas.
+
+Durante a revolução em Alva Cidadela, Bartrock demonstrou um equilíbrio crescente entre seus poderes e seu julgamento moral. Sua preocupação com a brutalidade dos rebeldes e seu uso calculado de magias de controle revelaram uma evolução significativa em seu caráter. A descoberta de novas habilidades de manipulação mágica marcou mais um capítulo em sua transformação contínua.
+
+Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua natureza nobre com seus impulsos bestiais, sua magia refinada com seu caos interno. Sua evolução de um nobre impulsivo para um mago estratégico e controlado, sem perder completamente sua essência caótica, demonstra como mesmo as transformações mais dramáticas podem levar a um crescimento positivo.
 
 ### Momentos Marcantes
 
@@ -51,6 +57,69 @@ Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. S
 - Ganhou experiência suficiente para atingir o nível 5
 - Permaneceu misterioso sobre sua própria condição
 
+#### Sessão 7: A Carroça Misteriosa
+- Guiado por sua "voz", devorou o braço do ogro durante o combate
+- Abriu a mandíbula como uma cobra para comer carne crua
+- Recuperou vigor após consumir o braço do ogro
+- Chocou o grupo com seu comportamento bestial
+- Recebeu 150 moedas de ouro pela missão
+
+#### Sessão 8: Sussurros de Revolta
+- Recebeu uma máscara mágica como recompensa
+- Insistiu em ficar com a máscara, ignorando riscos
+- Quase causou um desastre mágico ao testar a máscara
+- Participou do planejamento para interceptar o carregamento
+- Demonstrou interesse pelos itens mágicos oferecidos
+
+#### Sessão 9: O Preço da Lealdade
+- Aceitou negociar com a nobreza sozinho
+- Apostou o dinheiro da recompensa com Tony
+- Conseguiu aumentar a recompensa para 405 moedas de ouro
+- Envolveu-se no conflito após a traição de Kaelion
+- Manteve sua natureza misteriosa durante as negociações
+
+#### Sessão 10: Sombras no Cais
+- Usou encantamento de sono em um homem com tocha no navio
+- Evitou uma explosão ao impedir que a tocha caísse na pólvora
+- Participou da batalha no navio contra marujos e criaturas marinhas
+- Demonstrou criatividade mágica apesar do risco
+- Ajudou a garantir o sucesso da missão da pólvora
+
+#### Sessão 11: Enigmas e Estratégias
+- Descobriu ter uma habilidade não utilizada de manipulação de magias
+- Participou da batalha contra o golem de ferro
+- Ajudou a decifrar o puzzle arcano
+- Contribuiu para a vitória contra o golem com magias
+- Demonstrou crescimento no controle de seus poderes
+
+#### Sessão 12: Explosões e Estratégias
+- Participou da batalha após a explosão da muralha
+- Lutou contra os guardas de cristal
+- Ajudou a conquistar dois pontos estratégicos na cidadela
+- Demonstrou maior controle sobre seus impulsos bestiais
+- Contribuiu para o sucesso da invasão com suas magias
+
+#### Sessão 13: O Fogo da Revolta
+- Emergiu da pedra mágica após um long rest em meio ao caos
+- Usou magias de suporte durante a batalha contra a maga
+- Ajudou a explorar a barraca após o combate
+- Manteve sua natureza misteriosa durante o conflito
+- Demonstrou preocupação com a brutalidade dos rebeldes
+
+#### Sessão 14: O Cerco Final
+- Participou da captura do castelo de Alva Cidadela
+- Usou magias de controle durante o combate
+- Ajudou a intimidar os guardas até sua rendição
+- Manteve sua postura enigmática durante a invasão
+- Contribuiu para a vitória com suas habilidades mágicas
+
+#### Sessão 15: Sombras e Fugas
+- Ajudou a investigar itens mágicos no castelo
+- Manteve-se cauteloso durante a exploração
+- Participou do planejamento da fuga para Rio Londe
+- Demonstrou preocupação com o desaparecimento de Rita
+- Protegeu o grupo durante a retirada da cidadela
+
 ## Transformação
 ### Como Lorde Bart
 - Mago impulsivo e carismático
@@ -66,18 +135,24 @@ Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. S
 - Tendência a agir como "alívio cômico"
 
 ## Equipamento Notável
-- Grimório
-- Foco arcano
-- Itens mágicos não especificados
-- Vestimentas alteradas após transformação
-- Uma moeda de platina (recompensa do Armazém 568)
+- Máscara mágica
+- Equipamento nobre
+- 405 moedas de ouro (ganhas na aposta)
+- 98 moedas de ouro (encontradas na barraca)
+- Grimório pessoal
+- Componentes mágicos
+- Itens de status social
+- Poções diversas
 
 ## Relacionamentos
-- **Grupo Original**: Causou sua formação através de suas ações
-- **Tony**: Testemunhou sua transformação
-- **Nightwolf**: Ajudou a confirmar sua condição mágica
-- **Celeste**: Possível conexão com sua transformação
-- **Alberto**: Novo empregador após retorno
+- [[NPCs/Jorge|Jorge]]: Ajudou a proteger o jovem durante o cerco
+- [[NPCs/Rita|Rita]]: Relação tensa após suas ações brutais e o incidente com Emmergard
+- [[NPCs/Emmergard|Emmergard]]: Aliada durante o cerco do castelo
+- [[Tony]]: Parceiro de apostas e estratégias
+- [[Nightwolf]]: Aliado nas batalhas, mantém distância respeitosa
+- [[Dustin]]: Companheiro durante a defesa do castelo
+- [[Kaelion]]: Relação complicada após sua traição
+- [[Borin]]: Parceiro em estratégias de combate
 
 ## Estilo de Jogo
 Como Bartrock, mantém elementos do estilo caótico original de Lorde Bart, mas com uma abordagem mais calculada e misteriosa. Suas habilidades mágicas expandidas o tornam mais útil em investigações, embora ainda mantenha tendência a falhas cômicas em momentos críticos.
@@ -90,13 +165,18 @@ Como Bartrock, mantém elementos do estilo caótico original de Lorde Bart, mas 
 - Detecção de elementos mágicos importantes
 
 ## Desenvolvimento do Personagem
-A transformação de Lorde Bart em Bartrock marca uma evolução dramática, passando de um catalisador caótico para uma figura mais complexa e misteriosa. Sua nova forma mantém elementos cômicos enquanto adiciona camadas de mistério e poder mágico aumentado. Atingiu o nível 5 após os eventos do armazém, expandindo ainda mais suas capacidades mágicas.
+Bartrock evoluiu de um nobre misterioso para um mago estratégico e controlado. Sua descoberta de habilidades não utilizadas de manipulação mágica demonstra crescimento constante. Mantém sua natureza enigmática, mas agora demonstra maior preocupação com as consequências morais das ações do grupo, como visto em sua reação à brutalidade dos rebeldes. Seu controle sobre impulsos bestiais melhorou significativamente.
 
 ## Momentos Cômicos
 - Falhas recorrentes ao tentar pular janelas
 - Comportamento "zumbizão" na taverna durante a sessão 6
 - Tentativas desastradas de ser discreto
 - Manutenção de elementos caóticos mesmo após transformação
+
+## Momentos Dramáticos
+- Devorar o braço do ogro como uma cobra
+- Teste perigoso da máscara mágica
+- Negociação bem-sucedida com a nobreza
 
 ## Presságios e Mistérios
 - A verdadeira natureza de sua transformação
@@ -106,14 +186,20 @@ A transformação de Lorde Bart em Bartrock marca uma evolução dramática, pas
 - Suas verdadeiras motivações após o retorno
 
 ## Objetivos Atuais
-- Manter sua nova identidade
-- Investigar fenômenos mágicos
-- Auxiliar o grupo com seus novos poderes
-- Descobrir a extensão de sua transformação
-- Entender sua conexão com os eventos em curso
+- Explorar suas novas habilidades de manipulação mágica
+- Manter sua identidade protegida durante a fuga
+- Desenvolver novas estratégias de combate mágico
+- Proteger o grupo durante a viagem para Rio Londe
+- Investigar a origem de sua natureza bestial
+- Fortalecer os laços com os companheiros sobreviventes
+- Estabelecer novas conexões políticas em Rio Londe
+- Aperfeiçoar o uso de magias de controle
+- Descobrir mais sobre os poderes da máscara mágica
+- Equilibrar sua nobreza com as necessidades do grupo
 
 ## Citações Memoráveis
 - "Mestre dos Magos" - Apelido recebido pelo grupo devido suas aparições e desaparições misteriosas
+- "Eu vou só, vocês não irão me acompanhar." - Antes de negociar com a nobreza
 
 ## Imagens
 ![[Bartrok_1.png]]

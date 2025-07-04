@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "ddfc1567ccc43b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b21e8ffc9e5a475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bbf67f6707311f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bd18b86124a4221",
+    "type": "split",
+    "children": [
+      {
+        "id": "7def7157807c1b7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643220a9d8fd77b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29130ed20622dbc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "933033866b9e4fe1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad4591c56a83d42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d0826b52fc7932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a70e39578ade1114",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "96010eb8cc8ace1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "ca5c254d436ec8c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3dc0a123026a4665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8bbf67f6707311f",
+  "lastOpenFiles": [
+    "imageGallery.md",
+    "index.md",
+    "Referencias/Cenas/20250701_0438_Feminine_Dwarf_Warrior_gen_01jz24czkeem7sqakmqa46w39n.png",
+    "Referencias/Cenas/20250626_0527_Estilo_Magic__The_Gathering_gen_01jynb6jc2fznvdcae16acb6ky.png",
+    "Referencias/Cenas/20250626_0515_Desarmado_na_Floresta_gen_01jynah10ff6zahfkh7mw4h726.png",
+    "Referencias/Cenas/20250626_0455_Figura_Envolvida_em_Cipos_gen_01jyn9crhfemt9hnctbbkesw6a.png",
+    "Referencias/Cenas/20250626_0450_Guerreiro_e_Mago_gen_01jyn93066f4f9n0t9qk0r0qsd.png",
+    "Referencias/Cenas/20250626_0439_Guaxinim_Robo_e_Mago_gen_01jyn8f9wnfjjtgzmhrg9fvqa5.png",
+    "Referencias/Cenas/20250626_0414_Chegou_Minha_Hora_gen_01jyn704z2e758sjxs9gtb20h5.png",
+    "Referencias/Cenas/20250626_0413_Guaxinim_Robo_Guerreiro_gen_01jyn6ykgcfzprxbvzj63s6er7.png",
+    "Referencias/Cenas/20250626_0327_Golem_Chuta_Anao_gen_01jyn4bjr3fh3bwdc9qj2tt6m2.png",
+    "Referencias/Cenas/20250626_0253_Guerreiro_e_Slarks_gen_01jyn2bmk3e7ztg07w6yj8x355.png",
+    "NPCs/Geraldinho.md",
+    "Players/Borin.md",
+    "NPCs/Trash.md",
+    "Players/NPCs/Alberto.md",
+    "Players/NPCs",
+    "NPCs/Emmergard.md",
+    "Players/Dustin.md",
+    "NPCs/Rita.md",
+    "NPCs/Ivan.md",
+    "NPCs/Megard.md",
+    "Players/Tony.md",
+    "Players/Nightwolf.md",
+    "NPCs/Jorge.md",
+    "Players/NPCs/Geraldinho.md",
+    "Players/NPCs/Ivan.md",
+    "Players/NPCs/Megard.md",
+    "Players/NPCs/Jorge.md",
+    "Players/NPCs/Rita.md",
+    "NPCs"
+  ]
+}
