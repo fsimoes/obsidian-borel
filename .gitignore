@@ -1,1 +1,9 @@
 .trash/*
+source/node_modules/*
+source/dist/*
+source/build/*
+source/public/*
+source/docs/*
+source/quartz/*
+source/quartz.lock
+source/quartz.lock
