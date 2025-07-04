@@ -76,7 +76,7 @@ timeline
 - Bartrock apresentando transformações misteriosas
 
 ### Locais Importantes
-- [[Alva_Cidadela]] (em ruínas)
+- [[Alva Cidadela]] (em ruínas)
 - [[Rilonde]] (destino do grupo)
 - [[Elriste]] (cidade em revolução)
 
@@ -112,7 +112,7 @@ timeline
 - [[Lucian]] - Braço direito de Alberto
 
 ### Sessões Relacionadas
-- [[Sessoes/rpg-sessao11|Sessão 11]] - Explosão da muralha
-- [[Sessoes/rpg-sessao13|Sessão 13]] - Tomada do quartel
-- [[Sessoes/rpg-sessao14|Sessão 14]] - Cerco ao castelo
-- [[Sessoes/rpg-sessao15|Sessão 15]] - Desaparecimento de Rita 
+- [[Capitulo 11 -Sombras e Pólvora|Sessão 11]] - Explosão da muralha
+- [[Capitulo 13 – O Fogo da Revolta|Sessão 13]] - Tomada do quartel
+- [[Capitulo 14 – O Cerco Final|Sessão 14]] - Cerco ao castelo
+- [[Capitulo 15 – Sombras e Fugas|Sessão 15]] - Desaparecimento de Rita 

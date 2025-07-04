@@ -14,7 +14,7 @@
   - [[Celeste]] - Ex-proprietária do Armazém 568
   - [[Lucian]] - Braço direito de Alberto
 
-### [[Alva_Cidadela]]
+### [[Alva Cidadela]]
 - **Status**: Em Ruínas
 - **Tipo**: Cidade-Fortaleza
 - **Pontos Notáveis**:

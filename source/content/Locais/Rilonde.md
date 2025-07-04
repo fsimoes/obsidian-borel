@@ -77,7 +77,7 @@ Rilonde é uma cidade portuária significativa, localizada em uma região estrat
 - Milícia mercante
 
 ## Conexões com Outras Cidades
-- **[[Alva_Cidadela]]** - Relações comerciais importantes
+- **[[Alva Cidadela]]** - Relações comerciais importantes
 - **[[Elriste]]** - Rota comercial estabelecida
 - **Relong** - Possível fonte de tensão devido ao exército
 

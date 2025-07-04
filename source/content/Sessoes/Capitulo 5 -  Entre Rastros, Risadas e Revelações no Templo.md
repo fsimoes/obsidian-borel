@@ -1,4 +1,4 @@
-### **O Legado de Rilonde: Capítulo 5 – Entre Rastros, Risadas e Revelações no Templo**
+# O Legado de Rilonde: Capítulo 5 – Entre Rastros, Risadas e Revelações no Templo
 
 **Introdução**
 

@@ -73,7 +73,7 @@ Cidade marcada por extrema desigualdade social, dividida fisicamente por uma gra
 - Sistema de vigilância no porto
 
 ## Conexões com Outras Cidades
-- [[Alva_Cidadela]] - Inspiração para a divisão social
+- [[Alva Cidadela]] - Inspiração para a divisão social
 - **[[Rilonde]]** - Rota comercial importante
 - Outras cidades portuárias da região
 

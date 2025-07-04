@@ -51,7 +51,7 @@ Check out our latest session notes and world updates in the [[Sessoes/|Sessions]
 ## Locais
 
 ### Cidades Principais
-- [[Alva_Cidadela]] - Cidade-fortaleza em ruínas
+- [[Alva Cidadela]] - Cidade-fortaleza em ruínas
 - [[Elriste]] - Cidade dividida pela desigualdade
 - [[Rilonde]] - Centro comercial e ponto de origem
 
