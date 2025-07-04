@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b21e8ffc9e5a475",
+        "id": "51cdadb8e620ec89",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bbf67f6707311f",
+            "id": "ac38e878265de2ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Locais/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Locais/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Locais/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Locais/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,10 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bbf67f6707311f",
+  "active": "ac38e878265de2ee",
   "lastOpenFiles": [
-    "imageGallery.md",
+    "Plots/Resistencia Elriste.md",
+    "Plots/A Queda da Alva Cidadela.md",
+    "Plots/Transformacao_de_Bartrock.md",
+    "Plots/Plano Rebelde.md",
+    "Plots/Misterio de Rilonde.md",
+    "Plots/Fuga da Taverna.md",
+    "Plots/Ameaca dos Lobisomens.md",
+    "Plots/A Revolta Alva.md",
+    "Locais/index.md",
+    "Locais/Elriste.md",
+    "Locais/Alva_Cidadela.md",
+    "Plots/index.md",
     "index.md",
+    "Locais/Rilonde.md",
+    "Plots/Missoes_Pessoais.md",
+    "Plots/Caixa_Misteriosa.md",
+    "Plots/Artefatos_Misteriosos.md",
+    "Plots/Armazem_568.md",
+    "Locais/Rio_Londe.md",
+    "Locais",
+    "NPCs/Emmergard.md",
+    "NPCs/Celeste.md",
+    "NPCs/Alberto.md",
+    "NPCs/Morgana.md",
+    "NPCs/Trash.md",
+    "NPCs/Borin.md",
+    "NPCs/Geraldinho.md",
+    "Plots",
     "Referencias/Cenas/20250701_0438_Feminine_Dwarf_Warrior_gen_01jz24czkeem7sqakmqa46w39n.png",
     "Referencias/Cenas/20250626_0527_Estilo_Magic__The_Gathering_gen_01jynb6jc2fznvdcae16acb6ky.png",
     "Referencias/Cenas/20250626_0515_Desarmado_na_Floresta_gen_01jynah10ff6zahfkh7mw4h726.png",
@@ -182,24 +208,7 @@
     "Referencias/Cenas/20250626_0413_Guaxinim_Robo_Guerreiro_gen_01jyn6ykgcfzprxbvzj63s6er7.png",
     "Referencias/Cenas/20250626_0327_Golem_Chuta_Anao_gen_01jyn4bjr3fh3bwdc9qj2tt6m2.png",
     "Referencias/Cenas/20250626_0253_Guerreiro_e_Slarks_gen_01jyn2bmk3e7ztg07w6yj8x355.png",
-    "NPCs/Geraldinho.md",
-    "Players/Borin.md",
-    "NPCs/Trash.md",
-    "Players/NPCs/Alberto.md",
     "Players/NPCs",
-    "NPCs/Emmergard.md",
-    "Players/Dustin.md",
-    "NPCs/Rita.md",
-    "NPCs/Ivan.md",
-    "NPCs/Megard.md",
-    "Players/Tony.md",
-    "Players/Nightwolf.md",
-    "NPCs/Jorge.md",
-    "Players/NPCs/Geraldinho.md",
-    "Players/NPCs/Ivan.md",
-    "Players/NPCs/Megard.md",
-    "Players/NPCs/Jorge.md",
-    "Players/NPCs/Rita.md",
     "NPCs"
   ]
 }

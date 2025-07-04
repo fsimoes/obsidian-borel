@@ -1,5 +1,18 @@
 # Kaelion
 
+## Status: Traidor (Ex-membro do grupo)
+**Última Atualização**: Sessão 9
+
+## Descrição
+Kaelion é um elfo guerreiro que se autodenomina "herói do povo". Inicialmente membro do grupo principal, ele escolheu trair seus companheiros por lealdade à causa de [[Rita]] e à resistência contra a nobreza de Elriste.
+
+## Características
+- Elfo musculoso
+- Usa armadura samurai escura
+- Carrega espadas cruzadas
+- Honrado e focado em seus princípios
+- Forte senso de justiça social
+
 ## Perfil
 - **Jogador**: GUSTAVONIKOV
 - **Classe**: Mago/Artífice
@@ -12,106 +25,61 @@
   - Conhecimento arcano
 
 ## História
-Kaelion se destacou como um usuário de magia versátil e, às vezes, impulsivo. Sua história é marcada por eventos significativos que demonstram tanto seu poder quanto as consequências de suas ações. Ao longo do tempo, evoluiu de um guerreiro misterioso para um revolucionário dedicado, mesmo que isso tenha significado trair antigos companheiros.
+### Com o Grupo Principal
+- Participou de diversas missões
+- Ajudou a investigar os roubos de carroças
+- Contribuiu em combates importantes
+- Manteve postura honrada e leal
 
-Sua trajetória foi marcada por uma transformação ideológica profunda. Inicialmente um membro cauteloso do grupo, com um passado enigmático ligado a uma antiga katana e um mestre perdido, Kaelion gradualmente desenvolveu uma forte conexão com a causa dos rebeldes. Sua decisão de trair o grupo ao revelar seus planos a Rita, declarando-se "herói do povo", marcou um ponto de virada em sua história.
+### Ponto de Virada
+Durante a missão em Elriste, Kaelion se alinhou com a causa da resistência liderada por Rita. Quando o grupo considerou trair os rebeldes em troca de recompensa da guarda, ele escolheu revelar o plano a Rita, resultando em um confronto na taverna.
 
-Durante a revolução em Alva Cidadela, Kaelion provou seu valor como combatente e estrategista. Seus momentos mais marcantes incluíram finalizar uma maga inimiga com um golpe preciso de machado e sugerir aliados como Geraldinho para fortalecer a resistência. No entanto, o destino teve uma ironia cruel reservada: foi sua ação de abrir um baú misterioso que levou ao desaparecimento de Rita, sua principal aliada.
+## Motivações
+- Lutar contra a desigualdade social
+- Apoiar a causa dos oprimidos
+- Derrubar a elite opressora
+- Lealdade absoluta a Rita e à resistência
 
-Agora, em meio à fuga para Rio Londe, Kaelion busca equilibrar sua lealdade aos ideais revolucionários com a necessidade de cooperar com seus antigos companheiros. Sua evolução de um guerreiro idealista para um revolucionário determinado, mesmo que manchada por traição e consequências inesperadas, demonstra como convicções fortes podem tanto unir quanto dividir.
+## Relacionamentos
+### Atuais
+- [[Rita]] - Líder que segue fielmente
+- Resistência - Novo grupo de aliados
 
-### Momentos Marcantes
+### Antigos
+- [[Tony]] - Ex-companheiro, agora adversário
+- [[Dustin]] - Ex-aliado que tentou negociar com Rita
+- [[Nightwolf]] - Ex-companheiro de grupo
+- [[Bartrock]] - Ex-aliado em combate
+- [[Borin]] - Ex-companheiro de viagem
 
-#### Sessão 3: Chegada a Rilonde
-- Contratado por Alberto Eder junto com o grupo
-- Permaneceu observador e cauteloso durante as negociações
-- Demonstrou interesse em uma antiga katana, revelando um passado misterioso
-- Gerou tensão no grupo devido a suspeitas sobre seu passado
+## Citações Memoráveis
+- "Eu sou herói do povo."
+- "Não posso ficar parado enquanto os nobres oprimem os pobres."
 
-#### Sessão 4: Reconhecimento Noturno
-- Acompanhou Dustin no reconhecimento da rota
-- Tentou contribuir com informações sobre magia
-- Tornou-se alvo de desconfianças do grupo
-- Mencionou um mestre perdido relacionado à katana
+## Equipamento Conhecido
+- Armadura samurai escura
+- Espadas curtas
+- 150 moedas de ouro (pagamento da última missão)
 
-#### Sessão 5: Confrontos e Revelações
-- Atacou os tentáculos mágicos de Celeste sem efeito
-- Acertou Celeste duas vezes em combate
-- Perdeu sua espada durante o combate com os lobos
-- Usou Fighting Spirit para fortalecer seus ataques
-- Recuperou sua espada após o combate
+## Habilidades Notáveis
+- Combate com espadas
+- Táticas de guerra
+- Liderança em batalha
+- Treinamento militar
 
-#### Sessão 6: O Armazém Misterioso
-- Inspecionou Lucian em busca de sinais de magia
-- Não detectou magia em Lucian após a inspeção
-- Expressou preocupação com a natureza dos experimentos no armazém
-- Participou da investigação do Armazém 568
-- Ajudou a identificar o laboratório secreto
-- Questionou Alberto sobre a continuidade do contrato
-- Recebeu sua parte da recompensa em moedas de platina
+## Status Atual
+- Aliado à resistência de Rita
+- Inimigo do grupo principal
+- Envolvido no plano para derrubar o muro de Elriste
 
-#### Sessão 7: A Carroça Misteriosa
-- Participou da escolta da carroça até Eldest
-- Lutou com espadas curtas durante a emboscada
-- Manteve sua compostura durante o combate
-- Demonstrou choque com as ações de Bartrock
-- Recebeu 150 moedas de ouro pela missão
+## Observações
+- Sua traição foi motivada por princípios morais
+- Mantém código de honra mesmo após a traição
+- Disposto a sacrificar antigas alianças pela causa
+- Potencial antagonista ou aliado futuro dependendo das escolhas do grupo
 
-#### Sessão 8: Sussurros de Revolta
-- Avaliou cuidadosamente os riscos de ajudar a resistência
-- Ofereceu treinamento aos rebeldes
-- Alertou Rita sobre possíveis espiões
-- Demonstrou forte senso de justiça social
-- Começou a questionar a autoridade da nobreza
-
-#### Sessão 9: O Preço da Lealdade
-- Rejeitou buscar o dinheiro da Baronesa por princípios
-- Traiu o grupo ao contar a Rita sobre o acordo com os guardas
-- Declarou-se "herói do povo"
-- Abandonou o grupo após o confronto
-- Perdeu a chance de receber as recompensas financeiras
-
-#### Sessão 10: Sombras no Cais
-- Participou da batalha no navio contra marujos e criaturas marinhas
-- Ajudou a evitar a explosão do navio
-- Demonstrou lealdade a Rita durante a missão
-- Contribuiu para o sucesso do roubo da pólvora
-- Manteve sua posição como aliado dos rebeldes
-
-#### Sessão 11: Enigmas e Estratégias
-- Conjurou magia de suporte durante a batalha contra o golem
-- Sugeriu aliados como Geraldinho para ajudar na luta
-- Participou da batalha contra o golem de ferro
-- Comparado a Legolas por sua aparência e estilo de combate
-- Demonstrou suas habilidades mágicas em combate
-
-#### Sessão 12: Explosões e Estratégias
-- Participou da batalha após a explosão da muralha
-- Lutou contra os guardas de cristal
-- Ajudou a conquistar dois pontos estratégicos na cidadela
-- Contribuiu para o sucesso da invasão com suas magias
-- Manteve sua lealdade aos rebeldes durante o ataque
-
-#### Sessão 13: O Fogo da Revolta
-- Finalizou a maga inimiga com um golpe de machado
-- Usou Action Surge durante o combate
-- Avançou 30 pés para alcançar a maga
-- Ajudou a explorar a barraca após o combate
-- Demonstrou crescimento em suas habilidades de combate
-
-#### Sessão 14: O Cerco Final
-- Participou da captura do castelo de Alva Cidadela
-- Sugeriu aliados como Geraldinho para ajudar na luta
-- Conjurou magias de suporte durante a batalha
-- Ajudou a intimidar os guardas até sua rendição
-- Manteve sua lealdade aos rebeldes
-
-#### Sessão 15: Sombras e Fugas
-- Abriu um baú que causou o desaparecimento de Rita
-- Usou botas de velocidade e invisibilidade para fugir dos guardas
-- Convenceu o grupo de sua inocência no incidente
-- Liderou a fuga com Borin ao seu lado
-- Teme o retorno de Rita como um "Cavaleiro Spectral"
+## Imagens
+![[Kaelion.jpeg]]
 
 ## Equipamento Notável
 - Machado de batalha
@@ -122,17 +90,6 @@ Agora, em meio à fuga para Rio Londe, Kaelion busca equilibrar sua lealdade aos
 - Poções de cura
 - Equipamento de acampamento
 - Itens da resistência
-
-## Relacionamentos
-- [[NPCs/Jorge|Jorge]]: Relação complicada após os eventos do cerco
-- [[NPCs/Rita|Rita]]: Lealdade questionada após o incidente com Emmergard
-- [[NPCs/Emmergard|Emmergard]]: Relação tensa devido à sua lealdade a Rita
-- [[NPCs/Geraldinho|Geraldinho]]: Aliado sugerido para o combate
-- [[Tony]]: Confiança abalada após sua traição
-- [[Nightwolf]]: Mantém distância após os eventos recentes
-- [[Dustin]]: Relação complicada após suas escolhas
-- [[Borin]]: Parceria estremecida pelos acontecimentos
-- [[LordBart]]: Aliança incerta após os eventos do cerco
 
 ## Estilo de Jogo
 Kaelion combina magias com combate físico, demonstrando versatilidade em situações diversas. Sua abordagem tende a ser mais racional e focada em objetivos, embora ocasionalmente tome decisões impulsivas com consequências significativas. Demonstra particular interesse em itens mágicos e conhecimento arcano.

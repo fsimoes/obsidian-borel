@@ -1,75 +1,75 @@
-# Rita
+# Rita "Dente de Bronze"
 
-## Perfil
-- **Posição**: Líder da Resistência
-- **Status**: Desaparecida (após incidente com baú mágico)
-- **Características Notáveis**:
-  - Liderança carismática
-  - Determinação feroz
-  - Métodos brutais
-  - Habilidades estratégicas
-  - Conexões com rebeldes
+## Status: Desaparecida
+**Última Atualização**: Sessão 15
 
-## História
-Rita emergiu como uma figura central na revolução contra a nobreza de Alva Cidadela. Sua primeira aparição significativa foi quando abordou o grupo em Elriste, recrutando-os para a causa rebelde. Inicialmente apresentou-se como uma líder carismática e determinada, mas ao longo do tempo, sua brutalidade e métodos questionáveis começaram a gerar tensões dentro do grupo.
+## Descrição Física
+- Mulher ruiva
+- Usa armadura leve
+- Aparência maltrapilha
+- Possui um dente de bronze característico, que lhe dá o apelido
 
-### Momentos Marcantes
+## Personalidade
+- Determinada e focada
+- Líder carismática
+- Implacável em seus objetivos
+- Disposta a usar violência para alcançar seus fins
+- Demonstrou crescente radicalização durante a revolução
 
-#### Recrutamento em Elriste
-- Abordou o grupo discretamente
-- Ofereceu recompensas e promessas de justiça
-- Demonstrou conhecimento detalhado sobre a corrupção da nobreza
-- Estabeleceu uma rede de contatos e informantes
+## História Conhecida
+Rita liderou a resistência em Elriste e posteriormente a revolução contra a Alva Cidadela. Inicialmente apresentada como uma líder carismática lutando contra a desigualdade, ela gradualmente revelou um lado mais brutal, ordenando execuções e demonstrando pouca preocupação com danos colaterais. Seu último ato conhecido foi empurrar [[Megard]], uma aliada, antes de desaparecer misteriosamente após um incidente com um baú mágico ativado por [[Kaelion]].
 
-#### Liderança da Resistência
-- Organizou o roubo da pólvora no navio
-- Planejou a explosão da muralha
-- Coordenou ataques estratégicos
-- Manteve a moral dos rebeldes alta
+## Eventos Significativos
+1. Liderou a resistência em Elriste
+2. Planejou e executou o roubo da pólvora
+3. Comandou a explosão da muralha da Alva Cidadela
+4. Ordenou execuções de nobres e prisioneiros élficos
+5. Desapareceu após incidente com baú mágico (Sessão 15)
 
-#### Conflitos e Tensões
-- Empurrou Megard, gerando confronto com Tony
-- Executou prisioneiros élficos, causando questionamentos morais
-- Deu um tapa em Dustin após uma performance musical ruim
-- Manteve lealdade forte de Kaelion apesar das tensões
+## Conexões
+- **Grupo Principal** - Aliados que ajudaram na revolução
+- **[[Megard]]** - Aliada que foi empurrada por Rita
+- **[[Kaelion]]** - Inadvertidamente causou seu desaparecimento
+- **Rebeldes** - Seus seguidores leais
 
-#### Desaparecimento Misterioso
-- Sumiu após Kaelion abrir um baú mágico
-- Deixou um vácuo de poder na resistência
-- Gerou teorias sobre possível retorno como "Cavaleiro Spectral"
-- Seu desaparecimento levou à decisão do grupo de fugir para Rio Londe
+## Objetivos Conhecidos
+- Derrubar a elite opressora
+- Conquistar a Alva Cidadela
+- Estabelecer uma nova ordem social
+- Eliminar a nobreza e seus apoiadores
 
-## Relacionamentos
-- [[Kaelion]]: Seu mais leal seguidor, ironicamente responsável por seu desaparecimento
-- [[Tony]]: Relação tensa devido a questionamentos morais
-- [[Dustin]]: Protetor durante batalhas, apesar das tensões
-- [[Nightwolf]]: Provocado por ele sobre ausências em batalha
-- [[LordBart]]: Questionou suas ações brutais
-- [[Borin]]: Manteve distância após eventos recentes
-- **Megard**: Vítima de sua agressão
-- **Rebeldes**: Líder respeitada e temida
-
-## Estilo de Liderança
-Rita demonstrou um estilo de liderança autoritário e pragmático, priorizando resultados sobre moralidade. Sua capacidade de inspirar lealdade contrastava com sua brutalidade, criando uma figura complexa e controversa. Seus métodos, embora eficazes, frequentemente geravam conflitos morais dentro do grupo.
-
-## Legado
-- Liderou a revolução que tomou Alva Cidadela
-- Inspirou lealdade fervorosa em alguns seguidores
-- Seu desaparecimento deixou um vácuo de poder
-- Suas ações questionáveis geraram debates morais
-- Sua influência continua mesmo após seu desaparecimento
+## Últimas Ações Conhecidas
+- Empurrou Megard, causando tensão com o grupo
+- Estava presente quando Kaelion abriu o baú mágico
+- Desapareceu em uma explosão de luz junto com o baú
 
 ## Mistérios
-- A verdadeira natureza de seu desaparecimento
-- Possível retorno como entidade sobrenatural
-- Conexões anteriores com a nobreza
-- Motivações pessoais além da revolução
-- O conteúdo do baú mágico
+1. O que aconteceu após seu desaparecimento?
+2. Qual era a natureza do baú mágico?
+3. Existe conexão entre ela e o "Cavaleiro Spectral" mencionado?
+4. Ela retornará como aliada ou antagonista?
+
+## Legado
+- Liderou uma revolução bem-sucedida
+- Causou significativa destruição e mortes
+- Deixou um vácuo de poder na cidade
+- Sua ausência pode ter consequências imprevisíveis
+
+## Recursos
+- Rede de aliados espalhados pela cidade
+- Sistema de comunicação por sinais
+- Itens mágicos para distribuição (máscara, anel e luva)
 
 ## Citações Memoráveis
-- "A nobreza só entende a linguagem da violência."
-- "Às vezes, precisamos nos tornar monstros para derrotar monstros."
-- "Não há lugar para piedade em uma revolução."
+Nenhuma citação direta registrada ainda.
 
-## Impacto na História
-O legado de Rita permanece como uma força motriz na narrativa, mesmo após seu desaparecimento. Sua liderança transformou uma revolta local em uma revolução bem-sucedida, mas seu destino misterioso e métodos controversos deixaram marcas profundas em todos os envolvidos. A possibilidade de seu retorno como uma entidade sobrenatural adiciona uma camada de tensão sobrenatural à história. 
+## Status Atual
+- Ativa como líder da resistência
+- Planejando interceptação de carregamento com ajuda do grupo
+
+## Observações
+- Usa um sistema de sinais discretos para comunicação com aliados
+- Demonstra conhecimento detalhado das operações da elite
+- Possui recursos mágicos significativos para uma líder de resistência
+
+![[20250603_1608_Rita_na_Taverna_gen_01jwv8qvnhe76vhhdx2b3g01g6.png]] 
