@@ -14,11 +14,6 @@
 - **Resumo**: O movimento revolucionário iniciado em Elriste e suas consequências
 - **Última Atualização**: Sessão 10
 
-### 🧙‍♂️ [[Transformacao_de_Bartrock|A Transformação de Bartrock]]
-- **Status**: Em Andamento
-- **Tipo**: Plot Pessoal
-- **Resumo**: Mudanças misteriosas afetando o mago elfo, incluindo comportamentos selvagens
-- **Última Atualização**: Sessão 7
 
 ## Plots Resolvidos
 
@@ -100,7 +95,6 @@ timeline
 > - Descoberta da natureza da transformação de Bartrock
 > - Consequências da traição de Kaelion
 > - Destino dos refugiados da Alva Cidadela
-> - Propósito dos cavalos de cristal
 
 ## Notas do Mestre
 > [!note] Lembretes
@@ -108,14 +102,13 @@ timeline
 > - Desenvolver consequências da revolução
 > - Explorar o passado de Jorge
 > - Manter tensão sobre o exército de Relong
-> - Desenvolver mistérios dos cavalos de cristal
 
 ## Recursos Relacionados
 - [[Rita]] - Líder revolucionária (desaparecida)
 - [[Jorge]] - Jovem sobrevivente
 - [[Ivan]] - Chefe da guarda derrotado
 - [[Celeste]] - Misteriosa spellcaster
-- [[Alberto Weller]] - Mercador influente
+- [[Alberto]] - Mercador influente
 - [[Lucian]] - Braço direito de Alberto
 
 ### Sessões Relacionadas

@@ -84,9 +84,8 @@ Check out our latest session notes and world updates in the [[Sessoes/|Sessions]
 ## Mistérios Pendentes
 1. Verdadeira natureza da transformação de Bartrock
 2. Destino de Rita após seu desaparecimento
-3. Propósito dos cavalos de cristal no castelo
-4. Identidade do Cavaleiro Misterioso em Elriste
-5. Conexão entre Celeste e os eventos sobrenaturais
+3. Identidade do Cavaleiro Misterioso em Elriste
+4. Conexão entre Celeste e os eventos sobrenaturais
 
 ## Facções
 

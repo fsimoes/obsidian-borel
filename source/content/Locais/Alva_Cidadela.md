@@ -4,7 +4,7 @@
 **Última Atualização**: Sessão 15
 
 ## Descrição
-Uma cidade-fortaleza imponente, conhecida por sua grande muralha e arquitetura defensiva. O centro do poder é marcado por um castelo majestoso, com cavalos de cristal guardando sua entrada. A cidade era dividida entre a elite nobre, que habitava as áreas mais próximas ao castelo, e a população comum nas áreas periféricas.
+Uma cidade-fortaleza imponente, conhecida por sua grande muralha e arquitetura defensiva. O centro do poder é marcado por um castelo majestoso, com animais de cristal guardando sua entrada. A cidade era dividida entre a elite nobre, que habitava as áreas mais próximas ao castelo, e a população comum nas áreas periféricas.
 
 ## Estruturas Notáveis
 - **Muralha Externa** - Destruída durante a revolução liderada por [[Rita]]
@@ -59,9 +59,8 @@ A cidade está em ruínas após a revolução, com:
 - Ameaça de invasão por Relong
 
 ## Segredos e Mistérios
-1. O propósito dos cavalos de cristal no castelo
-2. A natureza do baú mágico que fez Rita desaparecer
-3. Possíveis túneis ou passagens secretas não descobertas
+1. A natureza do baú mágico que fez Rita desaparecer
+2. Possíveis túneis ou passagens secretas não descobertas
 
 ## Economia
 - Anteriormente um centro de comércio
@@ -73,7 +72,7 @@ A cidade está em ruínas após a revolução, com:
 - Muralha externa (parcialmente destruída)
 - Fosso ao redor do castelo
 - Guardas equipados com armas e armaduras de qualidade
-- Constructos mágicos (como os cavalos de cristal)
+- Constructos mágicos (como os cavaleiros de cristal)
 
 ## Conexões com Outras Cidades
 - **[[Rilonde]]** - Cidade para onde o grupo fugiu

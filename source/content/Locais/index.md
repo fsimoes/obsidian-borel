@@ -10,7 +10,7 @@
   - [[Armazem_568|Armazém 568]] (destruído)
   - Guilda dos Mercadores
 - **Personagens Importantes**:
-  - [[Alberto Weller]] - Mercador influente
+  - [[Alberto]] - Mercador influente
   - [[Celeste]] - Ex-proprietária do Armazém 568
   - [[Lucian]] - Braço direito de Alberto
 
@@ -21,7 +21,7 @@
   - Muralha (parcialmente destruída)
   - Castelo Central (conquistado)
   - Quartel Sul
-  - Cavalos de Cristal
+  - Cavaleiros de Cristal
 - **Personagens Importantes**:
   - [[Rita]] (desaparecida)
   - [[Jorge]] - Sobrevivente
@@ -70,7 +70,7 @@ graph TD
 
 ### Em Alva Cidadela
 1. **Castelo Central**
-   - Cavalos de Cristal
+   - Cavaleiros de Cristal
    - Salões nobres
    - Local do desaparecimento de Rita
 
@@ -123,8 +123,7 @@ graph TD
 - **Elriste**: Tensões sociais crescentes
 
 ## Segredos e Mistérios
-1. Propósito dos cavalos de cristal
-2. Túneis secretos na Alva Cidadela
-3. Conexões entre as cidades
-4. Identidade do Cavaleiro Misterioso
-5. Redes de contrabando em Rilonde 
+1. Túneis secretos na Alva Cidadela
+2. Conexões entre as cidades
+3. Identidade do Cavaleiro Misterioso
+4. Redes de contrabando em Rilonde 

@@ -52,9 +52,9 @@ Rilonde é uma cidade portuária significativa, localizada em uma região estrat
 - **Zona Norte** - Local do antigo laboratório secreto
 
 ## Habitantes Notáveis
-- [[Alberto Weller]] - Mercador importante
-- [[Celeste]] - Proprietária do Armazém 568
-- [[Lucian]] - Braço direito de Alberto
+- [[Alberto]] - Mercador importante
+- [[Celeste]] - Proprietária do Armazém 568 e casada com [[Lucian]]
+- [[Lucian]] - Braço direito de [[Alberto]]
 - Mercadores e capitães de navios
 - Líderes da guilda
 
@@ -85,7 +85,7 @@ Rilonde é uma cidade portuária significativa, localizada em uma região estrat
 1. Verdadeira natureza dos experimentos no Armazém 568
 2. Conexão entre Celeste e os eventos sobrenaturais
 3. Redes de contrabando e comércio ilegal
-4. Extensão da influência de Alberto Weller
+4. Extensão da influência de [[Alberto]] Weller
 
 ## Importância para o Grupo
 - Local de origem da aventura

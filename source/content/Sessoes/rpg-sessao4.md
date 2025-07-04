@@ -11,9 +11,7 @@ Loot: *   Um escudo para Tony Tiger (preço: 10 moedas de ouro).
 *   Uma katana para Gustavonikov (comprada por 15 moedas de ouro).
 
 *   20 flechas (pago por Bielzovsky).
-
-  
-
+ 
 *   10 moedas de ouro (Tony Tiger).
 
 *   15 moedas de ouro (Raphael Vicarone, para comprar a katana)

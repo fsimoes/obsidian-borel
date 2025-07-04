@@ -22,10 +22,10 @@
 - Usado como distração em combate
 
 ## História Conhecida
-Borin foi contratado por [[Alberto Weller]] para transportar uma carroça misteriosa até Eldest. Ele é um inventor anão que criou Trash, um guaxinim mecânico que o acompanha. Sua habilidade com mecânica e engenhosidade em batalha o tornaram um aliado valioso.
+Borin foi contratado por [[Alberto]] para transportar uma carroça misteriosa até Eldest. Ele é um inventor anão que criou Trash, um guaxinim mecânico que o acompanha. Sua habilidade com mecânica e engenhosidade em batalha o tornaram um aliado valioso.
 
 ## Conexões
-- [[Alberto Weller]] - Seu contratante inicial
+- [[Alberto]] - Seu contratante inicial
 - Trash - Sua criação mecânica
 - O grupo - Aliados atuais
 - [[Rita]] - Nova líder após os eventos em Elriste

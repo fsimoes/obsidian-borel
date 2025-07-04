@@ -31,9 +31,9 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - Encontrou 13 moedas de ouro ao saquear o corpo de Nikov
 
 #### Sessão 3: Investigações em Rilonde
-- Demonstrou habilidade de percepção ao identificar a preocupação de Alberto
+- Demonstrou habilidade de percepção ao identificar a preocupação de [[Alberto]]
 - Buscou informações relevantes para o grupo
-- Expressou a necessidade de confiança mútua entre o grupo e Alberto
+- Expressou a necessidade de confiança mútua entre o grupo e [[Alberto]]
 - Revelou ter um passado sombrio que gerou desconfiança no grupo
 
 #### Sessão 4: Noite na Cidade
@@ -166,7 +166,7 @@ Dustin evoluiu de um ladrão astuto para um líder estratégico. Sua recusa em s
 - Sarcasmo durante as negociações com Borin
 
 ## Citações Memoráveis
-- "Cara, a gente tem que fazer um serviço bem feito, o mínimo que você pode fazer é confiar no que a gente vai fazer." - Para Alberto, expressando a necessidade de confiança mútua
+- "Cara, a gente tem que fazer um serviço bem feito, o mínimo que você pode fazer é confiar no que a gente vai fazer." - Para [[Alberto]], expressando a necessidade de confiança mútua
 - "Você pode apostar ele." - Sobre o guaxinim de Borin
 
 ## Objetivos Atuais
