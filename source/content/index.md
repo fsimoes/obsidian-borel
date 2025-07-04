@@ -8,10 +8,12 @@ Welcome to the digital home of our RPG campaign! Here you'll find all the inform
 
 ## Quick Navigation
 
+- [[Locais/index|Locais]]
 - [[Players/|Meet the Players]]
-- [[Sessoes/|Session Notes]]
 - [[NPCs/| NPCS]]
 - [[Plots/index|Plots]]
+- [[Sessoes/|Session Notes]]
+
 
 ## Recent Updates
 
