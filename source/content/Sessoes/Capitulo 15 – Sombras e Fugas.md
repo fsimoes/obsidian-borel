@@ -144,3 +144,5 @@ Com a Alva Cidadela em chamas atrás deles, os aventureiros correm para Rio Lond
 
 10. **Cena: Planejamento para Rio Londe (Estilo Magic: The Gathering, Dramática)**  
    **Prompt**: O grupo está reunido em um acampamento improvisado fora da cidadela, com a pedra mágica ao centro. Tony gesticula, apontando para um mapa imaginário de Rio Londe. Kaelion, ainda abalado, segura suas botas, enquanto NightWolf vigia o horizonte. A paisagem ao redor é um campo devastado pela guerra, com tons de cinza e vermelho, destacando a determinação do grupo em um estilo épico.
+
+![[Pasted image 20250704111215.png]]

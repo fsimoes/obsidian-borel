@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessoes/Capitulo 15 – Sombras e Fugas.md",
+                "file": "Players/Tony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitulo 15 – Sombras e Fugas"
+              "title": "Tony"
             }
           }
         ]
@@ -170,6 +170,11 @@
   },
   "active": "ac38e878265de2ee",
   "lastOpenFiles": [
+    "Referencias/Cenas/Sessao15/Pasted image 20250704111215.png",
+    "Referencias/Cenas/Sessao15",
+    "Sessoes/Capitulo 15 – Sombras e Fugas.md",
+    "Players/Borin.md",
+    "Players/Tony.md",
     "Sessoes/Capitulo 14 – O Cerco Final.md",
     "Sessoes/Capitulo 13 – O Fogo da Revolta.md",
     "Sessoes/Capitulo 12 – Explosões e Estratégias.md",
@@ -185,17 +190,13 @@
     "Sessoes/Capitulo 3 - Entre Dados e Desconfianças.md",
     "Sessoes/Capitulo 1 - Negociacoes frustradas.md",
     "Locais/Alva Cidadela.md",
-    "Sessoes/Capitulo 15 – Sombras e Fugas.md",
     "Locais/Rilonde.md",
     "index.md",
     "Players/Dustin.md",
-    "Players/Borin.md",
     "Plots/index.md",
     "frases_marcantes.md",
     "Locais/index.md",
     "Alberto Weller.md",
-    "Plots/Resistencia Elriste.md",
-    "Plots/A Queda da Alva Cidadela.md",
     "Locais",
     "Plots",
     "Referencias/Cenas/20250701_0438_Feminine_Dwarf_Warrior_gen_01jz24czkeem7sqakmqa46w39n.png",
@@ -207,7 +208,6 @@
     "Referencias/Cenas/20250626_0414_Chegou_Minha_Hora_gen_01jyn704z2e758sjxs9gtb20h5.png",
     "Referencias/Cenas/20250626_0413_Guaxinim_Robo_Guerreiro_gen_01jyn6ykgcfzprxbvzj63s6er7.png",
     "Referencias/Cenas/20250626_0327_Golem_Chuta_Anao_gen_01jyn4bjr3fh3bwdc9qj2tt6m2.png",
-    "Referencias/Cenas/20250626_0253_Guerreiro_e_Slarks_gen_01jyn2bmk3e7ztg07w6yj8x355.png",
     "Players/NPCs",
     "NPCs"
   ]
