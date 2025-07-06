@@ -1,101 +1,180 @@
 # Rilonde
 
-## Status: Ativo
-**Última Atualização**: Sessão 15
+## Status: ✅ Ativo - Centro Comercial Próspero
+**Última Atualização**: Baseada na análise das transcrições das sessões 3-5
+> **Fonte**: Informações verificadas através de transcrições e resumos das sessões iniciais
 
 ## Descrição
-Rilonde é uma cidade portuária significativa, localizada em uma região estratégica. É um ponto de encontro de mercadores, aventureiros e viajantes, conhecida por seu porto movimentado e sua posição importante nas rotas comerciais da região.
+Rilonde é uma próspera cidade comercial, caracterizada como centro de negócios importantes onde mercadores ricos como Alberto Eder conseguem ascender ao status social de nobreza. A cidade está "um pouco movimentada" com "pessoas andando pela rua" e possui uma infraestrutura desenvolvida que suporta operações comerciais significativas tanto dentro quanto fora da cidade.
 
-## Significado
-- Ponto de origem da aventura do grupo
-- Centro comercial importante
-- Local de refúgio após a queda da [[Alva Cidadela]]
-- Conexão com várias rotas comerciais
+## Geografia e Layout Verificado
+- **Cidade não-portuária**: Baseada nas transcrições, Rilonde não é descrita como cidade portuária
+- **Ruas organizadas**: Sistema de ruas que permite movimento de carroças comerciais
+- **Divisão por quarteirões**: Cidade estruturada com diferentes distritos
+- **Conexões terrestres**: Rotas comerciais para outras cidades
 
-## Estruturas Notáveis
-- **Porto** - Centro de comércio marítimo
-- **Mercado** - Local de troca de mercadorias
-- **Tavernas** - Pontos de encontro de aventureiros
-- **Armazéns** - Incluindo o [[Armazem_568|Armazém 568]] de [[Celeste]]
-- **Guilda dos Mercadores** - Controle do comércio
-- **Zona Norte** - Área onde ficava o laboratório secreto
+## Estruturas Confirmadas
 
-## História Conhecida
-- Cidade estabelecida como centro comercial
-- Local dos primeiros encontros com [[Celeste]] e [[Lucian]]
-- Conexões com [[Alva Cidadela]] e [[Elriste]]
-- Ponto de partida de várias expedições comerciais
-- Descoberta do laboratório secreto no Armazém 568
+### 🏢 Distrito Comercial
+- **Galpão de Alberto Eder** - Centro de operações comerciais com escritório no andar superior
+- **Mercado Central** - Local onde Tony comprou escudo, equipamentos disponíveis
+- **Ferreiros e Comerciantes** - Otto (ferreiro de escudos) entre outros
 
-## Facções
-### Guilda dos Mercadores
-- Controla grande parte do comércio
-- Influência política significativa
-- Mantém relações com outras cidades
+### 🏠 Distrito Residencial
+- **Casa de Lucian e Celeste** - Residência do ex-braço direito de Alberto
+- **Residências diversas** - População estabelecida e estável
 
-### Guarda da Cidade
-- Mantém a ordem
-- Protege rotas comerciais
-- Patrulha o porto
-- Investigou o incêndio do Armazém 568
+### 🍺 Estabelecimentos Sociais
+- **Taverna "A Enguia Roxa"** - Principal local de hospedagem e socialização
+  - Quartos disponíveis para aventureiros
+  - Local de encontros e conflitos
+  - Administrada por Emmergard (taberneira/guerreira)
 
-### Aventureiros
-- Grupos diversos em busca de trabalho
-- Mercenários e exploradores
-- Ponto de encontro na cidade
+### ⛪ Locais Espirituais
+- **Templo de Chantaner** - Local de rituais de cura mental e recuperação de memórias
+  - Disponível para rituais especializados
+  - Sacerdotes competentes
+  - Intervenção divina documentada
 
-## Pontos de Interesse
-- **Docas** - Área de chegada e partida de navios
-- **Distrito Comercial** - Centro de negócios
-- **Tavernas Famosas** - Locais de encontro
-- **Mercado Central** - Trocas e vendas
-- **Zona Norte** - Local do antigo laboratório secreto
+## História Verificada da Cidade
 
-## Habitantes Notáveis
-- [[Alberto]] - Mercador importante
-- [[Celeste]] - Proprietária do Armazém 568 e casada com [[Lucian]]
-- [[Lucian]] - Braço direito de [[Alberto]]
-- Mercadores e capitães de navios
-- Líderes da guilda
+### Era Pré-Grupo (Meses Anteriores)
+- **Centro comercial estabelecido** com múltiplos mercadores prósperos
+- **Sistema de segurança** através da guarda local (incluindo Jonas)
+- **Problemas crescentes** com roubos de carroças nas rotas comerciais
+- **Tentativas oficiais falharam** - guarda e nobreza locais incompetentes
 
-## Estado Atual
-- Centro comercial ativo
-- Ponto de refúgio para o grupo
-- Possível tensão devido aos eventos em Alva Cidadela
-- Investigações sobre o incêndio do Armazém 568
+### 📅 Sessão 3: Chegada do Grupo
+- **Grupo chega fugindo** de eventos anteriores na região
+- **Jonas (guarda) faz conexão** entre Tony e Alberto
+- **Estabelecimento de base de operações** na Taverna A Enguia Roxa
+- **Primeira investigação significativa** dos problemas comerciais
 
-## Economia
-- Baseada no comércio marítimo e terrestre
-- Trocas com outras cidades
-- Mercado de equipamentos e suprimentos
-- Serviços para aventureiros
+### 📅 Sessões 4-5: Resolução dos Mistérios
+- **Confrontos na taverna** com consequências sociais
+- **Investigação bem-sucedida** do mistério das carroças
+- **Ritual no templo** demonstra recursos espirituais da cidade
+- **Captura dos criminosos** restaura ordem comercial
 
-## Defesas
-- Guarda da cidade
-- Patrulhas no porto
-- Proteção das rotas comerciais
-- Milícia mercante
+## Facções e Sociedade
 
-## Conexões com Outras Cidades
-- **[[Alva Cidadela]]** - Relações comerciais importantes
-- **[[Elriste]]** - Rota comercial estabelecida
-- **Relong** - Possível fonte de tensão devido ao exército
+### 🏛️ Autoridades Locais
+- **Guarda da Cidade** - Representada por Jonas e outros
+  - Amigável mas limitada em capacidade
+  - Conectada com aventureiros através de relacionamentos pessoais
+- **Nobreza Local** - Mencionada por Alberto como ineficaz
+- **Chefe da Guarda** - Contactado por Alberto sem sucesso
+
+### 💰 Classe Mercantil
+- **Alberto Eder** - "Burgues que chega a ser nobre" devido à riqueza
+- **Outros comerciantes** - Rede estabelecida de negócios
+- **Ferreiros e artesãos** - Otto e outros fornecedores
+
+### ⛪ Instituições Religiosas
+- **Templo de Chantaner** - Ativo e funcional
+- **Sacerdotes competentes** - Capazes de rituais complexos
+- **Interferência divina** - Documentada através de Nightwolf
+
+### 🍺 Estabelecimentos de Hospitalidade
+- **Emmergard (A Enguia Roxa)** - Taberneira que também é guerreira capaz
+- **Outros estabelecimentos** - Sugeridos pela infraestrutura
+
+## Economia Verificada
+
+### 💼 Comércio Principal
+- **Transporte de "bens valiosos"** - Alberto e outros comerciantes
+- **Rotas estabelecidas** dentro e fora da cidade
+- **Sistema financeiro** - Moedas de ouro e platina em circulação
+- **Mercado de equipamentos** - Escudos, armas, suprimentos
+
+### 💰 Indicadores de Prosperidade
+- **Comerciantes ricos** alcançam status de nobreza
+- **Capacidade de pagamento** - 120 moedas de ouro não é problema para Alberto
+- **Infraestrutura desenvolvida** - Galpões, estradas, templos
+- **Serviços especializados** - Rituais religiosos, artesãos competentes
+
+## Habitantes Notáveis Confirmados
+
+### 🔴 Problemas Resolvidos
+- **[[Lucian]]** - Ex-braço direito de Alberto (25-30 anos), traidor capturado
+- **[[Celeste]]** - Esposa de Lucian, usuária de magia sombria, capturada
+
+### 🟢 Aliados Estabelecidos  
+- **[[Alberto]] Eder** - Comerciante próspero, empregador justo
+- **Jonas** - Guarda amigo de Tony, facilitador de conexões
+- **[[Emmergard]]** - Taberneira/guerreira, aliada temporária
+- **Otto** - Ferreiro, fornecedor de equipamentos
+
+### ⭐ Figuras Religiosas
+- **Sacerdote de Chantaner** - Especialista em rituais de recuperação de memória
+
+## Estado Atual: ✅ ESTÁVEL E PRÓSPERO
+
+### 🎯 Problemas Eliminados
+- ✅ **Rede de roubos desmantelada** - Lucian e Celeste capturados
+- ✅ **Rotas comerciais seguras** - Alberto pode operar normalmente
+- ✅ **Ameaça sobrenatural neutralizada** - Lobisomens controlados por Celeste
+- ✅ **Ordem social restaurada** - Conflitos na taverna resolvidos
+
+### 📈 Oportunidades Atuais
+- **Base estabelecida** para futuras operações do grupo
+- **Rede de contatos** expandida através de Jonas e Alberto
+- **Reputação positiva** como grupo competente de investigadores
+- **Recursos disponíveis** através de relacionamentos estabelecidos
+
+## Defesas e Segurança
+
+### 🛡️ Estrutura de Segurança
+- **Guarda municipal** - Competente para problemas rotineiros
+- **Redes pessoais** - Relacionamentos entre guardas e cidadãos
+- **Aventureiros disponíveis** - Grupos como os PCs para problemas complexos
+- **Intervenção divina** - Templo de Chantaner para ameaças sobrenaturais
+
+### ⚔️ Preparação para Ameaças
+- **Experiência com sabotagem interna** - Lições aprendidas com caso Lucian
+- **Contra-medidas mágicas** - Disponíveis através do templo
+- **Grupos de aventureiros** - Rede estabelecida para contratação
+
+## Conexões Regionais Confirmadas
+
+### 🛣️ Rotas Comerciais
+- **Múltiplas direções** - Alberto menciona transporte "dentro e fora da cidade"
+- **Conexões com outras cidades** - Sugeridas pelas operações comerciais
+- **Rotas terrestres** - Sistema de estradas para carroças
+
+### 💼 Redes Comerciais
+- **Fornecedores externos** - Para mercadorias transportadas
+- **Clientes distantes** - Destinos dos "bens valiosos"
+- **Parcerias estabelecidas** - Através de mercadores como Alberto
 
 ## Segredos e Mistérios
-1. Verdadeira natureza dos experimentos no Armazém 568
-2. Conexão entre Celeste e os eventos sobrenaturais
-3. Redes de contrabando e comércio ilegal
-4. Extensão da influência de [[Alberto]] Weller
 
-## Importância para o Grupo
-- Local de origem da aventura
-- Descoberta dos experimentos de Celeste
-- Refúgio após a fuga da Alva Cidadela
-- Base de operações inicial
+### ✅ Mistérios Resolvidos
+1. ~~Fonte dos ataques às carroças~~ → **Traição interna de Lucian/Celeste**
+2. ~~Natureza dos ataques sobrenaturais~~ → **Lobisomens controlados por Celeste**
+3. ~~Vazamento de informações~~ → **Acesso privilegiado de Lucian**
 
-## Ameaças Potenciais
-- Retorno de Celeste ou seus aliados
-- Perseguidores da Alva Cidadela
-- Espiões de Relong
-- Criminosos locais
-- Tensões políticas crescentes 
+### ❓ Questões Ainda Abertas
+1. **Natureza exata dos "bens valiosos"** transportados por Alberto
+2. **Extensão da rede comercial** de Rilonde
+3. **Outros usuários de magia** além de Celeste na região
+4. **Destino final da caixa misteriosa** mencionada nas investigações
+
+## Importância Estratégica para a Campanha
+
+### 🏠 Base de Operações
+- **Local seguro** para planejamento e descanso
+- **Recursos disponíveis** - equipamentos, informações, serviços
+- **Aliados estabelecidos** - network para futuras missões
+- **Reputação positiva** - precedente para futuras contratações
+
+### 🌍 Posição Regional
+- **Centro comercial** - hub para informações e oportunidades
+- **Estabilidade política** - ausência de conflitos ativos
+- **Infraestrutura desenvolvida** - suporte para operações complexas
+- **Precedente de sucesso** - modelo para futuras investigações
+
+---
+
+*Cidade atualizada com base na análise detalhada das transcrições das sessões 3-5*
+*Status: Estabelecida como base segura e próspera para futuras operações* 
