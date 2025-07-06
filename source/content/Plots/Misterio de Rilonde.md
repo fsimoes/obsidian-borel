@@ -1,67 +1,138 @@
 # O Mistério de Rilonde
 
-## Status: Em Andamento
+## Status: ✅ RESOLVIDO
+> **Fonte**: Verificado através de transcrições das sessões 3-5 e resumos correlacionados
 
 ## Personagens Envolvidos
-- [[NPCs/Alberto|Alberto Eder]] (Contratante)
-- [[NPCs/Lucian|Lucian]] (Suspeito)
-- [[NPCs/Celeste|Celeste]] (Suspeita, usuária de magia sombria)
-- [[NPCs/Emmergard|Emmergard]] (Aliada misteriosa)
-- [[Players/Tony|Tony Tiger]]
-- [[Players/Nightwolf|Nightwolf]]
-- [[Players/Dustin|Dustin]]
-- [[Players/Kaelion|Kaelion]]
-- [[Players/LordBart|Bartrock]]
+- [[NPCs/Alberto|Alberto Eder]] (Contratante - Comerciante vítima dos roubos)
+- [[NPCs/Lucian|Lucian]] (Braço direito de Alberto, envolvido nos roubos)
+- [[NPCs/Celeste|Celeste]] (Esposa de Lucian, usuária de magia sombria - CAPTURADA)
+- [[NPCs/Emmergard|Emmergard]] (Taberneira/Guerreira, aliada temporária)
+- [[Players/Tony|Tony Tiger]] (Papel crucial na investigação e confrontos)
+- [[Players/Nightwolf|Nightwolf]] (Vítima de ataque, testemunha-chave)
+- [[Players/Dustin|Dustin]] (Investigador, encontrou pistas importantes)
+- [[Players/Kaelion|Kaelion]] (Novo integrante, conexão com Nikov)
+- [[Players/LordBart|Bartrock]] (Suporte mágico, confirmou magias sombrias)
 
 ## Locais Importantes
-- Galpão de Alberto
-- Casa de Lucian e Celeste
-- Taverna "A Enguia Roxa"
-- Templo de Chantaner
+- **Galpão de Alberto** - Centro das operações comerciais
+- **Casa de Lucian e Celeste** - Local do confronto final
+- **Taverna "A Enguia Roxa"** - Base temporária, local de conflitos
+- **Templo de Chantaner** - Local do ritual de recuperação de memória
+- **Estradas de Rilonde** - Rotas das carroças atacadas
 
-## Estado Atual
-- Lucian foi nocauteado e Celeste derrotada após confronto
-- Descoberta de que Celeste possui poderes mágicos sombrios
-- Evidências de traição contra Alberto encontradas
-- Conexão com ataques de lobisomens confirmada
+## RESOLUÇÃO FINAL
 
-## Linha do Tempo
+### Descobertas Principais
+1. **Traição Interna Confirmada**: Lucian, braço direito de Alberto há 25-30 anos, estava facilitando os roubos
+2. **Motivação**: Dívidas financeiras de Lucian documentadas em cartas encontradas
+3. **Método**: Celeste usava magia sombria, incluindo modificação de memória
+4. **Criatura**: Lobisomem sob comando de Celeste atacou Nightwolf para silenciá-lo
+5. **Magia de Amnésia**: Aplicada em Nightwolf para apagar testemunho
 
-### Sessão 3
-1. Grupo chega a Rilonde
-2. Encontro com Jonas, amigo de Tony
-3. Contratação por Alberto Eder
-4. Descoberta da caixa misteriosa na carroça
+### Evidências Coletadas
+- ✅ **Cartas de dívidas de Lucian** (evidência física)
+- ✅ **Máscara de metal de Celeste** (recuperada por Kaelion)
+- ✅ **Memórias de Nightwolf** (restauradas via ritual divino)
+- ✅ **Rastros físicos** (garras, sangue até o rio)
+- ✅ **Confirmação mágica** (Detect Magic de Bartrock)
 
-### Sessão 4
-1. Compra de equipamentos no mercado
-2. Encontro com Emmergard
-3. Divisão do grupo para proteger carroça
-4. Ataque a Nightwolf
+### Desfecho
+- **Lucian**: Nocauteado por Tony Tiger, capturado
+- **Celeste**: Derrotada em combate, capturada
+- **Lobisomem**: Derrotado em batalha subsequente
+- **Alberto**: Informado da traição, justice restaurada
 
-### Sessão 5
-1. Investigação dos rastros do ataque
-2. Ritual no Templo de Chantaner
-3. Recuperação das memórias de Nightwolf
-4. Confronto com Lucian e Celeste
-5. Batalha contra lobos
+---
 
-## Pistas Descobertas
-- Cartas de dívidas de Lucian
-- Máscara de metal de Celeste
-- Rastros de garras e sangue
-- Evidências de magia sombria
-- Memórias recuperadas de Nightwolf
+## Linha do Tempo Verificada
 
-## Questões em Aberto
-1. Qual a verdadeira natureza dos poderes de Celeste?
-2. Por que Lucian está envolvido nos roubos?
-3. Qual a conexão com os lobisomens?
-4. Quem é realmente Emmergard?
-5. O que aconteceu com a caixa misteriosa?
+### 📅 Sessão 3 - "Entre Dados e Desconfianças"
+**Fonte**: Transcrição completa (~95%) + Resumo
+1. **Chegada em Rilonde** - Grupo fugindo de eventos anteriores
+2. **Encontro com Jonas** - Guarda amigo de Tony, indicação para trabalho
+3. **Contratação por Alberto Eder** - 120 moedas de ouro por cabeça do culpado
+4. **Primeiras suspeitas sobre Lucian** - "Às vezes só ele sabe a informação"
+5. **Introdução de Kaelion** - Novo contratado, background com Nikov
 
-## Próximos Passos
-- Interrogar Lucian e Celeste
-- Reportar descobertas a Alberto
-- Investigar conexão com lobisomens
-- Descobrir o paradeiro da caixa misteriosa 
+### 📅 Sessão 4 - "Noite na Cidade"  
+**Fonte**: Transcrição parcial (~60%) + Resumo
+1. **Resolução do conflito na taverna** - Emmergard medeia situação
+2. **Compra de equipamentos** - Tony adquire escudo, preparação
+3. **Divisão estratégica** - Grupo se separa para cobrir múltiplas frentes
+4. **Ataque a Nightwolf** - Lobisomem sob comando mágico
+
+### 📅 Sessão 5 - "Entre Rastros, Risadas e Revelações no Templo"
+**Fonte**: Transcrição parcial (~40%) + Resumo detalhado
+1. **Investigação dos rastros** - Dustin encontra marcas de garras
+2. **Ritual no Templo de Chantaner** - Recuperação de memórias
+3. **Revelação da verdade** - Nightwolf lembra do ataque e magia
+4. **Confronto final** - Batalha contra Lucian, Celeste e lobos
+5. **Resolução** - Captura dos culpados, justiça restaurada
+
+---
+
+## 🔍 Análise Investigativa
+
+### Métodos de Investigação Utilizados
+- **🔎 Reconhecimento**: Nightwolf seguindo suspeitos
+- **📜 Pesquisa documental**: Análise de cartas e evidências
+- **⚔️ Confronto direto**: Quando necessário para captura
+- **🙏 Intervenção divina**: Ritual no templo para recuperar memórias
+- **🔮 Magia**: Detect Magic para confirmar interferência sobrenatural
+
+### Lições Aprendidas
+1. **Ameaças internas são as mais perigosas** - Lucian tinha acesso privilegiado
+2. **Magia pode mascarar evidências** - Necessário contra-medidas mágicas
+3. **Trabalho em equipe é essencial** - Diferentes habilidades cobriram lacunas
+4. **Persistência compensa** - Investigação detalhada revelou a verdade
+
+---
+
+## 🔗 Conexões com Outros Plots
+
+### Plots Relacionados
+- **[[Ameaca dos Lobisomens]]** - Criatura utilizada por Celeste
+- **Conexão com Nikov** - Através de Kaelion e itens encontrados
+- **Eventos anteriores** - Grupo já estava fugindo ao chegar em Rilonde
+
+### NPCs Impactados
+- **[[Alberto]]** - Perdeu braço direito, mas recuperou negócios
+- **[[Emmergard]]** - Tornou-se aliada temporária do grupo
+
+---
+
+## 📋 Questões Finais Resolvidas
+
+### ✅ Resolvidas
+1. **Quem estava roubando as carroças?** - Lucian (interno) com Celeste (magia)
+2. **Como sabiam das rotas?** - Lucian tinha acesso privilegiado às informações
+3. **Qual a conexão com lobisomens?** - Celeste controlava criaturas magicamente
+4. **Por que Nightwolf perdeu a memória?** - Magia de amnésia para silenciar testemunha
+5. **Como recuperar as memórias?** - Ritual divino no Templo de Chantaner
+
+### ⚠️ Questões Transferidas para Outros Plots
+- **Verdadeira extensão dos poderes de Celeste** → [[Ameaca dos Lobisomens]]
+- **Destino da caixa misteriosa** → Eventos posteriores em Elriste
+- **Background completo de Emmergard** → Développements futuros
+
+---
+
+## 📊 Impacto na Campanha
+
+### Consequências Imediatas
+- Grupo estabeleceu reputação como investigadores competentes
+- Base financeira estabelecida (120 moedas de ouro)
+- Rede de contatos em Rilonde expandida
+- Confiança do grupo testada e fortalecida
+
+### Consequências Long-term
+- Precedente para lidar com traições internas
+- Experiência com ameaças sobrenaturais
+- Métodos de investigação refinados
+- Preparação para challenges maiores
+
+---
+
+*Plot atualizado com base na análise detalhada das transcrições das sessões 3-5*
+*Última verificação: Relatório de Análise de Transcrições vs Resumos* 
