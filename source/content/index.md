@@ -1,23 +1,23 @@
 ---
-title: Borel RPG
+title: RPG Borel
 ---
 
-# Welcome to Borel RPG
+# Bem-vindo ao RPG Borel
 
-Welcome to the digital home of our RPG campaign! Here you'll find all the information about our adventures, characters, and world.
+Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas as informações sobre nossas aventuras, personagens e mundo.
 
-## Quick Navigation
+## Navegação Rápida
 
 - [[Locais/index|Locais]]
-- [[Players/|Meet the Players]]
-- [[NPCs/| NPCS]]
-- [[Plots/index|Plots]]
-- [[Sessoes/|Session Notes]]
+- [[Players/|Conheça os Jogadores]]
+- [[NPCs/|NPCs]]
+- [[Plots/index|Tramas]]
+- [[Sessoes/|Notas das Sessões]]
 
 
-## Recent Updates
+## Atualizações Recentes
 
-Check out our latest session notes and world updates in the [[Sessoes/|Sessions]] section.
+Confira nossas últimas notas de sessão e atualizações do mundo na seção [[Sessoes/|Sessões]].
 
 # Índice da Campanha
 
@@ -26,7 +26,7 @@ Check out our latest session notes and world updates in the [[Sessoes/|Sessions]
 ### Principais
 - [[A Queda da Alva Cidadela|A Queda da Alva Cidadela]] - A revolução liderada por Rita e suas consequências
 - [[Resistencia Elriste|A Resistência em Elriste]] - O movimento revolucionário e seus desdobramentos
-- [[Transformacao_de_Bartrock|A Transformação de Bartrock]] - Mudanças misteriosas no mago elfo
+- [[LordBart|A Transformação de LordBart]] - Mudanças misteriosas no mago elfo
 
 ### Resolvidos
 - [[Armazem_568|O Mistério do Armazém 568]] - Laboratório secreto de Celeste em Rilonde
