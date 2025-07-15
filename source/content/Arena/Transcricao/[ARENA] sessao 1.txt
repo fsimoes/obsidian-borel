@@ -1,0 +1,3864 @@
+[0:00:00] - 2-HUGONORTH - Tchau, tchau.
+[0:00:00] - 4-FS_SIMOES - Matheus...
+[0:00:00] - 5-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:00:00] - 6-GUSTAVONIKOV - Legenda Adriana Zanotto
+[0:00:10] - 4-FS_SIMOES - você...
+[0:00:15] - 4-FS_SIMOES - é de guardas entrando na sua cela...
+[0:00:18] - 4-FS_SIMOES - e você...
+[0:00:23] - 4-FS_SIMOES - Ao recobrar a sua consciência você está andando...
+[0:00:27] - 4-FS_SIMOES - em um corredor escuro...
+[0:00:32] - 4-FS_SIMOES - e eles te colocam numa cela de um para um...
+[0:00:35] - 4-FS_SIMOES - um metro por um metro...
+[0:00:37] - 4-FS_SIMOES - e só tem uma porta...
+[0:00:42] - 4-FS_SIMOES - De repente...
+[0:00:45] - 4-FS_SIMOES - vê um clarão...
+[0:00:48] - 4-FS_SIMOES - vindo do céu...
+[0:00:51] - 4-FS_SIMOES - e você percebe...
+[0:00:57] - 4-FS_SIMOES - dentro de uma jaula...
+[0:01:00] - 4-FS_SIMOES - e você começa a ouvir alguém falando...
+[0:01:05] - 4-FS_SIMOES - atenção senhores...
+[0:01:09] - 4-FS_SIMOES - senhoras e senhores...
+[0:01:14] - 4-FS_SIMOES - vocês sabem muito bem...
+[0:01:17] - 4-FS_SIMOES - que esse festival anual...
+[0:01:20] - 4-FS_SIMOES - cada um desses...
+[0:01:22] - 4-FS_SIMOES - desses guerreiros...
+[0:01:25] - 4-FS_SIMOES - gladiadores...
+[0:01:27] - 4-FS_SIMOES - bandidos...
+[0:01:30] - 4-FS_SIMOES - se eles conseguirem chegar até lá...
+[0:01:34] - 4-FS_SIMOES - chegarem vivos ao final do nosso Festival do Sangue...
+[0:01:38] - 4-FS_SIMOES - eles vão sair daqui como um homem livre...
+[0:01:40] - 4-FS_SIMOES - e a partir disso...
+[0:01:43] - 4-FS_SIMOES - o seu chão começa a subir...
+[0:01:46] - 4-FS_SIMOES - e o público começa a ir à loucura...
+[0:01:54] - 4-FS_SIMOES - saindo da jaula número 2...
+[0:02:00] - 4-FS_SIMOES - a gente tem Mateu...
+[0:02:03] - 4-FS_SIMOES - que foi pego...
+[0:02:06] - 4-FS_SIMOES - você sabe como são...
+[0:02:10] - 4-FS_SIMOES - não é mesmo?
+[0:02:13] - 4-FS_SIMOES - e o público...
+[0:02:16] - 4-FS_SIMOES - começa a bater o pé...
+[0:02:18] - 4-FS_SIMOES - você não entende...
+[0:02:23] - 4-FS_SIMOES - e nisso...
+[0:02:26] - 4-FS_SIMOES - uma sala ao lado...
+[0:02:28] - 4-FS_SIMOES - aí...
+[0:02:31] - 4-FS_SIMOES - percebe...
+[0:02:34] - 4-FS_SIMOES - começa...
+[0:02:37] - 4-FS_SIMOES - se mover também...
+[0:02:39] - 4-FS_SIMOES - e ele...
+[0:02:44] - 4-FS_SIMOES - novamente com...
+[0:02:47] - 4-FS_SIMOES - um grito ensurdecedor...
+[0:02:49] - 4-FS_SIMOES - na jaula 3...
+[0:02:54] - 4-FS_SIMOES - temos Silas...
+[0:02:59] - 4-FS_SIMOES - se ele ajudasse mais um ladrão...
+[0:03:01] - 4-FS_SIMOES - resultado da ópera...
+[0:03:04] - 4-FS_SIMOES - como um cúmplice dele...
+[0:03:06] - 4-FS_SIMOES - ele tem que estar aqui...
+[0:03:08] - 4-FS_SIMOES - lutando para poder conseguir sua salvação...
+[0:03:11] - 4-FS_SIMOES - a vida é uma zoeira mesmo...
+[0:03:13] - 4-FS_SIMOES - né...
+[0:03:17] - 4-FS_SIMOES - de verdade...
+[0:03:21] - 4-FS_SIMOES - e na jaula número 5...
+[0:03:30] - 4-FS_SIMOES - um cara que achava que dinheiro...
+[0:03:36] - 4-FS_SIMOES - era mais importante que a vida dele...
+[0:03:39] - 4-FS_SIMOES - com vocês...
+[0:03:45] - 4-FS_SIMOES - Denísio...
+[0:03:48] - 4-FS_SIMOES - mas perdeu tudo...
+[0:03:51] - 4-FS_SIMOES - e na última jaula...
+[0:03:59] - 4-FS_SIMOES - na jaula de número 7...
+[0:04:01] - 4-FS_SIMOES - nós temos...
+[0:04:03] - 4-FS_SIMOES - ele...
+[0:04:05] - 4-FS_SIMOES - assim que o...
+[0:04:13] - 4-FS_SIMOES - que a...
+[0:04:17] - 4-FS_SIMOES - a jaula sobe...
+[0:04:20] - 4-FS_SIMOES - ele fica dentro da jaula ali...
+[0:04:22] - 4-FS_SIMOES - querendo sair...
+[0:04:25] - 4-FS_SIMOES - na rádor grita...
+[0:04:29] - 4-FS_SIMOES - ele olha para trás...
+[0:04:31] - 4-FS_SIMOES - ele foi preso pelo quê mesmo?
+[0:04:33] - 4-FS_SIMOES - aí...
+[0:04:37] - 4-FS_SIMOES - assim...
+[0:04:40] - 4-FS_SIMOES - e ela confirma...
+[0:04:42] - 4-FS_SIMOES - faz um barulho de vômito...
+[0:04:45] - 4-FS_SIMOES - ele comeu um bebê...
+[0:04:50] - 4-FS_SIMOES - e...
+[0:05:03] - 4-FS_SIMOES - e quando isso acaba...
+[0:05:08] - 4-FS_SIMOES - tipo assim...
+[0:05:10] - 4-FS_SIMOES - aquele clarão...
+[0:05:13] - 4-FS_SIMOES - do rosto de vocês...
+[0:05:17] - 4-FS_SIMOES - arena de gladiadores...
+[0:05:20] - 4-FS_SIMOES - você consegue perceber...
+[0:05:22] - 4-FS_SIMOES - que...
+[0:05:24] - 4-FS_SIMOES - vocês conseguem...
+[0:05:30] - 4-FS_SIMOES - parece ser um...
+[0:05:32] - 4-FS_SIMOES - uma sala real...
+[0:05:37] - 4-FS_SIMOES - é...
+[0:05:39] - 4-FS_SIMOES - ferventes...
+[0:05:42] - 4-FS_SIMOES - e um guerreiro...
+[0:05:44] - 4-FS_SIMOES - parece ser...
+[0:05:46] - 4-FS_SIMOES - assim...
+[0:05:49] - 4-FS_SIMOES - e você vê que todo mundo ao redor dele...
+[0:05:51] - 4-FS_SIMOES - meio que reverencia...
+[0:05:54] - 2-HUGONORTH - Obrigado.
+[0:05:55] - 4-FS_SIMOES - e do lado dele...
+[0:05:57] - 4-FS_SIMOES - que é...
+[0:06:00] - 4-FS_SIMOES - e do outro lado...
+[0:06:03] - 4-FS_SIMOES - você vê...
+[0:06:07] - 4-FS_SIMOES - com...
+[0:06:10] - 4-FS_SIMOES - é...
+[0:06:12] - 4-FS_SIMOES - bem preparada...
+[0:06:15] - 4-FS_SIMOES - do evento...
+[0:06:18] - 4-FS_SIMOES - você vê...
+[0:06:21] - 4-FS_SIMOES - arrumadas...
+[0:06:24] - 4-FS_SIMOES - chique...
+[0:06:24] - 2-HUGONORTH - Não?
+[0:06:27] - 4-FS_SIMOES - que é uma pessoa...
+[0:06:30] - 4-FS_SIMOES - e do outro lado...
+[0:06:32] - 4-FS_SIMOES - um cara...
+[0:06:35] - 4-FS_SIMOES - você não consegue...
+[0:06:37] - 4-FS_SIMOES - tirar nenhuma informação...
+[0:06:40] - 4-FS_SIMOES - para a arena...
+[0:06:44] - 4-FS_SIMOES - dito isso...
+[0:06:46] - 4-FS_SIMOES - algum monstro na arena?
+[0:06:49] - 4-FS_SIMOES - vocês conseguem ver...
+[0:06:54] - 2-HUGONORTH - Sim?
+[0:06:54] - 4-FS_SIMOES - itens espalhados pela arena?
+[0:06:58] - 4-FS_SIMOES - fala a iniciativa...
+[0:07:03] - 4-FS_SIMOES - e agora...
+[0:07:05] - 4-FS_SIMOES - os...
+[0:07:07] - 4-FS_SIMOES - desta noite...
+[0:07:10] - 4-FS_SIMOES - foram apresentados...
+[0:07:13] - 4-FS_SIMOES - eles vão ter...
+[0:07:16] - 4-FS_SIMOES - para se equiparem...
+[0:07:18] - 4-FS_SIMOES - nem tudo é...
+[0:07:21] - 4-FS_SIMOES - então deixa eu só...
+[0:07:24] - 4-FS_SIMOES - como é que eu faço?
+[0:07:29] - 3-RAPHAELVICARONE - É, ela está deixando editar
+[0:07:32] - 4-FS_SIMOES - deixa eu ver aqui...
+[0:07:36] - 4-FS_SIMOES - vou colocar...
+[0:07:41] - 4-FS_SIMOES - é estranho...
+[0:07:44] - 4-FS_SIMOES - estar do outro lado...
+[0:07:46] - 2-HUGONORTH - Pois é, né?
+[0:07:47] - 4-FS_SIMOES - está deixando de editar não?
+[0:07:53] - 2-HUGONORTH - Meu filho.
+[0:07:53] - 3-RAPHAELVICARONE - Não, o meu não
+[0:07:54] - 4-FS_SIMOES - ué...
+[0:07:56] - 4-FS_SIMOES - peraí...
+[0:07:59] - 3-RAPHAELVICARONE - Você que eu troquei o nome?
+[0:07:59] - 2-HUGONORTH - Sim.
+[0:08:01] - 4-FS_SIMOES - deixa eu ver aqui uma coisa...
+[0:08:03] - 4-FS_SIMOES - ah...
+[0:08:07] - 4-FS_SIMOES - já sei por que...
+[0:08:09] - 4-FS_SIMOES - Rafa...
+[0:08:12] - 4-FS_SIMOES - é...
+[0:08:14] - 3-RAPHAELVICARONE - Não.
+[0:08:19] - 4-FS_SIMOES - controlar o seu boneco...
+[0:08:21] - 4-FS_SIMOES - tá...
+[0:08:24] - 4-FS_SIMOES - que estranho...
+[0:08:26] - 4-FS_SIMOES - deixa eu deletar o seu boneco...
+[0:08:29] - 3-RAPHAELVICARONE - 43
+[0:08:29] - 4-FS_SIMOES - eu sei...
+[0:08:32] - 2-HUGONORTH - Você tem que clicar duas vezes no token, aí tem ali a opção controlado por...
+[0:08:37] - 4-FS_SIMOES - mas como o token dele...
+[0:08:39] - 4-FS_SIMOES - por...
+[0:08:41] - 4-FS_SIMOES - ele não estava...
+[0:08:43] - 4-FS_SIMOES - qual era o seu HP, Rafa?
+[0:08:48] - 2-HUGONORTH - ou saber.
+[0:08:49] - 4-FS_SIMOES - 43...
+[0:08:55] - 2-HUGONORTH - ...
+[0:08:55] - 4-FS_SIMOES - controlado...
+[0:08:57] - 4-FS_SIMOES - ah...
+[0:09:00] - 4-FS_SIMOES - o Silas...
+[0:09:02] - 4-FS_SIMOES - tá aqui...
+[0:09:05] - 4-FS_SIMOES - o Roto N seja bem bosta...
+[0:09:10] - 4-FS_SIMOES - foi...
+[0:09:13] - 4-FS_SIMOES - tenta colocar lá...
+[0:09:18] - 4-FS_SIMOES - peraí...
+[0:09:19] - 3-RAPHAELVICARONE - Foi
+[0:09:20] - 4-FS_SIMOES - Matheus...
+[0:09:23] - 4-FS_SIMOES - só um instantinho...
+[0:09:32] - 4-FS_SIMOES - Matheus...
+[0:09:37] - 4-FS_SIMOES - eu fiz as suas alterações...
+[0:09:39] - 4-FS_SIMOES - salvar...
+[0:09:56] - 4-FS_SIMOES - começou...
+[0:09:59] - 4-FS_SIMOES - ah...
+[0:10:02] - 4-FS_SIMOES - consegue colocar agora o...
+[0:10:04] - 4-FS_SIMOES - o seu...
+[0:10:10] - 4-FS_SIMOES - peraí...
+[0:10:12] - 4-FS_SIMOES - ah...
+[0:10:17] - 4-FS_SIMOES - caralho...
+[0:10:23] - 4-FS_SIMOES - me...
+[0:10:25] - 4-FS_SIMOES - dessa vez...
+[0:10:27] - 4-FS_SIMOES - tenho certeza...
+[0:10:30] - 4-FS_SIMOES - depois...
+[0:10:33] - 4-FS_SIMOES - tudo...
+[0:10:35] - 4-FS_SIMOES - então...
+[0:10:37] - 4-FS_SIMOES - tenho...
+[0:10:39] - 4-FS_SIMOES - eu...
+[0:10:41] - 4-FS_SIMOES - também...
+[0:10:43] - 4-FS_SIMOES - eu...
+[0:10:45] - 4-FS_SIMOES - Cara, eu vou ter que deletar o seu boneco e fazer outro, peraí
+[0:11:10] - 4-FS_SIMOES - Vou ver do jogo
+[0:11:15] - 4-FS_SIMOES - Pronto
+[0:11:19] - 3-RAPHAELVICARONE - Enfim a hipotermia
+[0:11:30] - 3-RAPHAELVICARONE - Enfim a hipocrisia
+[0:11:45] - 4-FS_SIMOES - Assasinou o Total Flex
+[0:11:58] - 4-FS_SIMOES - Vai lá, Matheus, consegue agora?
+[0:12:09] - 2-HUGONORTH - Obrigada.
+[0:12:12] - 4-FS_SIMOES - Consegue mexer seu personagem?
+[0:12:18] - 4-FS_SIMOES - Sim
+[0:12:33] - 4-FS_SIMOES - Agora, vocês vão ter gladiadores, vocês terão alguns minutinhos para escolher um material para você poder trabalhar essa noite
+[0:12:39] - 2-HUGONORTH - Tá bom. É movimento livre?
+[0:12:45] - 4-FS_SIMOES - Fiquem à vontade
+[0:12:50] - 4-FS_SIMOES - Eu não fui muito específico, todas elas que estão aí, elas são nível básico
+[0:12:58] - 4-FS_SIMOES - Se você pegar uma espada e falar, é long sword, claymore, não importa, você pode escolher aí, você só me avisa o que é
+[0:13:03] - 4-FS_SIMOES - Oi?
+[0:13:05] - 2-HUGONORTH - É movimento livre ou é turno?
+[0:13:08] - 4-FS_SIMOES - Não, o turno
+[0:13:09] - 2-HUGONORTH - Tá bom?
+[0:13:15] - 4-FS_SIMOES - Você pode, você tem que gastar uma ação para você poder pegar e equipar um item
+[0:13:24] - 4-FS_SIMOES - Então, você pode, vamos dizer assim, nesse turno, para você poder equipar um item, você pode, você tem que gastar uma ação
+[0:13:34] - 4-FS_SIMOES - Mas para pegar, você pode pegar com bônus action
+[0:13:37] - 4-FS_SIMOES - Oi
+[0:13:45] - 4-FS_SIMOES - É só nesse turno inicial
+[0:13:52] - 4-FS_SIMOES - Só para você poder, não, ninguém pegar todas as armas e um dash e coisas assim
+[0:13:56] - 4-FS_SIMOES - Aham
+[0:14:00] - 3-RAPHAELVICARONE - Mas assim, peraí, eu tenho uma pergunta
+[0:14:03] - 3-RAPHAELVICARONE - É um pouco injusto
+[0:14:05] - 3-RAPHAELVICARONE - O Gustavo tem muito mais prática
+[0:14:07] - 3-RAPHAELVICARONE - em pegar a arma dele do chão
+[0:14:15] - 4-FS_SIMOES - Você andou até aí?
+[0:14:41] - 4-FS_SIMOES - Alô?
+[0:14:53] - 4-FS_SIMOES - Ah, pode estar próximo, pode estar próximo
+[0:14:58] - 4-FS_SIMOES - Você pegou essa adaga aí?
+[0:15:10] - 4-FS_SIMOES - Adaga, espada, o que foi?
+[0:15:16] - 4-FS_SIMOES - Então, você pegou, pode se equipar na sua ficha
+[0:15:21] - 4-FS_SIMOES - Pode estar próximo
+[0:15:28] - 4-FS_SIMOES - Não, sem problema
+[0:15:31] - 4-FS_SIMOES - Beleza
+[0:15:50] - 4-FS_SIMOES - Denise
+[0:15:52] - 4-FS_SIMOES - Só um instantinho
+[0:15:59] - 4-FS_SIMOES - Tá, onde que você corre para pegar o quê?
+[0:16:05] - 4-FS_SIMOES - Tá, quantos passos você pode pegar?
+[0:16:07] - 4-FS_SIMOES - Equipa ele
+[0:16:19] - 4-FS_SIMOES - Pode
+[0:16:21] - 4-FS_SIMOES - Pegou o escudo, Denise
+[0:16:33] - 4-FS_SIMOES - Equipa ele
+[0:16:37] - 4-FS_SIMOES - Equipou?
+[0:16:53] - 4-FS_SIMOES - Pode
+[0:17:03] - 4-FS_SIMOES - Golfin?
+[0:17:18] - 2-HUGONORTH - Beleza
+[0:17:22] - 4-FS_SIMOES - Quer dizer, você terminou seu turno, Bar?
+[0:17:27] - 4-FS_SIMOES - Golfin?
+[0:17:29] - 2-HUGONORTH - No meu turno eu venho correndo
+[0:17:32] - 2-HUGONORTH - Ele olha pro lado, olha pro outro
+[0:17:33] - 4-FS_SIMOES - Beleza
+[0:17:36] - 2-HUGONORTH - Ele vem correndo
+[0:17:41] - 2-HUGONORTH - O Battle X aqui do chão
+[0:17:44] - 2-HUGONORTH - Ele vai usar
+[0:17:47] - 2-HUGONORTH - Bonus action
+[0:17:53] - 2-HUGONORTH - E ele vai correr pra cá
+[0:17:56] - 2-HUGONORTH - E vai pegar o outro Battle X
+[0:18:00] - 4-FS_SIMOES - Vou só tirar aqui
+[0:18:03] - 4-FS_SIMOES - Pode
+[0:18:05] - 4-FS_SIMOES - Muito beleza
+[0:18:06] - 2-HUGONORTH - Gabi Temporal
+[0:18:08] - 2-HUGONORTH - Não
+[0:18:09] - 4-FS_SIMOES - Se eu não
+[0:18:12] - 2-HUGONORTH - Desculpa, desculpa, desculpa
+[0:18:12] - 4-FS_SIMOES - Opa
+[0:18:16] - 2-HUGONORTH - Daqui
+[0:18:18] - 2-HUGONORTH - Ele anda 40
+[0:18:21] - 2-HUGONORTH - Ele andou, não tô conseguindo ver
+[0:18:24] - 2-HUGONORTH - Ainda tem 10
+[0:18:25] - 4-FS_SIMOES - Beleza
+[0:18:27] - 2-HUGONORTH - E ele vai
+[0:18:30] - 2-HUGONORTH - Dar mais 10 pra cá
+[0:18:35] - 2-HUGONORTH - Terence
+[0:18:37] - 4-FS_SIMOES - Seu salafrário
+[0:18:40] - 2-HUGONORTH - E tchau
+[0:18:41] - 4-FS_SIMOES - Isso
+[0:18:43] - 2-HUGONORTH - contain
+[0:18:43] - 3-RAPHAELVICARONE - Ah, sou eu
+[0:18:45] - 2-HUGONORTH - A questão
+[0:18:46] - 4-FS_SIMOES - Perdão
+[0:18:48] - 2-HUGONORTH - Let's do it.
+[0:18:48] - 3-RAPHAELVICARONE - É, o Silas
+[0:18:50] - 4-FS_SIMOES - É o hábito
+[0:18:57] - 3-RAPHAELVICARONE - Vai simplesmente sair da jaula
+[0:18:59] - 3-RAPHAELVICARONE - E vai
+[0:19:02] - 3-RAPHAELVICARONE - Qual é o lado
+[0:19:06] - 3-RAPHAELVICARONE - Essas porra que estão organizando
+[0:19:08] - 4-FS_SIMOES - A realeza
+[0:19:08] - 3-RAPHAELVICARONE - Ele vai olhar
+[0:19:11] - 4-FS_SIMOES - E aqui está um público
+[0:19:13] - 4-FS_SIMOES - Vamos dizer assim, um público
+[0:19:13] - 3-RAPHAELVICARONE - Eu vou olhar pra realeza
+[0:19:16] - 4-FS_SIMOES - Quando você faz isso, você percebe que o rei guerreiro faz um aceno de cabeça para o arqueiro que está aqui
+[0:19:18] - 3-RAPHAELVICARONE - E ele vai falar
+[0:19:22] - 3-RAPHAELVICARONE - E eu não vou participar dos seus jogos
+[0:19:26] - 3-RAPHAELVICARONE - Ele vai castar
+[0:19:40] - 4-FS_SIMOES - E o arqueiro joga uma flecha no seu pé
+[0:19:43] - 3-RAPHAELVICARONE - Ele não se intimida
+[0:19:43] - 4-FS_SIMOES - E o arqueiro que está aqui joga uma flecha nesse outro pé aqui
+[0:19:47] - 4-FS_SIMOES - Sem dano, tipo, só um aviso, assim, ele não fala mais nada
+[0:19:52] - 4-FS_SIMOES - Não é a primeira vez que isso acontece na arena dele
+[0:19:59] - 4-FS_SIMOES - Posso terminar seu turno?
+[0:19:59] - 3-RAPHAELVICARONE - Ele continua parado
+[0:20:05] - 4-FS_SIMOES - Nisso
+[0:20:06] - 3-RAPHAELVICARONE - Sim
+[0:20:09] - 4-FS_SIMOES - É
+[0:20:13] - 4-FS_SIMOES - Eu tossi, né?
+[0:20:15] - 4-FS_SIMOES - Tudo bem
+[0:20:18] - 4-FS_SIMOES - Bom
+[0:20:18] - 2-HUGONORTH - Espera.
+[0:20:22] - 4-FS_SIMOES - Que isso tudo acontece
+[0:20:25] - 4-FS_SIMOES - A narradora fala novamente
+[0:20:29] - 4-FS_SIMOES - Matheus
+[0:20:31] - 4-FS_SIMOES - Já pega a sua adaga
+[0:20:34] - 4-FS_SIMOES - Você também percebe
+[0:20:37] - 4-FS_SIMOES - Chegando bem perto dele
+[0:20:39] - 4-FS_SIMOES - Surpreendente
+[0:20:42] - 4-FS_SIMOES - Segurando dois machados
+[0:20:44] - 4-FS_SIMOES - Mas a gente sempre
+[0:20:46] - 4-FS_SIMOES - Tem alguém que chora
+[0:20:49] - 4-FS_SIMOES - Já está falando
+[0:20:51] - 4-FS_SIMOES - Vamos
+[0:20:54] - 4-FS_SIMOES - Quando isso
+[0:20:57] - 4-FS_SIMOES - Um bonequinho desse
+[0:21:00] - 4-FS_SIMOES - A gente aqui
+[0:21:03] - 4-FS_SIMOES - Festival
+[0:21:06] - 4-FS_SIMOES - Se você quer ter o seu sangue
+[0:21:09] - 4-FS_SIMOES - Dentro do seu corpo
+[0:21:12] - 4-FS_SIMOES - Se não
+[0:21:14] - 4-FS_SIMOES - Do nosso festival
+[0:21:18] - 4-FS_SIMOES - Daquele cara lá
+[0:21:20] - 4-FS_SIMOES - De tramóia
+[0:21:23] - 4-FS_SIMOES - E com
+[0:21:25] - 4-FS_SIMOES - Dito isso
+[0:21:29] - 4-FS_SIMOES - Pô irmão
+[0:21:42] - 4-FS_SIMOES - Você está no meio
+[0:21:48] - 4-FS_SIMOES - Eu vou dizer que não
+[0:21:50] - 4-FS_SIMOES - Está todo mundo
+[0:21:53] - 4-FS_SIMOES - Pessoas dentro dessa arena
+[0:21:58] - 4-FS_SIMOES - Se esconder
+[0:21:58] - 1-LUNABOT____9997 - A CIDADE NO BRASIL
+[0:22:06] - 4-FS_SIMOES - Você não vai conseguir
+[0:22:08] - 4-FS_SIMOES - Quer dizer
+[0:22:18] - 4-FS_SIMOES - Tenta aí
+[0:22:48] - 4-FS_SIMOES - Não
+[0:22:48] - 3-RAPHAELVICARONE - e aí
+[0:22:53] - 2-HUGONORTH - Sim, você pode usar canning action. Você usa o bonus action para você dar desigage ou dash.
+[0:23:06] - 2-HUGONORTH - Vamos ver.
+[0:23:06] - 4-FS_SIMOES - Você usava
+[0:23:09] - 4-FS_SIMOES - Swift Wind
+[0:23:11] - 4-FS_SIMOES - Alguma coisa assim
+[0:23:15] - 4-FS_SIMOES - Era uma esquina
+[0:23:17] - 4-FS_SIMOES - Não era
+[0:23:24] - 2-HUGONORTH - Não. É com action. Action. Personagens normais podem usar action para usar desigage, hide, dash, essas coisas. O rogue pode usar isso como bonus action.
+[0:23:46] - 4-FS_SIMOES - Como é que é?
+[0:24:06] - 4-FS_SIMOES - Qual que é o número
+[0:24:09] - 4-FS_SIMOES - É só pra ninguém
+[0:24:14] - 4-FS_SIMOES - Que pode
+[0:24:16] - 4-FS_SIMOES - Só um instantinho
+[0:24:26] - 4-FS_SIMOES - Tá bom
+[0:24:44] - 4-FS_SIMOES - Então você está com
+[0:24:46] - 4-FS_SIMOES - É isso?
+[0:24:50] - 4-FS_SIMOES - Parece que
+[0:24:53] - 4-FS_SIMOES - Só sabe correr
+[0:24:56] - 4-FS_SIMOES - E saiu correndo
+[0:25:00] - 4-FS_SIMOES - É você
+[0:25:09] - 4-FS_SIMOES - Você não estava falando nada não
+[0:25:11] - 4-FS_SIMOES - Fih
+[0:25:14] - 4-FS_SIMOES - Eu
+[0:25:33] - 4-FS_SIMOES - 다
+[0:25:43] - 4-FS_SIMOES - onde?
+[0:25:47] - 4-FS_SIMOES - Isso aí é uma jaula no chão, é uma grade
+[0:25:50] - 4-FS_SIMOES - no chão, não é nada alto não.
+[0:25:53] - 4-FS_SIMOES - A única
+[0:25:56] - 4-FS_SIMOES - murinho que tem aqui, assim, tipo,
+[0:26:07] - 4-FS_SIMOES - É um...
+[0:26:11] - 4-FS_SIMOES - Pera aí, faz o seu caminho de novo ali.
+[0:26:13] - 4-FS_SIMOES - Pode fazer o trajeto que você fez?
+[0:26:21] - 4-FS_SIMOES - Eu não tô vendo se o boneco tá andando não.
+[0:26:24] - 4-FS_SIMOES - Anda com o boneco um por um
+[0:26:28] - 4-FS_SIMOES - Um, dois,
+[0:26:31] - 4-FS_SIMOES - três,
+[0:26:34] - 4-FS_SIMOES - beleza, andou quarenta.
+[0:26:39] - 4-FS_SIMOES - Quarenta não, andou quinze.
+[0:26:42] - 4-FS_SIMOES - E agora, o que que você faz?
+[0:26:49] - 4-FS_SIMOES - Tá bom?
+[0:26:52] - 4-FS_SIMOES - Eu acho que tem alguém confuso
+[0:26:56] - 4-FS_SIMOES - É... mas vamos ver o que tá pra
+[0:27:01] - 4-FS_SIMOES - Golfinho,
+[0:27:02] - 2-HUGONORTH - beleza, o golfin
+[0:27:05] - 2-HUGONORTH - ele tava indo atrás do
+[0:27:09] - 2-HUGONORTH - daí ele olha pro lado e vê o outro cara
+[0:27:11] - 2-HUGONORTH - ele olha pra ele
+[0:27:13] - 4-FS_SIMOES - quando...
+[0:27:15] - 2-HUGONORTH - começa a respirar fundo
+[0:27:19] - 2-HUGONORTH - e ele entra em rave
+[0:27:29] - 4-FS_SIMOES - o público vai à loucura.
+[0:27:32] - 2-HUGONORTH - e ele sai correndo em direção ao
+[0:27:36] - 2-HUGONORTH - ao almofadinho ali
+[0:27:38] - 2-HUGONORTH - em rave
+[0:27:42] - 2-HUGONORTH - e ele ataca com
+[0:27:45] - 2-HUGONORTH - hackless attack, tá?
+[0:27:49] - 4-FS_SIMOES - tá, cefalé.
+[0:27:50] - 2-HUGONORTH - ele tem vantagem em todos os ataques
+[0:27:51] - 4-FS_SIMOES - mas é mais difícil de acertar, não é isso?
+[0:27:56] - 4-FS_SIMOES - ou...
+[0:27:58] - 2-HUGONORTH - vantagem quando me atacam
+[0:28:01] - 4-FS_SIMOES - Beleza.
+[0:28:02] - 2-HUGONORTH - beleza
+[0:28:05] - 2-HUGONORTH - desculpa gente, é que eu não
+[0:28:08] - 2-HUGONORTH - uso essa parte aqui, pra rolar com vantagem
+[0:28:10] - 2-HUGONORTH - no roll to any eu tenho que fazer o que mesmo?
+[0:28:11] - 4-FS_SIMOES - É...
+[0:28:13] - 4-FS_SIMOES - É só clicar duas vezes.
+[0:28:14] - 2-HUGONORTH - no ddb onde?
+[0:28:17] - 2-HUGONORTH - força
+[0:28:18] - 3-RAPHAELVICARONE - Pode segurar shift e clicar
+[0:28:20] - 4-FS_SIMOES - Ah, achei que...
+[0:28:22] - 2-HUGONORTH - ó, primeiro ataque
+[0:28:24] - 2-HUGONORTH - 11, não acerta, né?
+[0:28:28] - 4-FS_SIMOES - E...
+[0:28:30] - 2-HUGONORTH - segundo ataque
+[0:28:30] - 4-FS_SIMOES - O...
+[0:28:35] - 4-FS_SIMOES - Bart, uma pergunta pra você.
+[0:28:36] - 2-HUGONORTH - vou rolar o dano
+[0:28:42] - 4-FS_SIMOES - Você tá com...
+[0:28:45] - 4-FS_SIMOES - Ou você, o Armor Class ainda é 16?
+[0:28:50] - 4-FS_SIMOES - Ah, então deixa eu atualizar aqui.
+[0:28:53] - 4-FS_SIMOES - Então, acerta.
+[0:28:56] - 2-HUGONORTH - é
+[0:28:58] - 2-HUGONORTH - eu não sei se aqui ele vai considerar o rage
+[0:29:00] - 4-FS_SIMOES - É só colocar mais três depois.
+[0:29:01] - 2-HUGONORTH - porque o rage vai ter que botar
+[0:29:03] - 2-HUGONORTH - tá
+[0:29:07] - 2-HUGONORTH - é o de uma mão só no caso
+[0:29:12] - 2-HUGONORTH - é 5
+[0:29:13] - 4-FS_SIMOES - Aham.
+[0:29:14] - 2-HUGONORTH - aí mais 3
+[0:29:17] - 2-HUGONORTH - ainda vem mais um ataque
+[0:29:19] - 2-HUGONORTH - eu vou usar o
+[0:29:22] - 4-FS_SIMOES - Uhum.
+[0:29:25] - 2-HUGONORTH - aí é com vantagem
+[0:29:28] - 2-HUGONORTH - só pra ver se não sai um crítico
+[0:29:28] - 4-FS_SIMOES - Já acertou.
+[0:29:30] - 4-FS_SIMOES - Então...
+[0:29:31] - 2-HUGONORTH - então
+[0:29:35] - 2-HUGONORTH - não sei o que que tá rolando 2
+[0:29:38] - 2-HUGONORTH - é 9
+[0:29:40] - 2-HUGONORTH - primeiro foi 8 de dano
+[0:29:42] - 2-HUGONORTH - ao total 20 de dano
+[0:30:00] - 4-FS_SIMOES - Um 28 mais um.
+[0:30:04] - 2-HUGONORTH - ele vai pra cima
+[0:30:13] - 2-HUGONORTH - então 17 de dano
+[0:30:14] - 4-FS_SIMOES - Você vai querer usar isso?
+[0:30:18] - 4-FS_SIMOES - Beleza.
+[0:30:20] - 4-FS_SIMOES - tá
+[0:30:25] - 4-FS_SIMOES - beleza
+[0:30:29] - 2-HUGONORTH - total de dano
+[0:30:32] - 2-HUGONORTH - ele tá babando
+[0:30:34] - 2-HUGONORTH - indo tipo
+[0:30:37] - 2-HUGONORTH - dilacerar o cara
+[0:30:40] - 4-FS_SIMOES - parece que finalmente
+[0:30:43] - 4-FS_SIMOES - temos ação aqui
+[0:30:43] - 2-HUGONORTH - é
+[0:30:45] - 4-FS_SIMOES - bem, eu não esperava nada menos
+[0:30:49] - 4-FS_SIMOES - vamos lá, vamos ser sinceros
+[0:30:54] - 4-FS_SIMOES - Silas?
+[0:31:11] - 4-FS_SIMOES - Ah tá
+[0:31:12] - 3-RAPHAELVICARONE - ele vai andar até aqui
+[0:31:16] - 3-RAPHAELVICARONE - ele vai gritar pro
+[0:31:20] - 3-RAPHAELVICARONE - o bicho que tá
+[0:31:20] - 4-FS_SIMOES - É
+[0:31:22] - 3-RAPHAELVICARONE - balbuciando e vai falar
+[0:31:24] - 3-RAPHAELVICARONE - pare com isso, pelo amor de Deus
+[0:31:26] - 3-RAPHAELVICARONE - chega de violência
+[0:31:30] - 3-RAPHAELVICARONE - quem tomou ataque
+[0:31:32] - 4-FS_SIMOES - Bart, você quer atualizar seus bonecos
+[0:31:38] - 3-RAPHAELVICARONE - Ray Leon Ward
+[0:31:42] - 3-RAPHAELVICARONE - go总
+[0:31:53] - 4-FS_SIMOES - ou eu atualizo pra você
+[0:31:56] - 4-FS_SIMOES - O que?
+[0:31:58] - 4-FS_SIMOES - Beleza
+[0:32:01] - 4-FS_SIMOES - Quando o Silas
+[0:32:06] - 4-FS_SIMOES - cura o
+[0:32:10] - 4-FS_SIMOES - a narradora fala
+[0:32:14] - 4-FS_SIMOES - um team player aqui essa noite
+[0:32:18] - 4-FS_SIMOES - realmente
+[0:32:21] - 4-FS_SIMOES - então
+[0:32:24] - 4-FS_SIMOES - e ao
+[0:32:37] - 4-FS_SIMOES - as jaulas
+[0:32:40] - 4-FS_SIMOES - e lá de dentro saem três ghouls
+[0:32:43] - 4-FS_SIMOES - vocês conseguem ver o
+[0:32:47] - 4-FS_SIMOES - ghouls aí
+[0:32:49] - 4-FS_SIMOES - beleza
+[0:32:53] - 4-FS_SIMOES - do
+[0:32:56] - 4-FS_SIMOES - agora eu só tenho que adicionar
+[0:32:59] - 4-FS_SIMOES - eles
+[0:33:01] - 4-FS_SIMOES - adicionar o turno
+[0:33:06] - 4-FS_SIMOES - só um instantinho
+[0:33:12] - 3-RAPHAELVICARONE - Bota para texto ali e depois aperta no x, opções, lá no negócio, áudio e vídeo,
+[0:33:13] - 4-FS_SIMOES - beleza
+[0:33:24] - 3-RAPHAELVICARONE - display de vídeo, apenas nomes.
+[0:33:30] - 3-RAPHAELVICARONE - Depois aperta o x.
+[0:33:34] - 4-FS_SIMOES - então
+[0:33:37] - 4-FS_SIMOES - seu turno
+[0:33:45] - 4-FS_SIMOES - quando vocês veem
+[0:33:48] - 4-FS_SIMOES - e saem três bichos
+[0:33:52] - 4-FS_SIMOES - eles são meio humano
+[0:33:54] - 4-FS_SIMOES - é
+[0:33:57] - 4-FS_SIMOES - mas você vê que eles estão
+[0:33:59] - 4-FS_SIMOES - é
+[0:34:02] - 4-FS_SIMOES - todo
+[0:34:04] - 4-FS_SIMOES - apareceu aí no chat
+[0:34:07] - 4-FS_SIMOES - a foto
+[0:34:09] - 4-FS_SIMOES - não, peraí
+[0:34:17] - 4-FS_SIMOES - não vai aparecer não
+[0:34:21] - 4-FS_SIMOES - e é isso
+[0:34:24] - 4-FS_SIMOES - aí
+[0:34:26] - 4-FS_SIMOES - meio que ainda confuso
+[0:34:29] - 4-FS_SIMOES - batendo neles
+[0:34:31] - 4-FS_SIMOES - tinham correntes
+[0:34:33] - 4-FS_SIMOES - caídas assim
+[0:34:36] - 4-FS_SIMOES - pra vocês
+[0:34:38] - 4-FS_SIMOES - eles começam a
+[0:34:41] - 4-FS_SIMOES - ficar extremamente
+[0:34:43] - 4-FS_SIMOES - seu turno
+[0:34:53] - 4-FS_SIMOES - parce Scheibe
+[0:35:15] - 4-FS_SIMOES - ele é uma pessoa, cara, é um ser humano
+[0:35:18] - 4-FS_SIMOES - e o Hugo, ele é um orc
+[0:35:32] - 4-FS_SIMOES - balbuciando, querendo matar
+[0:35:34] - 4-FS_SIMOES - tudo que tem pela sua frente, é isso que você tá vendo
+[0:35:36] - 4-FS_SIMOES - aí o
+[0:35:42] - 4-FS_SIMOES - cara, ele dá zoom no token dele
+[0:35:46] - 4-FS_SIMOES - é um humano arrumado
+[0:35:50] - 4-FS_SIMOES - pra você
+[0:35:53] - 4-FS_SIMOES - não, você não consegue ver nada disso
+[0:36:05] - 4-FS_SIMOES - você vê um cara com
+[0:36:10] - 4-FS_SIMOES - e ele tem um escudo e uma espada
+[0:36:12] - 4-FS_SIMOES - pode falar livremente no nosso turno
+[0:36:32] - 4-FS_SIMOES - você pode responder, Hugo
+[0:36:44] - 4-FS_SIMOES - então, tá bom
+[0:36:46] - 2-HUGONORTH - Ele não responde, no caso.
+[0:36:50] - 4-FS_SIMOES - a única coisa que você consegue ver
+[0:36:52] - 2-HUGONORTH - Exatamente.
+[0:37:05] - 2-HUGONORTH - Ele está atacando.
+[0:37:12] - 4-FS_SIMOES - é que tem um orc tentando bater num humano
+[0:37:15] - 4-FS_SIMOES - ele tá muito aloprado
+[0:37:16] - 2-HUGONORTH - Ele não vai gastar o reaction dele para responder.
+[0:37:20] - 4-FS_SIMOES - aí faz o que você quiser
+[0:37:32] - 4-FS_SIMOES - Bartinho é contigo
+[0:37:49] - 4-FS_SIMOES - quando ele se muta
+[0:37:51] - 4-FS_SIMOES - gente, não
+[0:37:58] - 4-FS_SIMOES - em defesa dele, é quando ele se muta
+[0:38:02] - 4-FS_SIMOES - cara, você tem...
+[0:38:03] - 3-RAPHAELVICARONE - É um muito diferente
+[0:38:16] - 2-HUGONORTH - Ele não vai gastar o apoio e ap determinar oitto da sociedade de Mad factors.
+[0:38:23] - 2-HUGONORTH - Se Newton jogasse antes do quinta mails deorge.
+[0:38:27] - 2-HUGONORTH - E disse?
+[0:38:32] - 4-FS_SIMOES - seis segundos pra você mandar sua mensagem
+[0:38:34] - 4-FS_SIMOES - vai muito rápido
+[0:38:37] - 4-FS_SIMOES - tem que ser muito rápido
+[0:38:39] - 4-FS_SIMOES - a resposta
+[0:38:49] - 4-FS_SIMOES - acabou, você gastou
+[0:38:53] - 4-FS_SIMOES - você gastou todo seu turno
+[0:38:56] - 4-FS_SIMOES - fala uma frase
+[0:38:59] - 4-FS_SIMOES - tenta de novo
+[0:39:17] - 4-FS_SIMOES - você que fala, cara
+[0:39:25] - 4-FS_SIMOES - essa aí foi boa
+[0:39:25] - 2-HUGONORTH - Em próximo
+[0:39:51] - 4-FS_SIMOES - é do combate
+[0:39:52] - 2-HUGONORTH - Stan Airlines
+[0:39:56] - 2-HUGONORTH - Então, já passou esse primeiro round
+[0:40:05] - 2-HUGONORTH - Sneak attack é só nisso ou vantagem?
+[0:40:12] - 4-FS_SIMOES - isso
+[0:40:24] - 4-FS_SIMOES - está aí, hein?
+[0:40:32] - 4-FS_SIMOES - o Sterien é se você não
+[0:40:47] - 4-FS_SIMOES - tivesse movido nesse turno
+[0:40:49] - 4-FS_SIMOES - que você se moveu
+[0:40:56] - 2-HUGONORTH - Espera aí, espera aí
+[0:40:57] - 4-FS_SIMOES - dito isso
+[0:41:01] - 4-FS_SIMOES - na nossa equipe que toda
+[0:41:04] - 4-FS_SIMOES - a gente começa se batendo
+[0:41:12] - 4-FS_SIMOES - você tirou
+[0:41:18] - 4-FS_SIMOES - você gritou
+[0:41:20] - 2-HUGONORTH - Foi um crítico?
+[0:41:24] - 2-HUGONORTH - Espera aí, espera aí
+[0:41:26] - 4-FS_SIMOES - peraí
+[0:41:27] - 2-HUGONORTH - Não, é porque você tem que dobrar o dado
+[0:41:31] - 2-HUGONORTH - Então, dobra, fica 8 mais 5, 13 de dano
+[0:41:32] - 4-FS_SIMOES - oito mais cinco
+[0:41:35] - 4-FS_SIMOES - isso
+[0:41:35] - 2-HUGONORTH - E é isso, né?
+[0:41:38] - 4-FS_SIMOES - e você tem o piercing crítico
+[0:41:41] - 4-FS_SIMOES - o que é isso
+[0:41:42] - 2-HUGONORTH - Não, não, é porque ele roda de novo
+[0:41:43] - 4-FS_SIMOES - tá
+[0:41:45] - 2-HUGONORTH - É porque é pela regra que ele usa no negócio
+[0:41:47] - 2-HUGONORTH - Ele roda dois
+[0:41:49] - 4-FS_SIMOES - sim, beleza
+[0:41:50] - 2-HUGONORTH - 13 de dano, né?
+[0:41:52] - 4-FS_SIMOES - vai aí
+[0:41:54] - 4-FS_SIMOES - com a sua short sword
+[0:41:57] - 4-FS_SIMOES - isso
+[0:41:59] - 2-HUGONORTH - Isso aqui eu tô em rede
+[0:41:59] - 4-FS_SIMOES - você tá em range
+[0:42:02] - 4-FS_SIMOES - cara
+[0:42:08] - 4-FS_SIMOES - só
+[0:42:10] - 4-FS_SIMOES - que ele tá fazendo
+[0:42:12] - 2-HUGONORTH - Seja não
+[0:42:13] - 4-FS_SIMOES - não leva em conta
+[0:42:15] - 4-FS_SIMOES - é que você
+[0:42:18] - 4-FS_SIMOES - aí você vai ver
+[0:42:20] - 4-FS_SIMOES - esse é o valor
+[0:42:22] - 4-FS_SIMOES - da sua
+[0:42:25] - 4-FS_SIMOES - do seu dado
+[0:42:27] - 4-FS_SIMOES - oito mais cinco
+[0:42:29] - 4-FS_SIMOES - vai dar
+[0:42:32] - 4-FS_SIMOES - seis de dano
+[0:42:38] - 2-HUGONORTH - Tchau
+[0:42:39] - 4-FS_SIMOES - então treze
+[0:42:43] - 4-FS_SIMOES - Hugo, você já tirou
+[0:42:43] - 2-HUGONORTH - Já
+[0:42:47] - 4-FS_SIMOES - o HP
+[0:42:47] - 2-HUGONORTH - Não, não parece que...
+[0:42:50] - 4-FS_SIMOES - parece que a gente tem
+[0:42:52] - 4-FS_SIMOES - uma duplinha
+[0:42:55] - 4-FS_SIMOES - o seu parceiro
+[0:42:58] - 4-FS_SIMOES - ainda bem
+[0:43:00] - 4-FS_SIMOES - esse cara
+[0:43:02] - 4-FS_SIMOES - Denísio
+[0:43:05] - 4-FS_SIMOES - golfe
+[0:43:13] - 4-FS_SIMOES - tá embaixo dele
+[0:43:15] - 4-FS_SIMOES - tá não
+[0:43:16] - 2-HUGONORTH - É porque...
+[0:43:18] - 4-FS_SIMOES - é
+[0:43:21] - 4-FS_SIMOES - golfe
+[0:43:30] - 4-FS_SIMOES - essa arena
+[0:43:38] - 4-FS_SIMOES - é
+[0:43:46] - 2-HUGONORTH - 14 de dano
+[0:44:00] - 4-FS_SIMOES - que porra
+[0:44:16] - 2-HUGONORTH - 8
+[0:44:19] - 2-HUGONORTH - Ok
+[0:44:22] - 2-HUGONORTH - Começou
+[0:44:24] - 4-FS_SIMOES - só um minutinho
+[0:44:26] - 4-FS_SIMOES - que você botou aí, irmão?
+[0:44:30] - 4-FS_SIMOES - ...
+[0:44:33] - 2-HUGONORTH - Caralho
+[0:44:42] - 4-FS_SIMOES - Exatamente, tem que ver aí, filho
+[0:44:46] - 4-FS_SIMOES - ...
+[0:44:47] - 2-HUGONORTH - Impressionante, meu
+[0:45:03] - 2-HUGONORTH - Muito bem
+[0:45:05] - 3-RAPHAELVICARONE - É
+[0:45:21] - 4-FS_SIMOES - novo, normal.
+[0:45:25] - 4-FS_SIMOES - Com desvantagem.
+[0:45:31] - 2-HUGONORTH - Não, é bonito
+[0:45:33] - 2-HUGONORTH - Não, não, tá
+[0:45:38] - 2-HUGONORTH - Uh
+[0:45:38] - 4-FS_SIMOES - Não, filho.
+[0:45:41] - 4-FS_SIMOES - de novo. Com desvantagem.
+[0:45:48] - 4-FS_SIMOES - Uhum.
+[0:45:51] - 2-HUGONORTH - Uka
+[0:45:51] - 4-FS_SIMOES - Quando
+[0:45:54] - 4-FS_SIMOES - o Denígio tenta
+[0:45:57] - 4-FS_SIMOES - atacar o golfin,
+[0:46:00] - 4-FS_SIMOES - ele, sem
+[0:46:00] - 2-HUGONORTH - O golfinho
+[0:46:07] - 4-FS_SIMOES - querer, ele acerta
+[0:46:11] - 4-FS_SIMOES - Sai uma faísca,
+[0:46:15] - 4-FS_SIMOES - a lâmina. A lâmina quica
+[0:46:18] - 4-FS_SIMOES - e vem parar aqui.
+[0:46:26] - 4-FS_SIMOES - Pode tirar sua arma
+[0:46:39] - 4-FS_SIMOES - Mais alguma coisa que você vai fazer, Matheus?
+[0:46:41] - 4-FS_SIMOES - Você não consegue.
+[0:46:48] - 4-FS_SIMOES - No second wind, vou te dar uma dica.
+[0:46:50] - 4-FS_SIMOES - Você pode
+[0:46:53] - 4-FS_SIMOES - sem tomar
+[0:46:56] - 4-FS_SIMOES - por esse valor.
+[0:46:58] - 4-FS_SIMOES - Aumenta esse 9 de HP
+[0:47:00] - 4-FS_SIMOES - E você pode sair de perto do
+[0:47:03] - 4-FS_SIMOES - ataque de oportunidade.
+[0:47:11] - 4-FS_SIMOES - Aí você vai poder...
+[0:47:17] - 4-FS_SIMOES - Quando você vai pegar a espada,
+[0:47:19] - 4-FS_SIMOES - você percebe
+[0:47:22] - 4-FS_SIMOES - a tremer.
+[0:47:25] - 4-FS_SIMOES - E você percebe
+[0:47:27] - 4-FS_SIMOES - que você está numa área fraca do chão.
+[0:47:31] - 4-FS_SIMOES - role...
+[0:47:38] - 4-FS_SIMOES - meu filho,
+[0:47:45] - 4-FS_SIMOES - Vamos ver se você pega a espada ou não.
+[0:47:47] - 4-FS_SIMOES - Deixa eu só achar aqui...
+[0:47:50] - 4-FS_SIMOES - Você passou na diagonal.
+[0:47:56] - 4-FS_SIMOES - Eu pedi para você falar o caminho exato
+[0:47:58] - 4-FS_SIMOES - para eu poder...
+[0:48:01] - 4-FS_SIMOES - peraí...
+[0:48:07] - 4-FS_SIMOES - você passou aqui assim...
+[0:48:09] - 4-FS_SIMOES - Eu pedi para você refazer
+[0:48:11] - 4-FS_SIMOES - porque eu queria ter certeza disso.
+[0:48:18] - 4-FS_SIMOES - porque agora ninguém quer ir em uma madilha.
+[0:48:19] - 3-RAPHAELVICARONE - Eu vou te falar
+[0:48:22] - 4-FS_SIMOES - Você pode...
+[0:48:24] - 4-FS_SIMOES - até...
+[0:48:30] - 3-RAPHAELVICARONE - Que aquele escudo dourado ali me chamou a atenção
+[0:48:33] - 3-RAPHAELVICARONE - Mas eu contive meu impulso
+[0:48:40] - 4-FS_SIMOES - ...
+[0:48:43] - 3-RAPHAELVICARONE - Mas eu falei, vamos me conter
+[0:48:43] - 4-FS_SIMOES - quando...
+[0:48:47] - 3-RAPHAELVICARONE - Se fosse o Doge já teria...
+[0:48:52] - 4-FS_SIMOES - com certeza...
+[0:48:54] - 4-FS_SIMOES - quando você...
+[0:48:56] - 4-FS_SIMOES - quando o Deniso,
+[0:48:59] - 4-FS_SIMOES - ele percebe que o chão começa
+[0:49:03] - 4-FS_SIMOES - E ele consegue...
+[0:49:05] - 4-FS_SIMOES - ele consegue dar um passo para o lado
+[0:49:08] - 4-FS_SIMOES - e...
+[0:49:12] - 4-FS_SIMOES - pessoal daqui...
+[0:49:14] - 4-FS_SIMOES - dando uma rolada
+[0:49:17] - 4-FS_SIMOES - parkour...
+[0:49:20] - 4-FS_SIMOES - e...
+[0:49:22] - 4-FS_SIMOES - Ele pega a espada de volta
+[0:49:25] - 4-FS_SIMOES - deixa só para poder provar
+[0:49:28] - 4-FS_SIMOES - não, achei que você termina
+[0:49:36] - 4-FS_SIMOES - falando isso daqui, ó.
+[0:49:36] - 2-HUGONORTH - e aí
+[0:49:40] - 2-HUGONORTH - me disse
+[0:49:43] - 4-FS_SIMOES - Quando...
+[0:49:44] - 2-HUGONORTH - e aí
+[0:49:46] - 4-FS_SIMOES - o público vai à loucura com você.
+[0:49:49] - 4-FS_SIMOES - o que você faz agora?
+[0:49:59] - 4-FS_SIMOES - você já atacou,
+[0:50:06] - 2-HUGONORTH - Estállers
+[0:50:16] - 4-FS_SIMOES - você já usou o bônus action,
+[0:50:19] - 4-FS_SIMOES - a música ainda está tocando, não.
+[0:50:21] - 3-RAPHAELVICARONE - Acho que caiu só, cara
+[0:50:23] - 4-FS_SIMOES - Alguém...
+[0:50:26] - 2-HUGONORTH - Estou..
+[0:50:28] - 2-HUGONORTH - Está Sique é
+[0:50:28] - 3-RAPHAELVICARONE - Teu um momento aqui, olha só aí, ó
+[0:50:35] - 4-FS_SIMOES - Foi isso mesmo, pô.
+[0:50:42] - 4-FS_SIMOES - E...
+[0:50:52] - 4-FS_SIMOES - vai...
+[0:50:55] - 4-FS_SIMOES - quando...
+[0:50:57] - 4-FS_SIMOES - pega assim,
+[0:51:01] - 4-FS_SIMOES - você
+[0:51:04] - 4-FS_SIMOES - ao público,
+[0:51:06] - 2-HUGONORTH - Golfin
+[0:51:08] - 4-FS_SIMOES - aí...
+[0:51:10] - 4-FS_SIMOES - parabéns,
+[0:51:13] - 4-FS_SIMOES - Denívio.
+[0:51:16] - 4-FS_SIMOES - com um espírito de showman?
+[0:51:18] - 4-FS_SIMOES - Eu quero mais assim.
+[0:51:20] - 4-FS_SIMOES - vocês dos gladiadores
+[0:51:23] - 4-FS_SIMOES - Ou deixou
+[0:51:27] - 4-FS_SIMOES - Vai golfinho.
+[0:51:32] - 4-FS_SIMOES - É, pô.
+[0:51:35] - 2-HUGONORTH - num mano covarde
+[0:51:38] - 4-FS_SIMOES - só rolar.
+[0:51:39] - 2-HUGONORTH - ele vai olhar pro outro mano covarde
+[0:51:41] - 2-HUGONORTH - vai dar um riso
+[0:51:45] - 2-HUGONORTH - é que ele se ataque
+[0:51:47] - 1-LUNABOT____9997 - e aí
+[0:51:51] - 4-FS_SIMOES - Ih, peraí.
+[0:51:51] - 3-RAPHAELVICARONE - Mas ele já está com alguma vantagem, né?
+[0:51:54] - 4-FS_SIMOES - Esquecemos disso.
+[0:51:56] - 1-LUNABOT____9997 - Transcrição e Legendas Pedro Negri
+[0:51:56] - 2-HUGONORTH - tem que lembrar de mim
+[0:51:57] - 4-FS_SIMOES - quem vai bater.
+[0:52:00] - 3-RAPHAELVICARONE - Não tem duas vantagens
+[0:52:03] - 2-HUGONORTH - é foda né, triste
+[0:52:08] - 2-HUGONORTH - 16 acerta o
+[0:52:08] - 4-FS_SIMOES - Sim.
+[0:52:12] - 2-HUGONORTH - é
+[0:52:14] - 2-HUGONORTH - então segura essa mamonada aqui
+[0:52:20] - 2-HUGONORTH - mais 3
+[0:52:21] - 3-RAPHAELVICARONE - Eu coloquei sete
+[0:52:23] - 2-HUGONORTH - 11
+[0:52:26] - 1-LUNABOT____9997 - A CIDADE NO BRASIL
+[0:52:27] - 2-HUGONORTH - 22
+[0:52:31] - 2-HUGONORTH - rolando dano
+[0:52:34] - 2-HUGONORTH - 8
+[0:52:36] - 4-FS_SIMOES - Oh...
+[0:52:37] - 2-HUGONORTH - ok
+[0:52:38] - 4-FS_SIMOES - gente, um detalhe
+[0:52:45] - 4-FS_SIMOES - ah não, ele tava com 29
+[0:52:49] - 4-FS_SIMOES - vai lá
+[0:52:51] - 3-RAPHAELVICARONE - Eu não sei quanto ele estava
+[0:52:59] - 3-RAPHAELVICARONE - Eu sei que eu curei sete
+[0:53:01] - 2-HUGONORTH - foi 8 de dano
+[0:53:02] - 3-RAPHAELVICARONE - Porque eu não estou vendo a HP dele
+[0:53:06] - 4-FS_SIMOES - um ataque
+[0:53:08] - 2-HUGONORTH - segundo
+[0:53:11] - 2-HUGONORTH - 22
+[0:53:17] - 2-HUGONORTH - dano
+[0:53:21] - 3-RAPHAELVICARONE - Eu não sei quanto ele estava
+[0:53:22] - 2-HUGONORTH - o canidote você gasta
+[0:53:26] - 2-HUGONORTH - seu reaction
+[0:53:29] - 2-HUGONORTH - tá, lembrando que é tudo
+[0:53:36] - 4-FS_SIMOES - chegou os três
+[0:53:38] - 2-HUGONORTH - mais 3
+[0:53:43] - 2-HUGONORTH - vou notar aqui
+[0:53:45] - 2-HUGONORTH - 11
+[0:53:50] - 4-FS_SIMOES - mas aí irmão, você tem que jogar assim
+[0:53:51] - 3-RAPHAELVICARONE - Mas...
+[0:53:52] - 2-HUGONORTH - 8
+[0:54:01] - 2-HUGONORTH - primeiro foi rafada
+[0:54:03] - 2-HUGONORTH - então vira 5
+[0:54:06] - 4-FS_SIMOES - 13 mais 13
+[0:54:06] - 2-HUGONORTH - 26
+[0:54:12] - 4-FS_SIMOES - 26
+[0:54:14] - 2-HUGONORTH - total
+[0:54:16] - 4-FS_SIMOES - você faz mais alguma coisa?
+[0:54:21] - 4-FS_SIMOES - ficou o fim
+[0:54:24] - 2-HUGONORTH - ele vai virar
+[0:54:29] - 2-HUGONORTH - vou dar em volta do
+[0:54:31] - 3-RAPHAELVICARONE - Snape
+[0:54:35] - 3-RAPHAELVICARONE - Os gols que subiram na arena estão totalmente visíveis
+[0:54:36] - 2-HUGONORTH - ele vai virar contra mim
+[0:54:36] - 4-FS_SIMOES - parece que não é só beber que o golfin tem vontade de comer
+[0:54:38] - 2-HUGONORTH - ele vai virar de um
+[0:54:42] - 2-HUGONORTH - desde 11
+[0:54:49] - 4-FS_SIMOES - filas, talvez
+[0:54:50] - 2-HUGONORTH - foram
+[0:54:54] - 4-FS_SIMOES - eles já saíram
+[0:54:55] - 2-HUGONORTH - cano
+[0:54:57] - 3-RAPHAELVICARONE - Mas estão dentro da jaula ainda, né?
+[0:55:00] - 2-HUGONORTH - Não.
+[0:55:00] - 3-RAPHAELVICARONE - Não tem jaula
+[0:55:00] - 4-FS_SIMOES - só não chegou a turno deles ainda
+[0:55:04] - 3-RAPHAELVICARONE - Mas aquela...
+[0:55:06] - 4-FS_SIMOES - tá, ele já tá fora já
+[0:55:06] - 3-RAPHAELVICARONE - Não está dentro da jaula
+[0:55:08] - 3-RAPHAELVICARONE - O Silas vai...
+[0:55:09] - 4-FS_SIMOES - ele já saiu, já tá lá de fora
+[0:55:15] - 3-RAPHAELVICARONE - Quando ele anda na sua frente
+[0:55:21] - 3-RAPHAELVICARONE - Não, quando ele se circunda não
+[0:55:23] - 3-RAPHAELVICARONE - Da zona que ele estava
+[0:55:30] - 3-RAPHAELVICARONE - Desapontado
+[0:55:33] - 3-RAPHAELVICARONE - Que...
+[0:55:35] - 3-RAPHAELVICARONE - Tenho a pena
+[0:55:36] - 4-FS_SIMOES - tá
+[0:55:39] - 3-RAPHAELVICARONE - Tem problemas
+[0:55:42] - 3-RAPHAELVICARONE - Maléficos maiores na arena
+[0:55:45] - 3-RAPHAELVICARONE - Com...
+[0:55:49] - 4-FS_SIMOES - lá
+[0:55:53] - 3-RAPHAELVICARONE - Cadê aquela?
+[0:56:00] - 2-HUGONORTH - Qual é o seu dinheiro de vinhente?
+[0:56:00] - 4-FS_SIMOES - tá
+[0:56:01] - 3-RAPHAELVICARONE - É, né?
+[0:56:03] - 3-RAPHAELVICARONE - Agora eu não sei
+[0:56:06] - 4-FS_SIMOES - Sear undead.
+[0:56:06] - 3-RAPHAELVICARONE - Porque no level 5
+[0:56:10] - 3-RAPHAELVICARONE - A do...
+[0:56:13] - 3-RAPHAELVICARONE - Se eu usar
+[0:56:16] - 3-RAPHAELVICARONE - Isso aqui, ó
+[0:56:20] - 3-RAPHAELVICARONE - Deixa eu castar
+[0:56:23] - 3-RAPHAELVICARONE - O que que aparece
+[0:56:27] - 3-RAPHAELVICARONE - Só que...
+[0:56:30] - 3-RAPHAELVICARONE - É, não conta
+[0:56:33] - 3-RAPHAELVICARONE - De...
+[0:56:35] - 3-RAPHAELVICARONE - O Winston
+[0:56:36] - 4-FS_SIMOES - Mas isso é...
+[0:56:37] - 2-HUGONORTH - Qual é o dinheiro de vinhente?
+[0:56:37] - 3-RAPHAELVICARONE - Só saiu um
+[0:56:41] - 4-FS_SIMOES - É spell?
+[0:56:44] - 3-RAPHAELVICARONE - É tipo
+[0:56:44] - 4-FS_SIMOES - Ah, não.
+[0:56:46] - 3-RAPHAELVICARONE - É um ataque
+[0:56:48] - 3-RAPHAELVICARONE - Mas...
+[0:56:52] - 4-FS_SIMOES - É.
+[0:56:55] - 4-FS_SIMOES - We can run number of the eights equal to the wisdom modifier.
+[0:56:57] - 3-RAPHAELVICARONE - Não roda
+[0:56:58] - 4-FS_SIMOES - Minimum de...
+[0:57:03] - 3-RAPHAELVICARONE - Que que eu mande o texto
+[0:57:06] - 4-FS_SIMOES - Takes radiant damage equal to total error.
+[0:57:12] - 3-RAPHAELVICARONE - Todo aí?
+[0:57:13] - 4-FS_SIMOES - Não, eu tô lendo aqui.
+[0:57:16] - 3-RAPHAELVICARONE - É um...
+[0:57:19] - 4-FS_SIMOES - Tá.
+[0:57:24] - 3-RAPHAELVICARONE - Acho que tem que rolar um save
+[0:57:29] - 3-RAPHAELVICARONE - De Winsdown
+[0:57:34] - 3-RAPHAELVICARONE - Vou descer
+[0:57:36] - 4-FS_SIMOES - Modifica o funcionamento do turn and dead.
+[0:57:39] - 3-RAPHAELVICARONE - Isso
+[0:57:42] - 4-FS_SIMOES - Permitindo que você case dano radiante aos mortos-vivos além de apenas expulsá-los.
+[0:57:51] - 4-FS_SIMOES - Você usa normalmente o turn and dead gastando seu divinity channel.
+[0:57:56] - 4-FS_SIMOES - Uma ação.
+[0:57:56] - 3-RAPHAELVICARONE - É bom
+[0:58:06] - 4-FS_SIMOES - Os que falharam ficam turned, expulsos.
+[0:58:08] - 4-FS_SIMOES - Significa que tentam fugir e não se aproximam de você.
+[0:58:12] - 4-FS_SIMOES - Com o ser undead, cada morto-vivo que falhar na resistência também sofre dano de radiance.
+[0:58:13] - 3-RAPHAELVICARONE - Interessante
+[0:58:17] - 3-RAPHAELVICARONE - tuve
+[0:58:20] - 4-FS_SIMOES - O dano é 1d8 por modificador de sabedoria.
+[0:58:23] - 4-FS_SIMOES - Minimum 1d8.
+[0:58:28] - 3-RAPHAELVICARONE - Pode rolar?
+[0:58:31] - 4-FS_SIMOES - O importante é que o efeito não...
+[0:58:35] - 4-FS_SIMOES - Você tá a 30 pés de quem?
+[0:58:38] - 3-RAPHAELVICARONE - É, o que está aqui do meu lado, foi esse aqui.
+[0:58:40] - 4-FS_SIMOES - É dele só que você vai?
+[0:58:43] - 3-RAPHAELVICARONE - É.
+[0:58:44] - 2-HUGONORTH - É, tem que rolar um...
+[0:58:45] - 4-FS_SIMOES - Beleza.
+[0:58:47] - 2-HUGONORTH - Tem que rolar um índio, não é o Filipe?
+[0:58:48] - 4-FS_SIMOES - Só um instantinho.
+[0:58:49] - 3-RAPHAELVICARONE - Mas, assim, se falhar, eles tomam metade, né, ou não?
+[0:58:52] - 4-FS_SIMOES - 2, 2...
+[0:58:54] - 4-FS_SIMOES - Você falhar? Deixa eu ver aqui.
+[0:58:55] - 3-RAPHAELVICARONE - Ou não tomar nada? Acho que só tomam metade, né?
+[0:58:57] - 2-HUGONORTH - Não, acho que se eles passarem eles não estão mudando nenhum não.
+[0:59:02] - 4-FS_SIMOES - Que falhar, hein?
+[0:59:19] - 3-RAPHAELVICARONE - É porque modifica o bagulho, né?
+[0:59:26] - 3-RAPHAELVICARONE - É uma lei em cima da outra, tá ligado?
+[0:59:27] - 2-HUGONORTH - Aqui geralmente...
+[0:59:33] - 4-FS_SIMOES - Peraí.
+[0:59:40] - 4-FS_SIMOES - O dano é...
+[0:59:46] - 4-FS_SIMOES - Ele sofre dano de radiance total das rolagens.
+[0:59:49] - 3-RAPHAELVICARONE - Ah, é, ele tem que falhar.
+[0:59:51] - 4-FS_SIMOES - Ele vai...
+[0:59:52] - 3-RAPHAELVICARONE - Se não falhar, ele não acontece nada.
+[0:59:54] - 3-RAPHAELVICARONE - Primeiro, então, nem vou rolar agora, só...
+[0:59:57] - 3-RAPHAELVICARONE - Rola aí.
+[1:00:03] - 4-FS_SIMOES - Não, né?
+[1:00:05] - 4-FS_SIMOES - Mais zero.
+[1:00:08] - 4-FS_SIMOES - Foi tudo de uma vez.
+[1:00:11] - 4-FS_SIMOES - Qual que vamos...
+[1:00:15] - 4-FS_SIMOES - Que foi o 2.
+[1:00:18] - 4-FS_SIMOES - Só que tem um detalhe...
+[1:00:19] - 3-RAPHAELVICARONE - 23
+[1:00:24] - 4-FS_SIMOES - Então, nisso, ele...
+[1:00:26] - 4-FS_SIMOES - Rala o dano, por favor.
+[1:00:31] - 3-RAPHAELVICARONE - E ele
+[1:00:33] - 4-FS_SIMOES - 23 de dano.
+[1:00:35] - 3-RAPHAELVICARONE - Sai correndo de medo.
+[1:00:37] - 4-FS_SIMOES - Deixa eu botar aqui que ele tá...
+[1:00:40] - 3-RAPHAELVICARONE - Ah, detalhe.
+[1:00:40] - 4-FS_SIMOES - Running away.
+[1:00:43] - 3-RAPHAELVICARONE - É um fato importante.
+[1:00:44] - 4-FS_SIMOES - Você aponta uma cruz pra ele?
+[1:00:50] - 4-FS_SIMOES - Tá.
+[1:00:50] - 3-RAPHAELVICARONE - Preciso de um símbolo religioso.
+[1:00:53] - 4-FS_SIMOES - Bom saber.
+[1:00:55] - 4-FS_SIMOES - Assim que você faz isso...
+[1:00:58] - 4-FS_SIMOES - Acabei de perceber que eu não tenho o HP do bicho aqui.
+[1:01:01] - 4-FS_SIMOES - Peraí.
+[1:01:03] - 4-FS_SIMOES - 22.
+[1:01:08] - 4-FS_SIMOES - Assim que você aponta pra ele...
+[1:01:12] - 4-FS_SIMOES - E ele...
+[1:01:14] - 4-FS_SIMOES - E você fala alguma coisa...
+[1:01:18] - 3-RAPHAELVICARONE - É...
+[1:01:20] - 4-FS_SIMOES - Quando você faz isso...
+[1:01:25] - 4-FS_SIMOES - Você vê que ele olha pra você...
+[1:01:28] - 4-FS_SIMOES - E os olhos dele...
+[1:01:31] - 4-FS_SIMOES - E sai uma fumaça dele...
+[1:01:34] - 4-FS_SIMOES - Hugo, som do Beto, por favor.
+[1:01:38] - 4-FS_SIMOES - E ele...
+[1:01:41] - 4-FS_SIMOES - Morre.
+[1:01:44] - 4-FS_SIMOES - Na hora.
+[1:01:50] - 4-FS_SIMOES - Quando você encerra...
+[1:01:57] - 3-RAPHAELVICARONE - Obrigado.
+[1:02:07] - 4-FS_SIMOES - A...
+[1:02:13] - 4-FS_SIMOES - Olha pra alguém assim pra trás e fala assim...
+[1:02:15] - 4-FS_SIMOES - Quem foi o idiota que planejou essa arena...
+[1:02:18] - 4-FS_SIMOES - Contra um clérigo...
+[1:02:22] - 4-FS_SIMOES - Agora...
+[1:02:25] - 4-FS_SIMOES - Por favor...
+[1:02:28] - 4-FS_SIMOES - Lutar...
+[1:02:31] - 4-FS_SIMOES - É isso...
+[1:02:33] - 4-FS_SIMOES - Quando você faz isso...
+[1:02:36] - 4-FS_SIMOES - Rafa...
+[1:02:38] - 4-FS_SIMOES - O...
+[1:02:41] - 4-FS_SIMOES - Era derretido...
+[1:02:45] - 4-FS_SIMOES - O público...
+[1:02:50] - 4-FS_SIMOES - Vai à loucura...
+[1:02:53] - 4-FS_SIMOES - No próximo turno...
+[1:02:58] - 4-FS_SIMOES - Esse zumbi aqui...
+[1:03:00] - 4-FS_SIMOES - Esse gol...
+[1:03:03] - 4-FS_SIMOES - Ele vem pra cá...
+[1:03:06] - 4-FS_SIMOES - Aqui, perdão...
+[1:03:09] - 4-FS_SIMOES - O Denísio...
+[1:03:11] - 4-FS_SIMOES - Ele vai dar...
+[1:03:13] - 4-FS_SIMOES - Um...
+[1:03:24] - 4-FS_SIMOES - Faz um...
+[1:03:26] - 4-FS_SIMOES - Constituição...
+[1:03:33] - 4-FS_SIMOES - 23?
+[1:03:36] - 4-FS_SIMOES - O gol chega em você...
+[1:03:39] - 4-FS_SIMOES - Com as garras dele...
+[1:03:41] - 4-FS_SIMOES - Te dar um lenhadão no braço...
+[1:03:46] - 4-FS_SIMOES - O seu corpo...
+[1:03:49] - 4-FS_SIMOES - Sacode a cabeça...
+[1:03:52] - 4-FS_SIMOES - E...
+[1:03:57] - 4-FS_SIMOES - O gol...
+[1:03:59] - 4-FS_SIMOES - Quando você olha...
+[1:04:01] - 4-FS_SIMOES - Vem correndo aqui...
+[1:04:04] - 4-FS_SIMOES - E ele vem...
+[1:04:06] - 4-FS_SIMOES - Um...
+[1:04:08] - 4-FS_SIMOES - Dois...
+[1:04:12] - 4-FS_SIMOES - Ele acaba o turno...
+[1:04:14] - 4-FS_SIMOES - Eles podem dar...
+[1:04:17] - 4-FS_SIMOES - Todo mundo pode dar...
+[1:04:19] - 4-FS_SIMOES - Três...
+[1:04:22] - 4-FS_SIMOES - Ele chega aqui do lado de vocês...
+[1:04:29] - 4-FS_SIMOES - E...
+[1:04:36] - 4-FS_SIMOES - Sim...
+[1:04:46] - 4-FS_SIMOES - Que susto...
+[1:05:03] - 4-FS_SIMOES - Eu achei tipo assim...
+[1:05:06] - 4-FS_SIMOES - Eu vou juntar...
+[1:05:36] - 4-FS_SIMOES - Isso...
+[1:05:53] - 4-FS_SIMOES - Quer dizer...
+[1:05:56] - 4-FS_SIMOES - Eu estava com medo aqui...
+[1:06:06] - 4-FS_SIMOES - Uhum...
+[1:06:11] - 4-FS_SIMOES - Um...
+[1:06:37] - 4-FS_SIMOES - É isso?
+[1:06:40] - 4-FS_SIMOES - Não, não.
+[1:06:48] - 4-FS_SIMOES - Acornilha a Sancinete.
+[1:07:00] - 4-FS_SIMOES - Como vejo...
+[1:07:01] - 2-HUGONORTH - E종 MS
+[1:07:04] - 2-HUGONORTH - Aparentemente sim
+[1:07:08] - 2-HUGONORTH - Ah, ó
+[1:07:12] - 2-HUGONORTH - Você pode escolher
+[1:07:12] - 4-FS_SIMOES - Eu acho que é isso, porque é o custo, né?
+[1:07:21] - 2-HUGONORTH - Desistir do dano do sneak attack
+[1:07:23] - 2-HUGONORTH - E aplicar um desses efeitos
+[1:07:35] - 2-HUGONORTH - Aqui está dizendo assim
+[1:07:39] - 4-FS_SIMOES - Você não tem o Sancinete.
+[1:07:46] - 2-HUGONORTH - Ah, sim
+[1:07:59] - 4-FS_SIMOES - O Sancinete é no início de toda a rodada.
+[1:08:03] - 4-FS_SIMOES - Você deu um crítico, meu querido.
+[1:08:16] - 2-HUGONORTH - 22, 17
+[1:08:25] - 4-FS_SIMOES - É, vai, vai, vai.
+[1:08:28] - 4-FS_SIMOES - Isso, vai.
+[1:08:31] - 4-FS_SIMOES - Espera aí, espera aí.
+[1:08:33] - 2-HUGONORTH - Espera aí
+[1:08:44] - 2-HUGONORTH - É 3d6 de dano a mais
+[1:08:46] - 4-FS_SIMOES - A sua arma...
+[1:08:46] - 2-HUGONORTH - Isso, isso
+[1:08:56] - 2-HUGONORTH - Tá, entendi o que você quer dizer
+[1:09:00] - 4-FS_SIMOES - Você tá atacando com que arma?
+[1:09:03] - 4-FS_SIMOES - Com a Dagger, né?
+[1:09:05] - 4-FS_SIMOES - Pode continuar.
+[1:09:07] - 2-HUGONORTH - Beleza, você vai rodar
+[1:09:09] - 2-HUGONORTH - E dar um efeito
+[1:09:16] - 2-HUGONORTH - É o Nick, né?
+[1:09:36] - 4-FS_SIMOES - Ah?
+[1:09:38] - 2-HUGONORTH - Sim, sim
+[1:09:42] - 2-HUGONORTH - Não, pera
+[1:09:51] - 2-HUGONORTH - Você pode usar o seu
+[1:09:53] - 2-HUGONORTH - Two-Eapon Fighting
+[1:09:56] - 2-HUGONORTH - Mas você não pode usar
+[1:09:59] - 2-HUGONORTH - Sim, que você não pode gastar
+[1:10:03] - 2-HUGONORTH - Como o Two-Eapon Fighting
+[1:10:04] - 4-FS_SIMOES - Só um instantinho.
+[1:10:08] - 2-HUGONORTH - Tá
+[1:10:11] - 2-HUGONORTH - O dano dele foi
+[1:10:12] - 4-FS_SIMOES - Foi o 8.
+[1:10:15] - 2-HUGONORTH - É porque o foda de rolar
+[1:10:17] - 2-HUGONORTH - Que rola com o dano junto
+[1:10:20] - 2-HUGONORTH - No final, qual que o dano vai ser?
+[1:10:22] - 2-HUGONORTH - Foi o primeiro que ele rolou
+[1:10:24] - 4-FS_SIMOES - Foi 16, porque o da esquerda é o piercing, é um ataque normal.
+[1:10:29] - 4-FS_SIMOES - Ele rolou 3 mais 5, que dá 8.
+[1:10:33] - 4-FS_SIMOES - E o 8 de dano foi, você pode ver aí, que é o 3d6, que é o dano do sneak attack.
+[1:10:38] - 4-FS_SIMOES - Que é 5, 2 e 1.
+[1:10:40] - 4-FS_SIMOES - Deu 8.
+[1:10:41] - 2-HUGONORTH - Não, show, beleza
+[1:10:44] - 4-FS_SIMOES - De dano.
+[1:10:54] - 2-HUGONORTH - Isso, seu Two-Eapon Fighting
+[1:10:56] - 2-HUGONORTH - Você é Dual-Wilder?
+[1:11:00] - 2-HUGONORTH - Você tem a feat de Dual-Wilder?
+[1:11:08] - 2-HUGONORTH - Não, então você falou errado
+[1:11:08] - 4-FS_SIMOES - Não, ele tem dual-wader.
+[1:11:10] - 2-HUGONORTH - Você tem o Two-Eapon Fighting
+[1:11:13] - 2-HUGONORTH - Ele tem a feat?
+[1:11:17] - 2-HUGONORTH - Ah, tá, beleza
+[1:11:24] - 2-HUGONORTH - É um ataque extra?
+[1:11:25] - 4-FS_SIMOES - Não, porque você tem...
+[1:11:28] - 4-FS_SIMOES - Você já tem o dual-wader.
+[1:11:32] - 4-FS_SIMOES - Porque o seu bônus...
+[1:11:34] - 4-FS_SIMOES - Não?
+[1:11:39] - 2-HUGONORTH - Não, Felipe, Felipe, Felipe
+[1:11:41] - 2-HUGONORTH - É o seguinte
+[1:11:45] - 2-HUGONORTH - O Two-Eapon Fighting
+[1:11:48] - 2-HUGONORTH - Ou seja, ele ainda tem o bônus action dele
+[1:11:50] - 2-HUGONORTH - Isso faz diferença
+[1:11:52] - 4-FS_SIMOES - Ah, mas ele...
+[1:11:54] - 2-HUGONORTH - Não, não, não
+[1:11:56] - 4-FS_SIMOES - É...
+[1:11:57] - 2-HUGONORTH - Porque o seu Two-Eapon Fighting
+[1:11:59] - 2-HUGONORTH - Fazer três ataques
+[1:12:02] - 2-HUGONORTH - O seu Two-Eapon Fighting
+[1:12:06] - 2-HUGONORTH - Você não pode
+[1:12:26] - 4-FS_SIMOES - Mas você continua tendo
+[1:12:43] - 4-FS_SIMOES - todo ataque contra ele, já tem vantagem.
+[1:12:50] - 2-HUGONORTH - É uma vez por turno
+[1:12:56] - 4-FS_SIMOES - Espera aí, só um instantinho.
+[1:13:11] - 4-FS_SIMOES - O dano foi lá.
+[1:13:15] - 4-FS_SIMOES - O sneak attack é uma vez por turno.
+[1:13:17] - 4-FS_SIMOES - Você já usou o sneak attack.
+[1:13:18] - 2-HUGONORTH - Não
+[1:13:20] - 4-FS_SIMOES - Então, mais 10.
+[1:13:22] - 2-HUGONORTH - Metade
+[1:13:26] - 4-FS_SIMOES - O...
+[1:13:50] - 2-HUGONORTH - Nota
+[1:13:56] - 4-FS_SIMOES - Isso.
+[1:13:56] - 2-HUGONORTH - Vai
+[1:14:18] - 2-HUGONORTH - Essa é a sua action.
+[1:14:26] - 4-FS_SIMOES - Porra.
+[1:14:38] - 3-RAPHAELVICARONE - Peraí, peraí, peraí
+[1:14:41] - 3-RAPHAELVICARONE - E você falou pra Silas?
+[1:14:45] - 3-RAPHAELVICARONE - O que que você falou?
+[1:14:53] - 3-RAPHAELVICARONE - Eu vou usar a reaction
+[1:14:57] - 3-RAPHAELVICARONE - A mancha de violência
+[1:15:26] - 4-FS_SIMOES - Parece que o Matheus não é só rápido com os dedos, mas também é rápido com essa adaga.
+[1:15:32] - 4-FS_SIMOES - Ele deixou, ele foi lá, jogou no mesmo jogo que o golfinho e ainda saiu por cima.
+[1:15:43] - 4-FS_SIMOES - Denise, seu turno.
+[1:15:57] - 4-FS_SIMOES - Eu imagino que não.
+[1:16:01] - 4-FS_SIMOES - Ele é um humano, mas ele é meio curvado.
+[1:16:04] - 4-FS_SIMOES - Então, ele parece menor que você.
+[1:16:06] - 4-FS_SIMOES - Mas ele esticado deve ser...
+[1:16:09] - 4-FS_SIMOES - Cara, ele é um humanoide.
+[1:16:11] - 4-FS_SIMOES - Da sua altura.
+[1:16:29] - 4-FS_SIMOES - Onde que você tá vendo isso, perdão?
+[1:16:48] - 2-HUGONORTH - O action
+[1:16:52] - 4-FS_SIMOES - É no action push, né?
+[1:16:52] - 2-HUGONORTH - Você pode
+[1:16:54] - 2-HUGONORTH - O nome que ele está fazendo é shove
+[1:16:55] - 4-FS_SIMOES - Deixa eu ver.
+[1:17:00] - 2-HUGONORTH - É o athletics do
+[1:17:03] - 2-HUGONORTH - Athletics ou acrobatics do
+[1:17:06] - 2-HUGONORTH - E quem ganhar
+[1:17:09] - 2-HUGONORTH - A vantagem é da defesa
+[1:17:11] - 2-HUGONORTH - Mas é uma habilidade especial sua?
+[1:17:13] - 2-HUGONORTH - Não, não, não
+[1:17:25] - 2-HUGONORTH - É contestado
+[1:17:27] - 2-HUGONORTH - O
+[1:17:28] - 3-RAPHAELVICARONE - Obrigado.
+[1:17:29] - 2-HUGONORTH - Eu estou querendo dizer
+[1:17:29] - 4-FS_SIMOES - Eu tô olhando aqui no strike dele.
+[1:17:31] - 2-HUGONORTH - É a regra
+[1:17:34] - 2-HUGONORTH - O
+[1:17:39] - 2-HUGONORTH - Narmid Struck
+[1:17:43] - 4-FS_SIMOES - Peraí.
+[1:17:43] - 2-HUGONORTH - Ah, então
+[1:17:46] - 4-FS_SIMOES - Lá embaixo chove, ó.
+[1:17:48] - 2-HUGONORTH - Dele diferente, tá
+[1:17:55] - 4-FS_SIMOES - Denígio, é 8 mais sua proficiência, que é 3.
+[1:18:00] - 4-FS_SIMOES - 8 mais 3.
+[1:18:04] - 4-FS_SIMOES - Então, 6 mais 8.
+[1:18:06] - 4-FS_SIMOES - Temos aí 14, né?
+[1:18:08] - 4-FS_SIMOES - Então, o Guller tem que fazer um save intro de quê mesmo?
+[1:18:14] - 4-FS_SIMOES - Perdão.
+[1:18:19] - 4-FS_SIMOES - Beleza.
+[1:18:24] - 4-FS_SIMOES - 8.
+[1:18:27] - 4-FS_SIMOES - Denise, você dá um empurrão no meio dos peitos do zumbi.
+[1:18:31] - 4-FS_SIMOES - Você grita...
+[1:18:34] - 4-FS_SIMOES - Você pega o pé, dá um chutão no meio dos peitos dele e grita...
+[1:18:39] - 4-FS_SIMOES - This is Sparta.
+[1:18:41] - 2-HUGONORTH - Obrigado.
+[1:18:42] - 4-FS_SIMOES - O Gull...
+[1:18:47] - 4-FS_SIMOES - Ele cai dentro do buraco.
+[1:18:51] - 4-FS_SIMOES - E você vê...
+[1:18:55] - 4-FS_SIMOES - Deixa eu só...
+[1:19:05] - 4-FS_SIMOES - Ele toma...
+[1:19:09] - 4-FS_SIMOES - Peraí, deixa eu só pegar.
+[1:19:14] - 4-FS_SIMOES - 1 damage.
+[1:19:17] - 4-FS_SIMOES - 1, 6.
+[1:19:26] - 4-FS_SIMOES - Ele tomou um de dano.
+[1:19:29] - 4-FS_SIMOES - Eu não consigo mais pegar ele.
+[1:19:35] - 4-FS_SIMOES - Pronto.
+[1:19:38] - 4-FS_SIMOES - Tem um Gull lá no fundo.
+[1:19:42] - 4-FS_SIMOES - Quem mais é parte?
+[1:19:51] - 4-FS_SIMOES - Quando você pega o...
+[1:19:54] - 4-FS_SIMOES - E você chuta o zumbi lá dentro.
+[1:19:57] - 4-FS_SIMOES - O público começa...
+[1:20:15] - 4-FS_SIMOES - E a narradora grita.
+[1:20:17] - 4-FS_SIMOES - Finalmente, alguém aqui tem mais cérebro do que músculos.
+[1:20:21] - 4-FS_SIMOES - É muito bom.
+[1:20:24] - 4-FS_SIMOES - As pessoas também usam...
+[1:20:28] - 4-FS_SIMOES - Um cérebro pra poder lutar.
+[1:20:32] - 4-FS_SIMOES - Uma salva de palmas pro Denise.
+[1:20:39] - 4-FS_SIMOES - Porque a salva de palmas deles é com a sala do pé.
+[1:20:42] - 4-FS_SIMOES - É a palma do pé, entendeu?
+[1:20:46] - 4-FS_SIMOES - Na sala da bota.
+[1:20:54] - 4-FS_SIMOES - Não, não, peraí.
+[1:21:06] - 4-FS_SIMOES - Pera que eu tenho que...
+[1:21:08] - 4-FS_SIMOES - Peraí.
+[1:21:19] - 4-FS_SIMOES - Pronto.
+[1:21:25] - 1-LUNABOT____9997 - É na palma da bota, corte um sorriso na bota, anda e bota
+[1:21:28] - 1-LUNABOT____9997 - É na sola da bota, é na palma da bota
+[1:21:38] - 4-FS_SIMOES - Pode ir, Hugo.
+[1:21:42] - 2-HUGONORTH - Mestre, como é que está o Jon Snow?
+[1:21:45] - 2-HUGONORTH - Bem machucado.
+[1:21:47] - 4-FS_SIMOES - Você olha para ele assim, ele está bem machucado.
+[1:21:52] - 2-HUGONORTH - O Golfin olha aqui, vê que ele está indo pedir ajuda para o outro cara.
+[1:21:55] - 1-LUNABOT____9997 - Tata da bota, anda e bota, e bota, tata da bota
+[1:21:55] - 4-FS_SIMOES - Você fica na dúvida se ele está mancando ou se ele está correndo, balançando assim.
+[1:22:10] - 4-FS_SIMOES - Obrigado.
+[1:22:11] - 2-HUGONORTH - Aí o Golfin bela.
+[1:22:17] - 2-HUGONORTH - E ele sai correndo na direção.
+[1:22:20] - 2-HUGONORTH - Obrigado.
+[1:22:21] - 4-FS_SIMOES - Deixa eu só rolar um ataque de oportunidade aqui.
+[1:22:25] - 1-LUNABOT____9997 - A CIDADE NO BRASIL
+[1:22:28] - 2-HUGONORTH - Montagem.
+[1:22:29] - 4-FS_SIMOES - Está aparecendo aí, pô.
+[1:22:41] - 4-FS_SIMOES - Está aparecendo o 2GM?
+[1:22:45] - 2-HUGONORTH - Se dá para você o tio GM, a gente não vai saber.
+[1:22:49] - 4-FS_SIMOES - Peraí.
+[1:22:52] - 2-HUGONORTH - Algunas of Kamas别as o curtinho tem a편,
+[1:22:53] - 4-FS_SIMOES - Deixa eu ver se tem alguma configuração aqui.
+[1:22:56] - 2-HUGONORTH - você deve continuar.
+[1:22:57] - 4-FS_SIMOES - O GM...
+[1:23:00] - 2-HUGONORTH - Olha a próxima.
+[1:23:00] - 4-FS_SIMOES - Legal está aqui.
+[1:23:02] - 4-FS_SIMOES - Whisper.
+[1:23:03] - 2-HUGONORTH - Muito obrigado?
+[1:23:05] - 4-FS_SIMOES - Opa.
+[1:23:12] - 2-HUGONORTH - bem?
+[1:23:13] - 4-FS_SIMOES - Bem, está rolando para mim.
+[1:23:16] - 2-HUGONORTH - Paganda,
+[1:23:19] - 4-FS_SIMOES - Acho que é porque eu sou GM, mas...
+[1:23:20] - 2-HUGONORTH - Agora, qual foi o acerto?
+[1:23:24] - 4-FS_SIMOES - Never whispers.
+[1:23:27] - 4-FS_SIMOES - Perdão.
+[1:23:31] - 4-FS_SIMOES - 15 é certo?
+[1:23:38] - 2-HUGONORTH - Se ele entrou, né?
+[1:23:40] - 4-FS_SIMOES - Uhum.
+[1:23:42] - 2-HUGONORTH - Direito.
+[1:23:46] - 4-FS_SIMOES - Você ainda está em range, então...
+[1:23:46] - 2-HUGONORTH - P
+[1:23:49] - 2-HUGONORTH - Show.
+[1:23:50] - 4-FS_SIMOES - É.
+[1:23:55] - 4-FS_SIMOES - Você passa correndo pelo gol assim, ele tenta te pegar, te segurar, mas ele só consegue
+[1:23:55] - 2-HUGONORTH - Beleza.
+[1:23:59] - 4-FS_SIMOES - te dar uma lanhada no braço.
+[1:24:02] - 2-HUGONORTH - É isso.
+[1:24:02] - 4-FS_SIMOES - Você continua seguindo em frente.
+[1:24:04] - 2-HUGONORTH - Reckless attack ainda.
+[1:24:06] - 4-FS_SIMOES - Uhum.
+[1:24:12] - 2-HUGONORTH - Segundo, a vantagem, né?
+[1:24:15] - 2-HUGONORTH - 15 é certo?
+[1:24:17] - 2-HUGONORTH - É certo? Não é certo?
+[1:24:19] - 4-FS_SIMOES - Não.
+[1:24:21] - 2-HUGONORTH - Segundo ataque.
+[1:24:24] - 2-HUGONORTH - 20 é certo?
+[1:24:28] - 2-HUGONORTH - Dano.
+[1:24:31] - 2-HUGONORTH - É mais 3 isso aí.
+[1:24:35] - 2-HUGONORTH - Terceiro ataque.
+[1:24:40] - 4-FS_SIMOES - Calou!
+[1:24:45] - 2-HUGONORTH - Segundo dano.
+[1:24:49] - 2-HUGONORTH - 11 mais 3, 14.
+[1:24:52] - 2-HUGONORTH - 24 de dano.
+[1:24:53] - 4-FS_SIMOES - 14.
+[1:24:55] - 2-HUGONORTH - Eu estava pensando do Topo.
+[1:24:58] - 4-FS_SIMOES - Do quê, perdão?
+[1:25:00] - 2-HUGONORTH - Bom, bem.
+[1:25:00] - 4-FS_SIMOES - Tá bom.
+[1:25:03] - 4-FS_SIMOES - Ô, Matheus, eu vou...
+[1:25:07] - 4-FS_SIMOES - Que você tem um negócio lá da sua Reaction, tá?
+[1:25:09] - 4-FS_SIMOES - você pode usar todo turno
+[1:25:13] - 4-FS_SIMOES - não, tirou 14
+[1:25:17] - 4-FS_SIMOES - Rafa
+[1:25:24] - 3-RAPHAELVICARONE - não, dávprove, é claro, eu uso pra ver
+[1:25:24] - 4-FS_SIMOES - você tinha que ter falado no primeiro
+[1:25:25] - 2-HUGONORTH - Então a metade é 5 de dano, então mais 14, desculpa.
+[1:25:32] - 2-HUGONORTH - O segundo foi 14, se você dividir na metade, fica 7.
+[1:25:40] - 4-FS_SIMOES - então tem que ser do segundo
+[1:25:47] - 2-HUGONORTH - E o primeiro é 10.
+[1:25:53] - 2-HUGONORTH - Ah, eu posso usar o topo.
+[1:25:54] - 4-FS_SIMOES - não, não, 14 foi só o segundo ataque
+[1:25:59] - 2-HUGONORTH - Não, olha.
+[1:26:01] - 4-FS_SIMOES - 7 mais 14
+[1:26:04] - 4-FS_SIMOES - então, tá, 17
+[1:26:08] - 2-HUGONORTH - Mas ele reduziu a metade de segundo, não?
+[1:26:13] - 4-FS_SIMOES - não
+[1:26:14] - 2-HUGONORTH - 17 dano total.
+[1:26:19] - 2-HUGONORTH - Não?
+[1:26:20] - 4-FS_SIMOES - você...
+[1:26:22] - 2-HUGONORTH - Ah, e você...
+[1:26:24] - 2-HUGONORTH - Ah, tá, beleza.
+[1:26:27] - 2-HUGONORTH - E assim que...
+[1:26:34] - 2-HUGONORTH - Eu quero narrar.
+[1:26:35] - 4-FS_SIMOES - pode narrar
+[1:26:39] - 2-HUGONORTH - Ele vem esfregando os machados no chão, assim.
+[1:26:41] - 2-HUGONORTH - E ele pula de cima pra baixo.
+[1:26:44] - 2-HUGONORTH - Acerta o...
+[1:26:49] - 2-HUGONORTH - Do Jon Snow aí.
+[1:26:52] - 2-HUGONORTH - Ele chega aqui, cara no chão.
+[1:26:54] - 4-FS_SIMOES - tá, deixa eu só zerar ele aqui
+[1:26:56] - 2-HUGONORTH - O cara de viadinho ali.
+[1:26:59] - 2-HUGONORTH - Eu vou ser o próximo.
+[1:27:03] - 2-HUGONORTH - E ele vem e dá...
+[1:27:07] - 2-HUGONORTH - Na verdade, ele dá um passinho pra cá.
+[1:27:11] - 2-HUGONORTH - Do...
+[1:27:13] - 2-HUGONORTH - Do corpo do...
+[1:27:16] - 2-HUGONORTH - Do Jon Snow.
+[1:27:19] - 4-FS_SIMOES - é que eu estava mudando
+[1:27:23] - 2-HUGONORTH - No toque dele e fala...
+[1:27:26] - 2-HUGONORTH - Mover pra trás.
+[1:27:30] - 4-FS_SIMOES - o HP dele ainda
+[1:27:32] - 4-FS_SIMOES - beleza
+[1:27:42] - 2-HUGONORTH - Show.
+[1:27:44] - 4-FS_SIMOES - é...
+[1:27:46] - 2-HUGONORTH - Tchau.
+[1:27:47] - 4-FS_SIMOES - Silas
+[1:27:49] - 4-FS_SIMOES - você acaba...
+[1:27:53] - 4-FS_SIMOES - meu Deus, é por isso que a gente está aqui hoje
+[1:27:54] - 3-RAPHAELVICARONE - Que complexo
+[1:27:55] - 4-FS_SIMOES - é o festival de sangue
+[1:27:57] - 4-FS_SIMOES - e sangue nos foi dado
+[1:28:01] - 4-FS_SIMOES - ó
+[1:28:05] - 4-FS_SIMOES - você
+[1:28:12] - 3-RAPHAELVICARONE - É, ele vai ver o
+[1:28:16] - 2-HUGONORTH - Vá deaci...
+[1:28:20] - 3-RAPHAELVICARONE - O cara caído no chão
+[1:28:23] - 3-RAPHAELVICARONE - E ele vai dar
+[1:28:24] - 4-FS_SIMOES - a
+[1:28:27] - 3-RAPHAELVICARONE - Curio onde
+[1:28:30] - 3-RAPHAELVICARONE - Deixa eu ver qual é o slot
+[1:28:30] - 2-HUGONORTH - Váte.
+[1:28:53] - 4-FS_SIMOES - Segura aí você sozinho, Matheus.
+[1:28:53] - 3-RAPHAELVICARONE - E o Sila vai falar
+[1:28:56] - 4-FS_SIMOES - Qual a sua vida de volta?
+[1:28:57] - 3-RAPHAELVICARONE - Parem
+[1:29:10] - 2-HUGONORTH - Como é que é?
+[1:29:13] - 3-RAPHAELVICARONE - É isso
+[1:29:16] - 2-HUGONORTH - Pode ser a reaction,
+[1:29:23] - 4-FS_SIMOES - Exatamente.
+[1:29:24] - 2-HUGONORTH - Vá.
+[1:29:27] - 4-FS_SIMOES - Qual mais de...
+[1:29:29] - 3-RAPHAELVICARONE - Eu tava tentando colocar
+[1:29:30] - 2-HUGONORTH - Aqui fica pela frente.
+[1:29:33] - 3-RAPHAELVICARONE - Alguma marquinha ali
+[1:29:35] - 3-RAPHAELVICARONE - A magia ativa
+[1:29:38] - 3-RAPHAELVICARONE - O Shield of Fate
+[1:29:40] - 4-FS_SIMOES - Ué...
+[1:29:40] - 3-RAPHAELVICARONE - Só que fica
+[1:29:43] - 3-RAPHAELVICARONE - Então, mas ela fica por trás do negócio
+[1:29:45] - 3-RAPHAELVICARONE - Olha ali
+[1:29:46] - 4-FS_SIMOES - Não.
+[1:29:47] - 3-RAPHAELVICARONE - Tá só pra mim?
+[1:29:49] - 3-RAPHAELVICARONE - Pra mim tá por trás do meu negócio
+[1:29:50] - 4-FS_SIMOES - Está pela frente.
+[1:29:52] - 3-RAPHAELVICARONE - Eu sei que tá
+[1:29:55] - 3-RAPHAELVICARONE - Em volta do meu token
+[1:29:55] - 2-HUGONORTH - Recarrega a página.
+[1:29:57] - 4-FS_SIMOES - Aham.
+[1:29:59] - 3-RAPHAELVICARONE - Por isso que eu tava me matando ali
+[1:30:02] - 3-RAPHAELVICARONE - Porque eu clicava no X
+[1:30:04] - 3-RAPHAELVICARONE - Todos os negócios do XM
+[1:30:07] - 3-RAPHAELVICARONE - Bem idiota
+[1:30:10] - 3-RAPHAELVICARONE - Da minha parte
+[1:30:17] - 4-FS_SIMOES - Só para te mostrar, postei aí, como é que você aparece com a gente.
+[1:30:19] - 3-RAPHAELVICARONE - Ah, foi, foi, foi
+[1:30:21] - 4-FS_SIMOES - Oi?
+[1:30:22] - 3-RAPHAELVICARONE - Cara, eu não sei qual símbolo usar
+[1:30:25] - 3-RAPHAELVICARONE - Que é o que faz mais sentido
+[1:30:27] - 4-FS_SIMOES - Ok.
+[1:30:29] - 3-RAPHAELVICARONE - Pra alguma outra coisa
+[1:30:34] - 3-RAPHAELVICARONE - E depois de eu falar
+[1:30:37] - 3-RAPHAELVICARONE - Pra esses idiotas pararem
+[1:30:40] - 3-RAPHAELVICARONE - Eu encerro meu turno
+[1:30:45] - 4-FS_SIMOES - Esse zumbi, esse gol.
+[1:30:50] - 4-FS_SIMOES - Um, dois, três, quatro.
+[1:30:53] - 4-FS_SIMOES - Ele vai atacar o golfinho.
+[1:30:55] - 4-FS_SIMOES - Deixa eu...
+[1:30:58] - 4-FS_SIMOES - Está mostrando como...
+[1:31:03] - 4-FS_SIMOES - Está mostrando para a GM, não fode.
+[1:31:04] - 3-RAPHAELVICARONE - É, creditデos!
+[1:31:07] - 4-FS_SIMOES - Bem...
+[1:31:08] - 3-RAPHAELVICARONE - Ai, o Confino música
+[1:31:10] - 2-HUGONORTH - Zero, da tela?
+[1:31:11] - 3-RAPHAELVICARONE - Um e banks
+[1:31:12] - 4-FS_SIMOES - Faz um...
+[1:31:13] - 3-RAPHAELVICARONE - Tá aí
+[1:31:15] - 4-FS_SIMOES - Constitution, se é vitro, por favor.
+[1:31:16] - 3-RAPHAELVICARONE - Não sei se vai a genteoker
+[1:31:17] - 2-HUGONORTH - Procidou?
+[1:31:18] - 3-RAPHAELVICARONE - Que é o objetivo
+[1:31:19] - 2-HUGONORTH - Seja.
+[1:31:21] - 4-FS_SIMOES - Tá.
+[1:31:25] - 2-HUGONORTH - Começou
+[1:31:26] - 4-FS_SIMOES - Isso.
+[1:31:27] - 3-RAPHAELVICARONE - E agora vai
+[1:31:29] - 4-FS_SIMOES - Dá...
+[1:31:29] - 2-HUGONORTH - Caralho
+[1:31:31] - 3-RAPHAELVICARONE - P slows
+[1:31:31] - 4-FS_SIMOES - Vai virar...
+[1:31:33] - 3-RAPHAELVICARONE - Hum-hum.
+[1:31:34] - 4-FS_SIMOES - Você vai ver o que vai acontecer com você.
+[1:31:37] - 4-FS_SIMOES - É.
+[1:31:40] - 2-HUGONORTH - É
+[1:31:43] - 4-FS_SIMOES - Beleza.
+[1:31:46] - 4-FS_SIMOES - Deixa eu rolar aqui o...
+[1:31:48] - 4-FS_SIMOES - O Atlético...
+[1:31:53] - 4-FS_SIMOES - Quando...
+[1:31:57] - 4-FS_SIMOES - E você vê o gol...
+[1:31:59] - 4-FS_SIMOES - Subindo...
+[1:32:04] - 4-FS_SIMOES - E ele vem aqui para cima...
+[1:32:07] - 4-FS_SIMOES - Não...
+[1:32:09] - 4-FS_SIMOES - Ele dá dash em você...
+[1:32:12] - 4-FS_SIMOES - Chega até o seu...
+[1:32:16] - 4-FS_SIMOES - E passa o turno dele.
+[1:32:20] - 4-FS_SIMOES - Matheus, você...
+[1:32:35] - 4-FS_SIMOES - Parece que...
+[1:32:36] - 2-HUGONORTH - Eu queria muito gastar minha reaction pra falar assim
+[1:32:41] - 2-HUGONORTH - Mas eu vou gastar não
+[1:32:42] - 4-FS_SIMOES - O treino...
+[1:32:50] - 4-FS_SIMOES - Deixa você ver...
+[1:32:56] - 4-FS_SIMOES - Ele vai aqui...
+[1:32:58] - 4-FS_SIMOES - T...
+[1:33:00] - 4-FS_SIMOES - E...
+[1:33:15] - 2-HUGONORTH - É crítico
+[1:33:30] - 4-FS_SIMOES - Vamos lá
+[1:33:36] - 2-HUGONORTH - O seu sneak é 20 de dano
+[1:33:42] - 2-HUGONORTH - O seu piercing é
+[1:33:45] - 2-HUGONORTH - Então é 29 de dano
+[1:33:47] - 2-HUGONORTH - É
+[1:33:51] - 2-HUGONORTH - Não, dobra
+[1:33:56] - 2-HUGONORTH - Dobra do sneak
+[1:33:59] - 2-HUGONORTH - Só que o seu piercing você tirou 2 no dado
+[1:34:01] - 2-HUGONORTH - Mais 5
+[1:34:05] - 2-HUGONORTH - Aí vira 4 no dado
+[1:34:07] - 2-HUGONORTH - 9
+[1:34:09] - 4-FS_SIMOES - Mas sai crítico
+[1:34:09] - 2-HUGONORTH - Sim
+[1:34:11] - 3-RAPHAELVICARONE - Não deu um crítico então até agora caralho
+[1:34:12] - 4-FS_SIMOES - A gente dá crítico no seu
+[1:34:15] - 4-FS_SIMOES - Então tá bom
+[1:34:16] - 2-HUGONORTH - É tudo
+[1:34:19] - 2-HUGONORTH - Tipo no
+[1:34:19] - 4-FS_SIMOES - Sabia disso não
+[1:34:21] - 2-HUGONORTH - Por exemplo
+[1:34:23] - 2-HUGONORTH - Você dobra o Hunter's Mark
+[1:34:26] - 4-FS_SIMOES - Entendi
+[1:34:31] - 2-HUGONORTH - Se der smite
+[1:34:34] - 2-HUGONORTH - É
+[1:34:36] - 2-HUGONORTH - O dano do smite também dobra
+[1:34:40] - 4-FS_SIMOES - Não, só pra poder
+[1:34:49] - 4-FS_SIMOES - O dano foi 20
+[1:34:52] - 4-FS_SIMOES - Foi quanto, perdão?
+[1:34:55] - 4-FS_SIMOES - 29, né?
+[1:34:57] - 4-FS_SIMOES - Beleza
+[1:35:08] - 4-FS_SIMOES - Aplicou
+[1:35:11] - 4-FS_SIMOES - Botar o mouse por cima
+[1:35:16] - 4-FS_SIMOES - Mh-hm
+[1:35:28] - 4-FS_SIMOES - Não tem sneak
+[1:35:37] - 2-HUGONORTH - Foi 15 de sneak
+[1:35:41] - 2-HUGONORTH - 23 de dano, né?
+[1:35:45] - 4-FS_SIMOES - Sneak é só no primeiro ataque
+[1:35:46] - 2-HUGONORTH - É, verdade
+[1:35:49] - 2-HUGONORTH - Bem lembrado
+[1:35:51] - 2-HUGONORTH - 8 de dano
+[1:35:53] - 4-FS_SIMOES - Isso
+[1:35:54] - 2-HUGONORTH - Show
+[1:35:57] - 4-FS_SIMOES - Mais alguma coisa, Matheus?
+[1:36:07] - 2-HUGONORTH - Só pra lembrar
+[1:36:15] - 2-HUGONORTH - Que ele tava prone
+[1:36:17] - 4-FS_SIMOES - Boa
+[1:36:18] - 2-HUGONORTH - Então ele tem que
+[1:36:21] - 2-HUGONORTH - Ou
+[1:36:24] - 4-FS_SIMOES - Você tava caído
+[1:36:28] - 4-FS_SIMOES - Vem cá
+[1:36:29] - 2-HUGONORTH - Entrando
+[1:36:32] - 2-HUGONORTH - É
+[1:36:32] - 4-FS_SIMOES - Quando você tá
+[1:36:34] - 4-FS_SIMOES - Você tava caído
+[1:36:38] - 4-FS_SIMOES - Chegar esta metade
+[1:36:41] - 4-FS_SIMOES - Correto
+[1:36:47] - 2-HUGONORTH - Bien
+[1:36:51] - 4-FS_SIMOES - Foi?
+[1:36:57] - 4-FS_SIMOES - Agora tá na vez do
+[1:37:00] - 4-FS_SIMOES - Na verdade ele tem
+[1:37:06] - 4-FS_SIMOES - Ele tem basicamente
+[1:37:10] - 4-FS_SIMOES - E uma bonus action
+[1:37:33] - 4-FS_SIMOES - Sei lá
+[1:37:41] - 4-FS_SIMOES - Psyonic strike
+[1:37:50] - 4-FS_SIMOES - Acho que sim
+[1:37:57] - 4-FS_SIMOES - Eu também não
+[1:38:02] - 4-FS_SIMOES - É um D8
+[1:38:04] - 4-FS_SIMOES - É, sem hit
+[1:38:06] - 4-FS_SIMOES - Psy
+[1:38:11] - 4-FS_SIMOES - Tá onde?
+[1:38:30] - 4-FS_SIMOES - Ah, tô vendo
+[1:38:42] - 4-FS_SIMOES - Ok
+[1:38:45] - 4-FS_SIMOES - As pessoas estão ao redor
+[1:38:48] - 4-FS_SIMOES - Duas energias na sua mão
+[1:38:50] - 4-FS_SIMOES - Com uma mão
+[1:38:53] - 4-FS_SIMOES - O ataque de outra mão
+[1:38:55] - 4-FS_SIMOES - Tipo uma espada
+[1:38:57] - 4-FS_SIMOES - Você ataca
+[1:39:01] - 4-FS_SIMOES - Ele tenta proteger
+[1:39:03] - 4-FS_SIMOES - O braço dele
+[1:39:06] - 4-FS_SIMOES - Se defender
+[1:39:08] - 4-FS_SIMOES - Cai no chão
+[1:39:11] - 4-FS_SIMOES - Querendo te atacar
+[1:39:13] - 4-FS_SIMOES - Mais alguma coisa
+[1:39:17] - 4-FS_SIMOES - Meu querido
+[1:39:22] - 2-HUGONORTH - Isso
+[1:39:24] - 4-FS_SIMOES - Golfin
+[1:39:27] - 4-FS_SIMOES - O Jon Snow
+[1:39:28] - 2-HUGONORTH - Eu
+[1:39:30] - 2-HUGONORTH - Ele dá uma arrosnada
+[1:39:33] - 2-HUGONORTH - E ele sai correndo
+[1:39:36] - 2-HUGONORTH - Al iTunes
+[1:39:39] - 2-HUGONORTH - Ataque de oportunidade
+[1:39:40] - 4-FS_SIMOES - Muito bom
+[1:39:43] - 2-HUGONORTH - Do gol
+[1:39:44] - 4-FS_SIMOES - Você vai dar ataque
+[1:39:46] - 4-FS_SIMOES - De oportunidade
+[1:39:56] - 4-FS_SIMOES - Você tem que
+[1:39:59] - 2-HUGONORTH - Você tem que ver se eu vou passar no Constitution.
+[1:40:01] - 4-FS_SIMOES - Ah perdão
+[1:40:03] - 2-HUGONORTH - Eu sei o que acontece quando falha.
+[1:40:07] - 4-FS_SIMOES - Ele deu
+[1:40:10] - 4-FS_SIMOES - Dá um
+[1:40:12] - 4-FS_SIMOES - Rola um D
+[1:40:14] - 2-HUGONORTH - Doze.
+[1:40:14] - 4-FS_SIMOES - D10 aí
+[1:40:18] - 4-FS_SIMOES - Isso
+[1:40:20] - 2-HUGONORTH - Passei?
+[1:40:20] - 4-FS_SIMOES - Você tomou 6 de dano
+[1:40:22] - 2-HUGONORTH - Seis, metade, três, né?
+[1:40:26] - 2-HUGONORTH - Show.
+[1:40:27] - 4-FS_SIMOES - Errou
+[1:40:31] - 2-HUGONORTH - Primeiro ataque, Reckless.
+[1:40:38] - 2-HUGONORTH - Dezessete.
+[1:40:40] - 4-FS_SIMOES - Não
+[1:40:42] - 4-FS_SIMOES - Ah tá
+[1:40:46] - 2-HUGONORTH - Doze é o Constitution.
+[1:40:48] - 4-FS_SIMOES - Perdão
+[1:40:52] - 4-FS_SIMOES - Então pode rolar o dano
+[1:40:54] - 2-HUGONORTH - Topo.
+[1:40:54] - 4-FS_SIMOES - Ren WOODRUFF
+[1:40:57] - 2-HUGONORTH - Save entrou para mim, o...
+[1:41:03] - 2-HUGONORTH - E...
+[1:41:03] - 4-FS_SIMOES - ты
+[1:41:09] - 2-HUGONORTH - Mais três.
+[1:41:10] - 4-FS_SIMOES - Es
+[1:41:14] - 2-HUGONORTH - DC é catorze, Constitution save entrou, por favor.
+[1:41:15] - 4-FS_SIMOES - quele
+[1:41:18] - 4-FS_SIMOES - θ
+[1:41:23] - 2-HUGONORTH - Dezoito passa.
+[1:41:26] - 2-HUGONORTH - Todo ataque, no caso.
+[1:41:29] - 2-HUGONORTH - É.
+[1:41:30] - 4-FS_SIMOES - Que é uma estria da
+[1:41:32] - 4-FS_SIMOES - Tá
+[1:41:35] - 2-HUGONORTH - Então, beleza.
+[1:41:42] - 2-HUGONORTH - Como é que a gente vai fazer?
+[1:41:43] - 4-FS_SIMOES - É
+[1:41:44] - 2-HUGONORTH - Usar o Reaction ou a gente...
+[1:41:45] - 4-FS_SIMOES - Olha só
+[1:41:47] - 2-HUGONORTH - Você quer usar nesse?
+[1:41:49] - 4-FS_SIMOES - A gente vai oferecer algumas vezes
+[1:41:52] - 4-FS_SIMOES - Ah não, vou usar o negócio
+[1:41:54] - 4-FS_SIMOES - Pô, a reação tem que ser rápida
+[1:41:59] - 2-HUGONORTH - Vai usar então nesse?
+[1:42:04] - 4-FS_SIMOES - É reação
+[1:42:10] - 2-HUGONORTH - Seja dando.
+[1:42:12] - 2-HUGONORTH - Tá de pé ainda?
+[1:42:15] - 4-FS_SIMOES - Pô, a reação
+[1:42:17] - 2-HUGONORTH - Então, segundo ataque.
+[1:42:23] - 2-HUGONORTH - Pode, Of.
+[1:42:29] - 2-HUGONORTH - Dezinhaseis é certo?
+[1:42:34] - 2-HUGONORTH - Constitution save entrou aí, por favor.
+[1:42:41] - 2-HUGONORTH - Nove de dano.
+[1:42:45] - 2-HUGONORTH - Brone.
+[1:42:45] - 4-FS_SIMOES - Olha o meta conversação aí
+[1:42:53] - 2-HUGONORTH - Foi...
+[1:42:56] - 4-FS_SIMOES - Ele te derrubou no chão
+[1:43:01] - 2-HUGONORTH - Você tomou nove de dano nesse?
+[1:43:10] - 2-HUGONORTH - Tá vivo ainda?
+[1:43:12] - 4-FS_SIMOES - Tá vivo ainda
+[1:43:18] - 4-FS_SIMOES - A fotinho do Gu apareceu ali?
+[1:43:20] - 2-HUGONORTH - Apareceu.
+[1:43:24] - 2-HUGONORTH - Não foi um crítico.
+[1:43:26] - 2-HUGONORTH - Terceiro ataque...
+[1:43:30] - 2-HUGONORTH - É...
+[1:43:34] - 2-HUGONORTH - Onze de dano.
+[1:43:37] - 3-RAPHAELVICARONE - Olha direito
+[1:43:40] - 4-FS_SIMOES - Bart, você vai fazer alguma coisa
+[1:43:43] - 4-FS_SIMOES - Deixa eu ver aqui
+[1:43:47] - 2-HUGONORTH - Só por curiosidade.
+[1:43:54] - 2-HUGONORTH - Se puder clicar aí na sua ficha pra aparecer pra todo mundo, seria bom.
+[1:43:56] - 4-FS_SIMOES - Não, você vai falar
+[1:44:03] - 4-FS_SIMOES - Eu vou
+[1:44:05] - 4-FS_SIMOES - Fazer auditoria
+[1:44:05] - 3-RAPHAELVICARONE - Obrigado.
+[1:44:11] - 2-HUGONORTH - Que pariu, hein?
+[1:44:12] - 4-FS_SIMOES - É, pô
+[1:44:27] - 2-HUGONORTH - Protective field.
+[1:44:30] - 4-FS_SIMOES - É basicamente ele
+[1:44:33] - 4-FS_SIMOES - Ele gasta
+[1:44:35] - 4-FS_SIMOES - Um dos dados
+[1:44:37] - 4-FS_SIMOES - Pra poder
+[1:44:41] - 4-FS_SIMOES - De 1T8
+[1:44:41] - 2-HUGONORTH - Foi cinco ali que ele rodou, né?
+[1:44:43] - 4-FS_SIMOES - Peraí
+[1:44:47] - 4-FS_SIMOES - Então
+[1:44:49] - 4-FS_SIMOES - Deixa eu ver
+[1:44:51] - 4-FS_SIMOES - Não, não, não, não, não
+[1:44:54] - 2-HUGONORTH - É, rodou o primeiro ali.
+[1:44:56] - 4-FS_SIMOES - É, ok
+[1:44:58] - 2-HUGONORTH - Ué, você rodou opciona em protective field.
+[1:44:59] - 4-FS_SIMOES - Rodou lá
+[1:45:00] - 2-HUGONORTH - Que...
+[1:45:01] - 4-FS_SIMOES - Tá, cara
+[1:45:03] - 2-HUGONORTH - Ué, mas é o mesmo rodado, né?
+[1:45:05] - 4-FS_SIMOES - É
+[1:45:07] - 2-HUGONORTH - Não.
+[1:45:08] - 4-FS_SIMOES - Você reduziu 5 do dano dele
+[1:45:11] - 2-HUGONORTH - É, eu tenho onze de dano, menos cinco ou seis.
+[1:45:12] - 4-FS_SIMOES - Pô, Gustavo
+[1:45:15] - 4-FS_SIMOES - 6, eu acho
+[1:45:17] - 4-FS_SIMOES - É
+[1:45:20] - 4-FS_SIMOES - Gastou seu dado
+[1:45:22] - 4-FS_SIMOES - A boca
+[1:45:23] - 2-HUGONORTH - E vai pro chão.
+[1:45:25] - 2-HUGONORTH - O golfin vai virar pro...
+[1:45:29] - 2-HUGONORTH - Pro viadinho ali de trás.
+[1:45:31] - 2-HUGONORTH - Está ele morto?
+[1:45:36] - 2-HUGONORTH - Ou você é o próximo?
+[1:45:44] - 2-HUGONORTH - E é isso.
+[1:45:46] - 4-FS_SIMOES - A narradora
+[1:45:50] - 4-FS_SIMOES - A gente não consegue
+[1:45:52] - 4-FS_SIMOES - Finalmente
+[1:45:54] - 4-FS_SIMOES - Você é o melhor
+[1:45:57] - 4-FS_SIMOES - te ver
+[1:45:58] - 2-HUGONORTH - É, Nina.
+[1:45:59] - 4-FS_SIMOES - Essa noite não
+[1:46:02] - 4-FS_SIMOES - Próximo turno
+[1:46:05] - 3-RAPHAELVICARONE - Tá maneiro mesmo.
+[1:46:06] - 4-FS_SIMOES - eu estou achando uma merda
+[1:46:14] - 4-FS_SIMOES - foi mal
+[1:46:23] - 3-RAPHAELVICARONE - É, vou dar essa creditflame nesse gol aqui da minha frente.
+[1:46:26] - 3-RAPHAELVICARONE - Já joguei, já cedei a 15.
+[1:46:29] - 2-HUGONORTH - Tchau, tchau.
+[1:46:32] - 4-FS_SIMOES - rola aí vai
+[1:46:34] - 4-FS_SIMOES - 15
+[1:46:38] - 4-FS_SIMOES - deixa eu ver
+[1:46:38] - 3-RAPHAELVICARONE - É dexterity.
+[1:46:40] - 4-FS_SIMOES - apareceu aí
+[1:46:44] - 4-FS_SIMOES - só para o GM, deu 11
+[1:46:44] - 3-RAPHAELVICARONE - Não.
+[1:46:46] - 4-FS_SIMOES - não passou
+[1:46:47] - 3-RAPHAELVICARONE - Então, 15 de dano.
+[1:46:50] - 4-FS_SIMOES - não, eu vi aqui
+[1:46:51] - 3-RAPHAELVICARONE - É, acho que é.
+[1:46:53] - 3-RAPHAELVICARONE - Gull tem fraqueza contra a rated?
+[1:46:56] - 4-FS_SIMOES - a primeira coisa que eu vi
+[1:47:00] - 4-FS_SIMOES - Pogo, acabei de descobrir que se você botar
+[1:47:00] - 3-RAPHAELVICARONE - Ah, tá só pra saber.
+[1:47:06] - 4-FS_SIMOES - menos 15, ele reduz menos 15, eu fazia o cálculo realmente na mão antes
+[1:47:12] - 4-FS_SIMOES - no tokenzinho
+[1:47:18] - 4-FS_SIMOES - tem, se você botar mais 15
+[1:47:21] - 4-FS_SIMOES - menos 15
+[1:47:23] - 3-RAPHAELVICARONE - É uma chama.
+[1:47:24] - 4-FS_SIMOES - acabei
+[1:47:28] - 4-FS_SIMOES - mudou minha vida
+[1:47:31] - 4-FS_SIMOES - você tem ideia eu tinha um sisteminha toda parte
+[1:47:33] - 4-FS_SIMOES - só para calcular essas porra
+[1:47:40] - 4-FS_SIMOES - só pode só me dar a descrição de como é que é o seu dano
+[1:47:47] - 4-FS_SIMOES - só para poder fazer a narração
+[1:47:50] - 3-RAPHAELVICARONE - Que dá dano Radiant, dano Celestial.
+[1:47:54] - 3-RAPHAELVICARONE - Sai provavelmente da palma na mão.
+[1:47:56] - 4-FS_SIMOES - você vai fazer mais alguma coisa
+[1:47:59] - 3-RAPHAELVICARONE - Não.
+[1:48:00] - 4-FS_SIMOES - tem um
+[1:48:04] - 4-FS_SIMOES - um berserk
+[1:48:07] - 4-FS_SIMOES - vindo na sua direção
+[1:48:09] - 3-RAPHAELVICARONE - Tudo bem.
+[1:48:11] - 4-FS_SIMOES - beleza
+[1:48:14] - 4-FS_SIMOES - eu só estava
+[1:48:20] - 4-FS_SIMOES - eu estava
+[1:48:20] - 3-RAPHAELVICARONE - Tchau.
+[1:48:22] - 4-FS_SIMOES - o Rafa falou que ia ficar parado
+[1:48:25] - 4-FS_SIMOES - tem certeza
+[1:48:27] - 4-FS_SIMOES - aí ele falou
+[1:48:29] - 4-FS_SIMOES - tenho certeza
+[1:48:36] - 4-FS_SIMOES - ele pega uma chama
+[1:48:37] - 3-RAPHAELVICARONE - Obrigado.
+[1:48:40] - 4-FS_SIMOES - um fogo
+[1:48:43] - 4-FS_SIMOES - meio amarelado
+[1:48:45] - 4-FS_SIMOES - a luz do sol na mão dele
+[1:48:49] - 4-FS_SIMOES - muito bem
+[1:48:51] - 4-FS_SIMOES - e o Gull
+[1:48:54] - 4-FS_SIMOES - ele
+[1:49:01] - 4-FS_SIMOES - assim
+[1:49:04] - 4-FS_SIMOES - ele
+[1:49:07] - 4-FS_SIMOES - assim
+[1:49:14] - 4-FS_SIMOES - aquele que não gostava
+[1:49:17] - 4-FS_SIMOES - mais dano
+[1:49:20] - 4-FS_SIMOES - muito bem Silas
+[1:49:22] - 4-FS_SIMOES - o seu show inicial
+[1:49:25] - 4-FS_SIMOES - mas agora
+[1:49:27] - 4-FS_SIMOES - suas cores
+[1:49:30] - 4-FS_SIMOES - festival do sangue
+[1:49:38] - 4-FS_SIMOES - você vai fazer mais alguma coisa
+[1:49:41] - 4-FS_SIMOES - tá vamos lá
+[1:49:45] - 4-FS_SIMOES - esse
+[1:49:48] - 4-FS_SIMOES - de cima do Bartinho
+[1:49:52] - 4-FS_SIMOES - ele
+[1:49:57] - 4-FS_SIMOES - faz um
+[1:49:59] - 4-FS_SIMOES - por favor
+[1:50:01] - 4-FS_SIMOES - Bart
+[1:50:04] - 4-FS_SIMOES - você está
+[1:50:07] - 4-FS_SIMOES - você toma
+[1:50:10] - 4-FS_SIMOES - e está paralisado
+[1:50:11] - 2-HUGONORTH - Acho que você não pode tomar emoção
+[1:50:12] - 4-FS_SIMOES - o que paralisado
+[1:50:14] - 4-FS_SIMOES - significa
+[1:50:19] - 2-HUGONORTH - No seu turno você pode rogar de novo
+[1:50:22] - 4-FS_SIMOES - é que eu estou
+[1:50:22] - 2-HUGONORTH - Obrigado
+[1:50:25] - 4-FS_SIMOES - que achei
+[1:50:28] - 4-FS_SIMOES - deixa eu ler
+[1:50:31] - 4-FS_SIMOES - se tem até como mandar
+[1:50:33] - 4-FS_SIMOES - só pela zoeira
+[1:50:41] - 4-FS_SIMOES - não tem
+[1:50:43] - 4-FS_SIMOES - eu vou mandar copiado
+[1:50:46] - 4-FS_SIMOES - descobrir
+[1:50:48] - 4-FS_SIMOES - com você
+[1:50:54] - 4-FS_SIMOES - você está na condição
+[1:50:56] - 4-FS_SIMOES - paralisado
+[1:51:01] - 4-FS_SIMOES - entrou sobre você
+[1:51:04] - 4-FS_SIMOES - sua velocidade
+[1:51:10] - 4-FS_SIMOES - é zero
+[1:51:14] - 4-FS_SIMOES - incapacitado
+[1:51:18] - 4-FS_SIMOES - ou você
+[1:51:24] - 4-FS_SIMOES - incapacitado
+[1:51:26] - 4-FS_SIMOES - fazer nenhuma
+[1:51:29] - 4-FS_SIMOES - ou reaction
+[1:51:31] - 4-FS_SIMOES - você
+[1:51:34] - 4-FS_SIMOES - tem vantagem
+[1:51:36] - 4-FS_SIMOES - fazer nada
+[1:51:39] - 4-FS_SIMOES - sua velocidade
+[1:51:42] - 4-FS_SIMOES - é zero
+[1:51:48] - 4-FS_SIMOES - todos os
+[1:51:53] - 4-FS_SIMOES - ataques
+[1:51:56] - 4-FS_SIMOES - todo o
+[1:51:58] - 4-FS_SIMOES - de força
+[1:52:01] - 4-FS_SIMOES - você
+[1:52:04] - 4-FS_SIMOES - todos os
+[1:52:06] - 4-FS_SIMOES - ataques
+[1:52:10] - 4-FS_SIMOES - sobre você
+[1:52:13] - 4-FS_SIMOES - crítico
+[1:52:15] - 4-FS_SIMOES - ok
+[1:52:18] - 4-FS_SIMOES - desculpa
+[1:52:27] - 4-FS_SIMOES - tem que ser
+[1:52:29] - 4-FS_SIMOES - contra você
+[1:52:34] - 4-FS_SIMOES - como é que faz
+[1:52:42] - 4-FS_SIMOES - deixa eu só
+[1:52:45] - 4-FS_SIMOES - pô mas
+[1:52:53] - 4-FS_SIMOES - descer de 10
+[1:53:04] - 4-FS_SIMOES - pode ser
+[1:53:10] - 4-FS_SIMOES - no início
+[1:53:12] - 4-FS_SIMOES - constitucion save
+[1:53:19] - 4-FS_SIMOES - não
+[1:53:22] - 4-FS_SIMOES - agora é o turno
+[1:53:25] - 4-FS_SIMOES - desse gol
+[1:53:27] - 4-FS_SIMOES - e ataca
+[1:53:30] - 4-FS_SIMOES - que ele também
+[1:53:31] - 3-RAPHAELVICARONE - Você não está mais mostrando?
+[1:53:33] - 4-FS_SIMOES - vai
+[1:53:33] - 3-RAPHAELVICARONE - De propósito, não está aparecendo?
+[1:53:35] - 3-RAPHAELVICARONE - Não, o que que é quando você rola dos ghouls aí?
+[1:53:37] - 4-FS_SIMOES - é sem querer
+[1:53:40] - 4-FS_SIMOES - eu estou usando
+[1:53:44] - 4-FS_SIMOES - o automático
+[1:53:46] - 3-RAPHAELVICARONE - Ah, entendi.
+[1:53:47] - 4-FS_SIMOES - porque
+[1:53:50] - 4-FS_SIMOES - como eu estou
+[1:53:52] - 4-FS_SIMOES - tipo
+[1:53:55] - 4-FS_SIMOES - Bart
+[1:54:02] - 4-FS_SIMOES - peraí
+[1:54:04] - 4-FS_SIMOES - me perdoa
+[1:54:05] - 3-RAPHAELVICARONE - Não.
+[1:54:07] - 4-FS_SIMOES - não tinha
+[1:54:11] - 4-FS_SIMOES - paralisado
+[1:54:15] - 4-FS_SIMOES - pode recuperar
+[1:54:18] - 4-FS_SIMOES - botei até
+[1:54:20] - 4-FS_SIMOES - meu querido
+[1:54:23] - 4-FS_SIMOES - 8
+[1:54:26] - 3-RAPHAELVICARONE - Nem perto.
+[1:54:27] - 4-FS_SIMOES - passar
+[1:54:29] - 4-FS_SIMOES - Hugo
+[1:54:33] - 4-FS_SIMOES - voltar
+[1:54:35] - 3-RAPHAELVICARONE - Ah, tá sempre entre vocês dois, né?
+[1:54:36] - 4-FS_SIMOES - legais
+[1:55:03] - 4-FS_SIMOES - está de volta
+[1:55:09] - 4-FS_SIMOES - assim que
+[1:55:11] - 4-FS_SIMOES - o
+[1:55:14] - 4-FS_SIMOES - tenta
+[1:55:17] - 4-FS_SIMOES - uma
+[1:55:19] - 4-FS_SIMOES - dá um
+[1:55:21] - 4-FS_SIMOES - embola
+[1:55:23] - 4-FS_SIMOES - ele roda
+[1:55:26] - 4-FS_SIMOES - ainda assim
+[1:55:28] - 4-FS_SIMOES - seu
+[1:55:30] - 4-FS_SIMOES - grita
+[1:55:33] - 4-FS_SIMOES - tá muito
+[1:55:36] - 4-FS_SIMOES - diz aí
+[1:55:38] - 4-FS_SIMOES - diversão
+[1:55:48] - 4-FS_SIMOES - vocês escutam
+[1:55:51] - 3-RAPHAELVICARONE - Caral.
+[1:55:55] - 4-FS_SIMOES - você escuta
+[1:55:59] - 4-FS_SIMOES - começam
+[1:56:02] - 4-FS_SIMOES - tum
+[1:56:05] - 4-FS_SIMOES - passos
+[1:56:07] - 4-FS_SIMOES - chegando
+[1:56:09] - 4-FS_SIMOES - e mais
+[1:56:11] - 2-HUGONORTH - Eita.
+[1:56:12] - 4-FS_SIMOES - a porta
+[1:56:14] - 4-FS_SIMOES - a
+[1:56:17] - 4-FS_SIMOES - e lá
+[1:56:19] - 4-FS_SIMOES - dois
+[1:56:21] - 4-FS_SIMOES - minotauros
+[1:56:25] - 4-FS_SIMOES - e eles
+[1:56:31] - 2-HUGONORTH - Nossa.
+[1:56:34] - 2-HUGONORTH - Ficou ótimo.
+[1:56:35] - 4-FS_SIMOES - e os olhos
+[1:56:37] - 4-FS_SIMOES - dele
+[1:56:39] - 2-HUGONORTH - Ok.
+[1:56:39] - 4-FS_SIMOES - caveira
+[1:56:41] - 2-HUGONORTH - Eita.
+[1:56:42] - 4-FS_SIMOES - os inimigos
+[1:56:43] - 2-HUGONORTH - Não.
+[1:56:45] - 4-FS_SIMOES - só
+[1:56:46] - 2-HUGONORTH - E já o quanto tiver uma última análise Rings e gente filmá-la?
+[1:56:48] - 4-FS_SIMOES - e
+[1:56:56] - 4-FS_SIMOES - meus
+[1:57:00] - 2-HUGONORTH - O outro vai selecionar.
+[1:57:02] - 2-HUGONORTH - E cutê.
+[1:57:04] - 4-FS_SIMOES - monstros
+[1:57:07] - 2-HUGONORTH - Fal lä read, eu josi não já ganhamos.
+[1:57:17] - 4-FS_SIMOES - quiserem
+[1:57:19] - 4-FS_SIMOES - é um
+[1:57:27] - 3-RAPHAELVICARONE - que é
+[1:57:28] - 4-FS_SIMOES - minotauro
+[1:57:32] - 4-FS_SIMOES - pra fazer
+[1:57:36] - 4-FS_SIMOES - o que
+[1:57:41] - 2-HUGONORTH - E
+[1:57:42] - 4-FS_SIMOES - lembra
+[1:57:44] - 4-FS_SIMOES - isso
+[1:57:47] - 4-FS_SIMOES - turno
+[1:57:49] - 4-FS_SIMOES - fazer
+[1:57:49] - 3-RAPHAELVICARONE - Reforço positivo.
+[1:57:53] - 4-FS_SIMOES - obrigado
+[1:57:55] - 4-FS_SIMOES - a gente
+[1:58:04] - 4-FS_SIMOES - vai
+[1:58:11] - 4-FS_SIMOES - áudiozinho
+[1:58:11] - 2-HUGONORTH - Seja feliz, pode capturar.
+[1:58:13] - 4-FS_SIMOES - Matheus
+[1:58:15] - 4-FS_SIMOES - ah é
+[1:58:17] - 3-RAPHAELVICARONE - Fala um devinho.
+[1:58:21] - 4-FS_SIMOES - perdão
+[1:58:23] - 4-FS_SIMOES - rola
+[1:58:27] - 3-RAPHAELVICARONE - Rola um devinho.
+[1:58:37] - 2-HUGONORTH - Eu tenho que ir com um dedo.
+[1:58:39] - 4-FS_SIMOES - D20
+[1:58:41] - 2-HUGONORTH - O estado está mudado.
+[1:58:54] - 4-FS_SIMOES - cara
+[1:59:02] - 4-FS_SIMOES - você é o Matheus
+[1:59:06] - 4-FS_SIMOES - porra
+[1:59:10] - 4-FS_SIMOES - caralho
+[1:59:13] - 4-FS_SIMOES - mano
+[1:59:15] - 4-FS_SIMOES - que
+[1:59:19] - 4-FS_SIMOES - sucesso
+[1:59:24] - 4-FS_SIMOES - sua vez
+[1:59:37] - 4-FS_SIMOES - pode chamar de
+[1:59:40] - 4-FS_SIMOES - acerta
+[1:59:51] - 4-FS_SIMOES - anarm
+[1:59:54] - 4-FS_SIMOES - cara
+[1:59:57] - 4-FS_SIMOES - você tá dando um soco nele
+[2:00:00] - 4-FS_SIMOES - ah porra
+[2:00:02] - 4-FS_SIMOES - foi mal
+[2:00:07] - 4-FS_SIMOES - tenta
+[2:00:12] - 4-FS_SIMOES - vai rolar o
+[2:00:17] - 4-FS_SIMOES - não, não, não, peraí
+[2:00:22] - 4-FS_SIMOES - ou é um ataque normal, cara
+[2:00:26] - 4-FS_SIMOES - dano direto
+[2:00:30] - 4-FS_SIMOES - é, pô, o Sionic Strike
+[2:00:31] - 2-HUGONORTH - O estado mudado.
+[2:00:32] - 4-FS_SIMOES - cadê tua espada, cara?
+[2:00:35] - 4-FS_SIMOES - cara, equipa tu
+[2:00:39] - 4-FS_SIMOES - tá não, pô
+[2:00:44] - 4-FS_SIMOES - peraí
+[2:00:48] - 4-FS_SIMOES - a página, vamos lá
+[2:00:52] - 4-FS_SIMOES - Sionic Strike, tá
+[2:00:55] - 4-FS_SIMOES - tá bom
+[2:01:00] - 4-FS_SIMOES - junta
+[2:01:02] - 4-FS_SIMOES - eu vou, cara
+[2:01:09] - 4-FS_SIMOES - você pode dar 2 ataques
+[2:01:13] - 4-FS_SIMOES - com o Sionic Strike, não pode?
+[2:01:16] - 4-FS_SIMOES - ah tá, beleza
+[2:01:27] - 4-FS_SIMOES - você ganha 2 ataques
+[2:01:30] - 4-FS_SIMOES - aí eu tô vendo aqui, eu confirmei aqui
+[2:01:32] - 4-FS_SIMOES - todo mundo no nível 5 tem 2 ataques
+[2:01:37] - 4-FS_SIMOES - mas de qualquer forma
+[2:01:39] - 4-FS_SIMOES - aqui no seu você pode ver
+[2:01:42] - 4-FS_SIMOES - do lado do Sion
+[2:01:45] - 4-FS_SIMOES - só
+[2:01:48] - 4-FS_SIMOES - do lado do Sion tá
+[2:01:51] - 4-FS_SIMOES - aí você pode
+[2:01:58] - 4-FS_SIMOES - para usar o Sionic Strike
+[2:02:05] - 4-FS_SIMOES - você gasta um daqueles seus dados?
+[2:02:13] - 4-FS_SIMOES - deixa eu ver
+[2:02:15] - 4-FS_SIMOES - 5 de dano nele
+[2:02:19] - 4-FS_SIMOES - 9 total
+[2:02:22] - 4-FS_SIMOES - quando você
+[2:02:26] - 4-FS_SIMOES - o seu
+[2:02:29] - 4-FS_SIMOES - ele começa a
+[2:02:32] - 4-FS_SIMOES - pra trás assim
+[2:02:34] - 4-FS_SIMOES - o Denísio pega
+[2:02:38] - 4-FS_SIMOES - e arranca uma perna inteira
+[2:02:40] - 4-FS_SIMOES - então o bicho tá meio assim
+[2:02:45] - 4-FS_SIMOES - todo sangrando
+[2:02:47] - 4-FS_SIMOES - você questiona
+[2:02:49] - 4-FS_SIMOES - a sua própria sanidade
+[2:02:51] - 2-HUGONORTH - O golfinho vai vir até aqui
+[2:02:52] - 4-FS_SIMOES - ainda tá lutando
+[2:02:57] - 4-FS_SIMOES - golfinho
+[2:03:00] - 4-FS_SIMOES - e
+[2:03:03] - 2-HUGONORTH - Na verdade do ladinho aqui
+[2:03:08] - 2-HUGONORTH - Do
+[2:03:11] - 2-HUGONORTH - E ele vai falar
+[2:03:15] - 2-HUGONORTH - Eu sou só a única chance
+[2:03:18] - 2-HUGONORTH - De sair vivo daqui
+[2:03:21] - 2-HUGONORTH - Que eu garanto que aqueles minotauros vão cair
+[2:03:24] - 2-HUGONORTH - E ele ataca
+[2:03:27] - 2-HUGONORTH - O gol
+[2:03:33] - 2-HUGONORTH - Há
+[2:03:46] - 4-FS_SIMOES - Tá certo
+[2:03:50] - 2-HUGONORTH - Vou pensar o que eu vou fazer com o resto do meu
+[2:03:53] - 2-HUGONORTH - É 6 mais 3, 9
+[2:03:56] - 4-FS_SIMOES - Você mata ele
+[2:03:59] - 2-HUGONORTH - O que você fez?
+[2:04:06] - 2-HUGONORTH - Eu aí
+[2:04:08] - 4-FS_SIMOES - Caralho
+[2:04:12] - 2-HUGONORTH - A vantagem foi minha
+[2:04:15] - 4-FS_SIMOES - O
+[2:04:16] - 2-HUGONORTH - Porra
+[2:04:18] - 4-FS_SIMOES - Você
+[2:04:22] - 2-HUGONORTH - Que Beer
+[2:04:22] - 4-FS_SIMOES - O zumbi tá focado assim
+[2:04:25] - 4-FS_SIMOES - Em atacar o Silas, você vê que ele tá
+[2:04:27] - 2-HUGONORTH - Tá
+[2:04:29] - 4-FS_SIMOES - Tentando, pegando a garra dele
+[2:04:31] - 4-FS_SIMOES - E atacando o Silas
+[2:04:35] - 4-FS_SIMOES - E o Kun não tá prestando atenção em você
+[2:04:38] - 4-FS_SIMOES - Você chega
+[2:04:42] - 4-FS_SIMOES - E o Gul toma um susto
+[2:04:44] - 4-FS_SIMOES - E você casualmente pega o machado
+[2:04:46] - 4-FS_SIMOES - Acerta na cabeça dele
+[2:04:49] - 4-FS_SIMOES - Como se não fosse nada
+[2:04:52] - 4-FS_SIMOES - E você olha de volta pro Silas e fala
+[2:04:55] - 4-FS_SIMOES - Está entendido?
+[2:04:59] - 2-HUGONORTH - E aí eu dou um Adrenaline Rush como Bonus Action.
+[2:05:04] - 2-HUGONORTH - E dou uma corridinha pra cá.
+[2:05:05] - 4-FS_SIMOES - Pode rolar um
+[2:05:11] - 2-HUGONORTH - Mais ou menos pra cá? Deixa eu dar um som.
+[2:05:15] - 4-FS_SIMOES - Um save intro, por favor?
+[2:05:17] - 2-HUGONORTH - Eu acho que eu tenho vantagem.
+[2:05:21] - 4-FS_SIMOES - De
+[2:05:24] - 4-FS_SIMOES - Destreza
+[2:05:28] - 2-HUGONORTH - Peraí.
+[2:05:33] - 2-HUGONORTH - Perdão, dá dois segundinhos.
+[2:05:35] - 4-FS_SIMOES - Tá
+[2:05:37] - 2-HUGONORTH - Tem, né? Danger Sense.
+[2:05:42] - 2-HUGONORTH - Obrigado.
+[2:05:46] - 4-FS_SIMOES - Quando você tá
+[2:05:48] - 4-FS_SIMOES - Você tá correndo assim
+[2:05:48] - 2-HUGONORTH - É, eu não sei se tá aqui.
+[2:05:51] - 4-FS_SIMOES - Quando você para assim
+[2:05:53] - 4-FS_SIMOES - Você percebe que o chão não tá
+[2:05:57] - 4-FS_SIMOES - Não tá firme
+[2:05:59] - 4-FS_SIMOES - E no mesmo movimento
+[2:06:02] - 4-FS_SIMOES - Você se empurra
+[2:06:04] - 4-FS_SIMOES - Os braços pro lado
+[2:06:07] - 4-FS_SIMOES - Claudinho
+[2:06:10] - 2-HUGONORTH - É de Bárbara, né? Tá ali, Danger Sense. É. Agora que eu vi.
+[2:06:10] - 4-FS_SIMOES - Beleza
+[2:06:23] - 2-HUGONORTH - Pica ali.
+[2:06:26] - 2-HUGONORTH - Tem.
+[2:06:31] - 4-FS_SIMOES - Silas
+[2:06:32] - 2-HUGONORTH - Tá ali.
+[2:06:34] - 4-FS_SIMOES - Peraí, peraí, peraí, peraí
+[2:06:36] - 2-HUGONORTH - Púsica...
+[2:06:36] - 4-FS_SIMOES - E parece que não é mais
+[2:06:38] - 3-RAPHAELVICARONE - Ele vai virar para o Golfin e vai falar...
+[2:06:39] - 4-FS_SIMOES - Alguém tendo que fazer
+[2:06:43] - 4-FS_SIMOES - De dentro do
+[2:06:45] - 4-FS_SIMOES - É
+[2:06:47] - 4-FS_SIMOES - A gente já sabe que ele
+[2:06:50] - 4-FS_SIMOES - Não foi nem desafio
+[2:06:53] - 4-FS_SIMOES - Correndo agora
+[2:06:55] - 4-FS_SIMOES - Foi um buraco
+[2:06:58] - 4-FS_SIMOES - E
+[2:07:00] - 4-FS_SIMOES - Poder
+[2:07:06] - 3-RAPHAELVICARONE - Bem...
+[2:07:13] - 3-RAPHAELVICARONE - Desde que seja com as minhas regras.
+[2:07:18] - 3-RAPHAELVICARONE - Eu saio andando em direção ao...
+[2:07:23] - 3-RAPHAELVICARONE - Ao Matheus.
+[2:07:26] - 2-HUGONORTH - Mano mentira
+[2:07:28] - 3-RAPHAELVICARONE - Os...
+[2:07:29] - 4-FS_SIMOES - Eles explodiram a porta
+[2:07:30] - 3-RAPHAELVICARONE - Eles explodiram a porta, né?
+[2:07:38] - 3-RAPHAELVICARONE - Os minotauros.
+[2:07:40] - 4-FS_SIMOES - Isso
+[2:07:41] - 3-RAPHAELVICARONE - Então, atrás deles, historicamente, tem uma passagem.
+[2:07:44] - 4-FS_SIMOES - É
+[2:07:50] - 3-RAPHAELVICARONE - Era tipo duas portas?
+[2:07:51] - 4-FS_SIMOES - Pô
+[2:07:53] - 4-FS_SIMOES - Tem um corredor
+[2:07:55] - 4-FS_SIMOES - E uma porta fechada
+[2:07:57] - 3-RAPHAELVICARONE - Ah, tá.
+[2:07:58] - 4-FS_SIMOES - Três metros assim
+[2:08:00] - 3-RAPHAELVICARONE - Não.
+[2:08:01] - 4-FS_SIMOES - Que eles
+[2:08:03] - 4-FS_SIMOES - Fazendo um festival
+[2:08:05] - 4-FS_SIMOES - E eles vão esquecer
+[2:08:08] - 4-FS_SIMOES - Ah tá
+[2:08:09] - 3-RAPHAELVICARONE - Eu só imaginei que ele tivesse explodido por falta de...
+[2:08:10] - 4-FS_SIMOES - Obrigado
+[2:08:12] - 3-RAPHAELVICARONE - Sei lá.
+[2:08:15] - 4-FS_SIMOES - Saquei
+[2:08:17] - 3-RAPHAELVICARONE - Entendeu?
+[2:08:20] - 4-FS_SIMOES - Você
+[2:08:21] - 3-RAPHAELVICARONE - Tá.
+[2:08:25] - 3-RAPHAELVICARONE - Pesquisar, olhar.
+[2:08:28] - 4-FS_SIMOES - Cola o investigation
+[2:08:30] - 3-RAPHAELVICARONE - Deixa eu ver se eu consigo usar como bonus action.
+[2:08:31] - 4-FS_SIMOES - Vai ser a sua ação
+[2:08:37] - 3-RAPHAELVICARONE - Olha o que eu quero.
+[2:08:38] - 4-FS_SIMOES - Tem pô
+[2:08:44] - 3-RAPHAELVICARONE - É tudo action.
+[2:08:55] - 4-FS_SIMOES - Só tá fechado
+[2:09:00] - 3-RAPHAELVICARONE - Cara, eu vou...
+[2:09:03] - 4-FS_SIMOES - Você quase achou uma
+[2:09:06] - 4-FS_SIMOES - Golfinha achou
+[2:09:09] - 4-FS_SIMOES - O que que isso faz?
+[2:09:12] - 3-RAPHAELVICARONE - Chegar no...
+[2:09:16] - 3-RAPHAELVICARONE - Spare the dead ali.
+[2:09:18] - 3-RAPHAELVICARONE - Spare the dying.
+[2:09:22] - 4-FS_SIMOES - Não sei
+[2:09:23] - 3-RAPHAELVICARONE - É, estabiliza.
+[2:09:25] - 4-FS_SIMOES - Beleza?
+[2:09:26] - 3-RAPHAELVICARONE - Automaticamente.
+[2:09:28] - 4-FS_SIMOES - Então
+[2:09:30] - 3-RAPHAELVICARONE - Não.
+[2:09:31] - 4-FS_SIMOES - Tá bom
+[2:09:35] - 3-RAPHAELVICARONE - Só encostar nele.
+[2:09:35] - 4-FS_SIMOES - Tá
+[2:09:37] - 3-RAPHAELVICARONE - Na verdade, nem precisava encostar, né?
+[2:09:46] - 4-FS_SIMOES - Marlinho e Biel
+[2:09:48] - 3-RAPHAELVICARONE - Na verdade, é...
+[2:09:49] - 4-FS_SIMOES - Mandaram
+[2:09:53] - 3-RAPHAELVICARONE - Bem, eu continuo falando pro...
+[2:09:56] - 4-FS_SIMOES - Não
+[2:09:58] - 3-RAPHAELVICARONE - Cabeça de moranga ali.
+[2:10:03] - 3-RAPHAELVICARONE - Nossa única chance é se unir.
+[2:10:05] - 4-FS_SIMOES - Caralho
+[2:10:08] - 3-RAPHAELVICARONE - Não termina o meu turno.
+[2:10:11] - 4-FS_SIMOES - Coằ inflammation
+[2:10:14] - 3-RAPHAELVICARONE - Caralho, viado.
+[2:10:14] - 4-FS_SIMOES - Caralho
+[2:10:33] - 4-FS_SIMOES - oh não
+[2:10:37] - 3-RAPHAELVICARONE - Cara, isso foi fantástico.
+[2:10:39] - 3-RAPHAELVICARONE - Acabou mesmo.
+[2:10:41] - 4-FS_SIMOES - tá
+[2:10:49] - 4-FS_SIMOES - vem o
+[2:10:49] - 3-RAPHAELVICARONE - Caralho.
+[2:10:51] - 4-FS_SIMOES - o minotauro
+[2:10:54] - 4-FS_SIMOES - os olhos vermelhos assim ele começa a procurar
+[2:10:57] - 4-FS_SIMOES - o primeiro
+[2:11:01] - 4-FS_SIMOES - e
+[2:11:04] - 4-FS_SIMOES - daqui
+[2:11:09] - 4-FS_SIMOES - quatro, cinco, seis
+[2:11:11] - 3-RAPHAELVICARONE - cio.
+[2:11:11] - 4-FS_SIMOES - sete, oito
+[2:11:17] - 4-FS_SIMOES - o
+[2:11:21] - 4-FS_SIMOES - deixa eu ver aqui
+[2:11:24] - 4-FS_SIMOES - o Silas
+[2:11:32] - 4-FS_SIMOES - ele vai te dar um
+[2:11:41] - 4-FS_SIMOES - te atacar
+[2:11:42] - 3-RAPHAELVICARONE - Que delícia
+[2:11:44] - 4-FS_SIMOES - ele te atacou com crítico
+[2:11:47] - 4-FS_SIMOES - porra
+[2:11:48] - 3-RAPHAELVICARONE - Mais dois de acerto
+[2:11:49] - 4-FS_SIMOES - você tem o que que seu escudinho faz
+[2:11:51] - 4-FS_SIMOES - Rafa?
+[2:11:53] - 3-RAPHAELVICARONE - Caralho
+[2:11:54] - 4-FS_SIMOES - mais dois de acertado
+[2:11:57] - 4-FS_SIMOES - é
+[2:11:59] - 4-FS_SIMOES - acertou
+[2:12:01] - 4-FS_SIMOES - são dois de seis
+[2:12:04] - 4-FS_SIMOES - então
+[2:12:05] - 3-RAPHAELVICARONE - 22
+[2:12:08] - 4-FS_SIMOES - não
+[2:12:11] - 4-FS_SIMOES - pra ver se eu
+[2:12:16] - 4-FS_SIMOES - mais seis
+[2:12:21] - 4-FS_SIMOES - que no caso vai ser
+[2:12:25] - 4-FS_SIMOES - é
+[2:12:26] - 3-RAPHAELVICARONE - 5, 6
+[2:12:28] - 4-FS_SIMOES - vinte e dois mais quatro
+[2:12:34] - 4-FS_SIMOES - essa distância toda
+[2:12:37] - 4-FS_SIMOES - ele
+[2:12:40] - 4-FS_SIMOES - é maior
+[2:12:42] - 4-FS_SIMOES - o esqueleto
+[2:12:45] - 4-FS_SIMOES - e ele fica
+[2:12:47] - 4-FS_SIMOES - você pega
+[2:12:49] - 4-FS_SIMOES - e toma mais um
+[2:12:53] - 4-FS_SIMOES - de dano
+[2:12:56] - 3-RAPHAELVICARONE - ул vimos há 7 meses
+[2:12:59] - 4-FS_SIMOES - e te deu uma chifrada
+[2:13:03] - 4-FS_SIMOES - então
+[2:13:05] - 3-RAPHAELVICARONE - He dönt tire
+[2:13:07] - 4-FS_SIMOES - vinte e seis
+[2:13:10] - 4-FS_SIMOES - é
+[2:13:13] - 4-FS_SIMOES - e
+[2:13:18] - 3-RAPHAELVICARONE - está
+[2:13:18] - 4-FS_SIMOES - não
+[2:13:23] - 3-RAPHAELVICARONE - Tá.
+[2:13:26] - 3-RAPHAELVICARONE - Tá bom.
+[2:13:27] - 4-FS_SIMOES - acho que tá bom né
+[2:13:29] - 3-RAPHAELVICARONE - Se quiser, eu dou aqui um...
+[2:13:30] - 4-FS_SIMOES - no total
+[2:13:32] - 3-RAPHAELVICARONE - Será que você roubou ele pra você?
+[2:13:38] - 3-RAPHAELVICARONE - Eu tenho que rolar...
+[2:13:38] - 4-FS_SIMOES - não
+[2:13:41] - 3-RAPHAELVICARONE - Por causa de manter a concentração.
+[2:13:43] - 4-FS_SIMOES - o prone foi
+[2:13:45] - 3-RAPHAELVICARONE - Não, mas pra manter a concentração da magia.
+[2:13:45] - 4-FS_SIMOES - qual magia
+[2:13:48] - 3-RAPHAELVICARONE - Quando tomar dano, não tem que fazer isso?
+[2:13:52] - 4-FS_SIMOES - só que é concentração
+[2:13:55] - 4-FS_SIMOES - eu não sei
+[2:13:55] - 3-RAPHAELVICARONE - E aí é o save de quê?
+[2:13:57] - 4-FS_SIMOES - se eu tomar dano
+[2:14:02] - 4-FS_SIMOES - wisdom
+[2:14:07] - 3-RAPHAELVICARONE - Deixa eu ver o que tipo...
+[2:14:14] - 4-FS_SIMOES - da skill
+[2:14:16] - 3-RAPHAELVICARONE - Shield of fate.
+[2:14:19] - 3-RAPHAELVICARONE - Kobe.
+[2:14:21] - 4-FS_SIMOES - concentration
+[2:14:23] - 4-FS_SIMOES - eu só não sei
+[2:14:23] - 3-RAPHAELVICARONE - Jorge.
+[2:14:25] - 4-FS_SIMOES - qual é o valor
+[2:14:38] - 3-RAPHAELVICARONE - Eu achei que eu sou Credidos do againoso.
+[2:14:43] - 4-FS_SIMOES - o
+[2:14:47] - 3-RAPHAELVICARONE - Por que eu sou o Barton美味 o...
+[2:14:47] - 4-FS_SIMOES - A constituição você vitrou e você tem que tirar
+[2:14:49] - 3-RAPHAELVICARONE - crítico
+[2:14:50] - 4-FS_SIMOES - Metade do dano
+[2:14:57] - 4-FS_SIMOES - Caralho
+[2:15:02] - 4-FS_SIMOES - Então quanto foi o dano?
+[2:15:07] - 4-FS_SIMOES - 30 e
+[2:15:09] - 4-FS_SIMOES - 33, né?
+[2:15:13] - 4-FS_SIMOES - Foda-se
+[2:15:19] - 3-RAPHAELVICARONE - E 팬�
+[2:15:23] - 4-FS_SIMOES - Ele vem correndo
+[2:15:27] - 4-FS_SIMOES - Na direção do Silas
+[2:15:31] - 4-FS_SIMOES - Em cheio
+[2:15:34] - 4-FS_SIMOES - Para o movimento
+[2:15:38] - 4-FS_SIMOES - Então o Silas, ele é arremessado
+[2:15:40] - 4-FS_SIMOES - Ele é arremessado, ele roda
+[2:15:41] - 3-RAPHAELVICARONE - Ai
+[2:15:42] - 4-FS_SIMOES - E ele cai de cara no chão
+[2:15:44] - 4-FS_SIMOES - E
+[2:15:47] - 4-FS_SIMOES - Do jeito que ele caiu, ele ficou
+[2:15:48] - 3-RAPHAELVICARONE - É você que tá jogando
+[2:15:50] - 4-FS_SIMOES - Ele dá até uma fica de zelo
+[2:15:54] - 4-FS_SIMOES - Podemos ir?
+[2:16:04] - 4-FS_SIMOES - 1, 2, 3, 4
+[2:16:07] - 3-RAPHAELVICARONE - Olha
+[2:16:13] - 4-FS_SIMOES - Vou botar aqui como terreno difícil
+[2:16:17] - 4-FS_SIMOES - 5
+[2:16:19] - 2-HUGONORTH - Porra
+[2:16:22] - 4-FS_SIMOES - Ele tá passando por cima do
+[2:16:25] - 4-FS_SIMOES - Do
+[2:16:27] - 4-FS_SIMOES - Do moretinho ali
+[2:16:31] - 4-FS_SIMOES - Bartroc
+[2:16:33] - 4-FS_SIMOES - Denizio
+[2:16:36] - 4-FS_SIMOES - 14 é certo?
+[2:16:39] - 2-HUGONORTH - Caralho, 20 turnos
+[2:16:42] - 4-FS_SIMOES - Então ele não fez nada
+[2:16:45] - 4-FS_SIMOES - Sim
+[2:16:46] - 2-HUGONORTH - E o Google ainda tá trocando com...
+[2:16:49] - 2-HUGONORTH - Com o Denise?
+[2:16:50] - 4-FS_SIMOES - Pô, o cara tentou te salvar, irmão
+[2:16:54] - 2-HUGONORTH - Porra
+[2:16:58] - 4-FS_SIMOES - Matheus já tá estabilizado
+[2:17:04] - 4-FS_SIMOES - Matheus, né?
+[2:17:07] - 4-FS_SIMOES - Sim
+[2:17:13] - 2-HUGONORTH - Aí o Ziqueiro
+[2:17:15] - 4-FS_SIMOES - Acertou, acertou
+[2:17:19] - 2-HUGONORTH - Deixa eu ver se o Ziquei mesmo
+[2:17:23] - 2-HUGONORTH - Tá cabendo
+[2:17:26] - 4-FS_SIMOES - Não precisa nem rolar o dano
+[2:17:28] - 4-FS_SIMOES - Você
+[2:17:29] - 2-HUGONORTH - Não...
+[2:17:32] - 4-FS_SIMOES - Assim
+[2:17:34] - 4-FS_SIMOES - O Gu
+[2:17:35] - 2-HUGONORTH - uh
+[2:17:37] - 4-FS_SIMOES - Então ele deu uma balançada
+[2:17:40] - 4-FS_SIMOES - Mas na volta
+[2:17:43] - 4-FS_SIMOES - Cortou outra espada dele
+[2:17:46] - 4-FS_SIMOES - E o Gu
+[2:17:49] - 4-FS_SIMOES - Dando uma apunhalada
+[2:17:56] - 2-HUGONORTH - um
+[2:17:59] - 4-FS_SIMOES - Corre, irmão
+[2:18:03] - 4-FS_SIMOES - Tem nem um cafezinho
+[2:18:09] - 4-FS_SIMOES - Ele cabe a uma pessoa
+[2:18:12] - 4-FS_SIMOES - Você tá falando
+[2:18:17] - 4-FS_SIMOES - Todo mundo viu o ping?
+[2:18:19] - 4-FS_SIMOES - Ah, peraí
+[2:18:21] - 4-FS_SIMOES - Esse aí?
+[2:18:25] - 4-FS_SIMOES - Ele tem o espaço
+[2:18:27] - 4-FS_SIMOES - E
+[2:18:30] - 4-FS_SIMOES - De
+[2:18:40] - 4-FS_SIMOES - Não consegue entrar
+[2:18:47] - 4-FS_SIMOES - 1 de 6 de dano
+[2:18:55] - 4-FS_SIMOES - 5 de dano
+[2:19:02] - 4-FS_SIMOES - Pronto
+[2:19:07] - 4-FS_SIMOES - Quando você
+[2:19:11] - 4-FS_SIMOES - Pula
+[2:19:14] - 4-FS_SIMOES - O público inteiro
+[2:19:16] - 4-FS_SIMOES - A te vaiar
+[2:19:19] - 4-FS_SIMOES - Muito
+[2:19:21] - 4-FS_SIMOES - Seu nome
+[2:19:24] - 4-FS_SIMOES - Seu viado
+[2:19:26] - 4-FS_SIMOES - Botei dinheiro em você
+[2:19:29] - 4-FS_SIMOES - E eles começam
+[2:19:31] - 4-FS_SIMOES - Dentro do
+[2:19:34] - 4-FS_SIMOES - Do
+[2:19:38] - 4-FS_SIMOES - Tipo
+[2:19:40] - 4-FS_SIMOES - Pizza
+[2:19:43] - 4-FS_SIMOES - Dentro da arena
+[2:20:03] - 4-FS_SIMOES - Peraí
+[2:20:05] - 4-FS_SIMOES - Você tem que rolar
+[2:20:08] - 4-FS_SIMOES - Um
+[2:20:11] - 4-FS_SIMOES - Ou
+[2:20:13] - 4-FS_SIMOES - Para mim
+[2:20:17] - 4-FS_SIMOES - Ou atletics
+[2:20:21] - 4-FS_SIMOES - Passou
+[2:20:35] - 4-FS_SIMOES - Aí você subiu
+[2:20:35] - 2-HUGONORTH - Pois não? Posso ir?
+[2:20:38] - 4-FS_SIMOES - Pegadinha do malandro
+[2:20:40] - 4-FS_SIMOES - Confimbe
+[2:20:45] - 4-FS_SIMOES - Pode ir
+[2:20:52] - 2-HUGONORTH - O gol fibriou
+[2:20:56] - 2-HUGONORTH - Esse minotaurio daqui, sabe que ele veio
+[2:20:59] - 2-HUGONORTH - E
+[2:21:05] - 2-HUGONORTH - O minotauro
+[2:21:06] - 4-FS_SIMOES - Poderir
+[2:21:07] - 2-HUGONORTH - Reckless
+[2:21:09] - 4-FS_SIMOES - Pode ir
+[2:21:11] - 2-HUGONORTH - Doze, é certo?
+[2:21:19] - 4-FS_SIMOES - 12.
+[2:21:22] - 2-HUGONORTH - Acerta, acerta
+[2:21:25] - 4-FS_SIMOES - Então, acerta.
+[2:21:26] - 2-HUGONORTH - Show
+[2:21:28] - 2-HUGONORTH - Dano
+[2:21:33] - 4-FS_SIMOES - Ok.
+[2:21:33] - 2-HUGONORTH - Segundo ataque
+[2:21:36] - 2-HUGONORTH - Topo
+[2:21:39] - 2-HUGONORTH - Constituição save throw
+[2:21:40] - 4-FS_SIMOES - Tá bom.
+[2:21:42] - 2-HUGONORTH - Felipe, por favor
+[2:21:46] - 4-FS_SIMOES - Constituição do Save-Throw.
+[2:21:49] - 4-FS_SIMOES - Cadê?
+[2:21:52] - 4-FS_SIMOES - 4.
+[2:21:53] - 3-RAPHAELVICARONE - Com vantagem
+[2:21:56] - 2-HUGONORTH - Segundo ataque
+[2:21:58] - 2-HUGONORTH - Esse foi bem ruim
+[2:22:01] - 2-HUGONORTH - Não pega, né?
+[2:22:04] - 2-HUGONORTH - Terceiro ataque
+[2:22:08] - 2-HUGONORTH - Acerta
+[2:22:09] - 4-FS_SIMOES - Tá.
+[2:22:10] - 2-HUGONORTH - Treze
+[2:22:18] - 4-FS_SIMOES - 13 no primeiro, 13 no segundo, né?
+[2:22:20] - 2-HUGONORTH - Vinte e seis de dano
+[2:22:22] - 2-HUGONORTH - E
+[2:22:25] - 4-FS_SIMOES - Quando você...
+[2:22:26] - 2-HUGONORTH - Perdão
+[2:22:28] - 4-FS_SIMOES - Não.
+[2:22:30] - 2-HUGONORTH - Eu vou virar pro
+[2:22:32] - 2-HUGONORTH - Vou falar pra ele
+[2:22:39] - 2-HUGONORTH - Deixa eu matar eles
+[2:22:44] - 2-HUGONORTH - E é isso
+[2:22:59] - 4-FS_SIMOES - Você achou que ele é mais frágil que o normal.
+[2:23:03] - 4-FS_SIMOES - E isso te deixa curioso e, ao mesmo tempo, feliz, né?
+[2:23:09] - 4-FS_SIMOES - Porque você sente que agora...
+[2:23:13] - 4-FS_SIMOES - Então, você chega...
+[2:23:15] - 2-HUGONORTH - O Battle X
+[2:23:18] - 4-FS_SIMOES - Quando você pega o primeiro machadado e acerta na perna dele...
+[2:23:23] - 4-FS_SIMOES - Você pegou atrás do joelho dele, assim...
+[2:23:27] - 4-FS_SIMOES - O...
+[2:23:29] - 4-FS_SIMOES - O joelho no chão.
+[2:23:33] - 4-FS_SIMOES - O Battle Axe, que tipo de dano que ele causa?
+[2:23:36] - 4-FS_SIMOES - Tá bom.
+[2:23:39] - 2-HUGONORTH - Ele causa dano slashing
+[2:23:41] - 2-HUGONORTH - De这么
+[2:23:43] - 4-FS_SIMOES - Ele...
+[2:23:48] - 4-FS_SIMOES - Pum!
+[2:23:52] - 4-FS_SIMOES - E vai nas costas dele...
+[2:23:54] - 4-FS_SIMOES - E...
+[2:23:56] - 2-HUGONORTH - Tchau
+[2:23:56] - 4-FS_SIMOES - Nas costas dele, de cima pra baixo...
+[2:23:58] - 4-FS_SIMOES - E o machado fica meio...
+[2:24:03] - 4-FS_SIMOES - Quando você fez isso.
+[2:24:07] - 4-FS_SIMOES - Falta alguma coisa ainda.
+[2:24:07] - 2-HUGONORTH - De tule
+[2:24:10] - 4-FS_SIMOES - Mais alguma coisa no seu turno?
+[2:24:11] - 2-HUGONORTH - Não, acabou de sair?
+[2:24:13] - 3-RAPHAELVICARONE - Eu vou pedir o Dino
+[2:24:15] - 4-FS_SIMOES - Silas, faz seu show.
+[2:24:18] - 4-FS_SIMOES - Só queria falar uma coisa.
+[2:24:20] - 3-RAPHAELVICARONE - Não, não
+[2:24:20] - 4-FS_SIMOES - Quando eu falei pro...
+[2:24:22] - 4-FS_SIMOES - Seja feliz...
+[2:24:29] - 4-FS_SIMOES - Vai lá, Silas.
+[2:24:34] - 4-FS_SIMOES - Opa.
+[2:24:36] - 4-FS_SIMOES - Acho que faz tempo.
+[2:24:39] - 3-RAPHAELVICARONE - É, tava sem já e saiu agora
+[2:24:43] - 3-RAPHAELVICARONE - É, eu vou me levantar
+[2:24:43] - 4-FS_SIMOES - Tá.
+[2:24:46] - 3-RAPHAELVICARONE - Nisso que eu me levantar
+[2:24:51] - 3-RAPHAELVICARONE - Ele vai fazer uma prece
+[2:24:53] - 3-RAPHAELVICARONE - Pra
+[2:24:56] - 3-RAPHAELVICARONE - Não sei o nome, mas Deus, eu acabei de esquecer o nome dela
+[2:24:59] - 3-RAPHAELVICARONE - E ele vai castar
+[2:25:02] - 3-RAPHAELVICARONE - Qual é o nome?
+[2:25:04] - 3-RAPHAELVICARONE - Palme of Peace
+[2:25:06] - 4-FS_SIMOES - Tô, tô batando a música.
+[2:25:13] - 3-RAPHAELVICARONE - Alô?
+[2:25:21] - 3-RAPHAELVICARONE - Pareceu que eu tinha caído, porque não tinha nenhuma bolinha verde
+[2:25:27] - 4-FS_SIMOES - É...
+[2:25:31] - 3-RAPHAELVICARONE - Aqui, eu não sei
+[2:25:35] - 3-RAPHAELVICARONE - Dá pra andar pra cá?
+[2:25:36] - 4-FS_SIMOES - Não.
+[2:25:39] - 4-FS_SIMOES - Deixa eu fazer o desenho aqui.
+[2:25:39] - 3-RAPHAELVICARONE - Os quatro ali que ele tá, né?
+[2:25:42] - 3-RAPHAELVICARONE - Os quatro que ele tá, né?
+[2:25:42] - 4-FS_SIMOES - Ele ocupa esses quatro...
+[2:25:44] - 4-FS_SIMOES - Caralho.
+[2:25:48] - 4-FS_SIMOES - Esses quatro que ele tá, ele ocupa.
+[2:25:52] - 4-FS_SIMOES - O que que a sua...
+[2:26:01] - 3-RAPHAELVICARONE - Não, então eu não vou gastar isso não
+[2:26:03] - 4-FS_SIMOES - O...
+[2:26:04] - 3-RAPHAELVICARONE - Eu achei que eu dava pra dar a volta nele por aqui
+[2:26:07] - 3-RAPHAELVICARONE - Eu gasto metade do meu movimento só pra levantar, né?
+[2:26:10] - 3-RAPHAELVICARONE - Então seria 15 feet
+[2:26:17] - 4-FS_SIMOES - Você pode vir aqui, ó.
+[2:26:18] - 3-RAPHAELVICARONE - É, mas aqui tá dizendo
+[2:26:23] - 4-FS_SIMOES - Um, dois, três.
+[2:26:25] - 3-RAPHAELVICARONE - Como minha ação, eu posso andar
+[2:26:28] - 3-RAPHAELVICARONE - Será que isso daí desconsidera
+[2:26:31] - 3-RAPHAELVICARONE - O fato de eu já ter gastado minha velocidade pra me levantar?
+[2:26:33] - 4-FS_SIMOES - Isso é uma magia?
+[2:26:36] - 2-HUGONORTH - É uma feature de classe, da classe D.
+[2:26:40] - 3-RAPHAELVICARONE - É
+[2:26:40] - 4-FS_SIMOES - Qual o nome da magia que você quer usar?
+[2:26:44] - 3-RAPHAELVICARONE - Isso aqui, ó
+[2:26:46] - 3-RAPHAELVICARONE - Ó
+[2:26:49] - 2-HUGONORTH - Não, acabou de sair?
+[2:26:51] - 4-FS_SIMOES - Chin of the Divinity...
+[2:26:53] - 2-HUGONORTH - E aí?
+[2:26:58] - 3-RAPHAELVICARONE - Então eu queria passar
+[2:27:03] - 4-FS_SIMOES - Aí, o que que você pode fazer com isso?
+[2:27:08] - 4-FS_SIMOES - Chin of the Divinity...
+[2:27:08] - 3-RAPHAELVICARONE - Tanto pelo
+[2:27:11] - 3-RAPHAELVICARONE - Quanto pelo
+[2:27:15] - 4-FS_SIMOES - Eu vou falar, então, que tipo assim...
+[2:27:19] - 2-HUGONORTH - Tchau.
+[2:27:22] - 3-RAPHAELVICARONE - Então ele tá do meu lado, né?
+[2:27:24] - 4-FS_SIMOES - Tá do seu lado.
+[2:27:25] - 3-RAPHAELVICARONE - Já conta, né?
+[2:27:28] - 3-RAPHAELVICARONE - É 5 feet
+[2:27:30] - 3-RAPHAELVICARONE - Teoricamente seria
+[2:27:32] - 3-RAPHAELVICARONE - Qualquer um que tá do meu lado aqui, né?
+[2:27:35] - 4-FS_SIMOES - Isso.
+[2:27:36] - 3-RAPHAELVICARONE - A partir do que eu ativo
+[2:27:39] - 3-RAPHAELVICARONE - De onde ele tá ali
+[2:27:41] - 3-RAPHAELVICARONE - Eu vou andar em direção
+[2:27:44] - 3-RAPHAELVICARONE - Pra ficar perto do
+[2:27:47] - 3-RAPHAELVICARONE - Vou fazer isso aqui
+[2:27:47] - 4-FS_SIMOES - Vai...
+[2:27:49] - 2-HUGONORTH - Opa!
+[2:27:55] - 4-FS_SIMOES - Dá.
+[2:27:55] - 3-RAPHAELVICARONE - Acho que dá pra andar 3, né?
+[2:27:57] - 3-RAPHAELVICARONE - 1
+[2:27:58] - 4-FS_SIMOES - Isso.
+[2:28:01] - 3-RAPHAELVICARONE - Quem eu passar por perto
+[2:28:02] - 4-FS_SIMOES - Não.
+[2:28:05] - 4-FS_SIMOES - Dois.
+[2:28:06] - 3-RAPHAELVICARONE - E 6
+[2:28:08] - 4-FS_SIMOES - Então, você pode rolar duas vezes, por favor?
+[2:28:16] - 4-FS_SIMOES - Rola um só pros dois.
+[2:28:17] - 3-RAPHAELVICARONE - Tá bom
+[2:28:18] - 4-FS_SIMOES - Hugo, você pode colocar sua cura aí?
+[2:28:19] - 2-HUGONORTH - Sim, senhor.
+[2:28:25] - 3-RAPHAELVICARONE - Uhum
+[2:28:28] - 2-HUGONORTH - Nossa, curou tudo?
+[2:28:30] - 4-FS_SIMOES - Curou tudo.
+[2:28:30] - 3-RAPHAELVICARONE - Onde que eles estão rolando isso?
+[2:28:32] - 4-FS_SIMOES - Você pode usar o mais.
+[2:28:34] - 4-FS_SIMOES - Você vê só o que acontece.
+[2:28:35] - 2-HUGONORTH - Caralho.
+[2:28:37] - 2-HUGONORTH - Não acredito que isso é verdade.
+[2:28:39] - 2-HUGONORTH - Não, o...
+[2:28:40] - 4-FS_SIMOES - Ô, peraí.
+[2:28:42] - 4-FS_SIMOES - Não, não é nove mais dezesseis, não.
+[2:28:45] - 4-FS_SIMOES - Mais dezesseis, assim.
+[2:28:46] - 2-HUGONORTH - Ué.
+[2:28:49] - 2-HUGONORTH - Não, esquece.
+[2:28:53] - 3-RAPHAELVICARONE - Eu não tô vendo nada
+[2:28:54] - 2-HUGONORTH - Você não tá vendo.
+[2:28:55] - 3-RAPHAELVICARONE - Aqui não tá dizendo
+[2:28:59] - 2-HUGONORTH - Ué.
+[2:29:01] - 4-FS_SIMOES - Porra.
+[2:29:02] - 2-HUGONORTH - Agora sim, porra.
+[2:29:05] - 2-HUGONORTH - Genial.
+[2:29:07] - 2-HUGONORTH - Conseguiu fazer em uma sessão
+[2:29:07] - 3-RAPHAELVICARONE - Então eu não vou me curar, cara
+[2:29:10] - 4-FS_SIMOES - Ô, Hugo.
+[2:29:12] - 2-HUGONORTH - Ué.
+[2:29:13] - 4-FS_SIMOES - Isso te cura também?
+[2:29:15] - 4-FS_SIMOES - Ah, eu vou dizer que você se cura sem força.
+[2:29:16] - 3-RAPHAELVICARONE - Obrigado
+[2:29:19] - 2-HUGONORTH - Não, não bota o primeiro número.
+[2:29:19] - 4-FS_SIMOES - Se cura aí.
+[2:29:21] - 3-RAPHAELVICARONE - Eu consigo fazer isso
+[2:29:24] - 3-RAPHAELVICARONE - Como é que é?
+[2:29:25] - 4-FS_SIMOES - É, pô.
+[2:29:28] - 4-FS_SIMOES - Ao invés de você colocar o HP completo, você coloca mais ou menos e o valor do novo.
+[2:29:35] - 3-RAPHAELVICARONE - Ah, pera
+[2:29:39] - 3-RAPHAELVICARONE - Hum, entendi
+[2:29:41] - 2-HUGONORTH - Bota só o que você quer mudar.
+[2:29:42] - 4-FS_SIMOES - Isso.
+[2:29:43] - 2-HUGONORTH - Bota só, tipo assim, mais 16.
+[2:29:45] - 4-FS_SIMOES - Da, pô.
+[2:29:45] - 2-HUGONORTH - Não, não.
+[2:29:48] - 3-RAPHAELVICARONE - Deixa eu tentar de novo
+[2:29:54] - 4-FS_SIMOES - E aí, a HP da interpretação do palme,
+[2:29:55] - 3-RAPHAELVICARONE - Uma inspiração matemática, né?
+[2:29:57] - 3-RAPHAELVICARONE - Você me deu 16
+[2:30:00] - 3-RAPHAELVICARONE - Tá
+[2:30:01] - 4-FS_SIMOES - caralho
+[2:30:09] - 4-FS_SIMOES - a HP da
+[2:30:12] - 4-FS_SIMOES - interpretação do
+[2:30:14] - 4-FS_SIMOES - Palme
+[2:30:17] - 4-FS_SIMOES - a habilidade de cura
+[2:30:19] - 3-RAPHAELVICARONE - Genial, pô
+[2:30:23] - 4-FS_SIMOES - criaturas diferentes você é ao passar
+[2:30:25] - 4-FS_SIMOES - até 5 feet dela
+[2:30:25] - 2-HUGONORTH - É bem...
+[2:30:28] - 2-HUGONORTH - Não, não bota o primeiro vídeo.
+[2:30:29] - 4-FS_SIMOES - isso exclui você por padrão
+[2:30:29] - 3-RAPHAELVICARONE - E também não diz que não pode segurar, então, teoricamente
+[2:30:31] - 2-HUGONORTH - Entmazou.
+[2:30:31] - 4-FS_SIMOES - mas nada impede você
+[2:30:33] - 2-HUGONORTH - Não, não borne o primeiro número.
+[2:30:33] - 3-RAPHAELVICARONE - Genial, pô
+[2:30:34] - 4-FS_SIMOES - se você passar a 5 feet de você mesmo
+[2:30:35] - 2-HUGONORTH - Não, não, não bota o primeiro filme.
+[2:30:37] - 4-FS_SIMOES - tipo
+[2:30:41] - 4-FS_SIMOES - então se você quiser se curar você pode
+[2:30:43] - 3-RAPHAELVICARONE - É, né?
+[2:30:44] - 4-FS_SIMOES - como uma exceção permitida por muitos
+[2:30:51] - 4-FS_SIMOES - DMs, faz sentido
+[2:30:53] - 4-FS_SIMOES - para mim
+[2:30:54] - 3-RAPHAELVICARONE - Seu bagulho é em área
+[2:30:56] - 4-FS_SIMOES - é
+[2:30:59] - 3-RAPHAELVICARONE - Você pode se curar, não pode?
+[2:31:01] - 4-FS_SIMOES - aí eu não sei
+[2:31:04] - 3-RAPHAELVICARONE - Hugo
+[2:31:04] - 4-FS_SIMOES - e vamos para o próximo
+[2:31:07] - 3-RAPHAELVICARONE - Acabou meu turno, é isso
+[2:31:07] - 2-HUGONORTH - Muito bom.
+[2:31:11] - 4-FS_SIMOES - deixa eu ver só aqui uma coisa
+[2:31:14] - 4-FS_SIMOES - esse cara saiu
+[2:31:16] - 4-FS_SIMOES - pronto
+[2:31:17] - 3-RAPHAELVICARONE - E pior que eu tava tentando entender porque que tinha um som de humu ali
+[2:31:20] - 4-FS_SIMOES - ele se levanta
+[2:31:24] - 4-FS_SIMOES - muito boladaço
+[2:31:27] - 4-FS_SIMOES - pro alto e
+[2:31:31] - 4-FS_SIMOES - cara
+[2:31:33] - 4-FS_SIMOES - é o som de um bisão
+[2:31:37] - 2-HUGONORTH - Obrigado.
+[2:31:39] - 3-RAPHAELVICARONE - Só que eu não cliquei pra não estragar, né?
+[2:31:42] - 4-FS_SIMOES - graças a Deus
+[2:31:46] - 4-FS_SIMOES - pro
+[2:31:48] - 4-FS_SIMOES - como se fosse uma
+[2:31:51] - 4-FS_SIMOES - você
+[2:31:54] - 4-FS_SIMOES - algum tipo de inteligência
+[2:31:57] - 4-FS_SIMOES - e essa inteligência dizia
+[2:32:01] - 4-FS_SIMOES - seu filho
+[2:32:05] - 4-FS_SIMOES - com um
+[2:32:07] - 4-FS_SIMOES - deixa eu ver aqui
+[2:32:10] - 4-FS_SIMOES - 14
+[2:32:14] - 4-FS_SIMOES - isso
+[2:32:17] - 4-FS_SIMOES - casou
+[2:32:20] - 4-FS_SIMOES - ele
+[2:32:22] - 4-FS_SIMOES - e você
+[2:32:25] - 4-FS_SIMOES - blanche
+[2:32:27] - 4-FS_SIMOES - isso
+[2:32:31] - 4-FS_SIMOES - e
+[2:32:35] - 4-FS_SIMOES - foi
+[2:32:42] - 4-FS_SIMOES - ele viu alguém
+[2:32:44] - 4-FS_SIMOES - na frente dele
+[2:32:47] - 4-FS_SIMOES - dois
+[2:32:49] - 4-FS_SIMOES - e ao chegar aqui
+[2:32:53] - 4-FS_SIMOES - tava tentando
+[2:32:55] - 4-FS_SIMOES - e
+[2:32:58] - 4-FS_SIMOES - Minotauro
+[2:33:00] - 4-FS_SIMOES - 15
+[2:33:06] - 4-FS_SIMOES - snow
+[2:33:08] - 4-FS_SIMOES - vem correndo
+[2:33:11] - 4-FS_SIMOES - caído assim
+[2:33:13] - 4-FS_SIMOES - te dar
+[2:33:15] - 2-HUGONORTH - um trabalho tão bom
+[2:33:16] - 4-FS_SIMOES - pô
+[2:33:19] - 4-FS_SIMOES - a gente
+[2:33:21] - 4-FS_SIMOES - pô
+[2:33:34] - 4-FS_SIMOES - tá
+[2:33:40] - 4-FS_SIMOES - obrigado
+[2:33:43] - 4-FS_SIMOES - quando ele vai chegar
+[2:33:45] - 2-HUGONORTH - obrigado
+[2:33:48] - 4-FS_SIMOES - assim pra poder
+[2:33:50] - 4-FS_SIMOES - o Matheus
+[2:33:53] - 4-FS_SIMOES - e ele
+[2:33:55] - 4-FS_SIMOES - deitado
+[2:33:57] - 4-FS_SIMOES - todo o corpo
+[2:34:00] - 4-FS_SIMOES - o vento
+[2:34:04] - 4-FS_SIMOES - grita
+[2:34:07] - 4-FS_SIMOES - vai pra vala
+[2:34:10] - 4-FS_SIMOES - vai Matheus
+[2:34:14] - 4-FS_SIMOES - faz o que você quiser
+[2:34:18] - 4-FS_SIMOES - você tá
+[2:34:20] - 4-FS_SIMOES - dois
+[2:34:23] - 4-FS_SIMOES - no sanduíche
+[2:34:25] - 4-FS_SIMOES - o que?
+[2:34:34] - 4-FS_SIMOES - ele tá à distância
+[2:34:37] - 4-FS_SIMOES - em você
+[2:34:39] - 4-FS_SIMOES - exato
+[2:34:42] - 4-FS_SIMOES - porque ele é gigante
+[2:34:46] - 4-FS_SIMOES - que ele ocupa
+[2:34:48] - 4-FS_SIMOES - não consigo
+[2:34:53] - 4-FS_SIMOES - fazer o quadrado
+[2:34:58] - 4-FS_SIMOES - que ele ocupa
+[2:35:00] - 4-FS_SIMOES - e esse
+[2:35:06] - 4-FS_SIMOES - tá
+[2:35:12] - 4-FS_SIMOES - esse aqui
+[2:35:17] - 4-FS_SIMOES - pode
+[2:35:25] - 4-FS_SIMOES - delícia
+[2:35:42] - 4-FS_SIMOES - pegou
+[2:35:46] - 4-FS_SIMOES - pô
+[2:36:05] - 4-FS_SIMOES - vamos
+[2:36:09] - 4-FS_SIMOES - fazer primeiro aqui
+[2:36:12] - 4-FS_SIMOES - foi o crítico
+[2:36:14] - 4-FS_SIMOES - que foi
+[2:36:17] - 4-FS_SIMOES - um
+[2:36:19] - 4-FS_SIMOES - vira dois
+[2:36:21] - 4-FS_SIMOES - seus nick ataque
+[2:36:24] - 4-FS_SIMOES - então sete
+[2:36:28] - 4-FS_SIMOES - mais doze
+[2:36:30] - 4-FS_SIMOES - e
+[2:36:33] - 4-FS_SIMOES - esse aqui
+[2:36:36] - 4-FS_SIMOES - ou o seu próximo ataque?
+[2:36:39] - 4-FS_SIMOES - o que você
+[2:36:51] - 4-FS_SIMOES - então pode usar o próximo agora
+[2:36:53] - 4-FS_SIMOES - você ainda tem vantagem, né?
+[2:37:03] - 4-FS_SIMOES - tá certo
+[2:37:06] - 1-LUNABOT____9997 - Abertura
+[2:37:07] - 4-FS_SIMOES - tá
+[2:37:09] - 4-FS_SIMOES - rola o dano
+[2:37:12] - 4-FS_SIMOES - e
+[2:37:15] - 4-FS_SIMOES - você matou ele
+[2:37:25] - 4-FS_SIMOES - que onze de dano
+[2:37:27] - 4-FS_SIMOES - deixa eu tomar
+[2:37:32] - 4-FS_SIMOES - ver aqui
+[2:37:44] - 4-FS_SIMOES - você vai fazer mais o que?
+[2:37:59] - 4-FS_SIMOES - mas você
+[2:38:02] - 4-FS_SIMOES - já dá
+[2:38:05] - 4-FS_SIMOES - tá
+[2:38:13] - 4-FS_SIMOES - peraí
+[2:38:16] - 4-FS_SIMOES - é
+[2:38:19] - 4-FS_SIMOES - tá caído assim
+[2:38:22] - 4-FS_SIMOES - e você sente
+[2:38:25] - 4-FS_SIMOES - dele tentando te atacar
+[2:38:29] - 4-FS_SIMOES - que a cabeça dele levantou
+[2:38:31] - 4-FS_SIMOES - pega a sua
+[2:38:34] - 4-FS_SIMOES - e você dá um
+[2:38:36] - 4-FS_SIMOES - numa
+[2:38:38] - 4-FS_SIMOES - vertebral dele
+[2:38:40] - 4-FS_SIMOES - e você vê
+[2:38:42] - 4-FS_SIMOES - dele desmonta
+[2:38:44] - 4-FS_SIMOES - e só enfia na cabeça
+[2:38:47] - 4-FS_SIMOES - e você consegue ver
+[2:38:49] - 4-FS_SIMOES - desaparecendo
+[2:38:51] - 4-FS_SIMOES - aos pouquinhos
+[2:38:57] - 4-FS_SIMOES - fica
+[2:39:05] - 4-FS_SIMOES - juntos
+[2:39:08] - 4-FS_SIMOES - fica
+[2:39:10] - 4-FS_SIMOES - a narradora
+[2:39:13] - 4-FS_SIMOES - finalmente
+[2:39:15] - 4-FS_SIMOES - que ele chegou
+[2:39:18] - 4-FS_SIMOES - mas ele se levanta
+[2:39:22] - 4-FS_SIMOES - e mostra
+[2:39:25] - 4-FS_SIMOES - pra roubar
+[2:39:27] - 4-FS_SIMOES - mas pra
+[2:39:29] - 4-FS_SIMOES - veridas
+[2:39:31] - 4-FS_SIMOES - porra cara
+[2:39:36] - 4-FS_SIMOES - você passou
+[2:39:38] - 4-FS_SIMOES - mas você
+[2:39:39] - 3-RAPHAELVICARONE - Vai com calma que daqui a duas semanas
+[2:39:43] - 4-FS_SIMOES - cara
+[2:39:46] - 4-FS_SIMOES - fala pra mim
+[2:39:57] - 3-RAPHAELVICARONE - vai ter RPG de novo.
+[2:40:09] - 3-RAPHAELVICARONE - E o mestre é o Hugo.
+[2:40:10] - 4-FS_SIMOES - o que
+[2:40:12] - 4-FS_SIMOES - não contou nada
+[2:40:14] - 4-FS_SIMOES - porque você
+[2:40:18] - 4-FS_SIMOES - de que eu
+[2:40:20] - 4-FS_SIMOES - que eu quiser
+[2:40:22] - 4-FS_SIMOES - pra roubar
+[2:40:26] - 4-FS_SIMOES - mais alguma coisa?
+[2:40:35] - 4-FS_SIMOES - não
+[2:40:57] - 4-FS_SIMOES - continuou a história
+[2:40:58] - 2-HUGONORTH - Sim, cara.
+[2:41:05] - 4-FS_SIMOES - tá bom
+[2:41:11] - 4-FS_SIMOES - eles te pegaram
+[2:41:13] - 4-FS_SIMOES - cara
+[2:41:15] - 4-FS_SIMOES - e roubar
+[2:41:17] - 4-FS_SIMOES - porque você
+[2:41:22] - 4-FS_SIMOES - você sabe
+[2:41:26] - 4-FS_SIMOES - que eu posso
+[2:41:28] - 4-FS_SIMOES - aí
+[2:41:34] - 4-FS_SIMOES - cuidado
+[2:41:36] - 4-FS_SIMOES - rapaz
+[2:41:38] - 4-FS_SIMOES - deixa o boneco
+[2:41:41] - 4-FS_SIMOES - manco
+[2:41:53] - 4-FS_SIMOES - peraí
+[2:41:55] - 4-FS_SIMOES - você tava aqui
+[2:41:57] - 4-FS_SIMOES - um
+[2:42:01] - 4-FS_SIMOES - dois
+[2:42:03] - 4-FS_SIMOES - seis
+[2:42:11] - 4-FS_SIMOES - a narradora
+[2:42:28] - 4-FS_SIMOES - fala assim
+[2:42:31] - 4-FS_SIMOES - liga assim
+[2:42:33] - 4-FS_SIMOES - além de apostador
+[2:42:35] - 4-FS_SIMOES - retardado
+[2:42:43] - 4-FS_SIMOES - golfin
+[2:42:47] - 4-FS_SIMOES - tá em contato
+[2:42:51] - 4-FS_SIMOES - pro
+[2:42:55] - 4-FS_SIMOES - pand workshops
+[2:43:06] - 4-FS_SIMOES - 話
+[2:43:11] - 4-FS_SIMOES - tá em contato
+[2:43:14] - 4-FS_SIMOES - bom
+[2:43:17] - 4-FS_SIMOES - pode parar
+[2:43:21] - 3-RAPHAELVICARONE - Para, cara.
+[2:43:23] - 4-FS_SIMOES - perdão, perdão
+[2:43:25] - 4-FS_SIMOES - no primeiro já tinha ido
+[2:43:25] - 3-RAPHAELVICARONE - Ele já está morto.
+[2:43:28] - 2-HUGONORTH - No primeiro já tinha ido?
+[2:43:29] - 3-RAPHAELVICARONE - E o mestre é o Hugo.
+[2:43:31] - 4-FS_SIMOES - é que eu tava mastigando
+[2:43:31] - 2-HUGONORTH - Perdão.
+[2:43:33] - 4-FS_SIMOES - foi mal
+[2:43:35] - 2-HUGONORTH - O segundo vai no cara aqui do meu lado.
+[2:43:35] - 3-RAPHAELVICARONE - Ele já está morto.
+[2:43:39] - 3-RAPHAELVICARONE - E o mestre é o Hugo.
+[2:43:40] - 4-FS_SIMOES - você quer atacar?
+[2:43:42] - 4-FS_SIMOES - é você filho
+[2:43:43] - 2-HUGONORTH - Rola outro?
+[2:43:47] - 4-FS_SIMOES - aproveita, aproveita
+[2:43:49] - 2-HUGONORTH - Não, mas eu rolo outro ou a gente aproveita esse segundo ataque aqui?
+[2:43:53] - 4-FS_SIMOES - 22
+[2:43:54] - 2-HUGONORTH - Então 22, 9 de dano.
+[2:43:57] - 2-HUGONORTH - Como é que ele tá de vida?
+[2:44:01] - 4-FS_SIMOES - ele tá inteiro
+[2:44:02] - 2-HUGONORTH - Então vamos arranhar mais.
+[2:44:04] - 4-FS_SIMOES - tipo uma poeira
+[2:44:07] - 4-FS_SIMOES - e saiu de lá
+[2:44:11] - 3-RAPHAELVICARONE - 3,6 né?
+[2:44:12] - 4-FS_SIMOES - Denise
+[2:44:15] - 2-HUGONORTH - 21.
+[2:44:20] - 2-HUGONORTH - Mais de 9, cara?
+[2:44:23] - 2-HUGONORTH - Então foi 18 de dano no total...
+[2:44:26] - 2-HUGONORTH - No...
+[2:44:28] - 2-HUGONORTH - É o que?
+[2:44:30] - 2-HUGONORTH - Dion...
+[2:44:31] - 3-RAPHAELVICARONE - Delízeo
+[2:44:31] - 4-FS_SIMOES - lá embaixo
+[2:44:34] - 4-FS_SIMOES - você é o único que
+[2:44:36] - 4-FS_SIMOES - eu não colocou seu nome
+[2:44:38] - 2-HUGONORTH - Ah, idiota mesmo.
+[2:44:40] - 2-HUGONORTH - Denise.
+[2:44:41] - 3-RAPHAELVICARONE - 1,2 né?
+[2:44:42] - 4-FS_SIMOES - porra cara
+[2:44:44] - 4-FS_SIMOES - usa antes
+[2:44:47] - 4-FS_SIMOES - né
+[2:44:57] - 2-HUGONORTH - Pode, fala em cima toda hora.
+[2:44:58] - 4-FS_SIMOES - Guguba interrompe
+[2:45:01] - 4-FS_SIMOES - irmão
+[2:45:01] - 2-HUGONORTH - Roda essa minha ardeia.
+[2:45:05] - 4-FS_SIMOES - Guguba interrompe
+[2:45:05] - 2-HUGONORTH - Deixa eu ver a piroca, porra.
+[2:45:07] - 4-FS_SIMOES - porra
+[2:45:08] - 2-HUGONORTH - É...
+[2:45:08] - 3-RAPHAELVICARONE - 2,1 né?
+[2:45:09] - 4-FS_SIMOES - tipo assim
+[2:45:11] - 2-HUGONORTH - Eu tô ouvindo.
+[2:45:11] - 3-RAPHAELVICARONE - Pento aí
+[2:45:11] - 4-FS_SIMOES - aí vem Guguba
+[2:45:14] - 4-FS_SIMOES - tem frio
+[2:45:15] - 2-HUGONORTH - Eu tô perto.
+[2:45:16] - 4-FS_SIMOES - porra
+[2:45:23] - 2-HUGONORTH - Vai, vai, vai.
+[2:45:23] - 4-FS_SIMOES - já
+[2:45:25] - 2-HUGONORTH - Quase 2 da manhã.
+[2:45:30] - 4-FS_SIMOES - recuperei o dano
+[2:45:30] - 2-HUGONORTH - Então 13 de...
+[2:45:33] - 2-HUGONORTH - E o golfinho vai olhar pro viadinho atrás e vai falar...
+[2:45:34] - 4-FS_SIMOES - é
+[2:45:38] - 2-HUGONORTH - Vamos acabar com eles.
+[2:45:41] - 3-RAPHAELVICARONE - Agora, quando eu casto lá o bagulho, é que isso continua ativo?
+[2:45:43] - 2-HUGONORTH - Vai, pode ir.
+[2:45:47] - 4-FS_SIMOES - sua vez
+[2:45:52] - 3-RAPHAELVICARONE - Eu não vi o tempo que fica ativo.
+[2:45:53] - 4-FS_SIMOES - Deixa eu ver aqui
+[2:45:55] - 3-RAPHAELVICARONE - O Balmy.
+[2:45:58] - 4-FS_SIMOES - É
+[2:45:59] - 3-RAPHAELVICARONE - É só uma ação, né? Terminou meu turno, acabou, não é isso?
+[2:46:02] - 2-HUGONORTH - É.
+[2:46:02] - 4-FS_SIMOES - É porque não continua
+[2:46:02] - 3-RAPHAELVICARONE - Não tem tempo, não tem nada, deve ser isso.
+[2:46:04] - 2-HUGONORTH - Se ele não fala que continua...
+[2:46:06] - 3-RAPHAELVICARONE - Vamos lá.
+[2:46:08] - 4-FS_SIMOES - É
+[2:46:11] - 3-RAPHAELVICARONE - Bem, não tem mais nenhum inimigo na arena, né?
+[2:46:14] - 2-HUGONORTH - Tem sim.
+[2:46:14] - 3-RAPHAELVICARONE - Só os...
+[2:46:17] - 3-RAPHAELVICARONE - Eu me recuso a lutar, eu vou andar pra longe.
+[2:46:20] - 3-RAPHAELVICARONE - Na diagonalzinha aqui.
+[2:46:23] - 2-HUGONORTH - Não vai, não.
+[2:46:23] - 3-RAPHAELVICARONE - É com ele mesmo.
+[2:46:26] - 3-RAPHAELVICARONE - Cadê?
+[2:46:27] - 2-HUGONORTH - Ele vai ser a última manhã.
+[2:46:31] - 3-RAPHAELVICARONE - Vamos ver, né?
+[2:46:34] - 3-RAPHAELVICARONE - Não, seria aqui, né?
+[2:46:35] - 2-HUGONORTH - Na mente, na mente dele é essa.
+[2:46:38] - 4-FS_SIMOES - Rola
+[2:46:42] - 3-RAPHAELVICARONE - Na diagonalzinha, será que eu vou pisar em alguma coisa?
+[2:46:44] - 2-HUGONORTH - Não brinca muito não que ele pode ditar ainda, hein.
+[2:46:45] - 3-RAPHAELVICARONE - Aqui, ó, Filipão.
+[2:46:48] - 4-FS_SIMOES - Não, não tinha
+[2:46:51] - 3-RAPHAELVICARONE - Ó, ó, aqui, ó.
+[2:46:53] - 4-FS_SIMOES - Já foi?
+[2:46:54] - 3-RAPHAELVICARONE - Não.
+[2:46:56] - 2-HUGONORTH - Sinto ver.
+[2:46:59] - 4-FS_SIMOES - Vai fazer alguma coisa?
+[2:47:02] - 3-RAPHAELVICARONE - Só isso.
+[2:47:03] - 4-FS_SIMOES - Só fez isso?
+[2:47:08] - 4-FS_SIMOES - Quando
+[2:47:10] - 3-RAPHAELVICARONE - Sento no chão.
+[2:47:11] - 2-HUGONORTH - Senta no chão.
+[2:47:12] - 4-FS_SIMOES - Ao você sentar no chão
+[2:47:14] - 2-HUGONORTH - Pode ir.
+[2:47:15] - 4-FS_SIMOES - O mesmo impacto que você senta
+[2:47:18] - 4-FS_SIMOES - Parece que tudo começa a tremer
+[2:47:22] - 4-FS_SIMOES - E começa
+[2:47:23] - 3-RAPHAELVICARONE - Pô, tô pesado, hein?
+[2:47:26] - 4-FS_SIMOES - Você começa a ouvir barulho de corrente
+[2:47:27] - 3-RAPHAELVICARONE - Será?
+[2:47:30] - 4-FS_SIMOES - E quando o barulho de corrente aumenta
+[2:47:30] - 2-HUGONORTH - ...
+[2:47:33] - 4-FS_SIMOES - O público aumenta
+[2:47:34] - 3-RAPHAELVICARONE - No chão.
+[2:47:38] - 4-FS_SIMOES - E
+[2:47:41] - 4-FS_SIMOES - Essa área central
+[2:47:43] - 4-FS_SIMOES - Que vocês estão
+[2:47:46] - 4-FS_SIMOES - Para fora
+[2:47:48] - 4-FS_SIMOES - O Matheus
+[2:47:51] - 4-FS_SIMOES - Um
+[2:47:53] - 4-FS_SIMOES - Constitution
+[2:47:53] - 3-RAPHAELVICARONE - O mesmo som do Minotauro?
+[2:47:55] - 4-FS_SIMOES - Ah não, você já estava caído
+[2:47:59] - 4-FS_SIMOES - Você vem rolando e fica caído aqui mesmo
+[2:48:02] - 4-FS_SIMOES - E os corpos desses minotauros
+[2:48:07] - 4-FS_SIMOES - Também são isolados para cá
+[2:48:10] - 4-FS_SIMOES - E
+[2:48:18] - 4-FS_SIMOES - Dessa
+[2:48:22] - 4-FS_SIMOES - Saem
+[2:48:23] - 3-RAPHAELVICARONE - Qual o fundo?
+[2:48:25] - 4-FS_SIMOES - Dois minotauros
+[2:48:28] - 4-FS_SIMOES - Duas portinhas abrindo
+[2:48:30] - 4-FS_SIMOES - E que quando essa
+[2:48:34] - 3-RAPHAELVICARONE - Eita, isso aí é diferente.
+[2:48:34] - 4-FS_SIMOES - Aqui
+[2:48:39] - 4-FS_SIMOES - E outra
+[2:48:41] - 4-FS_SIMOES - Aqui
+[2:48:46] - 4-FS_SIMOES - Só que quando você faz isso
+[2:48:50] - 4-FS_SIMOES - Esses bichos aparecem
+[2:48:52] - 4-FS_SIMOES - E
+[2:48:56] - 4-FS_SIMOES - Vocês são chamados
+[2:48:59] - 4-FS_SIMOES - Por uma coisa que acontece
+[2:49:01] - 4-FS_SIMOES - Aqui em cima
+[2:49:04] - 4-FS_SIMOES - Muito bem
+[2:49:07] - 4-FS_SIMOES - É um
+[2:49:10] - 4-FS_SIMOES - Que você não consegue
+[2:49:12] - 4-FS_SIMOES - Quem ela é
+[2:49:16] - 4-FS_SIMOES - Aqui embaixo
+[2:49:19] - 4-FS_SIMOES - Lá de cima
+[2:49:22] - 4-FS_SIMOES - Parecia
+[2:49:26] - 4-FS_SIMOES - Pofi
+[2:49:28] - 4-FS_SIMOES - O que te espera
+[2:49:35] - 4-FS_SIMOES - Peraí
+[2:49:39] - 4-FS_SIMOES - Deixa eu ver aqui
+[2:49:41] - 4-FS_SIMOES - Esses minotauros
+[2:49:46] - 4-FS_SIMOES - Que subiram
+[2:49:49] - 4-FS_SIMOES - Ser
+[2:49:51] - 4-FS_SIMOES - Parece de
+[2:49:54] - 4-FS_SIMOES - E
+[2:49:57] - 4-FS_SIMOES - Com isso
+[2:49:59] - 4-FS_SIMOES - Deixa eu rolar aqui
+[2:50:02] - 4-FS_SIMOES - Tem que rolar
+[2:50:05] - 4-FS_SIMOES - O do gu
+[2:50:07] - 4-FS_SIMOES - Onze
+[2:50:10] - 4-FS_SIMOES - Os minotauros
+[2:50:24] - 4-FS_SIMOES - Não
+[2:50:32] - 4-FS_SIMOES - Mas se mudar
+[2:50:34] - 4-FS_SIMOES - A ordem
+[2:50:39] - 4-FS_SIMOES - Dessa distância
+[2:50:44] - 3-RAPHAELVICARONE - Eu sei que bicho é esse aqui de cima e sei que bicho é esse aqui de baixo.
+[2:50:49] - 3-RAPHAELVICARONE - Não consigo ver essa distância.
+[2:50:51] - 4-FS_SIMOES - Você consegue
+[2:50:56] - 4-FS_SIMOES - Que irado
+[2:50:58] - 4-FS_SIMOES - Na tela
+[2:51:02] - 4-FS_SIMOES - Desculpa gente
+[2:51:05] - 4-FS_SIMOES - Aqui algumas coisas ainda
+[2:51:07] - 4-FS_SIMOES - De paciência
+[2:51:09] - 3-RAPHAELVICARONE - Ué, tá de boa, mano.
+[2:51:17] - 4-FS_SIMOES - Então
+[2:51:20] - 4-FS_SIMOES - Quando vocês
+[2:51:23] - 4-FS_SIMOES - Percebem
+[2:51:26] - 4-FS_SIMOES - Para essa criatura
+[2:51:29] - 4-FS_SIMOES - Pingue de foco
+[2:51:32] - 4-FS_SIMOES - Está visivelmente
+[2:51:34] - 4-FS_SIMOES - Com a luz
+[2:51:37] - 4-FS_SIMOES - Assim na frente
+[2:51:39] - 4-FS_SIMOES - Estivesse até
+[2:51:41] - 4-FS_SIMOES - A estar ali
+[2:51:44] - 4-FS_SIMOES - Ela está muito
+[2:51:47] - 4-FS_SIMOES - E com isso
+[2:51:49] - 4-FS_SIMOES - Eu
+[2:51:52] - 4-FS_SIMOES - Ela
+[2:51:54] - 4-FS_SIMOES - Para o Silas
+[2:51:57] - 4-FS_SIMOES - Fica
+[2:51:59] - 4-FS_SIMOES - E ela
+[2:52:06] - 4-FS_SIMOES - Ataca
+[2:52:09] - 4-FS_SIMOES - Com
+[2:52:15] - 4-FS_SIMOES - Não é isso
+[2:52:24] - 4-FS_SIMOES - 23 acerta
+[2:52:30] - 4-FS_SIMOES - Ele
+[2:52:39] - 4-FS_SIMOES - Quando você
+[2:52:42] - 4-FS_SIMOES - Ser
+[2:52:45] - 3-RAPHAELVICARONE - Nesse momento o Bart está se revirando no túmulo com a Goló.
+[2:52:45] - 4-FS_SIMOES - Ele está
+[2:52:48] - 4-FS_SIMOES - Uma armadura
+[2:52:50] - 4-FS_SIMOES - Nas costas dele
+[2:52:53] - 4-FS_SIMOES - Ele está
+[2:53:00] - 4-FS_SIMOES - Perdão
+[2:53:15] - 3-RAPHAELVICARONE - Ah tá, então você rolou outro e aí já?
+[2:53:17] - 4-FS_SIMOES - Rafa
+[2:53:19] - 4-FS_SIMOES - Ainda não
+[2:53:21] - 4-FS_SIMOES - Por causa
+[2:53:27] - 4-FS_SIMOES - Aqui
+[2:53:28] - 3-RAPHAELVICARONE - Não.
+[2:53:31] - 4-FS_SIMOES - Não acerta
+[2:53:33] - 4-FS_SIMOES - Com os oito
+[2:53:36] - 4-FS_SIMOES - E
+[2:53:37] - 3-RAPHAELVICARONE - Tudo bem.
+[2:53:40] - 4-FS_SIMOES - Ele vai tentar
+[2:53:42] - 4-FS_SIMOES - De novo
+[2:53:45] - 3-RAPHAELVICARONE - Se tacou fogo.
+[2:53:48] - 4-FS_SIMOES - Um erro crítico
+[2:53:54] - 3-RAPHAELVICARONE - Ele acaba de subir na arena.
+[2:53:54] - 4-FS_SIMOES - Perde o arco
+[2:54:01] - 4-FS_SIMOES - Perdão
+[2:54:03] - 4-FS_SIMOES - Ele erra
+[2:54:09] - 4-FS_SIMOES - Do
+[2:54:11] - 4-FS_SIMOES - O
+[2:54:12] - 3-RAPHAELVICARONE - Olha isso.
+[2:54:15] - 3-RAPHAELVICARONE - É só para brincar com vocês mesmo.
+[2:54:17] - 4-FS_SIMOES - Não
+[2:54:19] - 4-FS_SIMOES - Do Minotauro
+[2:54:21] - 4-FS_SIMOES - Também
+[2:54:24] - 4-FS_SIMOES - Não
+[2:54:26] - 4-FS_SIMOES - Ele vai na direção
+[2:54:29] - 4-FS_SIMOES - Mas erra
+[2:54:32] - 4-FS_SIMOES - Vai Matheus
+[2:54:36] - 4-FS_SIMOES - Você está
+[2:54:38] - 4-FS_SIMOES - Caído
+[2:54:40] - 4-FS_SIMOES - Gastar
+[2:54:47] - 4-FS_SIMOES - Metade
+[2:54:49] - 4-FS_SIMOES - Seis
+[2:55:07] - 4-FS_SIMOES - Os outros
+[2:55:11] - 4-FS_SIMOES - Quase como se
+[2:55:14] - 4-FS_SIMOES - Ele tivesse
+[2:55:18] - 4-FS_SIMOES - Não
+[2:55:20] - 4-FS_SIMOES - Estão
+[2:55:24] - 4-FS_SIMOES - Cansados
+[2:55:35] - 4-FS_SIMOES - Dennis
+[2:55:48] - 4-FS_SIMOES - Caralho
+[2:56:01] - 4-FS_SIMOES - Obrigado
+[2:56:18] - 4-FS_SIMOES - Deixa eu tirar
+[2:56:20] - 4-FS_SIMOES - O que você
+[2:56:25] - 4-FS_SIMOES - Acerto
+[2:56:34] - 3-RAPHAELVICARONE - Ué, mas o Ginecatec é todo áudio?
+[2:56:43] - 4-FS_SIMOES - Com
+[2:56:46] - 4-FS_SIMOES - 18
+[2:56:49] - 4-FS_SIMOES - Acerto
+[2:56:51] - 4-FS_SIMOES - De dar no nele
+[2:56:56] - 4-FS_SIMOES - É porque ele
+[2:56:59] - 4-FS_SIMOES - Usou o
+[2:57:02] - 4-FS_SIMOES - É só
+[2:57:04] - 4-FS_SIMOES - É isso
+[2:57:07] - 4-FS_SIMOES - No sétimo
+[2:57:09] - 4-FS_SIMOES - Explicando
+[2:57:15] - 4-FS_SIMOES - Justo
+[2:57:20] - 4-FS_SIMOES - Vou
+[2:57:24] - 4-FS_SIMOES - Você não usou
+[2:57:26] - 4-FS_SIMOES - Ah tá
+[2:57:29] - 4-FS_SIMOES - Verdade
+[2:57:32] - 4-FS_SIMOES - Peraí
+[2:57:46] - 4-FS_SIMOES - 20
+[2:57:48] - 4-FS_SIMOES - 11
+[2:57:55] - 4-FS_SIMOES - Você não pode
+[2:58:08] - 4-FS_SIMOES - No bonus action
+[2:58:10] - 4-FS_SIMOES - Você pode usar o enhance
+[2:58:13] - 4-FS_SIMOES - Isso
+[2:58:20] - 4-FS_SIMOES - Tem que ter uma
+[2:58:22] - 4-FS_SIMOES - Property
+[2:58:30] - 4-FS_SIMOES - Inclusive
+[2:58:32] - 4-FS_SIMOES - Atacar
+[2:58:34] - 2-HUGONORTH - Não, peraí, peraí, peraí, peraí
+[2:58:35] - 4-FS_SIMOES - Light
+[2:58:36] - 2-HUGONORTH - Se ele usar o Nick, ele não pode usar o Two-Eapon Fighting
+[2:58:40] - 2-HUGONORTH - De novo, como vamos dizer
+[2:58:44] - 4-FS_SIMOES - Quero
+[2:58:46] - 4-FS_SIMOES - Nick
+[2:58:49] - 4-FS_SIMOES - T
+[2:59:00] - 2-HUGONORTH - Não, peraí, o seu ataque normal
+[2:59:01] - 4-FS_SIMOES - E
+[2:59:06] - 4-FS_SIMOES - Ah, o Rogue não tem extra ataque, entendi, agora faz sentido
+[2:59:08] - 2-HUGONORTH - Seu ataque normal você ataca com a daga, certo?
+[2:59:12] - 2-HUGONORTH - O T-
+[2:59:14] - 2-HUGONORTH - Porque você é Rogue
+[2:59:19] - 4-FS_SIMOES - Deixa eu ver aqui, Matheus
+[2:59:20] - 2-HUGONORTH - É aí
+[2:59:22] - 4-FS_SIMOES - Ah, realmente, ataque e perreaction, agora fez sentido, ok
+[2:59:27] - 4-FS_SIMOES - Agora fez todo sentido
+[2:59:34] - 2-HUGONORTH - O carro com o seu Double
+[2:59:36] - 4-FS_SIMOES - Porque, aqui, Enhanced When You Use Your Attack Action With A Weapon That Is Not
+[2:59:39] - 2-HUGONORTH - Ou CI
+[2:59:47] - 2-HUGONORTH - Me entrarem três segundos.
+[2:59:55] - 4-FS_SIMOES - One Action Strike Has Bonus Action
+[2:59:58] - 4-FS_SIMOES - Hugo, aqui, ele não poderia usar o Enhanced Do Your Wielding para poder atacar?
+[3:00:04] - 2-HUGONORTH - Um而endo, vou tomar um...
+[3:00:06] - 4-FS_SIMOES - Um...
+[3:00:17] - 2-HUGONORTH - Cara
+[3:00:24] - 2-HUGONORTH - Agora eu não sei como é que funciona
+[3:00:26] - 2-HUGONORTH - Esse
+[3:00:30] - 2-HUGONORTH - Porque
+[3:00:36] - 2-HUGONORTH - Deixa eu explicar
+[3:00:40] - 2-HUGONORTH - Eu entendi o ponto
+[3:00:43] - 2-HUGONORTH - A gente decidiu lá no nosso RPG
+[3:00:45] - 2-HUGONORTH - Que a gente viu nas regras que por exemplo
+[3:00:49] - 2-HUGONORTH - E o Two-Apple-Fight
+[3:00:52] - 2-HUGONORTH - A gente viu na internet, isso não pode
+[3:00:55] - 2-HUGONORTH - Mas ele tem um negócio chamado Enhanced Dual Building
+[3:00:58] - 2-HUGONORTH - Que faz com que
+[3:01:00] - 2-HUGONORTH - É
+[3:01:03] - 2-HUGONORTH - Ele possa usar o Bonus Action dele como
+[3:01:06] - 2-HUGONORTH - Ataque, que é o
+[3:01:09] - 2-HUGONORTH - Só que ele quer usar
+[3:01:10] - 4-FS_SIMOES - É porque, não, pera aí, entendi, sabe qual é o problema?
+[3:01:13] - 2-HUGONORTH - Daquele mesmo jeito, de usar o ataque
+[3:01:15] - 2-HUGONORTH - O Nick
+[3:01:19] - 2-HUGONORTH - E esse Enhanced Dual Building
+[3:01:22] - 2-HUGONORTH - Não, não, não
+[3:01:32] - 4-FS_SIMOES - Que quando você usa o Nick, você usa a sua Bonus Action
+[3:01:36] - 4-FS_SIMOES - Então você não tem o terceiro Outer Attack
+[3:01:39] - 2-HUGONORTH - O ponto do Nick é justamente
+[3:01:42] - 2-HUGONORTH - Não, não, não, não
+[3:01:50] - 2-HUGONORTH - O ponto do Nick
+[3:02:09] - 2-HUGONORTH - Mas
+[3:02:10] - 4-FS_SIMOES - O Nick não é Bonus Action
+[3:02:14] - 2-HUGONORTH - Aí entra no mesmo ponto do Two-Apple-Fight
+[3:02:17] - 2-HUGONORTH - Então teoricamente
+[3:02:19] - 2-HUGONORTH - Porque é só o Bonus Action
+[3:02:31] - 4-FS_SIMOES - O Nick é�서 o трim Manager
+[3:02:31] - 2-HUGONORTH - O Nick é uma
+[3:02:33] - 4-FS_SIMOES - O Nick é Mercado
+[3:02:37] - 4-FS_SIMOES - Notarinho
+[3:02:39] - 2-HUGONORTH - O Pink
+[3:02:41] - 4-FS_SIMOES - Depois de um tiempo
+[3:02:44] - 4-FS_SIMOES - Entrego
+[3:02:44] - 2-HUGONORTH - Tem um
+[3:02:47] - 2-HUGONORTH - Muito bem
+[3:02:49] - 2-HUGONORTH - O que é um
+[3:02:52] - 2-HUGONORTH - Como assim
+[3:03:01] - 4-FS_SIMOES - Espera aí, aqui o...
+[3:03:14] - 2-HUGONORTH - Obrigado.
+[3:03:17] - 4-FS_SIMOES - O Enhanced to with está dizendo que você pode fazer o ataque com a sua offhand.
+[3:03:24] - 4-FS_SIMOES - Sem...
+[3:03:33] - 4-FS_SIMOES - Depois do mesmo turn, com a outra arma.
+[3:03:48] - 4-FS_SIMOES - Hugo, eu...
+[3:03:51] - 4-FS_SIMOES - É...
+[3:03:53] - 2-HUGONORTH - Da onde você tirou esse enrêncio de Dual Wielding?
+[3:03:55] - 4-FS_SIMOES - O Enhanced to...
+[3:04:15] - 2-HUGONORTH - Discutir isso 2 da manhã é foda, cara
+[3:04:23] - 2-HUGONORTH - Davos
+[3:04:25] - 4-FS_SIMOES - Tá, vamos fazer o seguinte.
+[3:04:31] - 2-HUGONORTH - Adidas
+[3:04:33] - 2-HUGONORTH - D$$%&&%&& R$%&&&
+[3:04:38] - 4-FS_SIMOES - Você pode usar.
+[3:04:40] - 4-FS_SIMOES - É...
+[3:04:47] - 4-FS_SIMOES - Espera aí.
+[3:04:54] - 4-FS_SIMOES - O chat GPT está dizendo que você só pode usar duas.
+[3:04:56] - 4-FS_SIMOES - Pronto, resolvido.
+[3:05:06] - 4-FS_SIMOES - Não, é isso.
+[3:05:08] - 4-FS_SIMOES - Oi.
+[3:05:37] - 4-FS_SIMOES - Uh-huh.
+[3:05:50] - 4-FS_SIMOES - tem minha espadinha
+[3:05:53] - 4-FS_SIMOES - roubada eu não consigo
+[3:06:00] - 4-FS_SIMOES - 6 de dano
+[3:06:03] - 4-FS_SIMOES - cura aqui
+[3:06:24] - 4-FS_SIMOES - se desliga
+[3:06:26] - 4-FS_SIMOES - se mexer
+[3:06:33] - 4-FS_SIMOES - o seu movimento
+[3:06:43] - 4-FS_SIMOES - metade da sua velocidade
+[3:07:03] - 4-FS_SIMOES - show
+[3:07:07] - 4-FS_SIMOES - você já deu dois ataques lá
+[3:07:11] - 4-FS_SIMOES - a gente já usou
+[3:07:17] - 4-FS_SIMOES - golfin
+[3:07:20] - 2-HUGONORTH - ou fim
+[3:07:23] - 2-HUGONORTH - bicho pra cacete
+[3:07:27] - 2-HUGONORTH - hum
+[3:07:33] - 4-FS_SIMOES - você já deu dois taxe
+[3:07:37] - 4-FS_SIMOES - e você está
+[3:07:41] - 4-FS_SIMOES - 16 de dano
+[3:07:44] - 4-FS_SIMOES - 32
+[3:07:47] - 4-FS_SIMOES - یں
+[3:07:50] - 2-HUGONORTH - golfin vai usar o bônus action pra
+[3:07:51] - 4-FS_SIMOES - VO
+[3:07:54] - 2-HUGONORTH - da outra adrenalin rush
+[3:07:56] - 2-HUGONORTH - e ele gasta o bônus action, ele da dash e ganha 3 pontos de
+[3:07:56] - 4-FS_SIMOES - a gente
+[3:08:01] - 4-FS_SIMOES - eu
+[3:08:01] - 2-HUGONORTH - é
+[3:08:04] - 2-HUGONORTH - é eu movo 40 feet
+[3:08:07] - 2-HUGONORTH - com o dash vai pra 80 até aqui 75
+[3:08:14] - 2-HUGONORTH - eu tenho dois ataques
+[3:08:17] - 2-HUGONORTH - vou atacar essa
+[3:08:20] - 2-HUGONORTH - essa criatura que apareceu aqui
+[3:08:27] - 4-FS_SIMOES - que você correu para fazer até aí, por favor?
+[3:08:30] - 2-HUGONORTH - claro
+[3:08:31] - 4-FS_SIMOES - Eu acho que eu estava aqui, isso.
+[3:08:33] - 2-HUGONORTH - agora onde eu estava? 75 acho que era por aqui
+[3:08:39] - 2-HUGONORTH - eu vou desenhar uma linha reta e você decide, tá?
+[3:08:42] - 4-FS_SIMOES - Tá bom.
+[3:08:49] - 4-FS_SIMOES - Pode parar seu personagem aqui, por favor?
+[3:08:50] - 2-HUGONORTH - aqui, né?
+[3:08:55] - 4-FS_SIMOES - E você pode...
+[3:08:58] - 2-HUGONORTH - deixa eu dar uma crítica no ataque
+[3:09:01] - 2-HUGONORTH - eu tenho vantagem, tá?
+[3:09:01] - 4-FS_SIMOES - Rola, deixa eu ver aqui...
+[3:09:08] - 4-FS_SIMOES - Não, não, não...
+[3:09:15] - 4-FS_SIMOES - Achei.
+[3:09:18] - 4-FS_SIMOES - De ser de destriosa, por favor.
+[3:09:20] - 4-FS_SIMOES - Quando você vai correndo em direção à múmia, uma...
+[3:09:24] - 2-HUGONORTH - rolando de mal pra caralho
+[3:09:27] - 2-HUGONORTH - rolai mal pra caralho
+[3:09:33] - 2-HUGONORTH - e vindo
+[3:09:34] - 4-FS_SIMOES - Você percebe, assim, uma...
+[3:09:38] - 4-FS_SIMOES - Quando você pisa, você só ouve um...
+[3:09:41] - 4-FS_SIMOES - E você percebe que você está preso.
+[3:09:45] - 4-FS_SIMOES - Seu pé esquerdo fica preso em cima de uma...
+[3:09:48] - 4-FS_SIMOES - Deixa eu mandar você para trás.
+[3:09:54] - 4-FS_SIMOES - Seu pé fica preso numa armadura de urso.
+[3:09:57] - 2-HUGONORTH - A armadura de urso.
+[3:09:58] - 4-FS_SIMOES - Deixa eu rolar aqui.
+[3:10:01] - 4-FS_SIMOES - Você toma 3 de dano.
+[3:10:04] - 2-HUGONORTH - Um.
+[3:10:09] - 4-FS_SIMOES - E sua velocidade fica 0.
+[3:10:12] - 2-HUGONORTH - Ok.
+[3:10:17] - 4-FS_SIMOES - O que você faz?
+[3:10:19] - 4-FS_SIMOES - Então, acaba a sua rodada.
+[3:10:21] - 2-HUGONORTH - Nada. Vou ficar por aí mesmo, porque não vou tocar meu machadreirão.
+[3:10:32] - 2-HUGONORTH - É isso.
+[3:10:33] - 4-FS_SIMOES - Peraí.
+[3:10:36] - 4-FS_SIMOES - Vamos dizer assim.
+[3:10:39] - 4-FS_SIMOES - E conseguimos ver, finalmente, que...
+[3:10:42] - 4-FS_SIMOES - O grupo está se unindo...
+[3:10:45] - 4-FS_SIMOES - Atrás do objetivo de ganhar a arena.
+[3:10:50] - 4-FS_SIMOES - Junto com o Denílio...
+[3:10:53] - 4-FS_SIMOES - Eles destruíram o primeiro minotauro.
+[3:10:56] - 4-FS_SIMOES - E agora...
+[3:10:59] - 4-FS_SIMOES - O...
+[3:11:03] - 4-FS_SIMOES - E Golfinho, ao invés de ajudá-lo...
+[3:11:05] - 4-FS_SIMOES - Ele corre para tentar atacar a múmia.
+[3:11:08] - 4-FS_SIMOES - Mas ele não esperava que poderia ficar parado no meio do ataque.
+[3:11:13] - 4-FS_SIMOES - Vai, Rafa.
+[3:11:17] - 4-FS_SIMOES - Pode pegar.
+[3:11:26] - 4-FS_SIMOES - Não acontece nada.
+[3:11:29] - 4-FS_SIMOES - Acho que foi normal.
+[3:11:33] - 4-FS_SIMOES - O Bartim pegou um também.
+[3:11:52] - 4-FS_SIMOES - O que é isso?
+[3:11:54] - 4-FS_SIMOES - Eu tenho que fazer o Dexterity Test?
+[3:12:11] - 4-FS_SIMOES - Deixa eu ver...
+[3:12:13] - 4-FS_SIMOES - 11.
+[3:12:20] - 4-FS_SIMOES - Não passei.
+[3:12:23] - 4-FS_SIMOES - Então...
+[3:12:28] - 4-FS_SIMOES - Tá bom.
+[3:12:32] - 4-FS_SIMOES - Você pegou o escudo?
+[3:12:41] - 4-FS_SIMOES - Vamos para o minotauro.
+[3:12:43] - 4-FS_SIMOES - Minotauro vai atacar o Bart.
+[3:12:45] - 4-FS_SIMOES - O Denilson.
+[3:12:52] - 4-FS_SIMOES - Ele tem um erro crítico.
+[3:12:54] - 4-FS_SIMOES - Ele vai tentar bater no Denilson.
+[3:12:56] - 4-FS_SIMOES - E ele meio que...
+[3:12:59] - 4-FS_SIMOES - Tem bola e ele cai no chão.
+[3:13:03] - 4-FS_SIMOES - Pronto.
+[3:13:12] - 4-FS_SIMOES - A múmia...
+[3:13:15] - 4-FS_SIMOES - Do Orc...
+[3:13:17] - 4-FS_SIMOES - Ela...
+[3:13:20] - 4-FS_SIMOES - Utiliza...
+[3:13:24] - 4-FS_SIMOES - O...
+[3:13:27] - 4-FS_SIMOES - Olha para ela...
+[3:13:31] - 4-FS_SIMOES - Do olho dela sai uma...
+[3:13:33] - 4-FS_SIMOES - Uma luz roxa...
+[3:13:37] - 4-FS_SIMOES - Ele sente um mover dentro da alma dele...
+[3:13:40] - 4-FS_SIMOES - Com essa luz roxa.
+[3:13:43] - 4-FS_SIMOES - De...
+[3:13:50] - 4-FS_SIMOES - Desculpa...
+[3:13:54] - 4-FS_SIMOES - Isso.
+[3:13:56] - 4-FS_SIMOES - Você...
+[3:14:00] - 4-FS_SIMOES - Desse olhar dela...
+[3:14:07] - 4-FS_SIMOES - E ela fica...
+[3:14:09] - 4-FS_SIMOES - Ela se aproxima de você...
+[3:14:11] - 4-FS_SIMOES - E...
+[3:14:17] - 4-FS_SIMOES - Agora...
+[3:14:19] - 4-FS_SIMOES - O...
+[3:14:22] - 4-FS_SIMOES - Dois...
+[3:14:24] - 4-FS_SIMOES - Ao pisar aqui...
+[3:14:27] - 4-FS_SIMOES - Tchum...
+[3:14:30] - 4-FS_SIMOES - Ele pisa numa armadilha...
+[3:14:34] - 4-FS_SIMOES - Quando ele pisa...
+[3:14:41] - 4-FS_SIMOES - Aqui...
+[3:14:43] - 4-FS_SIMOES - Um jato de fogo...
+[3:14:51] - 4-FS_SIMOES - Agora...
+[3:14:55] - 4-FS_SIMOES - Vai...
+[3:15:00] - 4-FS_SIMOES - Ele não passa...
+[3:15:08] - 4-FS_SIMOES - E ele toma...
+[3:15:22] - 4-FS_SIMOES - Perde cinco de vida...
+[3:15:24] - 4-FS_SIMOES - Deixa eu só ativar aqui...
+[3:15:32] - 4-FS_SIMOES - Ele perde cinco de vida...
+[3:15:36] - 4-FS_SIMOES - E...
+[3:15:38] - 4-FS_SIMOES - Bosta...
+[3:15:41] - 4-FS_SIMOES - E...
+[3:15:46] - 4-FS_SIMOES - Ele continua o movimento dele...
+[3:15:48] - 4-FS_SIMOES - E ele dá...
+[3:15:51] - 4-FS_SIMOES - No...
+[3:15:53] - 4-FS_SIMOES - Não...
+[3:15:56] - 4-FS_SIMOES - Tá bom...
+[3:15:59] - 4-FS_SIMOES - Ele ataca com desvantagem...
+[3:16:03] - 4-FS_SIMOES - Deixa eu ver a outra...
+[3:16:06] - 4-FS_SIMOES - Dá outra flechada...
+[3:16:08] - 4-FS_SIMOES - E...
+[3:16:11] - 4-FS_SIMOES - É...
+[3:16:14] - 4-FS_SIMOES - Ele erra...
+[3:16:17] - 4-FS_SIMOES - Mateu...
+[3:16:19] - 4-FS_SIMOES - Tá pequeno demais o poneto...
+[3:16:21] - 4-FS_SIMOES - Então...
+[3:16:39] - 4-FS_SIMOES - 16 é certo.
+[3:17:02] - 4-FS_SIMOES - 19 de dano.
+[3:17:11] - 4-FS_SIMOES - Agora vai para o próximo ataque.
+[3:17:17] - 4-FS_SIMOES - 10 não acerta, mas vai mais um para ver.
+[3:17:25] - 4-FS_SIMOES - Não apareceu para mim aqui não.
+[3:17:32] - 4-FS_SIMOES - Foi crítico.
+[3:17:37] - 4-FS_SIMOES - Já matou.
+[3:17:41] - 4-FS_SIMOES - Já está morto o rapaz.
+[3:17:53] - 4-FS_SIMOES - E vai fazer mais alguma coisa?
+[3:18:08] - 4-FS_SIMOES - Isso.
+[3:18:11] - 4-FS_SIMOES - Correto.
+[3:18:23] - 4-FS_SIMOES - Beleza.
+[3:18:34] - 4-FS_SIMOES - A narradora grita e fala assim, novamente o Matheus vem e arrasa.
+[3:18:39] - 4-FS_SIMOES - Muito bom.
+[3:18:41] - 4-FS_SIMOES - Ele corre e ele está com sede de sangue.
+[3:18:44] - 4-FS_SIMOES - Pode ver pela velocidade que ele corre para chegar até o Dwight.
+[3:18:48] - 4-FS_SIMOES - E é o Dwight, pô.
+[3:18:53] - 4-FS_SIMOES - Deni...
+[3:18:55] - 4-FS_SIMOES - Dwight.
+[3:19:10] - 4-FS_SIMOES - Mandar.
+[3:19:12] - 4-FS_SIMOES - Dicete.
+[3:19:14] - 4-FS_SIMOES - 10 certos.
+[3:19:18] - 4-FS_SIMOES - Bom...
+[3:19:48] - 4-FS_SIMOES - Isso, achou tudo.
+[3:20:00] - 4-FS_SIMOES - Você vai...
+[3:20:10] - 4-FS_SIMOES - Tá.
+[3:20:13] - 4-FS_SIMOES - Então vai ser...
+[3:20:15] - 4-FS_SIMOES - 12 de dados, né?
+[3:20:19] - 4-FS_SIMOES - 14 de dados.
+[3:20:29] - 4-FS_SIMOES - Ok.
+[3:20:32] - 4-FS_SIMOES - Você bate nele assim com a sua espada.
+[3:20:35] - 4-FS_SIMOES - Você vê que ele meio que...
+[3:20:40] - 4-FS_SIMOES - Mas ao mesmo tempo, tipo assim, a sua espada não chega a cortar ele.
+[3:20:44] - 4-FS_SIMOES - Mas parece que atingiu por dentro.
+[3:20:47] - 4-FS_SIMOES - Então ele dá uma balanceada assim, mas ele não cai.
+[3:20:56] - 4-FS_SIMOES - Mais alguma coisa que você vai fazer nesse turno?
+[3:20:57] - 2-HUGONORTH - vou
+[3:21:08] - 4-FS_SIMOES - O que você tem para nós?
+[3:21:10] - 4-FS_SIMOES - Uhum.
+[3:21:15] - 4-FS_SIMOES - Acerta.
+[3:21:33] - 2-HUGONORTH - 7 de dano
+[3:21:37] - 2-HUGONORTH - continua batendo
+[3:21:42] - 4-FS_SIMOES - você chegou nela assim
+[3:21:42] - 2-HUGONORTH - deixa eu acerto
+[3:21:47] - 2-HUGONORTH - 12 de dano
+[3:21:53] - 4-FS_SIMOES - você pegou seu machado
+[3:21:55] - 4-FS_SIMOES - e acertou ele três vezes nela
+[3:21:57] - 2-HUGONORTH - deixa eu acerto
+[3:21:57] - 4-FS_SIMOES - de cima pra baixo
+[3:22:01] - 2-HUGONORTH - .
+[3:22:01] - 4-FS_SIMOES - você baixou, pegou de baixo
+[3:22:06] - 4-FS_SIMOES - e você só vê
+[3:22:09] - 4-FS_SIMOES - e quando ela
+[3:22:12] - 4-FS_SIMOES - se recebe o segundo dano, ela abre os braços
+[3:22:14] - 4-FS_SIMOES - e começa a gritar
+[3:22:17] - 4-FS_SIMOES - e corta um braço dela que tava levantado
+[3:22:20] - 4-FS_SIMOES - desprotegido
+[3:22:23] - 4-FS_SIMOES - ela tá muito destruída
+[3:22:26] - 4-FS_SIMOES - ela tá muito quebrada
+[3:22:30] - 4-FS_SIMOES - só rodar
+[3:22:42] - 4-FS_SIMOES - 6 de dano
+[3:22:50] - 4-FS_SIMOES - não passei
+[3:22:54] - 4-FS_SIMOES - quando você
+[3:22:56] - 4-FS_SIMOES - encosta nele
+[3:23:00] - 4-FS_SIMOES - pega fogo
+[3:23:02] - 4-FS_SIMOES - ele parece que ele tá
+[3:23:04] - 4-FS_SIMOES - lutando
+[3:23:07] - 4-FS_SIMOES - quando de repente
+[3:23:11] - 4-FS_SIMOES - e não sobra mais nada
+[3:23:19] - 4-FS_SIMOES - a múmia vai pegar
+[3:23:21] - 4-FS_SIMOES - e virar pro golfin
+[3:23:26] - 4-FS_SIMOES - com
+[3:23:28] - 4-FS_SIMOES - rotting fish
+[3:23:33] - 4-FS_SIMOES - 7 te acerta?
+[3:23:37] - 4-FS_SIMOES - golfin
+[3:23:45] - 4-FS_SIMOES - você acaba de
+[3:23:47] - 4-FS_SIMOES - você recebe
+[3:23:50] - 4-FS_SIMOES - deixa eu só ler aqui pra ter certeza
+[3:24:08] - 4-FS_SIMOES - você não é uma
+[3:24:14] - 4-FS_SIMOES - o que que é uma criatura?
+[3:24:16] - 4-FS_SIMOES - tá querendo
+[3:24:18] - 4-FS_SIMOES - se o
+[3:24:26] - 2-HUGONORTH - Qual tipo de dano?
+[3:24:28] - 4-FS_SIMOES - for uma criatura
+[3:24:31] - 4-FS_SIMOES - ser vivo?
+[3:24:34] - 4-FS_SIMOES - tá bom
+[3:24:37] - 4-FS_SIMOES - 5 de dano
+[3:24:41] - 2-HUGONORTH - Bludging
+[3:24:41] - 4-FS_SIMOES - blood
+[3:24:44] - 2-HUGONORTH - Set de dano necrótico
+[3:24:45] - 4-FS_SIMOES - e depois você recebe
+[3:24:48] - 4-FS_SIMOES - isso
+[3:24:51] - 2-HUGONORTH - Esse aí entra inteiro
+[3:24:52] - 4-FS_SIMOES - e você está
+[3:24:54] - 4-FS_SIMOES - amaldiçoado
+[3:24:56] - 2-HUGONORTH - Botei um íconele
+[3:24:59] - 4-FS_SIMOES - deixa eu
+[3:25:02] - 4-FS_SIMOES - eu quase que eu coloco
+[3:25:04] - 4-FS_SIMOES - a armadilha amaldiçoada
+[3:25:08] - 4-FS_SIMOES - tá
+[3:25:08] - 2-HUGONORTH - Não, não lembro
+[3:25:13] - 4-FS_SIMOES - o
+[3:25:16] - 4-FS_SIMOES - agora
+[3:25:19] - 4-FS_SIMOES - você sabe
+[3:25:22] - 2-HUGONORTH - Eu vejo aqui
+[3:25:23] - 4-FS_SIMOES - tá
+[3:25:25] - 2-HUGONORTH - Valeu, obrigado
+[3:25:25] - 4-FS_SIMOES - eu vou mandar por escrito
+[3:25:29] - 4-FS_SIMOES - você não vai passar por cima da parada
+[3:25:42] - 4-FS_SIMOES - tá
+[3:25:55] - 2-HUGONORTH - 
+[3:25:59] - 4-FS_SIMOES - você pisou aí?
+[3:26:08] - 4-FS_SIMOES - pode
+[3:26:11] - 4-FS_SIMOES - eu vou permitir que você pegue a crossbow e use ela uma vez
+[3:26:26] - 4-FS_SIMOES - vai
+[3:26:39] - 4-FS_SIMOES - pô
+[3:26:41] - 4-FS_SIMOES - por que que você tem um shortbow?
+[3:27:01] - 4-FS_SIMOES - ah tá
+[3:27:11] - 4-FS_SIMOES - só tap
+[3:27:21] - 4-FS_SIMOES - cara
+[3:27:36] - 4-FS_SIMOES - você
+[3:27:39] - 4-FS_SIMOES - pra gritar
+[3:27:44] - 4-FS_SIMOES - que é
+[3:27:46] - 4-FS_SIMOES - que sai a luz roxa do olho dela
+[3:27:50] - 4-FS_SIMOES - e
+[3:27:54] - 4-FS_SIMOES - ah
+[3:28:00] - 4-FS_SIMOES - e
+[3:28:04] - 4-FS_SIMOES - todos felizes
+[3:28:06] - 4-FS_SIMOES - de repente
+[3:28:09] - 4-FS_SIMOES - fica
+[3:28:19] - 4-FS_SIMOES - peraí
+[3:28:25] - 4-FS_SIMOES - cofim
+[3:28:28] - 4-FS_SIMOES - mateu
+[3:28:30] - 4-FS_SIMOES - filas malafaia
+[3:28:33] - 4-FS_SIMOES - vocês estão se vendo aí na
+[3:28:35] - 4-FS_SIMOES - tá
+[3:28:36] - 2-HUGONORTH - ok
+[3:28:38] - 4-FS_SIMOES - a gente
+[3:28:41] - 4-FS_SIMOES - pelo menos a parte
+[3:28:43] - 2-HUGONORTH - Não, eu tô cheio de sono, médico.
+[3:28:43] - 4-FS_SIMOES - ou se já querem acabar por agora
+[3:28:46] - 4-FS_SIMOES - agora vai ser
+[3:28:55] - 4-FS_SIMOES - o
+[3:28:59] - 4-FS_SIMOES - gão
+[3:29:02] - 2-HUGONORTH - Vamos embora.
+[3:29:03] - 3-RAPHAELVICARONE - E aí E aí
+[3:29:04] - 4-FS_SIMOES - não não
+[3:29:04] - 2-HUGONORTH - Vai demorar muito?
+[3:29:08] - 4-FS_SIMOES - é
+[3:29:10] - 4-FS_SIMOES - eu vou pular uma parte
+[3:29:12] - 4-FS_SIMOES - e eu explico só na próxima rodada
+[3:29:13] - 2-HUGONORTH - Tá.
+[3:29:15] - 4-FS_SIMOES - vocês
+[3:29:20] - 4-FS_SIMOES - tipo
+[3:29:23] - 4-FS_SIMOES - os quatro
+[3:29:25] - 4-FS_SIMOES - são só quatro mesmo
+[3:29:26] - 2-HUGONORTH - Hm.
+[3:29:27] - 4-FS_SIMOES - vocês acordam
+[3:29:28] - 2-HUGONORTH - Hm-hm.
+[3:29:29] - 4-FS_SIMOES - quatro ao mesmo tempo
+[3:29:32] - 4-FS_SIMOES - é de vocês na arena
+[3:29:37] - 4-FS_SIMOES - vocês ainda acordam
+[3:29:40] - 4-FS_SIMOES - vocês levantam
+[3:29:43] - 4-FS_SIMOES - ficam olhando ao redor
+[3:29:43] - 2-HUGONORTH - Tá.
+[3:29:45] - 4-FS_SIMOES - a única coisa que vocês conseguem ouvir
+[3:29:48] - 4-FS_SIMOES - o gotejar no fundo
+[3:29:53] - 4-FS_SIMOES - e a
+[3:29:56] - 4-FS_SIMOES - não tá fechada
+[3:29:59] - 4-FS_SIMOES - não tá trancada
+[3:30:04] - 4-FS_SIMOES - a
+[3:30:07] - 4-FS_SIMOES - vocês escutam
+[3:30:09] - 4-FS_SIMOES - um cara
+[3:30:13] - 4-FS_SIMOES - começar a chamar
+[3:30:13] - 2-HUGONORTH - Ok.
+[3:30:16] - 4-FS_SIMOES - tipo
+[3:30:23] - 4-FS_SIMOES - qual é
+[3:30:25] - 4-FS_SIMOES - gladiadores
+[3:30:28] - 4-FS_SIMOES - para a parte
+[3:30:30] - 4-FS_SIMOES - para o salão de comidas
+[3:30:36] - 4-FS_SIMOES - e ao vocês
+[3:30:39] - 4-FS_SIMOES - ouvirem isso
+[3:30:42] - 4-FS_SIMOES - vou deixar
+[3:30:43] - 2-HUGONORTH - Posso fazer?
+[3:30:45] - 4-FS_SIMOES - para essa parte aqui
+[3:30:47] - 4-FS_SIMOES - e
+[3:30:53] - 4-FS_SIMOES - o almoço de vocês
+[3:30:56] - 4-FS_SIMOES - agora
+[3:30:58] - 2-HUGONORTH - Beleza.
+[3:31:03] - 2-HUGONORTH - E vai na frente.
+[3:31:08] - 4-FS_SIMOES - percebem
+[3:31:11] - 4-FS_SIMOES - armadura
+[3:31:13] - 4-FS_SIMOES - estavam na batalha
+[3:31:13] - 2-HUGONORTH - E...
+[3:31:16] - 4-FS_SIMOES - nenhuma arma
+[3:31:18] - 4-FS_SIMOES - denise
+[3:31:20] - 4-FS_SIMOES - vai ficar aí mesmo
+[3:31:22] - 4-FS_SIMOES - soldado
+[3:31:31] - 4-FS_SIMOES - vai pegar o outro
+[3:31:33] - 4-FS_SIMOES - tá
+[3:31:37] - 2-HUGONORTH - Ok.
+[3:31:40] - 4-FS_SIMOES - tipo
+[3:31:43] - 4-FS_SIMOES - assim
+[3:31:46] - 4-FS_SIMOES - ele é
+[3:31:50] - 4-FS_SIMOES - muitas batalhas
+[3:31:55] - 4-FS_SIMOES - e fala assim
+[3:31:58] - 4-FS_SIMOES - por favor
+[3:32:01] - 4-FS_SIMOES - seu café da manhã
+[3:32:03] - 4-FS_SIMOES - um longo dia
+[3:32:07] - 4-FS_SIMOES - servida para vocês
+[3:32:11] - 4-FS_SIMOES - o João Batista
+[3:32:14] - 4-FS_SIMOES - e o meu objetivo
+[3:32:17] - 4-FS_SIMOES - trabalho
+[3:32:20] - 4-FS_SIMOES - não necessariamente
+[3:32:22] - 4-FS_SIMOES - cheguem ao final
+[3:32:24] - 4-FS_SIMOES - mas sim que vocês
+[3:32:28] - 4-FS_SIMOES - o nosso rei
+[3:32:36] - 4-FS_SIMOES - Dom Rodrigo de Bragança
+[3:32:45] - 4-FS_SIMOES - tudo que acontece aqui
+[3:32:47] - 4-FS_SIMOES - o prazer dele
+[3:32:50] - 4-FS_SIMOES - foi criado
+[3:32:53] - 4-FS_SIMOES - uma
+[3:32:57] - 4-FS_SIMOES - e outra
+[3:33:00] - 4-FS_SIMOES - podem tomar
+[3:33:03] - 4-FS_SIMOES - a gente espera vocês
+[3:33:06] - 4-FS_SIMOES - na mureta
+[3:33:08] - 4-FS_SIMOES - tem
+[3:33:11] - 4-FS_SIMOES - de água
+[3:33:13] - 4-FS_SIMOES - sacos
+[3:33:15] - 4-FS_SIMOES - nas paredes
+[3:33:18] - 4-FS_SIMOES - ter um saco
+[3:33:21] - 4-FS_SIMOES - se alimentar
+[3:33:23] - 4-FS_SIMOES - sarco de água
+[3:33:26] - 4-FS_SIMOES - vocês querem
+[3:33:30] - 4-FS_SIMOES - falar alguma coisa
+[3:33:32] - 4-FS_SIMOES - o que vocês fazem
+[3:33:36] - 2-HUGONORTH - e, meu irmão, conversa comigo que nem um
+[3:33:52] - 4-FS_SIMOES - eu geralmente
+[3:34:00] - 4-FS_SIMOES - se você falasse
+[3:34:03] - 4-FS_SIMOES - é
+[3:34:05] - 4-FS_SIMOES - eu ia te bater
+[3:34:10] - 4-FS_SIMOES - tá
+[3:34:28] - 4-FS_SIMOES - vocês vão
+[3:34:31] - 4-FS_SIMOES - a comida
+[3:34:38] - 4-FS_SIMOES - tá
+[3:34:40] - 4-FS_SIMOES - só um tantinho
+[3:34:45] - 4-FS_SIMOES - todo mundo
+[3:34:47] - 4-FS_SIMOES - de nível
+[3:34:49] - 2-HUGONORTH - Ok.
+[3:34:50] - 4-FS_SIMOES - e
+[3:34:52] - 4-FS_SIMOES - você foi curado
+[3:34:54] - 2-HUGONORTH - Opa, obrigado.
+[3:34:55] - 4-FS_SIMOES - é só ir para o próximo nível
+[3:35:04] - 4-FS_SIMOES - foi?
+[3:35:09] - 2-HUGONORTH - E, meu irmão, conversa comigo que nem um troglodido.
+[3:35:10] - 4-FS_SIMOES - tá
+[3:35:12] - 4-FS_SIMOES - você sabe o que é um lanista?
+[3:35:17] - 4-FS_SIMOES - eu também não tinha
+[3:35:19] - 2-HUGONORTH - Olha só.
+[3:35:19] - 4-FS_SIMOES - é o
+[3:35:21] - 4-FS_SIMOES - pelos gladiadores
+[3:35:24] - 2-HUGONORTH - E, meu irmão, conversa comigo que nem um troglodido.
+[3:35:28] - 4-FS_SIMOES - antigamente
+[3:35:34] - 4-FS_SIMOES - sim
+[3:35:37] - 4-FS_SIMOES - ele na verdade
+[3:35:38] - 2-HUGONORTH - Ah, achei que Lannister era aqueles que faziam incesto e...
+[3:35:39] - 4-FS_SIMOES - mas também
+[3:35:43] - 4-FS_SIMOES - ele é o lanista
+[3:35:47] - 4-FS_SIMOES - não
+[3:35:58] - 2-HUGONORTH - Era de castly rock.
+[3:36:05] - 2-HUGONORTH - Foi mal, desculpa.
+[3:36:07] - 4-FS_SIMOES - foi muito boa
+[3:36:13] - 4-FS_SIMOES - ele
+[3:36:16] - 4-FS_SIMOES - dj
+[3:36:19] - 4-FS_SIMOES - fez
+[3:36:23] - 4-FS_SIMOES - quando você percebe
+[3:36:26] - 2-HUGONORTH - Manda o Ergas pra ele, vai.
+[3:36:41] - 2-HUGONORTH - E o golfe me dá uma risadinha.
+[3:36:46] - 4-FS_SIMOES - começam a rir
+[3:36:49] - 4-FS_SIMOES - o
+[3:36:51] - 4-FS_SIMOES - o lanista
+[3:36:53] - 4-FS_SIMOES - para o guarda
+[3:36:57] - 4-FS_SIMOES - no Silas
+[3:36:59] - 4-FS_SIMOES - minto
+[3:37:02] - 4-FS_SIMOES - ele levanta
+[3:37:04] - 4-FS_SIMOES - a pedra vermelha
+[3:37:07] - 4-FS_SIMOES - e Silas
+[3:37:09] - 4-FS_SIMOES - e cai de joelhos
+[3:37:15] - 4-FS_SIMOES - então agora
+[3:37:19] - 4-FS_SIMOES - você também
+[3:37:21] - 4-FS_SIMOES - no chão
+[3:37:24] - 4-FS_SIMOES - agora ele está
+[3:37:26] - 4-FS_SIMOES - de cabeça
+[3:37:33] - 4-FS_SIMOES - pegar a salsicha
+[3:37:35] - 4-FS_SIMOES - que parece que
+[3:37:37] - 4-FS_SIMOES - se você pegar
+[3:37:46] - 4-FS_SIMOES - você volta
+[3:37:50] - 4-FS_SIMOES - fala
+[3:37:52] - 4-FS_SIMOES - a pedra
+[3:37:55] - 4-FS_SIMOES - acho que vocês
+[3:37:58] - 4-FS_SIMOES - quem sou eu
+[3:38:01] - 4-FS_SIMOES - aquele que fala
+[3:38:04] - 4-FS_SIMOES - que obedecem
+[3:38:06] - 4-FS_SIMOES - se vocês tem
+[3:38:08] - 4-FS_SIMOES - entre vocês
+[3:38:11] - 4-FS_SIMOES - é que vocês
+[3:38:13] - 4-FS_SIMOES - plenas
+[3:38:16] - 4-FS_SIMOES - à próxima
+[3:38:19] - 4-FS_SIMOES - e dar ao meu rei
+[3:38:22] - 4-FS_SIMOES - tudo o que ele precisa
+[3:38:24] - 4-FS_SIMOES - sangue
+[3:38:27] - 4-FS_SIMOES - então se vocês
+[3:38:29] - 4-FS_SIMOES - entre vocês
+[3:38:35] - 4-FS_SIMOES - com que arma?
+[3:38:38] - 4-FS_SIMOES - você
+[3:38:43] - 4-FS_SIMOES - atacou
+[3:38:48] - 4-FS_SIMOES - ah tá bom
+[3:38:52] - 4-FS_SIMOES - perceberam
+[3:38:56] - 4-FS_SIMOES - algumas ações
+[3:38:58] - 4-FS_SIMOES - outras
+[3:39:00] - 4-FS_SIMOES - tem alguns
+[3:39:02] - 4-FS_SIMOES - e eles gostariam
+[3:39:04] - 4-FS_SIMOES - presentes
+[3:39:07] - 4-FS_SIMOES - passa por mim
+[3:39:10] - 4-FS_SIMOES - se vocês
+[3:39:12] - 4-FS_SIMOES - porque afinal
+[3:39:16] - 4-FS_SIMOES - não um massacre
+[3:39:21] - 4-FS_SIMOES - vocês começam
+[3:39:23] - 4-FS_SIMOES - um barulho de porta
+[3:39:26] - 4-FS_SIMOES - no fundo
+[3:39:30] - 4-FS_SIMOES - quando vocês
+[3:39:34] - 4-FS_SIMOES - chega uma mulher
+[3:39:36] - 4-FS_SIMOES - muito bem vestida
+[3:39:39] - 4-FS_SIMOES - atrás dela
+[3:39:43] - 4-FS_SIMOES - o lanista
+[3:39:45] - 4-FS_SIMOES - ele fala
+[3:39:48] - 4-FS_SIMOES - o que faz aqui?
+[3:39:52] - 4-FS_SIMOES - faz uma reverência
+[3:39:54] - 4-FS_SIMOES - muito baixa
+[3:39:59] - 4-FS_SIMOES - eu
+[3:40:01] - 4-FS_SIMOES - João
+[3:40:04] - 4-FS_SIMOES - vendo
+[3:40:06] - 4-FS_SIMOES - com esses
+[3:40:11] - 4-FS_SIMOES - que
+[3:40:13] - 4-FS_SIMOES - bel prazer
+[3:40:15] - 4-FS_SIMOES - ela fala
+[3:40:18] - 4-FS_SIMOES - a mão
+[3:40:21] - 4-FS_SIMOES - vermelha
+[3:40:24] - 4-FS_SIMOES - dado um tapa
+[3:40:27] - 4-FS_SIMOES - quando ela
+[3:40:31] - 4-FS_SIMOES - fala assim
+[3:40:33] - 4-FS_SIMOES - com meus próprios olhos
+[3:40:36] - 4-FS_SIMOES - toda a desgraça
+[3:40:39] - 4-FS_SIMOES - traz ao mundo
+[3:40:42] - 4-FS_SIMOES - de vocês
+[3:40:44] - 4-FS_SIMOES - carisma
+[3:40:49] - 4-FS_SIMOES - normal
+[3:40:57] - 4-FS_SIMOES - nossa
+[3:40:59] - 4-FS_SIMOES - ela começa
+[3:41:01] - 2-HUGONORTH - Obrigado.
+[3:41:04] - 4-FS_SIMOES - olhando da esquerda
+[3:41:06] - 4-FS_SIMOES - pelo Mateu
+[3:41:09] - 4-FS_SIMOES - e quando ela
+[3:41:11] - 4-FS_SIMOES - em cima
+[3:41:14] - 4-FS_SIMOES - ela meio que faz
+[3:41:16] - 4-FS_SIMOES - assim na boca
+[3:41:20] - 4-FS_SIMOES - em frente
+[3:41:22] - 4-FS_SIMOES - para o
+[3:41:25] - 4-FS_SIMOES - dela se encontram
+[3:41:27] - 4-FS_SIMOES - ela fica ali
+[3:41:30] - 4-FS_SIMOES - por alguns
+[3:41:32] - 4-FS_SIMOES - mais tempo
+[3:41:36] - 4-FS_SIMOES - quando o João
+[3:41:38] - 4-FS_SIMOES - você não pode
+[3:41:41] - 4-FS_SIMOES - o rei
+[3:41:45] - 4-FS_SIMOES - eu que vou ser punido
+[3:41:47] - 4-FS_SIMOES - e ela
+[3:41:50] - 4-FS_SIMOES - aí a
+[3:41:53] - 4-FS_SIMOES - meio que faz um movimento
+[3:41:55] - 4-FS_SIMOES - e os dois
+[3:41:58] - 4-FS_SIMOES - vão embora
+[3:42:02] - 4-FS_SIMOES - alguém fala alguma coisa
+[3:42:06] - 4-FS_SIMOES - o
+[3:42:09] - 2-HUGONORTH - Agora.
+[3:42:17] - 4-FS_SIMOES - João
+[3:42:19] - 4-FS_SIMOES - e fala assim
+[3:42:21] - 4-FS_SIMOES - eu tenho
+[3:42:24] - 4-FS_SIMOES - o meu trabalho
+[3:42:26] - 4-FS_SIMOES - como eu disse
+[3:42:28] - 4-FS_SIMOES - estejam o melhor
+[3:42:31] - 4-FS_SIMOES - na arena
+[3:42:33] - 4-FS_SIMOES - sobre os presentes que vocês vão receber
+[3:42:37] - 4-FS_SIMOES - eu peço que vocês
+[3:42:40] - 4-FS_SIMOES - porque ratos rondam
+[3:42:45] - 4-FS_SIMOES - e nisso os soldados saem
+[3:42:47] - 4-FS_SIMOES - e eles fecham a porta aqui, tá Rafael?
+[3:42:53] - 2-HUGONORTH - Nadaiga
+[3:42:57] - 4-FS_SIMOES - nesse meio tempo que passa o resto do dia
+[3:42:59] - 4-FS_SIMOES - vocês querem fazer alguma coisa
+[3:43:02] - 4-FS_SIMOES - nesse período?
+[3:43:08] - 2-HUGONORTH - Não, eu não sei se.
+[3:43:09] - 4-FS_SIMOES - mais alguma coisa?
+[3:43:12] - 4-FS_SIMOES - nada específico?
+[3:43:21] - 4-FS_SIMOES - o que você quiser fazer
+[3:43:33] - 4-FS_SIMOES - você ficou atento
+[3:43:36] - 4-FS_SIMOES - e nada aconteceu
+[3:43:38] - 4-FS_SIMOES - e durante a noite
+[3:43:43] - 4-FS_SIMOES - tá todo mundo nos seus quartos
+[3:43:46] - 4-FS_SIMOES - deixa eu
+[3:43:51] - 4-FS_SIMOES - Matheus
+[3:43:53] - 4-FS_SIMOES - gostar?
+[3:43:59] - 4-FS_SIMOES - tá
+[3:44:07] - 4-FS_SIMOES - durante a noite
+[3:44:14] - 4-FS_SIMOES - vocês começam a ouvir
+[3:44:16] - 4-FS_SIMOES - um barulho
+[3:44:18] - 4-FS_SIMOES - todo mundo pode rolar
+[3:44:21] - 4-FS_SIMOES - por favor
+[3:44:31] - 4-FS_SIMOES - eu tenho um civic今天就io e eu vou Даже
+[3:44:34] - 4-FS_SIMOES - nada disso
+[3:44:38] - 4-FS_SIMOES - o Deníseo
+[3:44:44] - 4-FS_SIMOES - foi
+[3:44:46] - 4-FS_SIMOES - tirando o
+[3:44:49] - 4-FS_SIMOES - todo mundo escuta
+[3:44:53] - 4-FS_SIMOES - mas vocês ainda estão deitados
+[3:44:56] - 4-FS_SIMOES - e vocês começam
+[3:44:59] - 4-FS_SIMOES - observando cada um de vocês
+[3:45:01] - 4-FS_SIMOES - vocês fazem alguma coisa?
+[3:45:08] - 4-FS_SIMOES - dormindo não
+[3:45:12] - 4-FS_SIMOES - deitado de olho fechado não
+[3:45:16] - 4-FS_SIMOES - você escutou o espaço
+[3:45:18] - 4-FS_SIMOES - você saiu, levantou da cama
+[3:45:20] - 4-FS_SIMOES - veio ver
+[3:45:29] - 4-FS_SIMOES - não tinha ninguém
+[3:45:34] - 4-FS_SIMOES - uma presença
+[3:45:38] - 2-HUGONORTH - Ok.
+[3:45:38] - 4-FS_SIMOES - tudo bem?
+[3:45:43] - 2-HUGONORTH - Não, eu não sei se.
+[3:45:44] - 4-FS_SIMOES - vocês fazem alguma coisa depois dessa informação?
+[3:45:48] - 2-HUGONORTH - Apis.
+[3:45:57] - 4-FS_SIMOES - caralho, são duas da manhã
+[3:45:59] - 4-FS_SIMOES - não faz nada não?
+[3:46:06] - 4-FS_SIMOES - beleza
+[3:46:10] - 4-FS_SIMOES - e vocês vão
+[3:46:12] - 5-MATHEUSBARTCOSTA - A bet.
+[3:46:13] - 4-FS_SIMOES - vocês levantam
+[3:46:13] - 2-HUGONORTH - Não, eu não sei se.
+[3:46:16] - 4-FS_SIMOES - é
+[3:46:20] - 4-FS_SIMOES - e vocês podem
+[3:46:24] - 4-FS_SIMOES - região lá da frente de novo
+[3:46:26] - 4-FS_SIMOES - opa, peraí
+[3:46:29] - 4-FS_SIMOES - tem alguém errado aqui
+[3:46:34] - 4-FS_SIMOES - a região da comida
+[3:46:40] - 4-FS_SIMOES - pra vocês
+[3:46:43] - 4-FS_SIMOES - tá bom
+[3:46:51] - 4-FS_SIMOES - quando
+[3:47:01] - 4-FS_SIMOES - chega o café da manhã de vocês
+[3:47:04] - 4-FS_SIMOES - por favor
+[3:47:14] - 5-MATHEUSBARTCOSTA - São javali.
+[3:47:18] - 5-MATHEUSBARTCOSTA - É um cachorro.
+[3:47:21] - 5-MATHEUSBARTCOSTA - A gente está na China.
+[3:47:22] - 4-FS_SIMOES - ó
+[3:47:24] - 5-MATHEUSBARTCOSTA - O chinês.
+[3:47:27] - 4-FS_SIMOES - vocês
+[3:47:31] - 4-FS_SIMOES - chegaram na
+[3:47:34] - 4-FS_SIMOES - mercador
+[3:47:38] - 4-FS_SIMOES - reconhecem que ele tava lá na
+[3:47:40] - 4-FS_SIMOES - perto da
+[3:47:42] - 5-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[3:47:42] - 4-FS_SIMOES - e ele tá muito
+[3:47:44] - 4-FS_SIMOES - à vontade
+[3:47:47] - 4-FS_SIMOES - tipo
+[3:47:50] - 4-FS_SIMOES - feliz
+[3:47:52] - 4-FS_SIMOES - que bom que chegaram
+[3:47:55] - 4-FS_SIMOES - nessa
+[3:47:58] - 4-FS_SIMOES - mas tá faltando um
+[3:48:01] - 4-FS_SIMOES - pode rodar o
+[3:48:03] - 4-FS_SIMOES - qual é o
+[3:48:07] - 4-FS_SIMOES - tem
+[3:48:10] - 4-FS_SIMOES - você percebe
+[3:48:13] - 4-FS_SIMOES - que ela fica
+[3:48:16] - 4-FS_SIMOES - da sua testa
+[3:48:21] - 4-FS_SIMOES - finalmente
+[3:48:28] - 4-FS_SIMOES - meu nome é
+[3:48:31] - 4-FS_SIMOES - eu sou
+[3:48:33] - 4-FS_SIMOES - e
+[3:48:35] - 4-FS_SIMOES - eu imagino
+[3:48:38] - 4-FS_SIMOES - eu gosto de dinheiro
+[3:48:42] - 4-FS_SIMOES - aqui nesse grupo
+[3:48:44] - 4-FS_SIMOES - de investimento
+[3:48:49] - 4-FS_SIMOES - mas
+[3:48:52] - 4-FS_SIMOES - pode
+[3:48:57] - 4-FS_SIMOES - que que você falou pra ele
+[3:49:02] - 4-FS_SIMOES - assim
+[3:49:07] - 4-FS_SIMOES - é o que dizem
+[3:49:11] - 4-FS_SIMOES - aí
+[3:49:13] - 4-FS_SIMOES - ele
+[3:49:15] - 4-FS_SIMOES - que coloca os pés
+[3:49:18] - 4-FS_SIMOES - assim
+[3:49:20] - 4-FS_SIMOES - eu vejo aqui
+[3:49:24] - 4-FS_SIMOES - pessoas interessadas
+[3:49:26] - 4-FS_SIMOES - pra oferecer
+[3:49:30] - 4-FS_SIMOES - no ramo
+[3:49:33] - 4-FS_SIMOES - certeiras
+[3:49:38] - 4-FS_SIMOES - de convidar
+[3:49:41] - 4-FS_SIMOES - parte do
+[3:49:44] - 4-FS_SIMOES - clube
+[3:49:47] - 4-FS_SIMOES - eu represento
+[3:49:49] - 4-FS_SIMOES - mas um grupo
+[3:49:52] - 4-FS_SIMOES - como finalidades
+[3:49:57] - 4-FS_SIMOES - ferramentas
+[3:49:59] - 4-FS_SIMOES - mas vocês
+[3:50:01] - 4-FS_SIMOES - perdendo nisso
+[3:50:04] - 4-FS_SIMOES - cheguem o mais longe
+[3:50:07] - 4-FS_SIMOES - te ajudar
+[3:50:09] - 4-FS_SIMOES - também
+[3:50:13] - 4-FS_SIMOES - quem é que
+[3:50:17] - 4-FS_SIMOES - vai ser o meu amigo
+[3:50:19] - 4-FS_SIMOES - até a pergunta
+[3:50:23] - 4-FS_SIMOES - assim
+[3:50:25] - 4-FS_SIMOES - no aberto
+[3:50:28] - 4-FS_SIMOES - no privado
+[3:50:40] - 4-FS_SIMOES - Hugo
+[3:50:44] - 4-FS_SIMOES - ele fala assim
+[3:50:47] - 4-FS_SIMOES - pra próxima
+[3:50:56] - 4-FS_SIMOES - oportunidade
+[3:50:59] - 4-FS_SIMOES - pra próxima
+[3:51:02] - 4-FS_SIMOES - alguém aqui
+[3:51:18] - 4-FS_SIMOES - uma oportunidade
+[3:51:26] - 4-FS_SIMOES - que você tem
+[3:51:28] - 4-FS_SIMOES - pra passar
+[3:51:31] - 4-FS_SIMOES - com que
+[3:51:35] - 4-FS_SIMOES - sai daqui
+[3:51:42] - 4-FS_SIMOES - você ganhando
+[3:51:46] - 4-FS_SIMOES - seguro
+[3:51:48] - 4-FS_SIMOES - a ter lucro
+[3:51:58] - 4-FS_SIMOES - e fala assim
+[3:52:01] - 4-FS_SIMOES - a mão
+[3:52:04] - 4-FS_SIMOES - tipo
+[3:52:07] - 4-FS_SIMOES - eu tenho um acordo
+[3:52:10] - 4-FS_SIMOES - de relacionamento
+[3:52:13] - 4-FS_SIMOES - ele te dá
+[3:52:15] - 4-FS_SIMOES - sua mão
+[3:52:18] - 4-FS_SIMOES - é simples
+[3:52:21] - 4-FS_SIMOES - você vai pegar
+[3:52:23] - 4-FS_SIMOES - e não vai encostar
+[3:52:26] - 4-FS_SIMOES - e por isso
+[3:52:29] - 4-FS_SIMOES - eu vou te dar
+[3:52:32] - 4-FS_SIMOES - nisso
+[3:52:35] - 4-FS_SIMOES - ele pega
+[3:52:40] - 4-FS_SIMOES - e te encostar
+[3:52:46] - 4-FS_SIMOES - ele meio que dá
+[3:52:50] - 4-FS_SIMOES - um
+[3:52:53] - 4-FS_SIMOES - assim
+[3:52:55] - 4-FS_SIMOES - com um riso
+[3:52:59] - 4-FS_SIMOES - pra
+[3:53:02] - 4-FS_SIMOES - esse item
+[3:53:05] - 4-FS_SIMOES - no whatsapp
+[3:53:09] - 4-FS_SIMOES - e quando você
+[3:53:12] - 4-FS_SIMOES - assim
+[3:53:14] - 4-FS_SIMOES - um guarda
+[3:53:19] - 4-FS_SIMOES - solta
+[3:53:23] - 4-FS_SIMOES - assim a bota
+[3:53:26] - 4-FS_SIMOES - fique à vontade
+[3:53:28] - 4-FS_SIMOES - corredor único
+[3:53:32] - 4-FS_SIMOES - no baú
+[3:53:34] - 4-FS_SIMOES - ele sai
+[3:53:38] - 4-FS_SIMOES - os dois guardas
+[3:53:40] - 4-FS_SIMOES - aqui
+[3:53:43] - 4-FS_SIMOES - arrumar
+[3:53:45] - 4-FS_SIMOES - eles ficam aqui
+[3:53:48] - 4-FS_SIMOES - logo isso aí
+[3:53:51] - 4-FS_SIMOES - um
+[3:53:53] - 4-FS_SIMOES - de moedas
+[3:53:55] - 4-FS_SIMOES - na lateral
+[3:54:00] - 4-FS_SIMOES - deles
+[3:54:03] - 4-FS_SIMOES - eles ficam
+[3:54:05] - 4-FS_SIMOES - você aqui
+[3:54:08] - 4-FS_SIMOES - vocês vão fazer
+[3:54:11] - 4-FS_SIMOES - alguma coisa
+[3:54:16] - 4-FS_SIMOES - Bart
+[3:54:19] - 4-FS_SIMOES - você tá onde
+[3:54:25] - 4-FS_SIMOES - o Bart
+[3:54:29] - 4-FS_SIMOES - deixar o token
+[3:54:39] - 4-FS_SIMOES - o que você
+[3:54:41] - 4-FS_SIMOES - é
+[3:54:54] - 4-FS_SIMOES - significa que ele
+[3:54:57] - 4-FS_SIMOES - pelo mercador
+[3:55:00] - 4-FS_SIMOES - é
+[3:55:04] - 2-HUGONORTH - vamos lá, vamos lá
+[3:55:04] - 4-FS_SIMOES - perdão
+[3:55:08] - 4-FS_SIMOES - aí
+[3:55:11] - 4-FS_SIMOES - ajuda o coisa planejada
+[3:55:13] - 4-FS_SIMOES - mesmo
+[3:55:16] - 4-FS_SIMOES - e
+[3:55:19] - 4-FS_SIMOES - aqui
+[3:55:23] - 4-FS_SIMOES - de volta
+[3:55:31] - 4-FS_SIMOES - aqui
+[3:55:33] - 4-FS_SIMOES - Lanar
+[3:55:36] - 4-FS_SIMOES - pra mim também
+[3:55:38] - 4-FS_SIMOES - junto com ele
+[3:55:40] - 4-FS_SIMOES - um cara
+[3:55:43] - 4-FS_SIMOES - você vê que ele é um líder
+[3:55:46] - 4-FS_SIMOES - assim
+[3:55:48] - 4-FS_SIMOES - e
+[3:55:51] - 4-FS_SIMOES - João chega aqui
+[3:55:54] - 4-FS_SIMOES - espero que vocês tenham comido bem
+[3:55:56] - 4-FS_SIMOES - porque
+[3:55:59] - 4-FS_SIMOES - da próxima etapa
+[3:56:01] - 4-FS_SIMOES - das arenas
+[3:56:04] - 4-FS_SIMOES - eu sei que vocês têm a promessa
+[3:56:07] - 4-FS_SIMOES - de
+[3:56:10] - 4-FS_SIMOES - eu tenho que informar vocês
+[3:56:13] - 4-FS_SIMOES - aí nisso ele pega uma pedra vermelha
+[3:56:16] - 4-FS_SIMOES - mesma pedra que vocês viram da outra vez
+[3:56:18] - 4-FS_SIMOES - ele só levanta
+[3:56:22] - 4-FS_SIMOES - surge uma luz vermelha
+[3:56:26] - 4-FS_SIMOES - ele
+[3:56:30] - 4-FS_SIMOES - essa aqui
+[3:56:33] - 4-FS_SIMOES - de bandido
+[3:56:36] - 4-FS_SIMOES - e tem
+[3:56:39] - 4-FS_SIMOES - tem poder sobre vocês
+[3:56:43] - 4-FS_SIMOES - vocês nunca serão livres
+[3:56:45] - 4-FS_SIMOES - vocês serão livres
+[3:56:47] - 4-FS_SIMOES - fora dessas células
+[3:56:50] - 4-FS_SIMOES - o meu
+[3:56:53] - 4-FS_SIMOES - Gustavo
+[3:56:55] - 4-FS_SIMOES - antes da próxima
+[3:56:58] - 4-FS_SIMOES - batalha
+[3:57:02] - 4-FS_SIMOES - Gustavo
+[3:57:05] - 4-FS_SIMOES - o João
+[3:57:08] - 4-FS_SIMOES - para o Gustavo
+[3:57:10] - 4-FS_SIMOES - e o
+[3:57:14] - 4-FS_SIMOES - chega com uma voz
+[3:57:16] - 4-FS_SIMOES - meus queridos
+[3:57:19] - 4-FS_SIMOES - momento se aproxima
+[3:57:22] - 4-FS_SIMOES - a honra de derramar
+[3:57:25] - 4-FS_SIMOES - e cada gota
+[3:57:27] - 4-FS_SIMOES - ao arquiteto
+[3:57:30] - 4-FS_SIMOES - de um lado
+[3:57:32] - 4-FS_SIMOES - a cara de vocês
+[3:57:34] - 4-FS_SIMOES - vocês sentem assim
+[3:57:37] - 4-FS_SIMOES - o arquiteto
+[3:57:39] - 4-FS_SIMOES - ele vê
+[3:57:42] - 4-FS_SIMOES - dessa prisão
+[3:57:44] - 4-FS_SIMOES - do osso
+[3:57:47] - 4-FS_SIMOES - o propósito
+[3:57:51] - 4-FS_SIMOES - ainda não
+[3:57:54] - 4-FS_SIMOES - de repente
+[3:57:57] - 4-FS_SIMOES - as mãos
+[3:58:01] - 4-FS_SIMOES - arquiteto
+[3:58:03] - 4-FS_SIMOES - que cada morte
+[3:58:06] - 4-FS_SIMOES - seja um tijolo
+[3:58:09] - 4-FS_SIMOES - se aproxima
+[3:58:12] - 4-FS_SIMOES - pelo símbolo
+[3:58:15] - 4-FS_SIMOES - e de repente
+[3:58:17] - 4-FS_SIMOES - a voz dele
+[3:58:19] - 4-FS_SIMOES - ele só sussura
+[3:58:22] - 4-FS_SIMOES - o arquiteto
+[3:58:24] - 4-FS_SIMOES - maiores
+[3:58:26] - 4-FS_SIMOES - gota
+[3:58:28] - 4-FS_SIMOES - é uma
+[3:58:31] - 4-FS_SIMOES - e
+[3:58:35] - 4-FS_SIMOES - nisso ele
+[3:58:38] - 4-FS_SIMOES - num silêncio
+[3:58:40] - 4-FS_SIMOES - ele nem olha
+[3:58:44] - 4-FS_SIMOES - o
+[3:58:46] - 4-FS_SIMOES - o João
+[3:58:48] - 4-FS_SIMOES - isso aí que ele falou
+[3:58:51] - 4-FS_SIMOES - o presente de vocês
+[3:58:55] - 4-FS_SIMOES - com isso
+[3:58:57] - 4-FS_SIMOES - beleza
+[3:59:06] - 2-HUGONORTH - Ótima a sensação, Fio
+[3:59:14] - 4-FS_SIMOES - pode parar de gravar
+[3:59:17] - 2-HUGONORTH - O gay
+[3:59:19] - 4-FS_SIMOES - é
+[3:59:24] - 4-FS_SIMOES - eu vces
+[3:59:26] - 4-FS_SIMOES - sobre a

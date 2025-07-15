@@ -1,0 +1,89 @@
+Analise esta transcrição de sessão de RPG e crie um resumo detalhado seguindo EXATAMENTE esta estrutura em markdown.
+
+No áudio da sessão, os participantes e seus respectivos personagens são:
+HUGONORTH = Golfin
+RAPHAELVICARONE = Sylas
+FS_SIMOES = Mestre
+GUSTAVONIKOV = Mateo
+MATHEUSBARTCOSTA = Deniso
+NOBREAK0497 = 
+NIGHTWOLFBIELZOVSKY = 
+
+
+# Título
+[Crie um título criativo com número do capítulo e nome, ex: "O Legado de Rilonde: Capítulo 4 – Entre Dados e Desconfianças"]
+
+## Introdução
+[Um parágrafo que apresenta o contexto da bloco]
+
+## Resumo da Bloco
+[Um relato completo dos acontecimentos]
+
+## Itens Ganhos
+[Lista de itens ganhos durante a sessão]
+
+## Itens Perdidos
+[Lista de itens perdidos durante a sessão]
+
+## Eventos Principais
+[Lista dos eventos mais importantes]
+
+## Momentos Chaves
+[Descrição dos momentos mais significativos]
+
+## Momentos Engraçados
+[Registro dos momentos divertidos in-game]
+
+## Momentos Engraçados do Metajogo
+[Registro dos momentos divertidos fora do jogo]
+
+## Melhores Momentos
+[Os highlights da sessão]
+
+## Detalhes da Batalha
+[Descrição detalhada dos combates]
+
+## Desenvolvimento dos Personagens
+[Como os personagens evoluíram]
+
+## As Ações de Todos os Personagens
+[Para cada personagem, inclua:
+- Classe/Perfil
+- Ações Principais
+- Momento Notável
+- Contribuição]
+
+## NPCs Notáveis
+[Descrição dos NPCs importantes]
+
+## Construção de Mundo
+[Detalhes sobre o mundo e ambiente]
+
+## Decisões Importantes
+[As escolhas cruciais feitas]
+
+## Presságios e Ganchos Futuros
+[Pistas e possíveis desenvolvimentos futuros]
+
+## Citação da Noite
+[Uma frase marcante ou engraçada da sessão]
+
+## Encerramento
+[Uma conclusão dramática ou reflexiva]
+
+
+## Cenas da Sessão
+[Baseado no conteúdo da transcrição, gere prompts para as imagens de cenas que aconteceram na sessão, com o máximo de detalhes possíveis]
+[Todas as imagens de personagens devem conter a descrição do personagem e da cena, seja o mais detalhado possível]
+[Todas as imagens se passam em um universo de fantasia de RPG, com personagens, monstros, armas, armaduras, magias. Estilo RPG de mesa de Dungeons and Dragons]
+[Se a cena for engracada, utilize um prompt engraçado]
+[Se a cena for dramática, utilize um estilo de arte baseado no jogo de cartas Magic: The Gathering]
+[Se a cena for uma batalha, utilize um estilo de arte baseado no jogo de cartas Magic: The Gathering]
+[Tenha certeza de que as imagens sejam baseadas no conteúdo da transcrição]
+[Tenha certeza de que todas as cenas terem um prompt]
+[Sempre siga as descricoes dos personagens]
+[Minimo de 10 imagens]
+
+Estilo RPG de mesa de Dungeons and Dragons, arte baseado no jogo de cartas Magic: The Gathering
+
+## Transforme esse bloco em um capitulo de um livro
