@@ -47,9 +47,10 @@ A **Fama** determina o **limite máximo** de pontos que você pode gastar por ro
 | Informação Básica   | 2     | Tipo de inimigo e terreno da próxima luta |     |
 | Informação de Arena | 8     | Layout e armadilhas da arena              |     |
 
+
 ## Itens Especiais da Arena
 
-| Item              | Preço | Descrição                        |
+| Item              | Preço | Descrição                        |          |
 | ----------------- | ----- | -------------------------------- | -------- |
 | Granada de Fumaça | 2     | Área de escuridão por 1 rodada   |
 | Granada de Ácido  | 3     | 2d6 dano ácido em área           |
@@ -67,3 +68,6 @@ A **Fama** determina o **limite máximo** de pontos que você pode gastar por ro
 | Treinamento de Habilidade | 4     | +1 em uma habilidade específica |           |
 | Especialização            | 6     | +1 em hit permanente            |           |
 | Mestre de Arma            | 10    | +2 em hit com tipo de arma      |           |
+
+
+
