@@ -1,0 +1,649 @@
+[0:30:10] - 7-NOBREAK0497 - O plano é o seguinte.
+[0:30:12] - 3-GUSTAVONIKOV - Seu Lunga, Eduardo...
+[0:30:14] - 7-NOBREAK0497 - Não tem outra.
+[0:30:16] - 3-GUSTAVONIKOV - Meus queridos compatriotas.
+[0:30:17] - 7-NOBREAK0497 - Arregaçar.
+[0:30:18] - 1-FS_SIMOES - Pergunta.
+[0:30:19] - 3-GUSTAVONIKOV - Vocês querem ganhar, não querem?
+[0:30:25] - 3-GUSTAVONIKOV - Quais são os seus pontos fortes aí?
+[0:30:27] - 7-NOBREAK0497 - Eu nasci para machucar outro homem.
+[0:30:31] - 3-GUSTAVONIKOV - Ué, mas...
+[0:30:32] - 7-NOBREAK0497 - E mortos-vivos.
+[0:30:33] - 3-GUSTAVONIKOV - Você...
+[0:30:34] - 7-NOBREAK0497 - Cara, acho que de longe é sim.
+[0:30:37] - 3-GUSTAVONIKOV - Parece um paladino ou não?
+[0:30:43] - 7-NOBREAK0497 - Talvez não.
+[0:30:47] - 1-FS_SIMOES - Como você se parece?
+[0:30:48] - 3-GUSTAVONIKOV - É, tem que descrever, né?
+[0:30:51] - 3-GUSTAVONIKOV - Como é que você se descreve?
+[0:30:51] - 1-FS_SIMOES - É, escreva seu personagem.
+[0:30:56] - 7-NOBREAK0497 - Imagina...
+[0:30:59] - 7-NOBREAK0497 - Aquele maluco fazendeiro caipira.
+[0:31:01] - 1-FS_SIMOES - Vanderlei Silva.
+[0:31:04] - 7-NOBREAK0497 - Pobre e fudido.
+[0:31:06] - 7-NOBREAK0497 - Está com uma roupinha cinza.
+[0:31:07] - 1-FS_SIMOES - Puxa.
+[0:31:10] - 7-NOBREAK0497 - E que tem um símbolo dourado no meio.
+[0:31:13] - 7-NOBREAK0497 - É isso.
+[0:31:14] - 3-GUSTAVONIKOV - Tá, se eu...
+[0:31:16] - 3-GUSTAVONIKOV - O símbolo...
+[0:31:17] - 7-NOBREAK0497 - Porra...
+[0:31:18] - 1-FS_SIMOES - Tem.
+[0:31:21] - 5-RAPHAELVICARONE - Você está dando a melhor resposta de todos.
+[0:31:22] - 3-GUSTAVONIKOV - Não, é pra saber se dá pra saber que...
+[0:31:22] - 7-NOBREAK0497 - Você está me fudendo.
+[0:31:25] - 7-NOBREAK0497 - Deixa eu ver o token aqui, cara.
+[0:31:26] - 3-GUSTAVONIKOV - Por esse símbolo que tem um paladino, pô.
+[0:31:31] - 7-NOBREAK0497 - O símbolo é tipo um sol.
+[0:31:34] - 3-GUSTAVONIKOV - Tá, eu...
+[0:31:35] - 1-FS_SIMOES - Se você não conhece, você não conhece.
+[0:31:37] - 3-GUSTAVONIKOV - É...
+[0:31:40] - 3-GUSTAVONIKOV - Eu não sei, eu não conheço.
+[0:31:46] - 3-GUSTAVONIKOV - Tá.
+[0:31:47] - 4-NIGHTWOLFBIELZOVSKY - A pia tá cheia de louço, o banheiro parece que é de botequim.
+[0:31:48] - 3-GUSTAVONIKOV - Então é isso.
+[0:31:50] - 7-NOBREAK0497 - É isso.
+[0:31:50] - 5-RAPHAELVICARONE - Exatamente.
+[0:31:52] - 7-NOBREAK0497 - Até onde você sabe, eu posso ser um pedreiro.
+[0:31:53] - 3-GUSTAVONIKOV - É o seu ponto.
+[0:31:55] - 7-NOBREAK0497 - Então...
+[0:31:57] - 3-GUSTAVONIKOV - Tá.
+[0:31:58] - 7-NOBREAK0497 - Isso, eu vou arregaçar.
+[0:32:00] - 3-GUSTAVONIKOV - Só vai meter porrada na galera.
+[0:32:04] - 3-GUSTAVONIKOV - O nosso...
+[0:32:05] - 1-FS_SIMOES - Beleza, então.
+[0:32:08] - 3-GUSTAVONIKOV - Vai só animar a gente, tá, ó.
+[0:32:12] - 3-GUSTAVONIKOV - Tá bom, então.
+[0:32:16] - 3-GUSTAVONIKOV - Arregaçar os caras.
+[0:32:18] - 3-GUSTAVONIKOV - Gostei da estratégia.
+[0:32:23] - 1-FS_SIMOES - Então, o
+[0:32:25] - 1-FS_SIMOES - João, ele
+[0:32:29] - 1-FS_SIMOES - pede para que vocês
+[0:32:32] - 1-FS_SIMOES - e vocês vão
+[0:32:34] - 5-RAPHAELVICARONE - Sim.
+[0:32:34] - 1-FS_SIMOES - estão mudando de cena?
+[0:32:45] - 1-FS_SIMOES - Tá, avisa quando todo mundo estiver carregado aqui.
+[0:32:47] - 3-GUSTAVONIKOV - O meu já tá...
+[0:32:49] - 1-FS_SIMOES - Tá.
+[0:32:50] - 3-GUSTAVONIKOV - Agora tá!
+[0:32:55] - 1-FS_SIMOES - Vocês não...
+[0:32:57] - 3-GUSTAVONIKOV - Arregaçar os caras.
+[0:32:58] - 7-NOBREAK0497 - Eu vou mandar aqui.
+[0:33:00] - 1-FS_SIMOES - Deixa eu
+[0:33:02] - 1-FS_SIMOES - Cadê o...
+[0:33:11] - 7-NOBREAK0497 - Caralho.
+[0:33:14] - 1-FS_SIMOES - É, dobrei que não estava aqui, né?
+[0:33:16] - 1-FS_SIMOES - É na última rodada, não.
+[0:33:17] - 7-NOBREAK0497 - Com 18 segundos, pega aí a frase dele com 18 segundos, foi o que seu Lunga respondeu.
+[0:33:23] - 7-NOBREAK0497 - Um discórdia.
+[0:33:25] - 1-FS_SIMOES - Onde é que você postou isso?
+[0:33:27] - 3-GUSTAVONIKOV - Ué
+[0:33:30] - 7-NOBREAK0497 - Ali no RPG Text.
+[0:33:30] - 3-GUSTAVONIKOV - Ela tá fundo a lastra, pô
+[0:33:33] - 7-NOBREAK0497 - Ah, eu botei no lugar errado, peraí.
+[0:33:35] - 7-NOBREAK0497 - Agora eu botei no Shack7.
+[0:33:39] - 7-NOBREAK0497 - 18 segundos, velho.
+[0:33:39] - 1-FS_SIMOES - É.
+[0:33:53] - 7-NOBREAK0497 - Caralho.
+[0:33:54] - 1-FS_SIMOES - vocês só estão escutando
+[0:33:59] - 1-FS_SIMOES - o público gritando
+[0:34:02] - 1-FS_SIMOES - e o público batendo
+[0:34:10] - 1-FS_SIMOES - e vocês
+[0:34:14] - 1-FS_SIMOES - abrir vocês conseguem ouvir novamente
+[0:34:17] - 1-FS_SIMOES - estamos aqui mais uma vez
+[0:34:19] - 1-FS_SIMOES - nessa
+[0:34:23] - 7-NOBREAK0497 - Eu nasci para bater em outro cara.
+[0:34:25] - 1-FS_SIMOES - pra gente comemorar mais um dia
+[0:34:27] - 1-FS_SIMOES - de festival de sangue
+[0:34:30] - 1-FS_SIMOES - a gente já
+[0:34:33] - 1-FS_SIMOES - a gente tem o seu Lunga
+[0:34:37] - 1-FS_SIMOES - o Denísio
+[0:34:40] - 1-FS_SIMOES - o Silas
+[0:34:43] - 1-FS_SIMOES - o Du...
+[0:34:46] - 1-FS_SIMOES - o Golfin
+[0:34:49] - 1-FS_SIMOES - vocês já conhecem
+[0:34:51] - 1-FS_SIMOES - vocês já tem a fama
+[0:34:53] - 7-NOBREAK0497 - Caralho.
+[0:34:53] - 1-FS_SIMOES - esse primeiro grupo
+[0:34:56] - 1-FS_SIMOES - o apostador
+[0:35:00] - 1-FS_SIMOES - que foi pego
+[0:35:02] - 1-FS_SIMOES - o Golfinho
+[0:35:04] - 1-FS_SIMOES - beijo
+[0:35:09] - 1-FS_SIMOES - aquele que foi pego
+[0:35:11] - 1-FS_SIMOES - ajudando um bandidinho
+[0:35:13] - 1-FS_SIMOES - Duardo
+[0:35:17] - 1-FS_SIMOES - devo dizer
+[0:35:19] - 1-FS_SIMOES - que você preparou
+[0:35:21] - 1-FS_SIMOES - foi maravilhosa
+[0:35:23] - 7-NOBREAK0497 - Projeto X.
+[0:35:24] - 1-FS_SIMOES - que você abusou
+[0:35:27] - 1-FS_SIMOES - pra dançar com você
+[0:35:32] - 1-FS_SIMOES - se você sobreviver
+[0:35:35] - 1-FS_SIMOES - que o meu
+[0:35:37] - 1-FS_SIMOES - de um
+[0:35:39] - 1-FS_SIMOES - e o seu Lunga
+[0:35:43] - 1-FS_SIMOES - maravilhoso rei
+[0:35:45] - 1-FS_SIMOES - como uma grande piada
+[0:35:49] - 1-FS_SIMOES - que o Silas
+[0:35:51] - 1-FS_SIMOES - agora estão presos juntos
+[0:35:53] - 1-FS_SIMOES - mais uma vez
+[0:35:53] - 7-NOBREAK0497 - Filho da puta.
+[0:35:56] - 1-FS_SIMOES - realmente tem
+[0:36:09] - 1-FS_SIMOES - nisso
+[0:36:11] - 7-NOBREAK0497 - Caralho.
+[0:36:12] - 1-FS_SIMOES - começa a abrir
+[0:36:15] - 1-FS_SIMOES - aí vocês vão subindo
+[0:36:18] - 1-FS_SIMOES - a plataforma principal
+[0:36:21] - 1-FS_SIMOES - estarem
+[0:36:23] - 7-NOBREAK0497 - Não vou sair.
+[0:36:24] - 1-FS_SIMOES - o público
+[0:36:27] - 1-FS_SIMOES - eu queria que eu
+[0:36:29] - 1-FS_SIMOES - vocês conseguem ver
+[0:36:32] - 1-FS_SIMOES - da arena
+[0:36:35] - 1-FS_SIMOES - sendo apresentado
+[0:36:37] - 1-FS_SIMOES - gritando assim
+[0:36:40] - 1-FS_SIMOES - ê ê ê
+[0:36:41] - 7-NOBREAK0497 - discirpa put barbaridade.
+[0:36:43] - 1-FS_SIMOES - vamos comer bebê
+[0:36:46] - 1-FS_SIMOES - tipo
+[0:36:48] - 1-FS_SIMOES - de verde
+[0:36:51] - 1-FS_SIMOES - de
+[0:36:54] - 1-FS_SIMOES - um nos
+[0:36:57] - 1-FS_SIMOES - para e fala
+[0:36:59] - 1-FS_SIMOES - grupo lá
+[0:37:01] - 1-FS_SIMOES - só escutam
+[0:37:03] - 1-FS_SIMOES - uma confusão
+[0:37:06] - 1-FS_SIMOES - ver direito
+[0:37:08] - 1-FS_SIMOES - nenhum deles
+[0:37:11] - 1-FS_SIMOES - tô
+[0:37:13] - 7-NOBREAK0497 - Caralho, filho, como se fez a torcida argentina
+[0:37:17] - 1-FS_SIMOES - sentando
+[0:37:21] - 1-FS_SIMOES - a apresentadora
+[0:37:24] - 1-FS_SIMOES - agora volta
+[0:37:26] - 1-FS_SIMOES - confusão passou
+[0:37:28] - 1-FS_SIMOES - vocês já sabem
+[0:37:31] - 1-FS_SIMOES - o que vocês
+[0:37:33] - 1-FS_SIMOES - aconteça aqui
+[0:37:36] - 1-FS_SIMOES - sangue
+[0:37:38] - 1-FS_SIMOES - do
+[0:37:43] - 7-NOBREAK0497 - Caralho, esse som vem da rua
+[0:37:45] - 7-NOBREAK0497 - Não, porra, eu sei
+[0:37:47] - 1-FS_SIMOES - discord
+[0:37:50] - 1-FS_SIMOES - nisso
+[0:37:50] - 7-NOBREAK0497 - Eu botei o som do bot
+[0:37:53] - 7-NOBREAK0497 - Mais baixo, mesmo assim parece que o bagulho
+[0:37:55] - 7-NOBREAK0497 - Ah, caralho
+[0:38:09] - 3-GUSTAVONIKOV - Que você appoint
+[0:38:13] - 1-FS_SIMOES - o rei se levanta
+[0:38:16] - 1-FS_SIMOES - ele grita
+[0:38:18] - 1-FS_SIMOES - que começa
+[0:38:22] - 1-FS_SIMOES - ficam
+[0:38:24] - 1-FS_SIMOES - e vocês
+[0:38:27] - 1-FS_SIMOES - do mago
+[0:38:30] - 1-FS_SIMOES - ele começa
+[0:38:32] - 1-FS_SIMOES - vocês
+[0:38:35] - 1-FS_SIMOES - deixa eu ver aqui
+[0:38:46] - 1-FS_SIMOES - runas
+[0:38:49] - 1-FS_SIMOES - em quatro pontos
+[0:38:51] - 1-FS_SIMOES - aqui no canto
+[0:38:54] - 1-FS_SIMOES - direito
+[0:38:58] - 1-FS_SIMOES - inferior
+[0:39:00] - 1-FS_SIMOES - abaixo
+[0:39:04] - 1-FS_SIMOES - se iluminam
+[0:39:06] - 1-FS_SIMOES - e vocês
+[0:39:09] - 1-FS_SIMOES - tudo some
+[0:39:10] - 3-GUSTAVONIKOV - Ué.
+[0:39:11] - 1-FS_SIMOES - vocês estão
+[0:39:14] - 7-NOBREAK0497 - Vamos jogar xadrez?
+[0:39:17] - 3-GUSTAVONIKOV - Ué, ué, ué, ué.
+[0:39:19] - 1-FS_SIMOES - deixa eu só
+[0:39:23] - 1-FS_SIMOES - mandar uma mensagem
+[0:39:29] - 7-NOBREAK0497 - Cara, porque o meu HP não atualiza?
+[0:39:32] - 1-FS_SIMOES - aparecendo
+[0:39:33] - 7-NOBREAK0497 - Não, não está atualizando
+[0:39:36] - 1-FS_SIMOES - para
+[0:39:40] - 3-GUSTAVONIKOV - Endrice.
+[0:39:43] - 7-NOBREAK0497 - Cara, está 3x0 independente
+[0:39:48] - 4-NIGHTWOLFBIELZOVSKY - Ah, que escuridão
+[0:39:54] - 1-FS_SIMOES - você
+[0:39:55] - 7-NOBREAK0497 - Acabei de olhar, estava 0x0
+[0:40:25] - 1-FS_SIMOES - Beleza.
+[0:40:38] - 1-FS_SIMOES - E o cara deu o item errado, o Hugo. Se fudeu, depois do troco. Conseguiu ver o seu HP aí, ou... o marrom? Foi?
+[0:40:43] - 7-NOBREAK0497 - Skate, claro, foi
+[0:40:52] - 1-FS_SIMOES - Tá. Dito isso, todo mundo rola a iniciativa, por favor.
+[0:41:01] - 3-GUSTAVONIKOV - Calma
+[0:41:02] - 1-FS_SIMOES - Ué, o quê? Ué, o quê, irmão?
+[0:41:07] - 3-GUSTAVONIKOV - Não sei que eu já gasto a três pô
+[0:41:09] - 3-GUSTAVONIKOV - Peraí que
+[0:41:11] - 3-GUSTAVONIKOV - Pô
+[0:41:13] - 3-GUSTAVONIKOV - Subiu meu chat aqui pô
+[0:41:15] - 3-GUSTAVONIKOV - Ah, faltou
+[0:41:20] - 3-GUSTAVONIKOV - 22
+[0:41:22] - 1-FS_SIMOES - Tá. Pode colocar seus valores lá, por favor. Deixa eu só checar o HP de todo mundo, se tá certo.
+[0:41:23] - 3-GUSTAVONIKOV - Ok
+[0:41:28] - 3-GUSTAVONIKOV - Botei já
+[0:41:30] - 3-GUSTAVONIKOV - Eu tenho vantagem
+[0:41:32] - 1-FS_SIMOES - Ele tem...
+[0:41:33] - 4-NIGHTWOLFBIELZOVSKY - 22 mas ali do lado cedeu 10 como assim a vantagem entendeu
+[0:41:37] - 3-GUSTAVONIKOV - Meu sogro é retardado
+[0:41:38] - 1-FS_SIMOES - 59...
+[0:41:41] - 1-FS_SIMOES - Caralho.
+[0:41:43] - 7-NOBREAK0497 - É, valeu
+[0:41:52] - 1-FS_SIMOES - Chegando a hora certa, Martinho, relato.
+[0:41:53] - 3-GUSTAVONIKOV - Caraca
+[0:41:55] - 3-GUSTAVONIKOV - Conta aí, conta aí pra gente
+[0:41:56] - 4-NIGHTWOLFBIELZOVSKY - Eu não tô conseguindo mudar
+[0:42:00] - 8-MATHEUSBARTCOSTA - Pessoal
+[0:42:01] - 4-NIGHTWOLFBIELZOVSKY - E botar a minha iniciativa ali
+[0:42:04] - 1-FS_SIMOES - Tá. Deixa eu... qual é a sua iniciativa?
+[0:42:05] - 8-MATHEUSBARTCOSTA - Desculpa
+[0:42:07] - 4-NIGHTWOLFBIELZOVSKY - Pô chegou rapidinho mas o povo tava chegando
+[0:42:09] - 8-MATHEUSBARTCOSTA - É porque
+[0:42:13] - 4-NIGHTWOLFBIELZOVSKY - Não fala assim do sogrão não
+[0:42:13] - 3-GUSTAVONIKOV - Conta o
+[0:42:16] - 1-FS_SIMOES - Antes de vocês fazerem o primeiro momento, vocês podem escolher onde vocês vão ficar aí.
+[0:42:24] - 1-FS_SIMOES - Bartinho, você pode atualizar o seu HP, por favor?
+[0:42:25] - 3-GUSTAVONIKOV - Aliás
+[0:42:29] - 3-GUSTAVONIKOV - Fica aqui
+[0:42:31] - 3-GUSTAVONIKOV - Tá
+[0:42:39] - 1-FS_SIMOES - Ah, Bart.
+[0:42:39] - 8-MATHEUSBARTCOSTA - Eu tô abrindo aqui
+[0:42:41] - 1-FS_SIMOES - O que você escolheu de presente da loja?
+[0:42:43] - 4-NIGHTWOLFBIELZOVSKY - Eu não tô conseguindo também mover meu boneco também
+[0:42:44] - 3-GUSTAVONIKOV - Ué
+[0:42:44] - 1-FS_SIMOES - Não.
+[0:42:49] - 4-NIGHTWOLFBIELZOVSKY - Oi
+[0:42:49] - 8-MATHEUSBARTCOSTA - Deixa eu
+[0:42:50] - 3-GUSTAVONIKOV - Como assim vou perguntar
+[0:42:50] - 1-FS_SIMOES - Espera aí, então.
+[0:42:52] - 8-MATHEUSBARTCOSTA - Abri aqui
+[0:42:53] - 4-NIGHTWOLFBIELZOVSKY - Que vê
+[0:42:55] - 4-NIGHTWOLFBIELZOVSKY - Não sei não tô conseguindo peraí
+[0:42:57] - 1-FS_SIMOES - Tenta agora, Bial.
+[0:43:06] - 1-FS_SIMOES - Tenta agora aí.
+[0:43:13] - 4-NIGHTWOLFBIELZOVSKY - Ah tô tô tô tô
+[0:43:14] - 3-GUSTAVONIKOV - Não, peraí
+[0:43:14] - 1-FS_SIMOES - Ué, peraí.
+[0:43:17] - 8-MATHEUSBARTCOSTA - O
+[0:43:19] - 4-NIGHTWOLFBIELZOVSKY - Se você entrar em Roto-End
+[0:43:20] - 3-GUSTAVONIKOV - Pra entrar na campanha ou do
+[0:43:22] - 3-GUSTAVONIKOV - Roadtrain?
+[0:43:26] - 1-FS_SIMOES - É, pô, você entra no botão aí.
+[0:43:29] - 3-GUSTAVONIKOV - É pô
+[0:43:29] - 8-MATHEUSBARTCOSTA - eu falo dele
+[0:43:29] - 4-NIGHTWOLFBIELZOVSKY - já está lá para iniciar o jogo
+[0:43:31] - 3-GUSTAVONIKOV - Ai, Dany DJ já entrou
+[0:43:41] - 1-FS_SIMOES - Tenta.
+[0:43:43] - 3-GUSTAVONIKOV - Isso não tá falando pra gente que... isso não tá falando que tem gente que... isso tá falando porque tem gente que... isso não tá falando porque tem gente que...
+[0:43:44] - 1-FS_SIMOES - Verifique se os HPs estão completos, estão certos.
+[0:43:44] - 8-MATHEUSBARTCOSTA - tá 39 barra 39 aqui, tá certo?
+[0:43:59] - 3-GUSTAVONIKOV - e isso tá falando porque teve gente que isso tá falando porque desde
+[0:44:01] - 1-FS_SIMOES - Não, pô.
+[0:44:04] - 1-FS_SIMOES - Você vai me perguntar, cara, eu tenho que saber o seu HP?
+[0:44:07] - 8-MATHEUSBARTCOSTA - é, não sei, rolou alguma coisa que eu perdi live?
+[0:44:07] - 1-FS_SIMOES - Que é 46, tá errado.
+[0:44:10] - 8-MATHEUSBARTCOSTA - ah, então aqui eu atualizo
+[0:44:11] - 1-FS_SIMOES - Não.
+[0:44:13] - 3-GUSTAVONIKOV - E aí é isso que eu ia falar acho que é só quem comprou level eu acho né tem que tá
+[0:44:14] - 8-MATHEUSBARTCOSTA - eu comprei com a minha fama
+[0:44:14] - 1-FS_SIMOES - Você...
+[0:44:23] - 8-MATHEUSBARTCOSTA - um segundo, um segundo
+[0:44:24] - 1-FS_SIMOES - É.
+[0:44:28] - 8-MATHEUSBARTCOSTA - pô, olha lá, o tempo eu tive
+[0:44:31] - 7-NOBREAK0497 - Bueno
+[0:44:31] - 1-FS_SIMOES - Porque você não teve tempo, né, pra fazer isso.
+[0:44:37] - 1-FS_SIMOES - Ela o quê?
+[0:44:38] - 8-MATHEUSBARTCOSTA - mas o que eu
+[0:44:39] - 1-FS_SIMOES - Você não teve vontade.
+[0:44:41] - 8-MATHEUSBARTCOSTA - o que eu amado
+[0:44:43] - 8-MATHEUSBARTCOSTA - o que meu sugo amado fez hoje
+[0:44:44] - 1-FS_SIMOES - Eu não sei se você tá querendo que a gente pergunte ou não, cara.
+[0:44:46] - 8-MATHEUSBARTCOSTA - é que é putaria
+[0:44:49] - 4-NIGHTWOLFBIELZOVSKY - O Raul perguntou
+[0:44:55] - 3-GUSTAVONIKOV - e
+[0:44:55] - 1-FS_SIMOES - Eu acho que...
+[0:44:55] - 8-MATHEUSBARTCOSTA - não, não, não, não, não
+[0:44:57] - 3-GUSTAVONIKOV - e conta aí vai conta aí conta aí conta aí agora conta agora conta
+[0:44:57] - 8-MATHEUSBARTCOSTA - não vou falar não, pô
+[0:44:58] - 7-NOBREAK0497 - O que é que ele fez?
+[0:45:00] - 3-GUSTAVONIKOV - e
+[0:45:03] - 7-NOBREAK0497 - Valeu, valeu, valeu.
+[0:45:04] - 4-NIGHTWOLFBIELZOVSKY - Você não acertou
+[0:45:06] - 1-FS_SIMOES - Tá gravando.
+[0:45:07] - 4-NIGHTWOLFBIELZOVSKY - Pegue seu banquinho
+[0:45:08] - 8-MATHEUSBARTCOSTA - ah, Felipe, eu comprei
+[0:45:10] - 4-NIGHTWOLFBIELZOVSKY - E saia de mansinho
+[0:45:11] - 3-GUSTAVONIKOV - e tem uma magia para calar o Duarte
+[0:45:13] - 3-GUSTAVONIKOV - e
+[0:45:20] - 8-MATHEUSBARTCOSTA - eu comprei poção de cura maior
+[0:45:21] - 1-FS_SIMOES - É gravando.
+[0:45:24] - 1-FS_SIMOES - Uhum.
+[0:45:27] - 8-MATHEUSBARTCOSTA - e
+[0:45:31] - 8-MATHEUSBARTCOSTA - não, é só poção de cura maior mesmo
+[0:45:41] - 8-MATHEUSBARTCOSTA - só comprei de uma
+[0:45:44] - 8-MATHEUSBARTCOSTA - não, só vou querer isso agora
+[0:45:45] - 1-FS_SIMOES - não, cara
+[0:45:46] - 8-MATHEUSBARTCOSTA - porque eu tava
+[0:45:49] - 8-MATHEUSBARTCOSTA - tá, o total são
+[0:45:49] - 1-FS_SIMOES - você não é acumulativo
+[0:45:54] - 8-MATHEUSBARTCOSTA - é quanto mesmo?
+[0:45:55] - 3-GUSTAVONIKOV - e aí
+[0:45:55] - 1-FS_SIMOES - level up, então dá seu level up aí, por favor
+[0:45:58] - 8-MATHEUSBARTCOSTA - eu tenho nove, né?
+[0:46:00] - 8-MATHEUSBARTCOSTA - é uma nova, eu acho
+[0:46:01] - 3-GUSTAVONIKOV - e
+[0:46:05] - 3-GUSTAVONIKOV - você tinha acho que você era 7 mais 3 não
+[0:46:07] - 3-GUSTAVONIKOV - ou era 8 mais 3
+[0:46:09] - 3-GUSTAVONIKOV - então dá 11 eu acho 11 10 vai ver lá
+[0:46:19] - 8-MATHEUSBARTCOSTA - beleza
+[0:46:20] - 1-FS_SIMOES - e coloque poção de cura no seu boneco
+[0:46:22] - 8-MATHEUSBARTCOSTA - tá
+[0:46:25] - 1-FS_SIMOES - enquanto você faz isso, eu vou terminar a narração aqui
+[0:46:26] - 8-MATHEUSBARTCOSTA - vai, vai
+[0:46:30] - 1-FS_SIMOES - ah, só rola a iniciativa, por favor
+[0:46:31] - 3-GUSTAVONIKOV - e
+[0:46:32] - 8-MATHEUSBARTCOSTA - apareceu aí?
+[0:46:33] - 1-FS_SIMOES - apareceu
+[0:46:43] - 1-FS_SIMOES - tá
+[0:46:45] - 8-MATHEUSBARTCOSTA - vou atualizar aqui
+[0:46:47] - 8-MATHEUSBARTCOSTA - foi
+[0:46:55] - 1-FS_SIMOES - beleza
+[0:46:57] - 8-MATHEUSBARTCOSTA - 22
+[0:47:03] - 1-FS_SIMOES - estavam numa arena
+[0:47:06] - 1-FS_SIMOES - e vocês olharam
+[0:47:09] - 1-FS_SIMOES - várias runas sendo
+[0:47:12] - 1-FS_SIMOES - acesas
+[0:47:15] - 1-FS_SIMOES - brilhando, brilhando muito forte
+[0:47:17] - 8-MATHEUSBARTCOSTA - ontem
+[0:47:18] - 1-FS_SIMOES - vocês olharam diretamente pra elas
+[0:47:19] - 8-MATHEUSBARTCOSTA - aí
+[0:47:21] - 1-FS_SIMOES - vocês tiveram que botar a mão no rosto
+[0:47:21] - 8-MATHEUSBARTCOSTA - carth
+[0:47:23] - 1-FS_SIMOES - assim, pra proteger a sua visão
+[0:47:27] - 1-FS_SIMOES - vocês estão numa sala
+[0:47:28] - 8-MATHEUSBARTCOSTA - e
+[0:47:30] - 1-FS_SIMOES - completamente branca
+[0:47:31] - 8-MATHEUSBARTCOSTA - her
+[0:47:33] - 1-FS_SIMOES - tudo é branco na sala
+[0:47:34] - 8-MATHEUSBARTCOSTA - sal
+[0:47:36] - 8-MATHEUSBARTCOSTA - play
+[0:47:37] - 1-FS_SIMOES - tem uma luz que você não consegue entender
+[0:47:40] - 1-FS_SIMOES - da onde vem
+[0:47:40] - 8-MATHEUSBARTCOSTA - chal
+[0:47:42] - 1-FS_SIMOES - mas uma coisa é clara
+[0:47:46] - 1-FS_SIMOES - as pessoas, o público lá fora
+[0:47:48] - 1-FS_SIMOES - ainda vê vocês
+[0:47:52] - 1-FS_SIMOES - ele falando, você consegue ouvir a narradora
+[0:47:54] - 1-FS_SIMOES - então vocês ainda conseguem se ver
+[0:47:57] - 1-FS_SIMOES - vocês ainda estão dentro da arena
+[0:47:59] - 1-FS_SIMOES - porém vocês estão num labirinto
+[0:48:01] - 1-FS_SIMOES - ou numa situação
+[0:48:05] - 1-FS_SIMOES - dito isso
+[0:48:12] - 1-FS_SIMOES - vocês observam três portas
+[0:48:15] - 1-FS_SIMOES - tem a porta de número um
+[0:48:17] - 1-FS_SIMOES - a porta de número dois
+[0:48:20] - 1-FS_SIMOES - esses números estão no chão
+[0:48:23] - 1-FS_SIMOES - e as portas estão abertas
+[0:48:26] - 1-FS_SIMOES - deixa eu
+[0:48:28] - 1-FS_SIMOES - talvez fique mais claro
+[0:48:30] - 1-FS_SIMOES - talvez não
+[0:48:35] - 1-FS_SIMOES - que eu não estou conseguindo pegar
+[0:48:40] - 1-FS_SIMOES - ah não, está no desenho do mapa em si
+[0:48:40] - 8-MATHEUSBARTCOSTA - Que maravilha, hein?
+[0:48:43] - 1-FS_SIMOES - então as portas estão abertas
+[0:48:45] - 1-FS_SIMOES - vocês não conseguem ver nada
+[0:48:47] - 1-FS_SIMOES - vocês veem dois potes
+[0:48:52] - 1-FS_SIMOES - na entrada da porta de número três
+[0:48:54] - 1-FS_SIMOES - dito isso
+[0:48:57] - 1-FS_SIMOES - Matheus, sua rodada
+[0:49:02] - 1-FS_SIMOES - só um instantinho
+[0:49:05] - 1-FS_SIMOES - de novo
+[0:49:09] - 1-FS_SIMOES - no labirinto branco
+[0:49:10] - 8-MATHEUSBARTCOSTA - e
+[0:49:11] - 1-FS_SIMOES - vocês façam as suas apostas
+[0:49:14] - 1-FS_SIMOES - e vamos ver
+[0:49:16] - 1-FS_SIMOES - só cérebro
+[0:49:19] - 1-FS_SIMOES - ou se eles também têm cérebro
+[0:49:22] - 1-FS_SIMOES - vai lá Matheus
+[0:49:25] - 1-FS_SIMOES - cada passo
+[0:49:27] - 1-FS_SIMOES - assim
+[0:49:30] - 1-FS_SIMOES - estou vindo aqui
+[0:49:32] - 3-GUSTAVONIKOV - Esse 1, 2, 3 são portas, né?
+[0:49:36] - 1-FS_SIMOES - são portes
+[0:49:39] - 1-FS_SIMOES - na verdade
+[0:49:40] - 8-MATHEUSBARTCOSTA - Aqui a pessoa pode andar 30 fit também, Felipe?
+[0:49:41] - 1-FS_SIMOES - as portas estão abertas
+[0:49:44] - 1-FS_SIMOES - que vocês conseguem ver
+[0:49:47] - 1-FS_SIMOES - para ficar mais
+[0:49:49] - 4-NIGHTWOLFBIELZOVSKY - Aí
+[0:49:49] - 1-FS_SIMOES - talvez
+[0:49:52] - 8-MATHEUSBARTCOSTA - Ou está reduzido?
+[0:49:55] - 1-FS_SIMOES - 30 feet
+[0:49:58] - 8-MATHEUSBARTCOSTA - Tá.
+[0:50:00] - 1-FS_SIMOES - assim
+[0:50:03] - 1-FS_SIMOES - que não dá cara
+[0:50:04] - 8-MATHEUSBARTCOSTA - Eu vou andar para cá.
+[0:50:08] - 1-FS_SIMOES - você
+[0:50:10] - 8-MATHEUSBARTCOSTA - Ué, tu me falou que sou eu agora?
+[0:50:13] - 1-FS_SIMOES - seu rabbit
+[0:50:13] - 8-MATHEUSBARTCOSTA - E agora é Matheus?
+[0:50:14] - 4-NIGHTWOLFBIELZOVSKY - Em batalha louco
+[0:50:16] - 8-MATHEUSBARTCOSTA - Vai tomar no qual o nick de Gustavo, pô.
+[0:50:18] - 1-FS_SIMOES - Kind
+[0:50:18] - 3-GUSTAVONIKOV - é
+[0:50:19] - 4-NIGHTWOLFBIELZOVSKY - Falo.
+[0:50:20] - 1-FS_SIMOES - um
+[0:50:21] - 8-MATHEUSBARTCOSTA - Ué.
+[0:50:23] - 7-NOBREAK0497 - O que eu acabei de falar isso, cara?
+[0:50:34] - 1-FS_SIMOES - e
+[0:50:39] - 7-NOBREAK0497 - O tempo...
+[0:50:40] - 8-MATHEUSBARTCOSTA - Tchau.
+[0:50:41] - 1-FS_SIMOES - vai lá, Matheus
+[0:50:43] - 4-NIGHTWOLFBIELZOVSKY - Caralho, pô.
+[0:50:55] - 1-FS_SIMOES - não, na sua vez você pode falar
+[0:50:58] - 3-GUSTAVONIKOV - Eu posso eu não posso falar muito durante mas eu posso trocar sei lá minha ação por falar alguma coisa assim alguma coisa meu bônus ex por falar
+[0:51:07] - 1-FS_SIMOES - desde que não seja um discurso motivacional
+[0:51:08] - 3-GUSTAVONIKOV - Tá é o seguinte gente
+[0:51:15] - 1-FS_SIMOES - palestrinha, tipo, falar o básico
+[0:51:15] - 3-GUSTAVONIKOV - É de discutir statisticamente mediante também as caminhos Buenos Aires
+[0:51:19] - 1-FS_SIMOES - você andou um, beleza
+[0:51:20] - 3-GUSTAVONIKOV - É
+[0:51:21] - 1-FS_SIMOES - tá
+[0:51:23] - 3-GUSTAVONIKOV - A em
+[0:51:23] - 1-FS_SIMOES - uhum
+[0:51:25] - 3-GUSTAVONIKOV - Em
+[0:51:27] - 3-GUSTAVONIKOV - Spain
+[0:51:32] - 3-GUSTAVONIKOV - O
+[0:51:36] - 3-GUSTAVONIKOV - Tô no caso falando só uma vez que merda.
+[0:51:37] - 1-FS_SIMOES - sim, cada um fala só da sua vez
+[0:51:39] - 3-GUSTAVONIKOV - Deixa eu pensar.
+[0:51:40] - 1-FS_SIMOES - assim que você entrou nesse
+[0:51:41] - 3-GUSTAVONIKOV - Um segundo.
+[0:51:44] - 3-GUSTAVONIKOV - Eu vou...
+[0:51:47] - 3-GUSTAVONIKOV - Tão em seis.
+[0:51:51] - 3-GUSTAVONIKOV - Quem quiser ir comigo e me seguir nesse caminho.
+[0:51:54] - 3-GUSTAVONIKOV - E cada um vai em dupla ali pelos outros caminhos.
+[0:51:56] - 3-GUSTAVONIKOV - Pra gente descobrir mais ou menos o que vai acontecendo.
+[0:51:59] - 3-GUSTAVONIKOV - Vão seguindo uns aos outros aí.
+[0:52:01] - 3-GUSTAVONIKOV - Um, dois, três.
+[0:52:04] - 3-GUSTAVONIKOV - Quatro.
+[0:52:07] - 3-GUSTAVONIKOV - Eu posso entrar livremente, né?
+[0:52:10] - 1-FS_SIMOES - corredor, a porta se fechou
+[0:52:11] - 3-GUSTAVONIKOV - Acabou a minha vida.
+[0:52:12] - 1-FS_SIMOES - e ninguém mais
+[0:52:13] - 7-NOBREAK0497 - Welcome à
+[0:52:14] - 3-GUSTAVONIKOV - E aí ferrou.
+[0:52:16] - 1-FS_SIMOES - tipo, a porta está fechada agora
+[0:52:18] - 1-FS_SIMOES - você entrou, ela fechou
+[0:52:20] - 1-FS_SIMOES - a única coisa que você
+[0:52:21] - 3-GUSTAVONIKOV - Era meio óbvio isso, mas enfim.
+[0:52:24] - 1-FS_SIMOES - escuta é o golfin
+[0:52:27] - 1-FS_SIMOES - seu filho da puta
+[0:52:30] - 1-FS_SIMOES - você sabia que eu que ia
+[0:52:32] - 1-FS_SIMOES - entrar aí, caralho
+[0:52:37] - 3-GUSTAVONIKOV - É, eu não lembrei.
+[0:52:40] - 1-FS_SIMOES - aí, continue
+[0:52:43] - 7-NOBREAK0497 - E pio aqui.
+[0:52:46] - 1-FS_SIMOES - ele entrou no corredor de número um
+[0:52:49] - 1-FS_SIMOES - vamos ver o que o aguarda em frente
+[0:52:51] - 1-FS_SIMOES - você já fez
+[0:52:56] - 1-FS_SIMOES - quer fazer mais alguma coisa?
+[0:53:01] - 1-FS_SIMOES - não?
+[0:53:04] - 1-FS_SIMOES - então, vamos para a próxima
+[0:53:06] - 1-FS_SIMOES - próxima pessoa
+[0:53:09] - 5-RAPHAELVICARONE - O turno saiu aqui
+[0:53:11] - 1-FS_SIMOES - oi?
+[0:53:14] - 1-FS_SIMOES - é isso que eu estou vendo
+[0:53:16] - 1-FS_SIMOES - tá
+[0:53:19] - 1-FS_SIMOES - Matheus?
+[0:53:23] - 1-FS_SIMOES - Eduardo, Tonzinho
+[0:53:25] - 1-FS_SIMOES - o que você faz?
+[0:53:30] - 3-GUSTAVONIKOV - É.
+[0:53:32] - 8-MATHEUSBARTCOSTA - Hugo largou a programação agora e virou alternativo, foi?
+[0:53:34] - 1-FS_SIMOES - o que você está falando, irmão?
+[0:53:35] - 8-MATHEUSBARTCOSTA - Você tá doido?
+[0:53:37] - 4-NIGHTWOLFBIELZOVSKY - Tá doido
+[0:53:38] - 3-GUSTAVONIKOV - Então, não sei.
+[0:53:41] - 8-MATHEUSBARTCOSTA - Eduardo aí, tacado do Hugo
+[0:53:43] - 1-FS_SIMOES - Hugo?
+[0:53:43] - 3-GUSTAVONIKOV - Ah, pior que parece mesmo
+[0:53:46] - 8-MATHEUSBARTCOSTA - Largou
+[0:53:50] - 3-GUSTAVONIKOV - Ficou muito bom
+[0:53:55] - 8-MATHEUSBARTCOSTA - A programação, foi, virou a perna
+[0:53:58] - 8-MATHEUSBARTCOSTA - Caralho
+[0:53:59] - 1-FS_SIMOES - ele foi para a praia, né?
+[0:54:00] - 3-GUSTAVONIKOV - Ficou parecido mesmo
+[0:54:00] - 8-MATHEUSBARTCOSTA - Cê tá doido?
+[0:54:04] - 1-FS_SIMOES - tá vendo
+[0:54:06] - 8-MATHEUSBARTCOSTA - É, pô
+[0:54:09] - 1-FS_SIMOES - tá
+[0:54:11] - 4-NIGHTWOLFBIELZOVSKY - Eu não vou me mover
+[0:54:14] - 4-NIGHTWOLFBIELZOVSKY - Mas eu vou
+[0:54:16] - 4-NIGHTWOLFBIELZOVSKY - Eu vou animar os meus amigos aqui
+[0:54:19] - 4-NIGHTWOLFBIELZOVSKY - Amigos não, né?
+[0:54:21] - 4-NIGHTWOLFBIELZOVSKY - Então vou deixar vocês motivados
+[0:54:26] - 4-NIGHTWOLFBIELZOVSKY - Com o meu alaúde super afinado
+[0:54:30] - 4-NIGHTWOLFBIELZOVSKY - E com a minha bela voz
+[0:54:32] - 4-NIGHTWOLFBIELZOVSKY - Levanta dessa cama, seu fundido de merda
+[0:54:34] - 1-FS_SIMOES - vou te botar o mexe
+[0:54:36] - 8-MATHEUSBARTCOSTA - Em
+[0:54:40] - 4-NIGHTWOLFBIELZOVSKY - Você tá no pobre, carente e gordo
+[0:54:42] - 8-MATHEUSBARTCOSTA - A arte dele
+[0:54:43] - 4-NIGHTWOLFBIELZOVSKY - Tu acha que se fazendo de vítima
+[0:54:47] - 4-NIGHTWOLFBIELZOVSKY - Não adianta tu ficar consumindo conteúdo
+[0:54:52] - 4-NIGHTWOLFBIELZOVSKY - Agora para de ser moleque e vai executar
+[0:55:04] - 1-FS_SIMOES - e você fez
+[0:55:06] - 1-FS_SIMOES - você usou alguma skill
+[0:55:09] - 1-FS_SIMOES - ou isso é só roleplay
+[0:55:12] - 4-NIGHTWOLFBIELZOVSKY - Apenas roleplay
+[0:55:14] - 1-FS_SIMOES - e você vai ficar parado e passar o seu turno, é isso?
+[0:55:21] - 1-FS_SIMOES - pode
+[0:55:22] - 4-NIGHTWOLFBIELZOVSKY - Beleza
+[0:55:24] - 1-FS_SIMOES - e vai ser qual é o trigger da sua ação
+[0:55:27] - 1-FS_SIMOES - e vai ser o seu turno
+[0:55:33] - 4-NIGHTWOLFBIELZOVSKY - Vou guardar
+[0:55:34] - 1-FS_SIMOES - tá bom
+[0:55:36] - 4-NIGHTWOLFBIELZOVSKY - Charme Person
+[0:55:40] - 4-NIGHTWOLFBIELZOVSKY - Para se entrar algum inimigo na arena
+[0:55:44] - 1-FS_SIMOES - apesar do
+[0:55:47] - 1-FS_SIMOES - apesar da musiquinha gostosa
+[0:55:50] - 1-FS_SIMOES - e da motivação
+[0:55:52] - 1-FS_SIMOES - porque eu estou motivada
+[0:55:55] - 1-FS_SIMOES - então ele criou toda uma expectativa
+[0:55:58] - 1-FS_SIMOES - só para poder
+[0:56:01] - 1-FS_SIMOES - é a narradora
+[0:56:06] - 4-NIGHTWOLFBIELZOVSKY - Continuar com油
+[0:56:06] - 1-FS_SIMOES - vai o Silas
+[0:56:08] - 4-NIGHTWOLFBIELZOVSKY - Marque�� Apenas roleplay
+[0:56:08] - 1-FS_SIMOES - vocês estão com o equipamento todo que vocês estavam tindo
+[0:56:09] - 5-RAPHAELVICARONE - Vai aí
+[0:56:11] - 4-NIGHTWOLFBIELZOVSKY - Apenas role Villar
+[0:56:12] - 5-RAPHAELVICARONE - A gente
+[0:56:15] - 4-NIGHTWOLFBIELZOVSKY - thể poder
+[0:56:17] - 5-RAPHAELVICARONE - Não
+[0:56:19] - 5-RAPHAELVICARONE - A gente tá sem arma de novo
+[0:56:22] - 1-FS_SIMOES - vocês estão com as suas armas que vocês estavam usando
+[0:56:25] - 1-FS_SIMOES - sim
+[0:56:26] - 5-RAPHAELVICARONE - Tá
+[0:56:30] - 5-RAPHAELVICARONE - Eu não tava equipando nenhuma arma
+[0:56:31] - 1-FS_SIMOES - pode, pode equipar
+[0:56:33] - 1-FS_SIMOES - equipar a armadura
+[0:56:34] - 5-RAPHAELVICARONE - Beleza
+[0:56:36] - 1-FS_SIMOES - qualquer equipamento básico que você quiser
+[0:56:38] - 1-FS_SIMOES - pode pegar aí
+[0:56:41] - 1-FS_SIMOES - só não abusem
+[0:56:43] - 1-FS_SIMOES - tipo
+[0:56:44] - 5-RAPHAELVICARONE - Tá bom
+[0:56:47] - 1-FS_SIMOES - faca
+[0:56:49] - 1-FS_SIMOES - espada mágica
+[0:56:52] - 1-FS_SIMOES - não sei o que
+[0:56:53] - 8-MATHEUSBARTCOSTA - só
+[0:56:55] - 1-FS_SIMOES - era mais uma
+[0:56:57] - 1-FS_SIMOES - mas era mágica
+[0:57:00] - 5-RAPHAELVICARONE - Seguinte
+[0:57:00] - 8-MATHEUSBARTCOSTA - É porque eu ganhei numa bet.
+[0:57:01] - 1-FS_SIMOES - é
+[0:57:04] - 1-FS_SIMOES - são duas
+[0:57:07] - 5-RAPHAELVICARONE - Vou chegar aqui
+[0:57:09] - 5-RAPHAELVICARONE - Essa porta aqui
+[0:57:11] - 5-RAPHAELVICARONE - Esse aqui se desenha aqui do lado?
+[0:57:14] - 5-RAPHAELVICARONE - Deixa eu só ver
+[0:57:15] - 1-FS_SIMOES - jarros
+[0:57:16] - 5-RAPHAELVICARONE - Tá
+[0:57:17] - 1-FS_SIMOES - tipo
+[0:57:22] - 5-RAPHAELVICARONE - Mas eu tô aqui
+[0:57:23] - 1-FS_SIMOES - não tem nada isso
+[0:57:26] - 1-FS_SIMOES - nas laterais
+[0:57:28] - 1-FS_SIMOES - que tem
+[0:57:30] - 5-RAPHAELVICARONE - Então eu vou parar aqui na portinha
+[0:57:31] - 1-FS_SIMOES - tipo
+[0:57:34] - 1-FS_SIMOES - quando o Matheus entrou
+[0:57:39] - 5-RAPHAELVICARONE - Na berinha
+[0:57:43] - 5-RAPHAELVICARONE - Eu vou esperar alguém passar
+[0:57:45] - 5-RAPHAELVICARONE - E vou guardar minha ação
+[0:57:50] - 1-FS_SIMOES - quando você chegar aí
+[0:57:54] - 1-FS_SIMOES - é
+[0:57:58] - 1-FS_SIMOES - seu lunga
+[0:58:01] - 1-FS_SIMOES - então
+[0:58:03] - 5-RAPHAELVICARONE - O que eu vou ver?
+[0:58:09] - 1-FS_SIMOES - pode andando aí
+[0:58:13] - 7-NOBREAK0497 - 30, 35.
+[0:58:17] - 1-FS_SIMOES - você chegou aí
+[0:58:21] - 1-FS_SIMOES - ou vai parar aí
+[0:58:24] - 7-NOBREAK0497 - E pio aqui.
+[0:58:27] - 1-FS_SIMOES - me diga onde você vai parar
+[0:58:32] - 4-NIGHTWOLFBIELZOVSKY - e
+[0:58:33] - 5-RAPHAELVICARONE - Vou parar aqui.
+[0:58:38] - 3-GUSTAVONIKOV - Hoje vocês estão muito alastrão, Caio. Que isso, mano?
+[0:58:41] - 3-GUSTAVONIKOV - Hoje tá muito alastro, pa.
+[0:58:41] - 4-NIGHTWOLFBIELZOVSKY - Andressa!
+[0:58:44] - 7-NOBREAK0497 - 35 aqui.
+[0:58:49] - 1-FS_SIMOES - o
+[0:58:49] - 7-NOBREAK0497 - É verdade.
+[0:58:51] - 1-FS_SIMOES - Rafa
+[0:58:52] - 5-RAPHAELVICARONE - Eu não falei, vou guardar a minha ação para não entrar para ninguém passar.
+[0:58:55] - 1-FS_SIMOES - justo
+[0:58:56] - 5-RAPHAELVICARONE - Tá.
+[0:58:58] - 1-FS_SIMOES - assim que o seu lunga
+[0:59:00] - 4-NIGHTWOLFBIELZOVSKY - Deixa eu enxergar a regação.
+[0:59:02] - 1-FS_SIMOES - ele se depara com uma sala
+[0:59:03] - 5-RAPHAELVICARONE - Eu vou mandar um minuto.
+[0:59:04] - 1-FS_SIMOES - muitos
+[0:59:06] - 1-FS_SIMOES - muitas armaduras
+[0:59:08] - 1-FS_SIMOES - estátuas assim
+[0:59:12] - 1-FS_SIMOES - e ele vê
+[0:59:15] - 1-FS_SIMOES - começa
+[0:59:17] - 1-FS_SIMOES - essa é a iniciativa dele
+[0:59:20] - 7-NOBREAK0497 - Beleza, fodeu, são só...
+[0:59:20] - 1-FS_SIMOES - então deixa eu botar aqui
+[0:59:23] - 1-FS_SIMOES - o
+[0:59:27] - 7-NOBREAK0497 - Relaxa, sei lá, que malafaia, são só 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 18, 19, 20, 21, 22...
+[0:59:35] - 7-NOBREAK0497 - São só 22 contra a gente.
+[0:59:37] - 1-FS_SIMOES - que
+[0:59:41] - 4-NIGHTWOLFBIELZOVSKY - Aparentemente você é um cara de pouca fé, né?
+[0:59:43] - 7-NOBREAK0497 - Liga, pastor pilão, filho.
+[0:59:43] - 5-RAPHAELVICARONE - Sabe o que eu tenho a falar sobre isso?
+[0:59:50] - 5-RAPHAELVICARONE - Qual é seu longo?
+[0:59:50] - 7-NOBREAK0497 - Me abençoa aqui, cara.
+[0:59:56] - 7-NOBREAK0497 - Deus tá contigo ou não tá?
+[0:59:59] - 5-RAPHAELVICARONE - Nesse momento eu não sei se eu tô conseguindo falar com ele, não.
