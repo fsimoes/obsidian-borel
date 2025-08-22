@@ -8,6 +8,7 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Navegação Rápida
 
+- [[Resumo_Completo_Campanha|📖 Resumo Completo da Campanha]] - **Para novos jogadores!**
 - [[Locais/index|Locais]]
 - [[Players/|Conheça os Jogadores]]
 - [[NPCs/|NPCs]]
