@@ -119,16 +119,16 @@ Kaelion evoluiu de um guerreiro idealista para um revolucionário determinado. S
 - A ausência de magia em Lucian apesar de sua conexão com Celeste
 
 ## Objetivos Atuais
+- **Sessão 17**: Equipou-se com nova katana após busca persistente
 - Fortalecer a posição dos rebeldes em Rio Londe
+- Preparar-se para viagem a Longe com o grupo
 - Desenvolver novas táticas de combate
-- Reconstruir pontes com antigos aliados
-- Proteger o grupo durante a fuga da cidade
+- Proteger o grupo durante a missão dos círculos de teletransporte
 - Expandir sua rede de contatos revolucionários
 - Aperfeiçoar suas habilidades de liderança
 - Equilibrar lealdade aos rebeldes com antigas amizades
 - Preparar-se para possíveis retaliações da nobreza
 - Estabelecer uma nova base de operações
-- Treinar novos recrutas para a resistência
 
 ## Citações Memoráveis
 - "Eu não sei se eu posso fazer isso, mas eu não estou com a cabeça." - Repetido várias vezes durante momentos de tensão

@@ -63,18 +63,34 @@ A revolução atinge seu ápice com a explosão da muralha da Alva Cidadela. O g
 
 ---
 
+## 🌟 Arco IV: Revelações e Novos Horizontes (Sessões 16-17)
+
+### Contexto
+Após os eventos traumáticos da revolução, o grupo enfrenta suas consequências mais diretas. Revelações chocantes sobre a verdadeira natureza de alguns membros levam a uma reorganização fundamental do grupo, enquanto novos horizontes se abrem com missões em terras distantes.
+
+| Sessão | Título | Status da Transcrição | Eventos Principais |
+|--------|--------|----------------------|-------------------|
+| 16 | [[Capitulo 16 – Sombras do Passado]] | ⚠️ Não verificada | Revelação da licantropia de Nightwolf, possessão de Bartrock |
+| 17 | [[Capitulo 17 - Entre Cordas e Confissões]] | ✅ Completa (100%) | Preparativos para Longe, negociações com Alberto |
+
+**Plots Desenvolvidos**: [[A Maldicao de Nightwolf]], [[A Possessao de Bartrock]], Viagem para Longe
+**NPCs Introduzidos**: Entidade da Máscara, Thaís Carla, Comerciante de Itens Mágicos
+**Locais Explorados**: Prisão de Rilonde, Templo de Megarde, Galpão de Alberto
+
+---
+
 ## 📊 Estatísticas da Campanha
 
 ### Personagens Principais
 - **Jogadores Ativos**: 6 (Tony, Nightwolf, Dustin, Lord Bart/Bartrock, Kaelion, Borin)
-- **NPCs Recorrentes**: 9 principais
-- **NPCs Total**: 25+ mencionados
+- **NPCs Recorrentes**: 12 principais
+- **NPCs Total**: 30+ mencionados
 
 ### Mundo e Narrativa
-- **Locais Principais**: 3 cidades, 10+ locais específicos
-- **Plots Ativos**: 3 principais
+- **Locais Principais**: 4 cidades (Rilonde, Elriste, Alva Cidadela, Longe), 15+ locais específicos
+- **Plots Ativos**: 5 principais
 - **Plots Resolvidos**: 5
-- **Mistérios Pendentes**: 4
+- **Mistérios Pendentes**: 9
 
 ### Qualidade da Documentação
 | Arco | Sessões | Transcrições Completas | Transcrições Parciais | Resumos Disponíveis |
@@ -82,19 +98,23 @@ A revolução atinge seu ápice com a explosão da muralha da Alva Cidadela. O g
 | I    | 5       | 1                    | 3                    | 5                 |
 | II   | 5       | 0                    | 1                    | 5                 |
 | III  | 5       | 0                    | 0                    | 5                 |
+| IV   | 2       | 1                    | 0                    | 2                 |
 
 ---
 
 ## 🎯 Status dos Principais Plots
 
 ### 🔴 Plots Ativos
-- **[[A Queda da Alva Cidadela]]** - Consequências da revolução
-- **[[Resistencia Elriste]]** - Destino do movimento revolucionário  
-- **Transformação de Bartrock** - Mudanças misteriosas no personagem
+- **[[A Possessao de Bartrock]]** - Entidade maligna controlando o mago via máscara fundida
+- **[[A Maldicao de Nightwolf]]** - Licantropia descoberta, cura potencial revelada
+- **Viagem para Longe** - Missão dos círculos de teletransporte (40 platinas)
+- **Proteção dos Refugiados** - Jorge no templo, Letícia com Alberto
+- **Consequências da Revolução** - Repercussões da queda da Alva Cidadela
 
 ### 🟡 Plots em Resolução
-- **Destino de Rita** - Líder desaparecida
-- **Identidade do Cavaleiro Misterioso** - Figura enigmática
+- **Destino de Rita** - Líder desaparecida após eventos misteriosos
+- **Identidade do Cavaleiro Misterioso** - Figura enigmática em Elriste
+- **Natureza da Cura Licantrópica** - Magia descoberta por Bartrock, detalhes pendentes
 
 ### 🟢 Plots Concluídos
 - **[[Misterio de Rilonde]]** - Mistério das carroças resolvido
@@ -108,15 +128,15 @@ A revolução atinge seu ápice com a explosão da muralha da Alva Cidadela. O g
 
 ### Ferramentas de Pesquisa
 - **[Relatório de Análise](../relatorio_analise_transcricoes_sessoes.md)** - Comparação entre transcrições e resumos
-- **[[Borel/Plots/index|Índice de Plots]]** - Todos os arcos narrativos
+- **[[Plots/index|Índice de Plots]]** - Todos os arcos narrativos
 - **[[NPCs/|NPCs Completos]]** - Todos os personagens não-jogadores
 - **[[Players/|Personagens dos Jogadores]]** - Fichas e desenvolvimento
 
 ### Navegação Rápida
 - **Por Arco**: Use os links dos arcos acima
 - **Por Personagem**: Consulte as páginas individuais dos NPCs e Players
-- **Por Local**: Visite a seção [[Borel/Locais/index|Locais]]
-- **Por Plot**: Explore [[Borel/Plots/index|Plots Ativos e Resolvidos]]
+- **Por Local**: Visite a seção [[Locais/index|Locais]]
+- **Por Plot**: Explore [[Plots/index|Plots Ativos e Resolvidos]]
 
 ---
 

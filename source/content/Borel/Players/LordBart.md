@@ -133,6 +133,14 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 - **PLANOS MISTERIOSOS**: Passou a trabalhar em planos incompreensíveis na taverna
 - **PERDA DE AUTONOMIA**: Bartrock original não está mais no controle
 
+#### Sessão 17: Entre Cordas e Confissões - REVELAÇÕES ESTRATÉGICAS
+- **PARTE 1**: **REVELAÇÃO DA CURA** - Anunciou descoberta de magia para curar licantropia de Nightwolf
+- Demonstrou conhecimento arcano avançado sobre transformações
+- **PARTE 2-3**: Permaneceu em segundo plano durante negociações e preparativos
+- **PARTE 4**: **TENTATIVA DE APOSTAS** - Desafiou Tony para jogo de dados por 10 platinas
+- Argumentou ter vantagem devido à sua condição possuída
+- Mostrou sinais de que a entidade mantém alguns aspectos da personalidade original
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático
@@ -167,7 +175,7 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 - Poções diversas
 
 ## Relacionamentos
-- [[Jorge|Jorge]]: Ajudou a proteger o jovem durante o cerco
+- [[Jorge]]: Ajudou a proteger o jovem durante o cerco
 - [[Rita|Rita]]: Relação tensa após suas ações brutais e o incidente com Emmergard
 - [[Emmergard|Emmergard]]: Aliada durante o cerco do castelo
 - [[Tony]]: Parceiro de apostas e estratégias

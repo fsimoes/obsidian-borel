@@ -19,12 +19,13 @@ Rico comerciante de Rilonde, Alberto Eder é descrito como "burgues aqui da cida
 - **[[Celeste|Celeste]]**: Esposa de Lucian, revelada como usuária de magia sombria - capturada
 
 ### 🟢 Relacionamentos Ativos
-- **[[NPCs/Morgana|Morgana]]**: Funcionária responsável pelos despachos
-- **[[Tony|Tony Tiger]]**: Contratado principal para investigação
+- **[[Morgana]]**: Funcionária responsável pelos despachos
+- **[[Tony|Tony Tiger]]**: Negociador principal e líder do grupo (40 platinas acordadas)
 - **[[Nightwolf|Nightwolf]]**: Especialista em reconhecimento
 - **[[Dustin|Dustin]]**: Investigador e batedor
-- **[[Kaelion|Kaelion]]**: Novo contratado, habilidades de combate
-- **[[LordBart|Bartrock]]**: Suporte mágico para investigação
+- **[[Kaelion|Kaelion]]**: Membro do grupo
+- **[[LordBart|Bartrock]]**: Mago do grupo (condição especial conhecida)
+- **[[Leticia|Letícia]]**: Nova administradora contratada por recomendação de Tony
 
 ### 🔵 Rede de Contatos
 - **Jonas**: Guarda da cidade que fez a indicação inicial
@@ -55,6 +56,13 @@ Rico comerciante de Rilonde, Alberto Eder é descrito como "burgues aqui da cida
 - **Informado da traição**: Evidências apresentadas pelo grupo
 - **Justiça restaurada**: Negócios podem continuar sem sabotagem interna
 
+### 📅 Sessão 17: Novos Negócios
+- **Contratação para Longe**: Ofereceu trabalho relacionado a círculos de teletransporte
+- **Negociação com Tony**: Acordaram 40 platinas por missão bem-sucedida
+- **Recomendação de Letícia**: Aceitou-a como administradora competente
+- **Informações sobre rivais**: Demonstrou conhecimento sobre grupos concorrentes
+- **Elogio ao grupo**: Chamou-os de "formidáveis", reconhecendo suas capacidades
+
 ## Características Verificadas
 
 ### 💰 Recursos Financeiros
@@ -84,9 +92,11 @@ Rico comerciante de Rilonde, Alberto Eder é descrito como "burgues aqui da cida
 
 ### 📈 Situação Atual
 - **Operações normalizadas**: Carroças podem operar sem ataques
-- **Nova equipe de segurança**: Relação estabelecida com grupo de aventureiros
-- **Rede expandida**: Conexões com grupo pode beneficiar negócios futuros
-- **Lição aprendida**: Implementou medidas contra futuras traições internas
+- **Equipe de aventureiros**: Relação estabelecida e fortalecida (40 platinas investidas)
+- **Nova administradora**: Letícia contratada por recomendação de Tony
+- **Expansão para Longe**: Investimento em círculos de teletransporte
+- **Rede expandida**: Conexões crescentes através do grupo de aventureiros
+- **Reconhecimento**: Chama o grupo de "formidáveis", confiança estabelecida
 
 ## Propriedades e Recursos Confirmados
 - **Galpão principal**: Escritório no andar superior, operações no térreo
@@ -105,8 +115,10 @@ Rico comerciante de Rilonde, Alberto Eder é descrito como "burgues aqui da cida
 ### ❓ Ainda em Aberto
 1. **Natureza exata dos "bens valiosos"** transportados
 2. **Extensão total de seus negócios e influência**
-3. **Potencial para futura colaboração** com o grupo
-4. **Medidas de segurança implementadas** pós-resolução
+3. **Sucesso da missão em Longe** - Impacto nos círculos de teletransporte
+4. **Desempenho de Letícia** como administradora
+5. **Conhecimento sobre grupos rivais** mencionados nas negociações
+6. **Futura colaboração** após missão em Longe
 
 ## Citações Notáveis Verificadas
 
@@ -115,6 +127,13 @@ Rico comerciante de Rilonde, Alberto Eder é descrito como "burgues aqui da cida
 > **Sobre o conflito interno**: "Mas eu não posso confiar nele porque... bem, alguém... às vezes só ele sabe a informação e os bandidos acabam descobrindo de qualquer forma."
 
 > **Sobre pagamento**: "Se vocês trouxerem a cabeça de quem tiver por trás disso e botar aqui na minha mesa, eu tenho 120 moedas de ouro guardadas pra vocês."
+
+### Sessão 17 - Novas Citações
+> **Reconhecimento do grupo**: Chamou o grupo de "formidáveis" durante as negociações
+
+> **Sobre Letícia**: Aceitou a recomendação de Tony sobre suas habilidades administrativas
+
+> **Sobre a missão**: Ofereceu 40 platinas por trabalho relacionado aos círculos de teletransporte em Longe
 
 ## 📊 Impacto na Campanha
 

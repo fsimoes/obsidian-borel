@@ -3,24 +3,31 @@
 ## Plots Principais Ativos
 
 ### 🐺 **A Maldição de Nightwolf**
-- **Status**: ATIVO (Descoberto na Sessão 16)
+- **Status**: ATIVO - Cura Descoberta (Sessão 17)
 - **Tipo**: Plot Principal - Pessoal
-- **Resumo**: Nightwolf revelou-se um lobisomem, transformando-se descontroladamente
-- **Última Atualização**: Sessão 16
-- **Urgência**: CRÍTICA - Ameaça ao grupo
+- **Resumo**: Nightwolf revelou-se um lobisomem, mas Bartrock descobriu magia de cura
+- **Última Atualização**: Sessão 17
+- **Urgência**: ALTA - Cura pendente aplicação
 
 ### 😈 **A Possessão de Bartrock**
-- **Status**: ATIVO (Iniciado na Sessão 16)
+- **Status**: ATIVO - Entidade Ativa (Sessão 17)
 - **Tipo**: Plot Principal - Antagonista
-- **Resumo**: Bartrock foi possuído por entidade maligna através de máscara, executou Celeste
-- **Última Atualização**: Sessão 16  
-- **Urgência**: CRÍTICA - Ameaça interna
+- **Resumo**: Bartrock possuído pela entidade, agora revelando conhecimentos arcanos
+- **Última Atualização**: Sessão 17
+- **Urgência**: CRÍTICA - Ameaça interna com agenda oculta
 
-### 🔮 **Os Círculos de Teletransporte**
-- **Status**: OFERECIDO (Sessão 16)
+### 🔮 **Viagem para Longe**
+- **Status**: ATIVO - Contratado (Sessão 17)
+- **Tipo**: Plot Principal
+- **Resumo**: Grupo contratado por 40 platinas para missão dos círculos de teletransporte
+- **Última Atualização**: Sessão 17
+- **Urgência**: MÉDIA - Missão bem remunerada
+
+### 👨‍👦 **Proteção dos Refugiados**
+- **Status**: RESOLVIDO - Estabelecidos (Sessão 17)
 - **Tipo**: Plot Secundário
-- **Resumo**: Alberto ofereceu trabalho em Longe relacionado aos círculos mágicos
-- **Última Atualização**: Sessão 16
+- **Resumo**: Jorge no Templo de Megarde, Letícia trabalhando com Alberto
+- **Última Atualização**: Sessão 17
 
 ## Plots Concluídos Recentemente
 
@@ -93,39 +100,51 @@ timeline
         Parte 3 : Chegada em Rilonde : Rituais Fracassados
         Parte 4 : Prisão de Rilonde : Possessão e Execução
 ```
+```mermaid
+timeline
+    title Sessão 17 - Entre Cordas e Confissões
+    section Sessão 17 - Entre Cordas e Confissões
+        Parte 1 : Recapitulação : Revelação da Cura
+        Parte 2 : Negociações : Jorge e Letícia Estabelecidos
+        Parte 3 : Preparativos : Equipamentos e Acordos
+        Parte 4 : Despedidas : Preparação para Longe
+```
 
 ## Estado Atual da Campanha
 
 ### Situação Geral
-- **LOCALIZAÇÃO ATUAL**: Taverna em Rilonde
-- **CRISE DUPLA**: Nightwolf é lobisomem, Bartrock está possuído
-- **REFUGIADOS**: Jorge e Letícia sob proteção do grupo
-- **CELESTE MORTA**: Executada por Bartrock possuído
-- **OFERTAS PENDENTES**: Trabalho de Alberto em Longe
-- **SEGURANÇA COMPROMETIDA**: Ameaças internas ao grupo
+- **LOCALIZAÇÃO ATUAL**: Prontos para partir de Rilonde para Longe
+- **ESPERANÇA RENOVADA**: Cura descoberta para Nightwolf
+- **AMEAÇA INTERNA**: Bartrock ainda possuído com agenda oculta
+- **REFUGIADOS ESTABELECIDOS**: Jorge no templo, Letícia trabalhando
+- **MISSÃO CONTRATADA**: 40 platinas por trabalho em Longe
+- **GRUPO PREPARADO**: Equipamentos, suprimentos e fundos organizados
 
 ### Locais Importantes
 - [[Alva Cidadela]] (em ruínas)
-- [[Rilonde]] (destino do grupo)
+- [[Rilonde]] (base de preparativos, sendo deixada)
 - [[Elriste]] (cidade em revolução)
+- **Longe** (destino da próxima missão - círculos de teletransporte)
 
 ### Tensões Principais
-1. **CRÍTICO**: Bartrock possuído como ameaça interna
-2. **CRÍTICO**: Controle da licantropia de Nightwolf
-3. **URGENTE**: Proteção de Jorge e Letícia
-4. **PENDENTE**: Decisão sobre trabalho em Longe
+1. **CRÍTICO**: Bartrock possuído com agenda oculta da entidade
+2. **ALTA**: Aplicação da cura para licantropia de Nightwolf
+3. **MÉDIA**: Sucesso da missão em Longe (40 platinas)
+4. **BAIXA**: Jorge e Letícia estabelecidos em segurança
 5. **BACKGROUND**: Consequências da revolução em Elriste
 6. **INCERTO**: Localização e intenções de Rita
+7. **NOVO**: Grupos rivais mencionados por Tony
 
 ## Plots Futuros Potenciais
-> [!info] Possibilidades Sessão 16+
+> [!info] Possibilidades Sessão 18+
+> - **PRIORIDADE**: Aplicação da cura para licantropia de Nightwolf
+> - **MISSÃO ATIVA**: Sucesso nos círculos de teletransporte em Longe
 > - **Libertação de Bartrock** da possessão maligna
-> - **Cura da licantropia** de Nightwolf
-> - **Missão em Longe** sobre círculos de teletransporte
 > - **Confronto final** com a entidade maligna
+> - **Investigação dos grupos rivais** mencionados por Tony
 > - **Busca por Rita** e investigação de seu desaparecimento
-> - **Proteção permanente** para Jorge e Letícia
-> - **Novas alianças** em Rilonde
+> - **Exploração de Longe** e suas oportunidades mágicas
+> - **Consequências da separação** de Jorge e Letícia
 
 ## Notas do Mestre
 > [!note] Lembretes

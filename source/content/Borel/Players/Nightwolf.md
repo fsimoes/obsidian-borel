@@ -139,6 +139,14 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - **PARTE 4**: Experimentou máscara misteriosa na prisão, sofrendo 4 de dano psíquico
 - Viu visões de tempestade vermelha e sentiu agulhas penetrando sua mente
 
+#### Sessão 17: Entre Cordas e Confissões - ESPERANÇA RENOVADA
+- **PARTE 1**: Acordou amarrado e besuntado em óleo como medida de segurança
+- **REVELAÇÃO DE ESPERANÇA**: Bartrock anunciou descoberta de magia para curar licantropia
+- Aceitou resignadamente sua condição e as medidas de precaução do grupo
+- **PARTE 2-4**: Cooperou totalmente com preparativos para viagem
+- Manteve esperança sobre possível cura através da magia descoberta por Bartrock
+- Permaneceu vigilante e observador apesar das circunstâncias difíceis
+
 ## Equipamento Notável
 - Arco longo
 - Adaga fumegante
@@ -151,7 +159,7 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 
 ## Relacionamentos
 - [[Trash|Trash]]: Suspeita que o guaxinim mecânico seja seu "primo"
-- [[Jorge|Jorge]]: Jovem sobrevivente que encontrou e protegeu
+- [[Jorge]]: Jovem sobrevivente que encontrou e protegeu
 - [[Rita|Rita]]: Relação tensa após seus métodos brutais e o incidente com Emmergard
 - [[Emmergard|Emmergard]]: Aliada durante o cerco, testemunha do conflito com Rita
 - [[Tony]]: Parceiro leal desde o resgate na cabana

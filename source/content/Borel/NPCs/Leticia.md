@@ -34,7 +34,7 @@ Ex-serviçal da Baronesa na Alva Cidadela, Letícia foi resgatada pelo grupo dur
 
 ### Outros
 - **Baronesa**: Ex-patroa (morta na revolução)
-- **Alberto**: Conhece por referência do grupo
+- **[[Alberto]]**: Novo empregador como administradora (recomendada por Tony na Sessão 17)
 
 ## Eventos Importantes
 
@@ -50,17 +50,24 @@ Ex-serviçal da Baronesa na Alva Cidadela, Letícia foi resgatada pelo grupo dur
 - **Chegada em Rilonde**: Acompanhou o grupo até a cidade
 - **Acomodação**: Hospedada na taverna junto com o grupo
 
+### Sessão 17: Nova Vida
+- **Apresentação a Alberto**: Tony a recomendou formalmente como administradora competente
+- **Contratação**: Alberto aceitou a recomendação e a empregou
+- **Independência**: Conseguiu trabalho estável e segurança financeira
+- **Separação do Grupo**: Estabeleceu vida própria enquanto o grupo parte para Longe
+
 ## Estado Atual
-- **Localização**: Taverna em Rilonde
-- **Condição**: Recuperando-se do acidente com a Fireball
-- **Status**: Refugiada sob proteção ativa do grupo
-- **Necessidades**: Segurança, abrigo, direcionamento sobre o futuro
+- **Localização**: Trabalhando com Alberto em Rilonde
+- **Condição**: Totalmente recuperada, empregada como administradora
+- **Status**: Empregada independente por recomendação de Tony (Sessão 17)
+- **Necessidades**: Estabelecida com trabalho estável e segurança financeira
 
 ## Habilidades Conhecidas
-- Trabalhos domésticos e serviços de casa
-- Conhecimento básico da etiqueta nobre
-- Adaptabilidade em situações difíceis
-- Gratidão e lealdade aos protetores
+- **Administração**: Reconhecida por Tony como competente para gerenciar negócios
+- **Trabalhos domésticos**: Experiência prévia como serviçal
+- **Conhecimento da etiqueta nobre**: Útil para lidar com clientes aristocráticos
+- **Adaptabilidade**: Demonstrada na transição de refugiada para funcionária
+- **Lealdade**: Gratidão duradoura aos que a salvaram
 
 ## Possíveis Desenvolvimentos Futuros
 - Pode revelar informações importantes sobre a Alva Cidadela

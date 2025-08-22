@@ -17,12 +17,14 @@ Jorge foi encontrado por [[Nightwolf]] escondido em um salão do castelo da Alva
 
 ## Conexões
 - **Grupo Principal** - O salvou e o protegeu durante a queda da cidade
-- **[[Tony]]** - Tentou confortá-lo e ofereceu proteção na pedra mágica
+- **[[Tony]]** - Figura paternal que ofereceu escolha entre segurança e aventura (Sessão 17)
 - **[[Nightwolf]]** - O encontrou e iniciou o resgate
+- **Templo de Megarde** - Novo lar e proteção religiosa (Sessão 17)
+- **[[Leticia]]** - Companheira de infortúnio, ambos refugiados da revolução
 - Possível conexão com a nobreza da Alva Cidadela (família morta)
 
 ## Estado Atual
-Viaja com o grupo em direção a Rio Londe, protegido dentro da pedra mágica. Seu futuro é incerto, mas o grupo assumiu a responsabilidade por sua segurança.
+**Sessão 17**: Jorge está agora seguro no **Templo de Megarde** em Rilonde, sob cuidados religiosos especializados para órfãos. Tony conversou privativamente com ele sobre suas opções e decidiu garantir sua segurança no templo, onde receberá cuidados adequados longe dos perigos da aventura.
 
 ## Objetivos Conhecidos
 - Sobreviver aos eventos da revolução

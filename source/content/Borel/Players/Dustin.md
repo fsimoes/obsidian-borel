@@ -144,7 +144,7 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - Poções diversas
 
 ## Relacionamentos
-- [[Jorge|Jorge]]: Ajudou a proteger o jovem sobrevivente
+- [[Jorge]]: Ajudou a proteger o jovem sobrevivente
 - [[Rita|Rita]]: Relação tensa após o incidente com Emmergard
 - [[Emmergard|Emmergard]]: Ajudou em sua proteção durante o cerco
 - [[Tony]]: Parceiro constante em batalhas e momentos de tensão
@@ -180,16 +180,17 @@ Dustin evoluiu de um ladrão astuto para um líder estratégico. Sua recusa em s
 - "Você pode apostar ele." - Sobre o guaxinim de Borin
 
 ## Objetivos Atuais
+- **Sessão 17**: Organizou suprimentos e preparativos para viagem a Longe
 - Dominar o uso da nova varinha mágica e arco élfico
 - Aperfeiçoar as habilidades com a flauta mágica
-- Proteger o grupo durante a fuga para Rio Londe
+- Proteger o grupo durante a missão dos círculos de teletransporte
 - Desenvolver novas estratégias de combate mágico
 - Manter o equilíbrio entre lealdade e sobrevivência
 - Fortalecer os laços com os companheiros sobreviventes
 - Explorar os limites de suas novas habilidades mágicas
-- Preparar planos de contingência para a fuga
+- Preparar planos de contingência para a viagem
 - Descobrir mais sobre os poderes do anel mágico
-- Estabelecer contatos úteis em Rio Londe
+- Estabelecer contatos úteis em Longe
 
 ## Imagens
 ![[Dustin_1.png]]

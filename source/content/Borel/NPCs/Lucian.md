@@ -9,7 +9,7 @@ Braço direito de Alberto Eder, Lucian é um homem que aparenta estar constantem
 - **[[Alberto|Alberto Eder]]**: Seu empregador e alvo de traição
 - **[[Celeste|Celeste]]**: Sua esposa e possível manipuladora
 - **[[Emmergard|Emmergard]]**: Contratou-a para trabalhar para Alberto
-- **[[NPCs/Morgana|Morgana]]**: Funcionária que trabalha com ele no galpão
+- **[[Morgana]]**: Funcionária que trabalha com ele no galpão
 
 ## Cronologia
 

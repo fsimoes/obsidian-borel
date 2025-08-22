@@ -1,11 +1,11 @@
 # A Maldição de Nightwolf
 
-## Status: **ATIVO** (Descoberto na Sessão 16)
+## Status: **ATIVO** - Cura Descoberta (Sessão 17)
 
 ## Tipo de Plot
 - **Categoria**: Plot Principal - Pessoal
-- **Urgência**: CRÍTICA
-- **Escopo**: Ameaça direta ao grupo
+- **Urgência**: ALTA - Cura pendente
+- **Escopo**: Esperança de resolução
 
 ## Resumo
 Nightwolf revelou-se um lobisomem durante a Sessão 16, transformando-se descontroladamente durante a noite. Seus pesadelos sobre o "homem macaco" em Rilonde eram na verdade memórias reprimidas de sua própria condição licantrópica.
@@ -40,6 +40,14 @@ Nightwolf revelou-se um lobisomem durante a Sessão 16, transformando-se descont
 - Na prisão, Nightwolf testou a máscara misteriosa
 - Sofreu 4 pontos de dano psíquico
 - Teve visões de tempestade vermelha e agulhas mentais
+
+### Sessão 17 - Esperança Renovada
+#### Revelação da Cura
+- **Bartrock anunciou** ter descoberto uma magia capaz de curar a licantropia
+- Brincou dizendo que Nightwolf "só vai virar um pincher" agora
+- Grupo ganhou esperança pela primeira vez desde a descoberta da condição
+- Nightwolf aceitou as medidas de segurança com mais resignação
+- Mencionou que têm tempo até a próxima lua cheia para aplicar a cura
 
 ## Personagens Envolvidos
 
@@ -188,6 +196,7 @@ Nightwolf revelou-se um lobisomem durante a Sessão 16, transformando-se descont
 > "Eu sou um monstro agora?" - Nightwolf após descobrir sua condição
 > "Nós vamos encontrar uma solução. Juntos." - Tony ao grupo
 > "A divindade rejeitou ele... isso é mais sério do que pensávamos." - Emmergard
+> "Então ele agora só vai virar um pincher." - Bartrock, anunciando a cura de forma cômica (Sessão 17)
 
 ## Conclusão
 A Maldição de Nightwolf representa um dos plots mais pessoais e urgentes da campanha. Requer soluções criativas, fortalece laços do grupo e oferece oportunidades para desenvolvimento profundo de personagem e exploração de temas de aceitação e identidade.

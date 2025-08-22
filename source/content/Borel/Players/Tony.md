@@ -135,6 +135,16 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - **PARTE 4**: **CARREGAVA A MÁSCARA** - Responsabilidade indireta pela possessão de Bartrock
 - Testemunhou execução de Celeste e perda de controle de Bartrock para entidade maligna
 
+#### Sessão 17: Entre Cordas e Confissões - MESTRE NEGOCIADOR
+- **PARTE 1**: Liderou discussões sobre cuidados com Nightwolf e próximos passos
+- **PARTE 2**: **CONVERSA PATERNAL** - Ofereceu a Jorge escolha entre segurança no templo ou aventura
+- Levou Jorge ao Templo de Megarde para cuidados seguros
+- **NEGOCIAÇÃO ESTRATÉGICA**: Apresentou Letícia a Alberto como administradora competente
+- **ACORDO DE LONGE**: Negociou contrato de 40 platinas para missão dos círculos de teletransporte
+- **PARTE 3**: Usou informações sobre grupos rivais como moeda de troca nas negociações
+- Demonstrou confiança fumando charuto imaginário durante reunião com Alberto
+- **PARTE 4**: Considerou desafio de apostas de Bartrock, mantendo cautela responsável
+
 ## Equipamento Notável
 - Javelina
 - Greatsword
@@ -144,12 +154,16 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - Javelin e escudo ornado (de Ivan)
 - Pedra mágica (item de proteção)
 - Katana e anel (herdados de Nikov)
-- Mapa da cidade (emprestado)
+- **Cavalo** (comprado na Sessão 17)
+- **Mapas para viagem** (adquiridos na Sessão 17)
+- **40 platinas garantidas** (contrato com Alberto para Longe)
 - 405 moedas de ouro (ganhas na aposta em Elriste)
 - 98 moedas de ouro (encontradas na barraca)
 
 ## Relacionamentos
-- [[Jorge|Jorge]]: Desenvolveu uma relação protetora com o jovem sobrevivente, usando a pedra mágica para protegê-lo
+- [[Jorge]]: **FIGURA PATERNAL** - Garantiu segurança no Templo de Megarde (Sessão 17)
+- [[Leticia|Letícia]]: **MENTOR** - Recomendou-a como administradora para Alberto (Sessão 17)
+- [[Alberto|Alberto]]: **PARCEIRO DE NEGÓCIOS** - Acordou 40 platinas para missão em Longe (Sessão 17)
 - [[Rita|Rita]]: Relação tensa após confrontá-la por empurrar Emmergard e questionar suas ações brutais
 - [[Emmergard|Emmergard]]: Protegeu-a do comportamento agressivo de Rita, demonstrando princípios morais
 - [[Dustin]]: Companheiro constante, compartilhando momentos de tensão e humor
