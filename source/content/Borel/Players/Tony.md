@@ -125,6 +125,16 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - Coletou javelin e escudo de Ivan como troféus
 - Liderou o planejamento da fuga para Rio Londe após o desaparecimento de Rita
 
+#### Sessão 16: Sombras do Passado - LIDERANÇA SOB PRESSÃO
+- **PARTE 1**: Liderou a viagem de fuga de Elriste para Rilonde com refugiados
+- **ENCONTRO COM SOLDADOS**: Mentiu convincentemente sobre suas intenções, protegendo o grupo
+- **PARTE 2**: **MOMENTO HEROICO** - Derrotou Nightwolf transformado em lobisomem, salvando Dustin
+- Usou espadas para nocautear o amigo sem matá-lo, mostrando compaixão sob pressão
+- **PARTE 3**: Negociou com Alberto sobre trabalho em Longe relacionado a círculos de teletransporte
+- **LIDERANÇA MORAL**: Tomou decisões difíceis sobre segurança do grupo vs. ajuda aos amigos
+- **PARTE 4**: **CARREGAVA A MÁSCARA** - Responsabilidade indireta pela possessão de Bartrock
+- Testemunhou execução de Celeste e perda de controle de Bartrock para entidade maligna
+
 ## Equipamento Notável
 - Javelina
 - Greatsword

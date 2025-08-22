@@ -1,6 +1,6 @@
 # Celeste
 
-## Status: Capturada
+## Status: **MORTA** (Executada na Sessão 16)
 
 ## Descrição
 Uma figura misteriosa e poderosa, Celeste é a esposa de [[Lucian|Lucian]] e uma usuária de magia sombria. Ela demonstrou habilidades mágicas significativas, incluindo o controle de lobisomens e a capacidade de manipular memórias.
@@ -36,6 +36,14 @@ Uma figura misteriosa e poderosa, Celeste é a esposa de [[Lucian|Lucian]] e uma
   - É derrotada pelo grupo
   - Lobos aparecem para defendê-la
 
+### Sessão 16: O FIM DE CELESTE
+- **Prisão de Rilonde**: Encontrada acorrentada após captura
+- **Provocação Fatal**: Tentou manipular Tony a usar a máscara misteriosa
+- **Conexão Revelada**: A entidade na máscara revelou ser seu antigo mestre
+- **Execução**: Bartrock possuído lançou Fireball diretamente nela
+- **Morte**: Queimada viva na cela, guardas tentaram apagar o fogo sem sucesso
+- **Último Ato**: Suas provocações levaram à descoberta da máscara maligna
+
 ## Evidências de Crimes
 1. Ataque mágico a Nightwolf
 2. Manipulação de memória
@@ -44,10 +52,10 @@ Uma figura misteriosa e poderosa, Celeste é a esposa de [[Lucian|Lucian]] e uma
 5. Conspiração contra Alberto
 
 ## Estado Atual
-- Capturada pelo grupo
-- Derrotada em combate
-- Máscara confiscada
-- Aguardando interrogatório
+- **MORTA** - Executada por Bartrock possuído na prisão de Rilonde
+- Queimada viva por Fireball na Sessão 16
+- Máscara estava em posse do grupo
+- Revelou conexão com entidade maligna antes da morte
 
 ## Habilidades em Combate
 - Magias ofensivas (tentáculos)
@@ -56,12 +64,13 @@ Uma figura misteriosa e poderosa, Celeste é a esposa de [[Lucian|Lucian]] e uma
 - Uso de máscara mágica
 
 ## Questões em Aberto
-1. Qual a origem de seus poderes?
-2. Por que está conspirando contra Alberto?
-3. Qual sua conexão com os lobisomens?
-4. O que é sua máscara de metal?
-5. Há quanto tempo manipula Lucian?
+1. **RESOLVIDO**: O que é sua máscara de metal? - Era um artefato de possessão de seu mestre
+2. **RESOLVIDO**: Origem de seus poderes - Era aprendiz de entidade maligna
+3. Por que estava conspirando contra Alberto?
+4. Qual sua conexão com os lobisomens?
+5. Há quanto tempo manipulava Lucian?
 6. Qual sua relação com a caixa misteriosa?
+7. **NOVO**: Que outros conhecimentos sobre a entidade morreu com ela?
 
 ## Teorias e Especulações
 - Pode ser membro de um culto ou organização maior

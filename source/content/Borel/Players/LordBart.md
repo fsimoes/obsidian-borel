@@ -3,14 +3,17 @@
 ## Perfil
 - **Jogador**: Bart
 - **Classe**: Mago/Bruxo
-- **Status**: Transformado (após Sessão 2)
+- **Status**: **POSSUÍDO POR ENTIDADE MALIGNA** (Sessão 16)
+- **Condição Anterior**: Transformado (após Sessão 2)
 - **Habilidades Notáveis**: 
   - Firebolt
   - Light
   - Detect Magic
   - Ray of Sickness
   - Scorching Ray
-  - Estilo impulsivo e caótico
+  - **Fireball** (usada para executar Celeste)
+  - **Máscara Fundida ao Rosto**
+  - Estilo impulsivo e caótico (agora controlado por entidade)
 
 ## História
 Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. Sua jornada começou com ações impulsivas que definiram o início da aventura, e após sua aparente morte, retornou como Bartrock, uma versão mais sombria e misteriosa de si mesmo. Ao longo do tempo, sua transformação física e mental continuou a intrigar e surpreender seus companheiros.
@@ -120,19 +123,38 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 - Demonstrou preocupação com o desaparecimento de Rita
 - Protegeu o grupo durante a retirada da cidadela
 
+#### Sessão 16: A POSSESSÃO COMPLETA
+- **PARTE 3**: Permaneceu no galpão de Alberto para negociações privadas
+- **PARTE 4**: **MOMENTO CRUCIAL** - Colocou a máscara misteriosa na prisão
+- **TRANSFORMAÇÃO MALIGNA**: Diferente dos outros, não sentiu dor - a máscara se fundiu com seu rosto
+- **ENTIDADE REVELADA**: Uma entidade maligna tomou controle total de sua mente e corpo
+- **CONEXÃO COM CELESTE**: A entidade revelou ser o antigo mestre de Celeste
+- **EXECUÇÃO FRIA**: Lançou Fireball diretamente em Celeste, matando-a instantaneamente
+- **PLANOS MISTERIOSOS**: Passou a trabalhar em planos incompreensíveis na taverna
+- **PERDA DE AUTONOMIA**: Bartrock original não está mais no controle
+
 ## Transformação
-### Como Lorde Bart
+### Como Lorde Bart (Original)
 - Mago impulsivo e carismático
 - Causador de problemas
 - Focado em magias ofensivas
 - Tendência a ações dramáticas
 
-### Como Bartrock
+### Como Bartrock (Transformado)
 - Aparência mais sombria
 - Comportamento misterioso
 - Poderes mágicos ampliados
 - Conexão com detecção de magia
 - Tendência a agir como "alívio cômico"
+
+### Como Bartrock Possuído (ATUAL)
+- **CONTROLADO COMPLETAMENTE** por entidade maligna
+- Máscara fundida permanentemente ao rosto
+- Personalidade original suprimida
+- Poderes mágicos amplificados perigosamente
+- Sem empatia ou moralidade
+- Executa planos da entidade sem questionamento
+- **AMEAÇA DIRETA** aos antigos companheiros
 
 ## Equipamento Notável
 - Máscara mágica
@@ -179,23 +201,31 @@ Bartrock evoluiu de um nobre misterioso para um mago estratégico e controlado. 
 - Negociação bem-sucedida com a nobreza
 
 ## Presságios e Mistérios
-- A verdadeira natureza de sua transformação
-- Possível conexão com os eventos em Rilonde
-- Relação com a magia de Celeste
-- O significado de seu comportamento alterado
-- Suas verdadeiras motivações após o retorno
+- **RESOLVIDO**: A verdadeira natureza de sua transformação - POSSESSÃO POR ENTIDADE MALIGNA
+- **RESOLVIDO**: Relação com a magia de Celeste - ERA MESTRE DELA
+- **NOVO CRÍTICO**: Planos da entidade através de Bartrock
+- **NOVO**: Possibilidade de libertar Bartrock da possessão
+- **NOVO**: Outros objetivos da entidade além de Celeste
+- **NOVO**: Origem e natureza da entidade maligna
+- **NOVO**: Se a máscara pode ser removida sem matar Bartrock
 
-## Objetivos Atuais
-- Explorar suas novas habilidades de manipulação mágica
-- Manter sua identidade protegida durante a fuga
-- Desenvolver novas estratégias de combate mágico
-- Proteger o grupo durante a viagem para Rio Londe
-- Investigar a origem de sua natureza bestial
-- Fortalecer os laços com os companheiros sobreviventes
-- Estabelecer novas conexões políticas em Rio Londe
-- Aperfeiçoar o uso de magias de controle
-- Descobrir mais sobre os poderes da máscara mágica
-- Equilibrar sua nobreza com as necessidades do grupo
+## Objetivos Atuais (DA ENTIDADE)
+- **ATENÇÃO**: Bartrock original NÃO ESTÁ NO CONTROLE
+- Executar planos misteriosos através do corpo de Bartrock
+- Manipular o grupo para seus próprios fins
+- Utilizar poderes mágicos amplificados para objetivos malignos
+- Manter aparência de normalidade para enganar companheiros
+- Elaborar estratégias complexas usando conhecimento de Bartrock
+- Explorar outras possibilidades de possessão no grupo
+- Cumprir agenda oculta relacionada a poder mágico
+- Usar recursos e conexões de Bartrock para fins próprios
+
+## Objetivos do Grupo (Para Bartrock Original)
+- **CRÍTICO**: Encontrar forma de liberta-lo da possessão
+- Descobrir fraquezas da entidade ou da máscara
+- Proteger outros membros do grupo da influência maligna
+- Investigar origem da entidade e como derrotá-la
+- Manter Bartrock vivo durante tentativas de libertação
 
 ## Citações Memoráveis
 - "Mestre dos Magos" - Apelido recebido pelo grupo devido suas aparições e desaparições misteriosas

@@ -122,6 +122,16 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - Participou do planejamento da fuga para Rio Londe
 - Manteve sua astúcia durante a exploração do castelo
 
+#### Sessão 16: Sombras do Passado - CUIDADOR SOB AMEAÇA
+- **PARTE 1**: Assumiu vigilância noturna durante acampamento, protegendo grupo de Nightwolf
+- **PARTE 2**: **PRIMEIRA VÍTIMA** - Atacado por Nightwolf transformado, recebeu 10 de dano de mordida
+- Usou Ensnaring Strike para restringir Nightwolf com espinhos mágicos, tentando controlá-lo
+- **COMPAIXÃO**: Priorizou conter amigo em vez de causar dano letal
+- **PARTE 3**: Acompanhou Nightwolf ao Templo de Chantéia, tentando encontrar cura divina
+- **PRESENCIOU FALHA**: Viu Nightwolf ser rejeitado pela divindade e expulso do templo
+- **PARTE 4**: **EXPERIMENTOU MÁSCARA** - Colocou artefato maligno, sofrendo danos psíquicos
+- Sentiu agulhas penetrando sua mente e visões de tempestade vermelha
+
 ## Equipamento Notável
 - Varinha mágica (nova)
 - Arco élfico (adquirido na Sessão 15)

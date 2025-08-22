@@ -3,6 +3,7 @@
 ## Perfil
 - **Jogador**: NIGHTWOLFBIELZOVSKY
 - **Classe**: Ranger
+- **CONDIÇÃO ESPECIAL**: **LOBISOMEM** (descoberto na Sessão 16)
 - **Habilidades Notáveis**: 
   - Proficiente com arco e espada curta
   - Hunter's Mark
@@ -10,6 +11,7 @@
   - Habilidades de rastreamento
   - Precisão letal com arco
   - Vigilância e observação
+  - **TRANSFORMAÇÃO LICANTRÓPICA** (descontrolada)
 
 ## História
 Nightwolf começou sua jornada como um ranger habilidoso, especializado em combate à distância e furtividade. Sua história começou com uma fuga dramática de uma taverna, onde demonstrou suas habilidades ao ajudar a proteger seus companheiros. Ao longo do tempo, evoluiu de um arqueiro solitário para um protetor estratégico do grupo.
@@ -125,6 +127,18 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - Escapou pelos telhados usando suas habilidades furtivas
 - Protegeu o grupo durante a fuga para Rio Londe
 
+#### Sessão 16: Sombras do Passado - A REVELAÇÃO
+- **PARTE 1**: Teve pesadelos recorrentes sobre o "homem macaco" perseguindo-o em Rilonde
+- **TRANSFORMAÇÃO REVELADA**: Durante o acampamento na estrada, seus pesadelos se tornaram realidade
+- **LICANTROPIA DESCOBERTA**: Transformou-se em lobisomem durante a noite, fora de controle
+- **PARTE 2**: Atacou Dustin com mordida (10 dano) e garras durante a transformação
+- Foi derrotado por Tony com espada e voltou à forma humana inconsciente
+- **CONSEQUÊNCIAS**: Grupo decidiu amarrá-lo durante as noites como precaução
+- **PARTE 3**: Tentou ritual de purificação no Templo de Chantéia em Rilonde - FALHOU
+- Foi rejeitado pela divindade e expulso do templo por força divina
+- **PARTE 4**: Experimentou máscara misteriosa na prisão, sofrendo 4 de dano psíquico
+- Viu visões de tempestade vermelha e sentiu agulhas penetrando sua mente
+
 ## Equipamento Notável
 - Arco longo
 - Adaga fumegante
@@ -175,22 +189,25 @@ Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas
 - "Trash, foi você?" - Questionando sobre o dinheiro perdido
 
 ## Presságios e Mistérios
+- **RESOLVIDO**: A conexão com o lobisomem que o atacou - ELE É UM LOBISOMEM
 - O significado da maçã de Chantaner
 - O aviso sobre estar no "caminho errado"
 - A identidade da silhueta que apagou suas memórias
-- A conexão com o lobisomem que o atacou
+- **NOVO**: Como controlar ou curar sua licantropia
+- **NOVO**: Se sua condição é permanente ou temporária
+- **NOVO**: Origem de sua licantropia
 
 ## Objetivos Atuais
-- Aperfeiçoar o uso da nova armadura e botas mágicas
-- Investigar a verdadeira natureza de Trash
-- Proteger Jorge durante a fuga para Rio Londe
-- Desenvolver novas táticas de combate com sua adaga fumegante
-- Manter vigilância contra possíveis perseguidores
-- Explorar os limites de suas habilidades de rastreamento
-- Fortalecer os laços com os companheiros sobreviventes
-- Descobrir mais sobre seu passado misterioso
-- Aprimorar suas técnicas de infiltração e furtividade
-- Preparar rotas de fuga seguras para o grupo
+- **PRIORIDADE**: Encontrar cura ou controle para sua licantropia
+- **CRÍTICO**: Evitar transformações descontroladas que ponham o grupo em risco
+- Aceitar as medidas de segurança (cordas durante as noites)
+- Investigar alternativas ao ritual religioso falhado
+- Proteger Jorge e Letícia durante a permanência em Rilonde
+- Desenvolver estratégias para lidar com sua dupla natureza
+- Fortalecer os laços com os companheiros apesar da condição
+- Investigar a origem de sua licantropia
+- Manter suas habilidades de ranger intactas
+- Preparar o grupo para possíveis transformações futuras
 
 ## Imagens
 ![[NightWolf_1.png]]

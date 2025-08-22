@@ -2,17 +2,37 @@
 
 ## Plots Principais Ativos
 
+### 🐺 **A Maldição de Nightwolf**
+- **Status**: ATIVO (Descoberto na Sessão 16)
+- **Tipo**: Plot Principal - Pessoal
+- **Resumo**: Nightwolf revelou-se um lobisomem, transformando-se descontroladamente
+- **Última Atualização**: Sessão 16
+- **Urgência**: CRÍTICA - Ameaça ao grupo
+
+### 😈 **A Possessão de Bartrock**
+- **Status**: ATIVO (Iniciado na Sessão 16)
+- **Tipo**: Plot Principal - Antagonista
+- **Resumo**: Bartrock foi possuído por entidade maligna através de máscara, executou Celeste
+- **Última Atualização**: Sessão 16  
+- **Urgência**: CRÍTICA - Ameaça interna
+
+### 🔮 **Os Círculos de Teletransporte**
+- **Status**: OFERECIDO (Sessão 16)
+- **Tipo**: Plot Secundário
+- **Resumo**: Alberto ofereceu trabalho em Longe relacionado aos círculos mágicos
+- **Última Atualização**: Sessão 16
+
+## Plots Concluídos Recentemente
+
 ### 🏰 [[A Queda da Alva Cidadela|A Queda da Alva Cidadela]]
-- **Status**: Concluído
+- **Status**: Concluído (Sessão 15)
 - **Tipo**: Plot Principal
 - **Resumo**: A revolução liderada por Rita que culminou na queda da cidade-fortaleza
-- **Última Atualização**: Sessão 15
 
 ### 🌇 [[Resistencia Elriste|A Resistência em Elriste]]
-- **Status**: Em Andamento
+- **Status**: Concluído/Em Consequências
 - **Tipo**: Plot Principal
 - **Resumo**: O movimento revolucionário iniciado em Elriste e suas consequências
-- **Última Atualização**: Sessão 10
 
 
 ## Plots Resolvidos
@@ -64,16 +84,25 @@ timeline
         Sessão 14 : Cerco ao Castelo : Vitória da Resistência
         Sessão 15 : Desaparecimento de Rita : Fuga com Jorge
 ```
+```mermaid
+timeline
+    title Sessão 16 - Sombras do Passado
+    section Sessão 16 - Sombras do Passado
+        Parte 1 : Fuga de Elriste : Revelação da Licantropia
+        Parte 2 : Batalha contra Nightwolf : Transformação Descontrolada
+        Parte 3 : Chegada em Rilonde : Rituais Fracassados
+        Parte 4 : Prisão de Rilonde : Possessão e Execução
+```
 
 ## Estado Atual da Campanha
 
 ### Situação Geral
-- Grupo em fuga da Alva Cidadela
-- Rita desaparecida após incidente com baú mágico
-- Jorge sob proteção do grupo
-- Exército de Relong se aproximando
-- Kaelion traiu o grupo
-- Bartrock apresentando transformações misteriosas
+- **LOCALIZAÇÃO ATUAL**: Taverna em Rilonde
+- **CRISE DUPLA**: Nightwolf é lobisomem, Bartrock está possuído
+- **REFUGIADOS**: Jorge e Letícia sob proteção do grupo
+- **CELESTE MORTA**: Executada por Bartrock possuído
+- **OFERTAS PENDENTES**: Trabalho de Alberto em Longe
+- **SEGURANÇA COMPROMETIDA**: Ameaças internas ao grupo
 
 ### Locais Importantes
 - [[Alva Cidadela]] (em ruínas)
@@ -81,20 +110,22 @@ timeline
 - [[Elriste]] (cidade em revolução)
 
 ### Tensões Principais
-1. Consequências da revolução
-2. Mistério do desaparecimento de Rita
-3. Proteção de Jorge
-4. Ameaça do exército de Relong
-5. Transformação de Bartrock
-6. Lealdade de Kaelion à resistência
+1. **CRÍTICO**: Bartrock possuído como ameaça interna
+2. **CRÍTICO**: Controle da licantropia de Nightwolf
+3. **URGENTE**: Proteção de Jorge e Letícia
+4. **PENDENTE**: Decisão sobre trabalho em Longe
+5. **BACKGROUND**: Consequências da revolução em Elriste
+6. **INCERTO**: Localização e intenções de Rita
 
 ## Plots Futuros Potenciais
-> [!info] Possibilidades
-> - Chegada do exército de Relong
-> - Investigação do desaparecimento de Rita
-> - Descoberta da natureza da transformação de Bartrock
-> - Consequências da traição de Kaelion
-> - Destino dos refugiados da Alva Cidadela
+> [!info] Possibilidades Sessão 16+
+> - **Libertação de Bartrock** da possessão maligna
+> - **Cura da licantropia** de Nightwolf
+> - **Missão em Longe** sobre círculos de teletransporte
+> - **Confronto final** com a entidade maligna
+> - **Busca por Rita** e investigação de seu desaparecimento
+> - **Proteção permanente** para Jorge e Letícia
+> - **Novas alianças** em Rilonde
 
 ## Notas do Mestre
 > [!note] Lembretes

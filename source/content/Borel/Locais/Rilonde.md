@@ -31,10 +31,11 @@ Rilonde é uma próspera cidade comercial, caracterizada como centro de negócio
   - Administrada por Emmergard (taberneira/guerreira)
 
 ### ⛪ Locais Espirituais
-- **Templo de Chantaner** - Local de rituais de cura mental e recuperação de memórias
+- **Templo de Chantéia** - Local de rituais de cura mental e recuperação de memórias 
   - Disponível para rituais especializados
-  - Sacerdotes competentes
+  - Sacerdotes competentes incluindo [[Emmergard]]
   - Intervenção divina documentada
+  - **SESSÃO 16**: Ritual de purificação de Nightwolf FALHOU - foi expulso pela divindade
 
 ## História Verificada da Cidade
 
@@ -55,6 +56,14 @@ Rilonde é uma próspera cidade comercial, caracterizada como centro de negócio
 - **Investigação bem-sucedida** do mistério das carroças
 - **Ritual no templo** demonstra recursos espirituais da cidade
 - **Captura dos criminosos** restaura ordem comercial
+
+### 📅 Sessão 16: EVENTOS DRAMÁTICOS
+- **Chegada do grupo fugindo** da Alva Cidadela com refugiados
+- **Falha do ritual religioso** - Nightwolf expulso do Templo de Chantéia
+- **Negociações com Alberto** sobre trabalho em Longe
+- **TRAGÉDIA NA PRISÃO** - Celeste executada por Bartrock possuído
+- **Possessão revelada** - Entidade maligna controla Bartrock através de máscara
+- **Grupo hospedado** na taverna com dois refugiados
 
 ## Facções e Sociedade
 
@@ -95,32 +104,52 @@ Rilonde é uma próspera cidade comercial, caracterizada como centro de negócio
 
 ## Habitantes Notáveis Confirmados
 
-### 🔴 Problemas Resolvidos
-- **[[Lucian]]** - Ex-braço direito de Alberto (25-30 anos), traidor capturado
-- **[[Celeste]]** - Esposa de Lucian, usuária de magia sombria, capturada
+### 🔴 Problemas Resolvidos/Mortos
+- **[[Lucian]]** - Ex-braço direito de Alberto (25-30 anos), traidor capturado (ainda preso)
+- **[[Celeste]]** - Esposa de Lucian, usuária de magia sombria, **MORTA** (executada na Sessão 16)
+
+### 🏠 Estruturas Adicionais (Sessão 16)
+- **Prisão de Rilonde** - Local onde Celeste foi executada
+  - Celas individuais para prisioneiros importantes
+  - Guardas presentes para supervisão
+  - Palco da tragédia com Bartrock possuído
 
 ### 🟢 Aliados Estabelecidos  
 - **[[Alberto]] Eder** - Comerciante próspero, empregador justo
+  - **SESSÃO 16**: Ofereceu trabalho em Longe sobre círculos de teletransporte
 - **Jonas** - Guarda amigo de Tony, facilitador de conexões
 - **[[Emmergard]]** - Taberneira/guerreira, aliada temporária
+  - **SESSÃO 16**: Tentou ritual de purificação em Nightwolf (falhou)
 - **Otto** - Ferreiro, fornecedor de equipamentos
+
+### 🏠 Refugiados Atuais (Sessão 16)
+- **[[Leticia]]** - Ex-serviçal da Baronesa, resgatada da Alva Cidadela
+- **[[Jorge]]** - Jovem sobrevivente nobre, sob proteção do grupo
 
 ### ⭐ Figuras Religiosas
 - **Sacerdote de Chantaner** - Especialista em rituais de recuperação de memória
 
-## Estado Atual: ✅ ESTÁVEL E PRÓSPERO
+## Estado Atual: ⚠️ ESTÁVEL MAS ABALADO
 
 ### 🎯 Problemas Eliminados
-- ✅ **Rede de roubos desmantelada** - Lucian e Celeste capturados
+- ✅ **Rede de roubos desmantelada** - Lucian capturado, Celeste morta
 - ✅ **Rotas comerciais seguras** - Alberto pode operar normalmente
 - ✅ **Ameaça sobrenatural neutralizada** - Lobisomens controlados por Celeste
 - ✅ **Ordem social restaurada** - Conflitos na taverna resolvidos
+
+### ⚠️ Novos Problemas (Sessão 16)
+- **Execução na prisão** - Investigação oficial sobre morte de Celeste
+- **Entidade maligna ativa** - Bartrock possuído representa nova ameaça
+- **Falha religiosa** - Templo não conseguiu ajudar Nightwolf
+- **Refugiados** - Necessidade de acomodar Jorge e Letícia
 
 ### 📈 Oportunidades Atuais
 - **Base estabelecida** para futuras operações do grupo
 - **Rede de contatos** expandida através de Jonas e Alberto
 - **Reputação positiva** como grupo competente de investigadores
 - **Recursos disponíveis** através de relacionamentos estabelecidos
+- **NOVO**: Trabalho oferecido por Alberto em Longe sobre círculos de teletransporte
+- **Hospedagem temporária** para refugiados na taverna
 
 ## Defesas e Segurança
 
