@@ -1,5 +1,7 @@
 # Alberto Eder
 
+![[Alberto.png]]
+
 ## Status: ✅ Ativo - Problemas Resolvidos
 > **Fonte**: Informações verificadas através de transcrições da sessão 3 e resumos subsequentes
 

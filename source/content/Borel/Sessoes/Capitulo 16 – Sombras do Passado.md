@@ -137,3 +137,10 @@ Sob o manto estrelado de uma noite aparentemente tranquila, as sombras do passad
 13. **Preparação para Batalha** - Uma cena tensa estilo Magic: The Gathering mostrando os personagens se posicionando em formação de combate enquanto Nightwolf completa sua transformação ao centro.
 
 14. **O Lobisomem Revelado** - Uma cena épica estilo Magic: The Gathering mostrando Nightwolf completamente transformado em lobisomem, com pelos negros, garras afiadas e olhos vermelhos brilhantes sob a luz da lua.
+
+
+![[Pasted image 20250821234904.png]]
+![[Pasted image 20250821234927.png]]
+
+![[Pasted image 20250821234954.png]]
+![[Pasted image 20250821235231.png]]

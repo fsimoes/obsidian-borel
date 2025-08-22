@@ -173,3 +173,16 @@ Enquanto os ecos da peppa explodida ainda ressovam pelos corredores da taverna e
 
 ### 12. Preparativos para a Jornada
 *Prompt: Aventureiros organizando equipamentos e suprimentos numa taverna medieval, preparando-se para partir de Rilonde. Armas sendo afiadas, mapas sendo estudados, provisões sendo empacotadas. Atmosfera de determinação e propósito renovado para a próxima fase da aventura.*
+
+
+![[Pasted image 20250821235312.png]]
+
+![[Pasted image 20250821235548.png]]
+
+
+
+![[Pasted image 20250821235612.png]]
+
+![[Pasted image 20250821235811.png]]
+
+![[Pasted image 20250821235844.png]]

@@ -1,5 +1,5 @@
 # Jorge
-
+![[Jorge.png]]
 ## Descrição
 - Jovem menino
 - Encontrado durante a queda da Alva Cidadela
