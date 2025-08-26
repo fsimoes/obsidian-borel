@@ -85,6 +85,39 @@ Durante a fuga para Rilonde, aconteceu o evento mais chocante da campanha:
 
 ---
 
+## 🌟 **ARCO 5: HORROR CÓSMICO (Sessão 18)**
+
+### Transformações no Santuário dos Magos
+A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação mais dramática de qualquer personagem:
+
+#### **Dustin Renasce e Perde Identidade**
+- **Eco** (sacerdote do Santuário) ofereceu "ritual da travessia" 
+- Dustin enfrentou testes de identidade, memória, medo e renascimento
+- **Perdeu completamente suas memórias e conexões emocionais**
+- Mantém habilidades mas não reconhece mais os companheiros
+- Eco o trata como entidade quase divina
+
+#### **Nightwolf Demonstra Controle**
+- **Primeira vez em 18 sessões conseguiu Stealth com sucesso**
+- Durante transformação lunar, **controlou parcialmente a forma lobisomem**
+- Arranhava paredes em vez de atacar companheiros
+- Frustrado por ser nocauteado quando estava se controlando
+
+### Chegada a Longe e Nova Ameaça
+#### **Cidade dos Magos**
+- **Longe** revelou-se verdadeiramente mágica - construções flutuantes, pessoas levitando
+- **Letícia se despediu** entregando pedra de comunicação para Kaelion
+- Encontro casual com **"Hoje"** (bêbado) revelou ameaça apocalíptica
+
+#### **Ritual Apocalíptico Descoberto**
+- **Carta misteriosa** levou grupo a bosque próximo de Longe
+- Encontraram **cinco esqueletos em círculo** ao redor de **ovo pulsante** maligno
+- **Bartrock manifestou criatura demoníaca** vomitando-a de sua boca alargada
+- **Cadáver de cultista** revelou profecia sobre **"filho da aurora final"**
+- **Ritual interrompido** mas **entidades cercaram** o grupo no final
+
+---
+
 ## 👥 **PERSONAGENS PRINCIPAIS**
 
 ### 🗡️ **Tony Tigger** *(Líder do Grupo)*
@@ -204,35 +237,45 @@ Durante a fuga para Rilonde, aconteceu o evento mais chocante da campanha:
 
 ---
 
-## 🎯 **SITUAÇÃO ATUAL (Início da Sessão 18)**
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 18)**
 
 ### 📍 **Localização**
-O grupo está **pronto para partir de Rilonde** em direção a **Longe**.
+O grupo está estabelecido em **Longe** (cidade dos magos) após descobrir e interromper um **ritual apocalíptico** nas proximidades.
 
 ### 💰 **Recursos**
 - **40 platinas** garantidas por missão bem-sucedida
+- **Pedra de comunicação** dada por Letícia (com Kaelion)
 - **Pedra mágica** que fornece comida infinita
-- **Cavalo** e equipamentos completos
-- **Contratos formais** com Alberto
+- **Cavalo "Bartinho"** e equipamentos completos
+- **Hospedagem garantida** por 15 dias em Longe
 
-### 🎲 **Estado do Grupo**
-- **Tony**: Líder consolidado, bem-sucedido nas negociações
-- **Dustin**: Preparado e estrategicamente equipado
-- **Nightwolf**: Cooperativo, esperançoso com a cura
-- **Bartrock**: **POSSUÍDO** - elaborando planos misteriosos
-- **Kaelion**: Equipado com nova katana, reconciliado
-- **Borin**: Pragmático, com Trash funcional
+### 🎲 **Estado do Grupo Pós-Transformações**
+- **Tony**: Líder experiente, descobrindo verdades perturbadoras sobre sua fé nos dados
+- **Dustin**: **TRANSFORMADO** - renasceu espiritualmente mas perdeu memórias/identidade
+- **Nightwolf**: Progresso real no controle da licantropia (controlou transformação parcialmente)
+- **Bartrock**: **POSSESSÃO SEVERA** - manifestando criaturas demoníacas fisicamente
+- **Kaelion**: Guardião da pedra de comunicação, observador dos eventos
+- **Borin**: Pragmático diante das transformações do grupo
 
-### 🎯 **Objetivos Imediatos**
-1. **Viajar para Longe** - Cumprir missão dos círculos de teletransporte
-2. **Aplicar a cura** - Usar magia para curar licantropia de Nightwolf
-3. **Monitorar Bartrock** - Vigilância da ameaça interna possuída
-4. **Investigar círculos** - Descobrir importância real dos teletransportes
+### 🎯 **Situação Crítica Atual**
+1. **Ameaça Apocalíptica** - Profecia sobre "filho da aurora final" e fim dos tempos
+2. **Ritual Interrompido** - Consequências desconhecidas da interferência no ovo demoníaco
+3. **Transformação de Dustin** - Identidade perdida em troca de poder espiritual
+4. **Progressão de Bartrock** - Possessão atingindo manifestações físicas grotescas
+5. **Entidades Cercando** - Presenças desconhecidas detectaram interferência no ritual
 
 ---
 
 ## 🔮 **MISTÉRIOS PENDENTES**
 
+### 🔴 **CRÍTICOS (Pós-Sessão 18)**
+- **Quem são as entidades que cercaram o grupo no bosque?**
+- **O que significa a profecia sobre "filho da aurora final"?**
+- **Os "cinco pilares de carne" já foram todos oferecidos?**
+- **Que consequências virão da destruição do ovo demoníaco?**
+- **Dustin transformado é ainda o mesmo pessoa?**
+
+### 🟡 **IMPORTANTES**
 - **O que a entidade que possui Bartrock realmente quer?**
 - **A cura para licantropia funcionará mesmo?**
 - **Onde está Rita e ela retornará?**
@@ -253,11 +296,11 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🚀 **PREPARE-SE PARA A SESSÃO 18!**
+## 🔥 **APÓS A SESSÃO 18: TUDO MUDOU!**
 
-**Você está entrando em um momento crucial:** O grupo tem esperança renovada com a possível cura para Nightwolf, mas também carrega uma ameaça mortal interna com Bartrock possuído. A viagem para Longe promete ser épica, com 40 platinas em jogo, círculos de teletransporte misteriosos, e 20 hexágonos de aventura pela frente.
+**A Sessão 18 foi transformadora:** O grupo chegou à cidade mágica de Longe, Dustin passou por renascimento espiritual perdendo sua identidade, Nightwolf demonstrou controle real sobre licantropia, e descobriram um ritual apocalíptico que pode determinar o destino do mundo. Bartrock está manifestando criaturas demoníacas, entidades desconhecidas os cercaram no bosque, e a profecia sobre o "filho da aurora final" sugere que o fim dos tempos se aproxima.
 
-**Seja bem-vindo à campanha Borel - onde cada sessão pode mudar completamente o rumo da história!** 🎲✨
+**A campanha Borel alcançou horror cósmico - onde as próximas decisões podem salvar ou condenar mundos!** 🎲✨
 
 ---
 

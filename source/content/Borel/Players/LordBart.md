@@ -141,6 +141,18 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 - Argumentou ter vantagem devido à sua condição possuída
 - Mostrou sinais de que a entidade mantém alguns aspectos da personalidade original
 
+#### Sessão 18: Rumo ao Santuário dos Magos - MANIFESTAÇÕES DEMONÍACAS
+- **PARTE 1-3**: Viajou com grupo, impedido de entrar no Santuário por Gorloch devido à possessão
+- **PARTE 4**: Acompanhou descoberta da missão demoníaca, demonstrando interesse enigmático
+- **PARTE 5**: **ESCALADA GROTESCA** - Durante ritual apocalíptico, manifestou sinais físicos extremos
+- **BOCA ALARGADA**: Sua boca se expandiu grotescamente além de limites humanos
+- **VÔMITO DEMONÍACO**: **Expeliu criatura demoníaca** de dentro de seu corpo
+- **DETECT MAGIC**: Confirmou intensa emanação maligna do ovo ritual
+- **TENTATIVAS MÁGICAS**: Usou Mage Hand e Javelin tentando manipular ovo demoníaco
+- **DESTRUIÇÃO ATIVA**: Lançou Firebolt para ativar o cadáver que revelou profecia
+- **INTERESSE NA CARTA**: Mostrou curiosidade sobre correspondência demoníaca "para Evandro"
+- **POSSESSÃO AVANÇADA**: Entidade demonstra controle físico total sobre corpo hospedeiro
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático

@@ -1,12 +1,13 @@
 Analise esta transcrição de sessão de RPG e crie um resumo detalhado seguindo EXATAMENTE esta estrutura em markdown. Cada seção deve ter no máximo 1999 caracteres:
 
 No áudio da sessão, os participantes e seus respectivos personagens são:
-HUGONORTH_0 = Mestre
-RAPHAELVICARONE_0 = Dustin
-FS_SIMOES_0 = Tony
-GUSTAVONIKOV_0 = Kaelion
-NOBREAK0497_0 = Borin
-NIGHTWOLFBIELZOVSKY_0 = NightWolf
+HUGONORTH = Mestre
+RAPHAELVICARONE = Dustin
+FS_SIMOES = Tony
+GUSTAVONIKOV = Kaelion
+NOBREAK0497 = Borin
+NIGHTWOLFBIELZOVSKY = NightWolf
+MATHEUSBARTCOSTA = Bartrock
 
 
 # Título

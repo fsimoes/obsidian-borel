@@ -147,6 +147,17 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - Manteve esperança sobre possível cura através da magia descoberta por Bartrock
 - Permaneceu vigilante e observador apesar das circunstâncias difíceis
 
+#### Sessão 18: Rumo ao Santuário dos Magos - CONTROLE HISTÓRICO
+- **PARTE 1-2**: Viajou com grupo para Santuário dos Magos durante 7 dias
+- **MARCO HISTÓRICO**: **PRIMEIRO SUCESSO EM STEALTH EM 18 SESSÕES** durante emboscada no bosque
+- **PARTE 4**: Durante transformação lunar, **DEMONSTROU CONTROLE PARCIAL PELA PRIMEIRA VEZ**
+- **PROGRESSO REAL**: Arranhava paredes furiosamente em vez de atacar companheiros
+- **FRUSTRAÇÃO**: Gritou "Eu tô sob controle!" mas apenas ele ouviu claramente
+- Foi nocauteado pelo grupo quando estava **se controlando com sucesso**
+- **PARTE 5**: "Eu fiz isso na parede justamente pra não fazer em vocês, cara"
+- Demonstrou que estava **salvando os companheiros** ao direcionar sua raiva
+- Continuou cooperativo com protocolos de segurança apesar da frustração
+
 ## Equipamento Notável
 - Arco longo
 - Adaga fumegante
@@ -178,6 +189,8 @@ Nightwolf se destaca por sua abordagem furtiva e tática em combate. Combina hab
 - Uso estratégico de furtividade para escapar da Alva Cidadela
 - Habilidade de adaptar-se entre combate à distância e corpo a corpo
 - Participação no ritual do Templo de Chantaner
+- **PRIMEIRO SUCESSO EM STEALTH** após 18 sessões de tentativas
+- **CONTROLE PARCIAL DA LICANTROPIA** - marco significativo de progresso
 
 ## Desenvolvimento do Personagem
 Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas habilidades de rastreamento e combate à distância se refinaram significativamente, como demonstrado nas batalhas contra a maga e durante o cerco. Mantém sua natureza reservada, mas desenvolveu laços mais fortes com o grupo, especialmente após encontrar Jorge. Sua eficiência com Hunter's Mark e ataques furtivos demonstra um domínio crescente de suas habilidades.
@@ -206,16 +219,16 @@ Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas
 - **NOVO**: Origem de sua licantropia
 
 ## Objetivos Atuais
-- **PRIORIDADE**: Encontrar cura ou controle para sua licantropia
-- **CRÍTICO**: Evitar transformações descontroladas que ponham o grupo em risco
-- Aceitar as medidas de segurança (cordas durante as noites)
-- Investigar alternativas ao ritual religioso falhado
-- Proteger Jorge e Letícia durante a permanência em Rilonde
-- Desenvolver estratégias para lidar com sua dupla natureza
-- Fortalecer os laços com os companheiros apesar da condição
-- Investigar a origem de sua licantropia
-- Manter suas habilidades de ranger intactas
-- Preparar o grupo para possíveis transformações futuras
+- **PROGRESSO SIGNIFICATIVO**: Controle parcial demonstrado na Sessão 18
+- **FOCO ATUAL**: Desenvolver e aperfeiçoar controle consciente da forma lobisomem
+- **ESPERANÇA RENOVADA**: Aplicar cura descoberta por Bartrock
+- Comunicar melhor ao grupo seus progressos durante transformações
+- Expandir habilidades de Stealth (sucesso histórico alcançado)
+- Proteger grupo usando controle crescente da licantropia
+- Investigar limites e potencial de sua condição transformada
+- Equilibrar natureza dupla com responsabilidades do grupo
+- Manter moral alto apesar das frustrações de comunicação
+- Preparar estratégias para transformações futuras mais controladas
 
 ## Imagens
 ![[NightWolf_1.png]]

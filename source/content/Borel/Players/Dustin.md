@@ -132,6 +132,18 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - **PARTE 4**: **EXPERIMENTOU MÁSCARA** - Colocou artefato maligno, sofrendo danos psíquicos
 - Sentiu agulhas penetrando sua mente e visões de tempestade vermelha
 
+#### Sessão 18: Rumo ao Santuário dos Magos - TRANSFORMAÇÃO RADICAL
+- **PARTE 1**: Acompanhou grupo na viagem de 7 dias ao Santuário dos Magos
+- **PARTE 2**: **DECISÃO CORAJOSA** - Aceitou voluntariamente passar pelo "ritual da travessia"
+- **TESTES ESPIRITUAIS**: Enfrentou challenges de identidade, memória, medo e renascimento
+- **DANO PSÍQUICO**: Sofreu ataques mentais e exaustão durante o processo
+- **RENASCIMENTO ESPIRITUAL**: Escolheu conscientemente se transformar completamente
+- **TRANSFORMAÇÃO COMPLETA**: **PERDEU IDENTIDADE, MEMÓRIAS E CONEXÕES EMOCIONAIS**
+- **PARTE 3**: Emergiu como pessoa fundamentalmente diferente - não reconhece companheiros
+- **REVERÊNCIA**: Eco (sacerdote) o trata como entidade quase divina
+- **PARTE 4-5**: Mantém habilidades de combate mas perdeu vínculos emocionais com grupo
+- **COMPAIXÃO RESIDUAL**: Ainda demonstra bondade ao curar Nightwolf após transformação
+
 ## Equipamento Notável
 - Varinha mágica (nova)
 - Arco élfico (adquirido na Sessão 15)
@@ -179,18 +191,17 @@ Dustin evoluiu de um ladrão astuto para um líder estratégico. Sua recusa em s
 - "Cara, a gente tem que fazer um serviço bem feito, o mínimo que você pode fazer é confiar no que a gente vai fazer." - Para [[Alberto]], expressando a necessidade de confiança mútua
 - "Você pode apostar ele." - Sobre o guaxinim de Borin
 
-## Objetivos Atuais
-- **Sessão 17**: Organizou suprimentos e preparativos para viagem a Longe
-- Dominar o uso da nova varinha mágica e arco élfico
-- Aperfeiçoar as habilidades com a flauta mágica
-- Proteger o grupo durante a missão dos círculos de teletransporte
-- Desenvolver novas estratégias de combate mágico
-- Manter o equilíbrio entre lealdade e sobrevivência
-- Fortalecer os laços com os companheiros sobreviventes
-- Explorar os limites de suas novas habilidades mágicas
-- Preparar planos de contingência para a viagem
-- Descobrir mais sobre os poderes do anel mágico
-- Estabelecer contatos úteis em Longe
+## Objetivos Atuais (Pós-Transformação)
+- **IDENTIDADE PERDIDA**: Reconstruir senso de self sem memórias anteriores
+- **RECONECTAR**: Descobrir quem são estes "estranhos familiares" ao seu redor
+- **HABILIDADES INTACTAS**: Utilizar conhecimentos combativos que permaneceram
+- **COMPAIXÃO NATURAL**: Continuar ajudando outros seguindo instintos bondosos
+- **DESCOBRIR PROPÓSITO**: Encontrar razão de existir nesta nova forma
+- **ADAPTAR-SE**: Navegar mundo sem contexto emocional ou histórico
+- **REVERÊNCIA DIVINA**: Compreender por que Eco o trata como entidade sagrada
+- **PODER TRANSFORMADO**: Explorar capacidades espirituais adquiridas no ritual
+- **EQUILIBRIO**: Manter humanidade essencial apesar da transformação radical
+- **INTEGRAÇÃO**: Encontrar lugar no grupo como pessoa fundamentalmente nova
 
 ## Imagens
 ![[Dustin_1.png]]

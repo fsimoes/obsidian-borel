@@ -18,7 +18,16 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 17 - Entre Cordas e Confissões (RECENTE)
+### Sessão 18 - Rumo ao Santuário dos Magos (RECENTE)
+A campanha alcançou horror cósmico com transformações dramáticas:
+- **Dustin** passou pelo "ritual da travessia" e **perdeu completamente sua identidade**
+- **Nightwolf** demonstrou **controle parcial sobre a forma lobisomem** pela primeira vez
+- **Bartrock** manifestou **criaturas demoníacas** vomitando-as de sua boca alargada
+- **Descobrimento de ritual apocalíptico** com profecia sobre "filho da aurora final"
+- **Entidades desconhecidas cercaram** o grupo após interromperem o ritual maligno
+- **Letícia se despediu** em Longe, entregando pedra de comunicação para Kaelion
+
+### Sessão 17 - Entre Cordas e Confissões
 O grupo se organizou em Rilonde para próximos passos:
 - **Bartrock** revelou descoberta de magia para curar a licantropia de Nightwolf
 - **Tony** liderou negociações com Alberto, conseguindo trabalho para Longe (40 platinas)
@@ -126,6 +135,13 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 3. **Parte 3**: Compras, equipamentos e encontros com comerciantes
 4. **Parte 4**: Despedidas e preparativos finais para viagem
 
+### Sessão 18 - Rumo ao Santuário dos Magos
+1. **Parte 1**: Viagem para o Santuário dos Magos e encontro com Eco
+2. **Parte 2**: Dustin passa pelo ritual da travessia e perde identidade
+3. **Parte 3**: Transformação de Dustin e chegada em Longe
+4. **Parte 4**: Despedida de Letícia e descoberta de nova missão demoníaca
+5. **Parte 5**: Ritual apocalíptico, manifestações de Bartrock e cerco misterioso
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
@@ -151,33 +167,36 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ## Estado Atual da Campanha
 
 ### Localização
-O grupo está pronto para partir de **Rilonde** em direção a **Longe**, com todos os preparativos finalizados.
+O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garantida por 15 dias, após interromper um ritual apocalíptico.
 
-### Situação do Grupo
-- **Tony**: Líder consolidado, bem-sucedido nas negociações (40 platinas por missão)
-- **Dustin**: Preparado para viagem com suprimentos organizados
-- **Nightwolf**: Cooperativo com medidas de segurança, esperançoso com possível cura
-- **Bartrock**: **POSSUÍDO** - Controlado por entidade maligna, elaborando planos misteriosos
-- **Kaelion**: Equipado com nova katana, pronto para aventura
-- **Borin**: Pragmático, com Trash (guaxinim mecânico) funcional
+### Situação do Grupo (Pós-Sessão 18)
+- **Tony**: Líder experiente, perturbado por revelações sobre dados e sorte
+- **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, não reconhece companheiros
+- **Nightwolf**: Progresso real no controle da licantropia, primeiro sucesso em Stealth
+- **Bartrock**: **POSSESSÃO SEVERA** - Manifestando criaturas demoníacas fisicamente
+- **Kaelion**: Portador da pedra de comunicação dada por Letícia
+- **Borin**: Pragmático diante das transformações extremas do grupo
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
-- **Letícia**: Trabalhando como administradora para Alberto
+- **Letícia**: Seguiu caminho independente em Longe
 
 ### Recursos Disponíveis
-- **40 platinas**: Pagamento garantido por missão bem-sucedida em Longe
+- **40 platinas**: Pagamento por missão bem-sucedida
+- **Pedra de comunicação**: Contato com Letícia (com Kaelion)
 - **Pedra Mágica**: Fornece comida infinita para viagem
-- **Cavalo**: Transporte adquirido por Tony
-- **Equipamentos**: Katana nova (Kaelion), suprimentos completos
-- **Contratos**: Acordo formal com Alberto
+- **Cavalo "Bartinho"**: Transporte nomeado por Tony
+- **Hospedagem**: 15 dias garantidos em taverna de Longe
+- **Emmergard**: Aliada competente para apoio logístico
 
-### Ameaças Imediatas
-1. **Bartrock Possuído** - Ameaça interna crítica com máscara fundida ao rosto
-2. **Viagem Perigosa** - 20 hexágonos até Longe com possíveis emboscadas
-3. **Grupo Rival** - Outros aventureiros mencionados por Tony
-4. **Entidade Maligna** - Planos desconhecidos através de Bartrock
+### Ameaças Críticas (Pós-Sessão 18)
+1. **Apocalipse Iminente** - Profecia sobre "filho da aurora final" e fim dos tempos
+2. **Entidades Desconhecidas** - Cercaram grupo após ritual interrompido
+3. **Bartrock Demoníaco** - Manifestações físicas grotescas da possessão
+4. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+5. **Ritual Interrompido** - Consequências imprevisíveis da interferência
 
-### Próximos Passos Confirmados
-- **Partir para Longe** - Missão relacionada a círculos de teletransporte
-- **Aplicar cura** - Usar magia descoberta por Bartrock para curar Nightwolf
-- **Investigar círculos** - Descobrir verdadeira importância dos teletransportes
-- **Monitorar Bartrock** - Vigilância constante da ameaça interna 
+### Situação Urgente
+- **Investigar entidades** - Descobrir quem cercou o grupo no bosque
+- **Lidar com Dustin** - Adaptar-se ao companheiro transformado
+- **Monitorar Bartrock** - Possessão atingiu nível fisicamente perigoso
+- **Compreender profecia** - Decifrar ameaça do "filho da aurora final"
+- **Preparar defesas** - Antecipar retaliação por ritual interrompido 
