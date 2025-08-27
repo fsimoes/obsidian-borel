@@ -6,14 +6,13 @@
 
 **Prompt de Imagem:**
 ```
-A charismatic human fighter-paladin wielding a greatsword and javelin, wearing practical armor with a confident leadership stance. Strong build, protective expression, carrying magical items including an elven bracer and magical horseshoes. Medieval fantasy setting, warm lighting suggesting leadership and protection. Fantasy art style, detailed character portrait showing both martial prowess and moral conviction.
+A charismatic human fighter-paladin wielding a greatsword and javelin, wearing practical armor with a confident leadership stance. Strong build, protective expression, carrying magical items including magical horseshoes. Medieval fantasy setting, warm lighting suggesting leadership and protection. Fantasy art style, detailed character portrait showing both martial prowess and moral conviction.
 ```
 
 **Características Visuais Chave:**
 - Líder carismático
 - Greatsword e javelin
 - Armadura prática
-- Braçadeira élfica
 - Expressão protetora
 - Postura de liderança
 - Itens mágicos variados
@@ -26,17 +25,17 @@ A charismatic human fighter-paladin wielding a greatsword and javelin, wearing p
 
 **Prompt de Imagem:**
 ```
-A mysterious ranger with dual nature - human form with subtle lupine features, carrying a longbow and smoking dagger. Studded leather armor, magical boots, alert and predatory stance. Dark shadows suggesting inner conflict between human and wolf nature. Medieval fantasy setting with moonlight, showing both stealth expertise and supernatural curse. Fantasy art style, detailed character portrait emphasizing duality and watchfulness.
+A mysterious dark elf ranger with red eyes, carrying a longbow and smoking dagger. Studded leather armor, magical boots, alert and predatory stance. Dark shadows suggesting inner conflict between human and wolf nature. Medieval fantasy setting with moonlight, showing both stealth expertise and supernatural curse. Fantasy art style, detailed character portrait emphasizing duality and watchfulness.
 ```
 
 **Características Visuais Chave:**
 - Ranger misterioso
-- Características lupinas sutis
+- Dark elfo com olhos vermelhos
 - Arco longo e adaga fumegante
 - Armadura studded leather
 - Botas mágicas
 - Expressão vigilante
-- Dualidade humano/lobo
+- Dualidade humano/lobo (apenas quando transformado)
 - Sombras e luz lunar
 
 ---
@@ -183,6 +182,65 @@ A mechanical raccoon construct with intricate clockwork mechanisms, bronze and s
 
 ---
 
+## Orestan - Guerreiro Religioso Misterioso
+**Jogador:** LUISFELIPEPJVAZQUEZ  
+**Status:** Ativo - NOVO MEMBRO
+
+**Prompt de Imagem:**
+```
+A mysterious tattooed warrior with religious presence, Orestan, wielding a halberd with mystical symbols. Religious tattoos visible on his arms and body, wearing warrior gear with sacred elements. His expression shows both martial readiness and spiritual depth. Ancient mystical setting with sacred atmosphere emphasizing his connection to religious traditions. Fantasy art style, detailed character portrait showing both combat prowess and mystical nature.
+```
+
+**Características Visuais Chave:**
+- Guerreiro tatuado
+- Presença religiosa/mística
+- Alabarda como arma principal
+- Tatuagens com símbolos sagrados
+- Equipamento de guerreiro
+- Expressão de profundidade espiritual
+- Atmosfera mística e sagrada
+- Conhecimento sobre locais sagrados
+
+---
+
+## Instruções para Geração
+
+### Estilo Geral Recomendado:
+- **Fantasy Art Style**: Arte conceitual de fantasia medieval com elementos únicos
+- **Character Portrait**: Foco no personagem com detalhes de personalidade
+- **Medieval Fantasy Setting**: Ambientação medieval fantástica
+- **Dynamic Lighting**: Iluminação que reflita o estado emocional/moral do personagem
+
+### Elementos Únicos por Personagem:
+- **Tony**: Luz quente de liderança, itens mágicos variados
+- **Nightwolf**: Luz lunar, sombras de dualidade
+- **Bartrock**: Iluminação sinistra, corrupção visual
+- **Dustin**: Luz prática, equipamento tático
+- **Kaelion**: Luz dramática, símbolos revolucionários
+- **Borin**: Iluminação de oficina, elementos steampunk
+- **Trash**: Brilho mecânico, detalhes técnicos
+- **Orestan**: Luz mística, elementos sagrados
+
+### Aspectos Específicos dos Players:
+- **Evolução do Personagem**: Mostrar crescimento e mudanças
+- **Equipamentos Únicos**: Itens mágicos e troféus específicos
+- **Condições Especiais**: Licantropia, possessão, traição, mistério místico
+- **Relacionamentos**: Conexões visuais com companheiros (Borin+Trash)
+
+### Aspectos Técnicos:
+- Resolução: Alta qualidade para detalhes de equipamento
+- Composição: Retrato heroico ou meio corpo
+- Cor: Paletas que reflitam personalidade e estado atual
+- Detalhamento: Foco em armas, armaduras e itens mágicos distintivos
+
+### Variações Sugeridas:
+- **Versão de Combate**: Em ação durante batalha
+- **Versão de Retrato**: Pose formal ou contemplativa
+- **Versão de Grupo**: Interagindo com outros personagens
+- **Versão Evolutiva**: Mostrando transformações/mudanças
+
+---
+
 *Arquivo gerado para auxiliar na criação visual dos Players da campanha Borel*  
 *Baseado nas descrições detalhadas e evolução dos personagens*  
-*Inclui condições especiais como licantropia, possessão e traição*
+*Inclui condições especiais como licantropia, possessão, traição e mistério místico*

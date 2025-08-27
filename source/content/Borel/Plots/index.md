@@ -16,18 +16,32 @@
 - **Última Atualização**: Sessão 17
 - **Urgência**: CRÍTICA - Ameaça interna com agenda oculta
 
-### 🔮 **Viagem para Longe**
-- **Status**: ATIVO - Contratado (Sessão 17)
+### 🔮 **Viagem para Londe**
+- **Status**: ATIVO - Chegada Completa (Sessão 18)
 - **Tipo**: Plot Principal
-- **Resumo**: Grupo contratado por 40 platinas para missão dos círculos de teletransporte
-- **Última Atualização**: Sessão 17
-- **Urgência**: MÉDIA - Missão bem remunerada
+- **Resumo**: Grupo chegou a Londe e estabeleceu base na taverna "Cabeça de Golly"
+- **Última Atualização**: Sessão 18
+- **Urgência**: MÉDIA - Base estabelecida, missão em andamento
 
 ### 👨‍👦 **Proteção dos Refugiados**
 - **Status**: RESOLVIDO - Estabelecidos (Sessão 17)
 - **Tipo**: Plot Secundário
 - **Resumo**: Jorge no Templo de Megarde, Letícia trabalhando com Alberto
 - **Última Atualização**: Sessão 17
+
+### 🌟 **A Transformação de Dustin**
+- **Status**: ATIVO - Ritual Completo (Sessão 18)
+- **Tipo**: Plot Principal - Transformação
+- **Resumo**: Dustin passou pelo "ritual da travessia" e perdeu sua identidade
+- **Última Atualização**: Sessão 18
+- **Urgência**: ALTA - Consequências da transformação
+
+### 🎭 **O Ritual Apocalíptico**
+- **Status**: ATIVO - Interrompido (Sessão 18)
+- **Tipo**: Plot Principal - Ameaça Cósmica
+- **Resumo**: Grupo descobriu e interrompeu ritual demoníaco na floresta
+- **Última Atualização**: Sessão 18
+- **Urgência**: CRÍTICA - Entidades cercaram o grupo
 
 ## Plots Concluídos Recentemente
 
@@ -98,6 +112,22 @@ timeline
         Parte 1 : Fuga de Elriste : Revelação da Licantropia
         Parte 2 : Batalha contra Nightwolf : Transformação Descontrolada
         Parte 3 : Chegada em Rilonde : Rituais Fracassados
+```
+
+```mermaid
+timeline
+    title Sessão 17-18 - Jornada para Londe
+    section Sessão 17 - Preparativos
+        Preparativos : Negociação com Alberto : 40 Platinas
+        Organização : Jorge no Templo : Letícia com Alberto
+        Partida : Viagem para Londe : Missão dos Círculos
+    
+    section Sessão 18 - Transformações e Horror
+        Parte 1 : Viagem ao Santuário : Distribuição de Dinheiro
+        Parte 2 : Ritual da Travessia : Dustin Entra na Caverna
+        Parte 3 : Renascimento : Dustin Perde Identidade
+        Parte 4 : Chegada a Londe : NightWolf Controla Licantropia
+        Parte 5 : Floresta Demoníaca : Ritual Apocalíptico
         Parte 4 : Prisão de Rilonde : Possessão e Execução
 ```
 ```mermaid

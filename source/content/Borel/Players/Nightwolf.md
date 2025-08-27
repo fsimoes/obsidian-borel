@@ -20,7 +20,9 @@ Sua trajetória foi marcada por eventos misteriosos, incluindo o ataque de um lo
 
 Durante a revolução em Alva Cidadela, Nightwolf refinou suas habilidades de combate e estratégia. Seu papel foi crucial em momentos decisivos, como a batalha no navio contra o Axolotl Ancião e o cerco do castelo. A descoberta de Jorge entre os corpos dos nobres revelou seu lado mais humano, mesmo que mascarado por seu humor peculiar.
 
-Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwolf continua sendo os olhos e ouvidos do grupo durante sua fuga para Rio Londe. Sua evolução de um ranger desconfiado para um protetor leal, embora ainda mantendo seu senso de humor único, demonstra como as circunstâncias moldaram seu caráter.
+Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwolf continua sendo os olhos e ouvidos do grupo durante sua fuga para Londe. Sua evolução de um ranger desconfiado para um protetor leal, embora ainda mantendo seu senso de humor único, demonstra como as circunstâncias moldaram seu caráter.
+
+**CONTROLE LICANTRÓPICO (Sessão 18):** Nightwolf demonstrou progresso real no controle de sua transformação durante a sessão. Pela primeira vez em 18 sessões, conseguiu realizar um teste de Stealth com sucesso, e durante sua transformação em lobisomem, manteve controle parcial sobre suas ações, arranhando paredes em vez de atacar companheiros. Este é um avanço significativo na gestão de sua condição.
 
 ### Momentos Marcantes
 
@@ -99,6 +101,7 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - Zombou de Tony após sua visão mística com o dado
 - Ajudou na batalha contra o golem de ferro com táticas astutas
 
+
 #### Sessão 12: Explosões e Estratégias
 - Voluntariou-se para ficar de vigia durante o long rest
 - Participou da batalha contra os guardas de cristal
@@ -147,16 +150,14 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - Manteve esperança sobre possível cura através da magia descoberta por Bartrock
 - Permaneceu vigilante e observador apesar das circunstâncias difíceis
 
-#### Sessão 18: Rumo ao Santuário dos Magos - CONTROLE HISTÓRICO
-- **PARTE 1-2**: Viajou com grupo para Santuário dos Magos durante 7 dias
-- **MARCO HISTÓRICO**: **PRIMEIRO SUCESSO EM STEALTH EM 18 SESSÕES** durante emboscada no bosque
-- **PARTE 4**: Durante transformação lunar, **DEMONSTROU CONTROLE PARCIAL PELA PRIMEIRA VEZ**
-- **PROGRESSO REAL**: Arranhava paredes furiosamente em vez de atacar companheiros
-- **FRUSTRAÇÃO**: Gritou "Eu tô sob controle!" mas apenas ele ouviu claramente
-- Foi nocauteado pelo grupo quando estava **se controlando com sucesso**
-- **PARTE 5**: "Eu fiz isso na parede justamente pra não fazer em vocês, cara"
-- Demonstrou que estava **salvando os companheiros** ao direcionar sua raiva
-- Continuou cooperativo com protocolos de segurança apesar da frustração
+#### Sessão 18: Controle da Licantropia
+- **Parte 1**: Acompanhou viagem ao santuário em busca de cura para sua condição
+- **Parte 2**: Cuidou dos pertences de Dustin durante o ritual da travessia
+- **Parte 3**: Observou a transformação de Dustin com preocupação
+- **Parte 4**: **PRIMEIRA TRANSFORMAÇÃO CONTROLADA** - manteve consciência durante forma lobisomem
+- **Parte 5**: Participou da investigação na floresta demoníaca
+- **Resultado**: Progresso significativo no controle da licantropia
+
 
 ## Equipamento Notável
 - Arco longo

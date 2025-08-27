@@ -35,7 +35,7 @@ A revolta liderada por [[Rita]] contra a Alva Cidadela culminou em uma série de
 ## Itens Mágicos Importantes
 - Gema da Casa Portátil (pedra mágica)
 - Varinha mágica de Dustin
-- Arco élfico e braçadeira élfica
+- Arco élfico
 - Botas mágicas de velocidade
 - Baú mágico misterioso (desaparecido com Rita)
 

@@ -1,7 +1,7 @@
-# Longe - A Cidade dos Magos
+# Londe - A Cidade dos Magos
 
 ## Descrição Geral
-Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto da vida urbana. Conhecida como a cidade dos magos, é um centro de aprendizado arcano e inovação mágica que atrai estudiosos e aventureiros de todo o mundo.
+Londe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto da vida urbana. Conhecida como a cidade dos magos, é um centro de aprendizado arcano e inovação mágica que atrai estudiosos e aventureiros de todo o mundo.
 
 ## Geografia e Arquitetura
 - **Construções Flutuantes**: Edifícios que levitam suspensos no ar
@@ -19,7 +19,7 @@ Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto 
 
 ## Locais Importantes
 
-### Universidade de Longe
+### Universidade de Londe
 - **Centro acadêmico** da cidade
 - **Professores renomados** de diversas escolas mágicas
 - **Acomodações para ex-estudantes** como Letícia
@@ -38,7 +38,7 @@ Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto 
 - **Ambiente acolhedor** para aventureiros e visitantes
 - **Local de encontros casuais** como com "Hoje" (bêbado)
 
-### Bosque Próximo
+### Floresta Próxima
 - **Local do ritual apocalíptico** descoberto na Sessão 18
 - **Clareira profana** com cinco esqueletos em círculo
 - **Ameaça demoníaca** recentemente interrompida
@@ -67,22 +67,22 @@ Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto 
 - **Estabelecimento de base** com 15 dias garantidos de hospedagem
 
 ### Descoberta da Ameaça Demoníaca
-- **Encontro casual** com "Hoje" na taverna
-- **Carta misteriosa** sobre ritual para "Evandro"
-- **Missão voluntária** para investigar atividade cultista
-- **Descoberta de ritual apocalíptico** no bosque próximo
+- **Encontro casual** com Bartrok (mago bêbado) na taverna
+- **História trágica** sobre esposa que o traiu por cinco demônios
+- **Missão voluntária** para investigar atividade demoníaca na floresta
+- **Descoberta de ritual apocalíptico** na floresta próxima
 
 ### Consequências do Ritual Interrompido
-- **Profecia sobre "filho da aurora final"** revelada
-- **Cinco pilares de carne** já oferecidos ao ritual
+- **Profecia sobre "entidades malignas por vir"** revelada
+- **Cinco pilares de pedra** já oferecidos ao ritual
 - **Entidades desconhecidas** detectaram interferência
 - **Cerco misterioso** ao redor da clareira
 - **Silêncio sinistro** sugerindo retaliação iminente
 
 ## Ameaças Atuais
-1. **Atividade Cultista** - Rituais apocalípticos nas proximidades
+1. **Atividade Demoníaca** - Rituais apocalípticos nas proximidades
 2. **Entidades Hostis** - Presenças que cercaram grupo após interferência
-3. **Profecia Apocalíptica** - Ameaça cósmica do "filho da aurora final"
+3. **Profecia Apocalíptica** - Ameaça cósmica das "entidades malignas por vir"
 4. **Consequências Desconhecidas** - Retaliação por ritual interrompido
 5. **Infiltração Demoníaca** - Possível presença de cultistas na cidade
 
@@ -95,14 +95,14 @@ Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto 
 
 ## Mistérios Pendentes
 - **Verdadeira importância** dos círculos de teletransporte
-- **Identidade de "Evandro"** destinatário da carta demoníaca
-- **Extensão da infiltração cultista** na cidade
+- **História completa de Bartrok** e sua esposa traidora
+- **Extensão da infiltração demoníaca** na cidade
 - **Natureza das entidades** que cercaram o grupo
 - **Planos futuros** das forças apocalípticas
 - **Conexões** entre universidade e atividades sobrenaturais
 
 ## Estado Atual
-**Longe** permanece aparentemente tranquila em sua superfície mágica, mas as descobertas da Sessão 18 revelaram que até mesmo esta cidade arcana não está imune a ameaças cósmicas. O grupo estabeleceu base segura mas agora enfrenta consequências imprevisíveis de sua interferência no ritual apocalíptico. A cidade oferece recursos e segurança temporária, mas as forças sombrias que operam nos arredores podem transformar este refúgio em campo de batalha.
+**Londe** permanece aparentemente tranquila em sua superfície mágica, mas as descobertas da Sessão 18 revelaram que até mesmo esta cidade arcana não está imune a ameaças cósmicas. O grupo estabeleceu base segura mas agora enfrenta consequências imprevisíveis de sua interferência no ritual apocalíptico. A cidade oferece recursos e segurança temporária, mas as forças sombrias que operam nos arredores podem transformar este refúgio em campo de batalha.
 
 ## Recursos para Aventureiros
 - **Hospedagem estendida** disponível por platinas
@@ -114,5 +114,5 @@ Longe é uma cidade verdadeiramente mágica, onde a arcana permeia cada aspecto 
 ## Conexões com Outros Locais
 - **Rilonde** - 20 hexágonos de distância, origem da missão
 - **Santuário dos Magos** - 7 dias de viagem, local da transformação de Dustin
-- **Bosque Ritual** - Proximidade imediata, local da ameaça apocalíptica
+- **Floresta Ritual** - Proximidade imediata, local da ameaça apocalíptica
 - **Outros Círculos** - Destinos desconhecidos através de teletransporte

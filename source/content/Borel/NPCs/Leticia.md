@@ -54,20 +54,20 @@ Ex-serviçal da Baronesa na Alva Cidadela, Letícia foi resgatada pelo grupo dur
 - **Apresentação a Alberto**: Tony a recomendou formalmente como administradora competente
 - **Contratação**: Alberto aceitou a recomendação e a empregou
 - **Independência**: Conseguiu trabalho estável e segurança financeira
-- **Separação do Grupo**: Estabeleceu vida própria enquanto o grupo parte para Longe
+- **Separação do Grupo**: Estabeleceu vida própria enquanto o grupo parte para Londe
 
-### Sessão 18: Despedida em Longe
-- **Viagem para Longe**: Acompanhou grupo na jornada para cidade dos magos
-- **Conhecimento da Cidade**: Demonstrou familiaridade com Longe, tendo visitado antes
+### Sessão 18: Despedida em Londe
+- **Viagem para Londe**: Acompanhou grupo na jornada para cidade dos magos
+- **Conhecimento da Cidade**: Demonstrou familiaridade com Londe, tendo visitado antes
 - **Acomodação Universitária**: Revelou ter acesso à universidade através de antigos professores
 - **Indecisão sobre Futuro**: "Ainda estou pensando" sobre permanecer ou procurar outros caminhos
 - **PRESENTE SIGNIFICATIVO**: Entregou **pedra de comunicação** para Kaelion antes da despedida
 - **Instrução Importante**: "Você pode falar comigo" - estabeleceu canal de contato futuro
 - **Separação Madura**: Despedida respeitosa e emocional, seguindo caminho independente
-- **Guia Local**: Recomendou taverna para hospedagem do grupo em Longe
+- **Guia Local**: Recomendou taverna para hospedagem do grupo em Londe
 
 ## Estado Atual
-- **Localização**: Longe (cidade dos magos) - caminho independente
+- **Localização**: Londe (cidade dos magos) - caminho independente
 - **Condição**: Saudável e determinada a seguir vida própria
 - **Status**: Estabelecida com acesso à universidade e conexões acadêmicas
 - **Necessidades**: Explorando opções futuras de carreira e estudo

@@ -22,7 +22,9 @@ Sua trajetória foi marcada por momentos de intenso contraste: da nobreza à bes
 
 Durante a revolução em Alva Cidadela, Bartrock demonstrou um equilíbrio crescente entre seus poderes e seu julgamento moral. Sua preocupação com a brutalidade dos rebeldes e seu uso calculado de magias de controle revelaram uma evolução significativa em seu caráter. A descoberta de novas habilidades de manipulação mágica marcou mais um capítulo em sua transformação contínua.
 
-Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua natureza nobre com seus impulsos bestiais, sua magia refinada com seu caos interno. Sua evolução de um nobre impulsivo para um mago estratégico e controlado, sem perder completamente sua essência caótica, demonstra como mesmo as transformações mais dramáticas podem levar a um crescimento positivo.
+Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza nobre com seus impulsos bestiais, sua magia refinada com seu caos interno. Sua evolução de um nobre impulsivo para um mago estratégico e controlado, sem perder completamente sua essência caótica, demonstra como mesmo as transformações mais dramáticas podem levar a um crescimento positivo.
+
+**MANIFESTAÇÕES DEMONÍACAS (Sessão 18):** Bartrock revelou capacidades demoníacas alarmantes durante a investigação na floresta. Usou detect magic para analisar o local ritual, mas quando Orestan tentou cortar o ovo pulsante, Bartrock vomitou uma criatura demoníaca que saiu do chão. Esta manifestação física da possessão demonstra que a entidade maligna está ganhando controle cada vez maior sobre seu corpo.
 
 ### Momentos Marcantes
 
@@ -98,6 +100,7 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 #### Sessão 12: Explosões e Estratégias
 - Participou da batalha após a explosão da muralha
 - Lutou contra os guardas de cristal
+
 - Ajudou a conquistar dois pontos estratégicos na cidadela
 - Demonstrou maior controle sobre seus impulsos bestiais
 - Contribuiu para o sucesso da invasão com suas magias
@@ -152,6 +155,15 @@ Agora, em meio à fuga para Rio Londe, Bartrock continua a equilibrar sua nature
 - **DESTRUIÇÃO ATIVA**: Lançou Firebolt para ativar o cadáver que revelou profecia
 - **INTERESSE NA CARTA**: Mostrou curiosidade sobre correspondência demoníaca "para Evandro"
 - **POSSESSÃO AVANÇADA**: Entidade demonstra controle físico total sobre corpo hospedeiro
+
+
+#### Sessão 18: Manifestações Demoníacas
+- **Parte 1**: Participou da viagem ao santuário e distribuição de dinheiro
+- **Parte 2**: Considerou invocar Scarla para ajudar Dustin, mas foi impedido pelo sacerdote
+- **Parte 3**: Observou a transformação de Dustin, notando presença mágica estranha
+- **Parte 4**: Participou do combate contra NightWolf transformado em lobisomem
+- **Parte 5**: **VOMITOU CRIATURA DEMONÍACA** - manifestação física da possessão
+- **Resultado**: A possessão demoníaca está progredindo para manifestações físicas
 
 ## Transformação
 ### Como Lorde Bart (Original)

@@ -18,7 +18,9 @@ Sua história em Elriste foi marcada por momentos cruciais: o salvamento heroico
 
 Durante a revolução em Alva Cidadela, Tony demonstrou sua evolução moral ao questionar as execuções de prisioneiros élficos e confrontar Rita sobre suas ações brutais. Sua liderança foi fundamental durante momentos críticos, como o roubo da pólvora e a captura do castelo. O encontro com Jorge, um jovem sobrevivente, solidificou sua transformação em um protetor dedicado, usando a pedra mágica para garantir a segurança do menino.
 
-Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o grupo em sua fuga para Rio Londe, equilibrando suas responsabilidades como protetor com a necessidade de manter o grupo unido em meio ao caos. Sua história é um testemunho de como as circunstâncias podem transformar um aventureiro impulsivo em um líder consciente e protetor.
+Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o grupo em sua fuga para Londe, equilibrando suas responsabilidades como protetor com a necessidade de manter o grupo unido em meio ao caos. Sua história é um testemunho de como as circunstâncias podem transformar um aventureiro impulsivo em um líder consciente e protetor.
+
+**LIDERANÇA FINANCEIRA (Sessão 18):** Tony demonstrou excelente capacidade de organização ao distribuir 420 moedas de ouro para cada membro do grupo, obtidas da negociação com Converto. Sua liderança diplomática foi fundamental durante a jornada ao santuário e na chegada a Londe, onde recrutou Orestan para o grupo.
 
 ### Momentos Marcantes
 
@@ -121,7 +123,7 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 #### Sessão 15: Sombras e Fugas
 - Usou a pedra mágica para proteger Jorge, um menino sobrevivente
 - Tentou distrair Jorge com jogos como "dado" e "roleta"
-- Encontrou uma braçadeira élfica e quatro ferraduras mágicas
+- Encontrou quatro ferraduras mágicas
 - Coletou javelin e escudo de Ivan como troféus
 - Liderou o planejamento da fuga para Rio Londe após o desaparecimento de Rita
 
@@ -145,11 +147,20 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - Demonstrou confiança fumando charuto imaginário durante reunião com Alberto
 - **PARTE 4**: Considerou desafio de apostas de Bartrock, mantendo cautela responsável
 
+
+#### Sessão 18: Liderança no Santuário e Londe
+- **Parte 1**: Organizou distribuição de 420 moedas de ouro para cada membro, nomeou cavalo "Cenouro"
+- **Parte 2**: Fez contato diplomático com Orestan, investigando sobre pessoas desaparecidas
+- **Parte 3**: Convidou Orestan para se juntar ao grupo permanentemente
+- **Parte 4**: Liderou gestão da crise do lobisomem e chegada a Londe
+- **Parte 5**: Demonstrou proteção moral ao impedir saque do corpo morto na floresta
+- **Resultado**: Consolidação como líder organizacional e diplomático do grupo
+
 ## Equipamento Notável
 - Javelina
 - Greatsword
 - Escudo (comprado por 10 moedas de ouro)
-- Braçadeira élfica (adquirida na Sessão 15)
+
 - Ferraduras mágicas (4)
 - Javelin e escudo ornado (de Ivan)
 - Pedra mágica (item de proteção)
@@ -209,7 +220,7 @@ Tony evoluiu de um líder impulsivo para uma figura mais equilibrada, demonstran
 
 ## Objetivos Atuais
 - Garantir a segurança de Jorge durante a viagem para Rio Londe
-- Explorar os poderes da braçadeira élfica e ferraduras mágicas
+- Explorar os poderes das ferraduras mágicas
 - Manter o grupo unido durante a fuga da Alva Cidadela
 - Equilibrar seu apoio à revolução com seus princípios morais
 - Descobrir o destino de Rita após seu desaparecimento

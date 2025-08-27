@@ -2,7 +2,7 @@
 
 ## Perfil
 - **Jogador**: RAPHAELVICARONE
-- **Classe**: Ranger/Ladino
+- **Classe**: Ranger/Ladino (TRANSFORMADO)
 - **Habilidades Notáveis**: 
   - Proficiente com espada curta e arco
   - Thaumaturgy
@@ -10,6 +10,7 @@
   - AC 17 (demonstrado na sessão 2)
   - Habilidades de investigação e percepção
   - Furtividade e escalada
+  - **NOVA**: Poderes espirituais após ritual da travessia
 
 ## História
 Dustin começou sua jornada como um ranger habilidoso, demonstrando desde cedo sua versatilidade em combate e sua capacidade de pensar estrategicamente. Sua primeira aparição marcante foi durante os eventos na cabana, onde ajudou a carregar Lorde Bart para um local seguro após uma confusão na taverna. Ao longo do tempo, evoluiu de um aventureiro com um passado sombrio para um líder respeitado do grupo.
@@ -18,7 +19,9 @@ Sua trajetória foi marcada por momentos de redenção e crescimento. Inicialmen
 
 Durante a revolução em Alva Cidadela, Dustin emergiu como uma voz forte de resistência, liderando a rejeição à rendição e protegendo Rita em momentos críticos. Sua aquisição de itens mágicos poderosos - a flauta de invocação aquática, a varinha mágica e o arco élfico - reflete seu crescimento em poder e responsabilidade.
 
-Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Londe, Dustin equilibra suas habilidades de combate aprimoradas com sua astúcia natural. Sua evolução de um ladrão desconfiado para um líder respeitado, mantendo seu característico senso de humor mesmo em situações tensas, demonstra a profundidade de seu desenvolvimento como personagem.
+Agora, como um dos principais estrategistas do grupo durante a fuga para Londe, Dustin equilibra suas habilidades de combate aprimoradas com sua astúcia natural. Sua evolução de um ladrão desconfiado para um líder respeitado, mantendo seu característico senso de humor mesmo em situações tensas, demonstra a profundidade de seu desenvolvimento como personagem.
+
+**TRANSFORMAÇÃO DRAMÁTICA (Sessão 18):** Dustin passou pelo "ritual da travessia" no Santuário dos Magos, emergindo como uma pessoa fundamentalmente diferente. Perdeu grande parte de suas memórias detalhadas e conexões emocionais, mas ganhou poderes espirituais e uma nova perspectiva de vida. O grupo o reconhece como o mesmo Dustin, mas algo fundamental mudou - ele agora é um estranho familiar.
 
 ### Momentos Marcantes
 
@@ -98,6 +101,7 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - Participou da batalha após a explosão da muralha
 - Ajudou a conquistar dois pontos estratégicos na cidadela
 - Lutou contra os guardas de cristal
+
 - Salvou Borin duas vezes durante o combate
 - Demonstrou crescimento em suas habilidades de combate
 
@@ -132,17 +136,13 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Rio Lon
 - **PARTE 4**: **EXPERIMENTOU MÁSCARA** - Colocou artefato maligno, sofrendo danos psíquicos
 - Sentiu agulhas penetrando sua mente e visões de tempestade vermelha
 
-#### Sessão 18: Rumo ao Santuário dos Magos - TRANSFORMAÇÃO RADICAL
-- **PARTE 1**: Acompanhou grupo na viagem de 7 dias ao Santuário dos Magos
-- **PARTE 2**: **DECISÃO CORAJOSA** - Aceitou voluntariamente passar pelo "ritual da travessia"
-- **TESTES ESPIRITUAIS**: Enfrentou challenges de identidade, memória, medo e renascimento
-- **DANO PSÍQUICO**: Sofreu ataques mentais e exaustão durante o processo
-- **RENASCIMENTO ESPIRITUAL**: Escolheu conscientemente se transformar completamente
-- **TRANSFORMAÇÃO COMPLETA**: **PERDEU IDENTIDADE, MEMÓRIAS E CONEXÕES EMOCIONAIS**
-- **PARTE 3**: Emergiu como pessoa fundamentalmente diferente - não reconhece companheiros
-- **REVERÊNCIA**: Eco (sacerdote) o trata como entidade quase divina
-- **PARTE 4-5**: Mantém habilidades de combate mas perdeu vínculos emocionais com grupo
-- **COMPAIXÃO RESIDUAL**: Ainda demonstra bondade ao curar Nightwolf após transformação
+#### Sessão 18: O Ritual da Travessia (TRANSFORMAÇÃO)
+- **Parte 1**: Participou da viagem ao santuário e distribuição de 420 moedas de ouro
+- **Parte 2**: Decidiu enfrentar o ritual da travessia sozinha, entrando na caverna orgânica
+- **Parte 3**: Completou o ritual, renunciando ao nome "Kaelion" e aceitando o renascimento
+- **Parte 4**: Participou do combate contra NightWolf transformado em lobisomem
+- **Parte 5**: Acompanhou investigação na floresta demoníaca, observando eventos
+- **Resultado**: Transformação fundamental - perdeu memórias mas ganhou poderes espirituais
 
 ## Equipamento Notável
 - Varinha mágica (nova)

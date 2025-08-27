@@ -103,17 +103,17 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 - Arranhava paredes em vez de atacar companheiros
 - Frustrado por ser nocauteado quando estava se controlando
 
-### Chegada a Longe e Nova Ameaça
+### Chegada a Londe e Nova Ameaça
 #### **Cidade dos Magos**
-- **Longe** revelou-se verdadeiramente mágica - construções flutuantes, pessoas levitando
+- **Londe** revelou-se verdadeiramente mágica - construções flutuantes, pessoas levitando
 - **Letícia se despediu** entregando pedra de comunicação para Kaelion
-- Encontro casual com **"Hoje"** (bêbado) revelou ameaça apocalíptica
+- Encontro casual com **Bartrok** (mago bêbado) revelou ameaça demoníaca
 
 #### **Ritual Apocalíptico Descoberto**
-- **Carta misteriosa** levou grupo a bosque próximo de Longe
+- **Instruções de Bartrok** levaram grupo a floresta próxima de Londe
 - Encontraram **cinco esqueletos em círculo** ao redor de **ovo pulsante** maligno
-- **Bartrock manifestou criatura demoníaca** vomitando-a de sua boca alargada
-- **Cadáver de cultista** revelou profecia sobre **"filho da aurora final"**
+- **Bartrok manifestou criatura demoníaca** vomitando-a de sua boca alargada
+- **Corpo de cultista** revelou profecia sobre **"entidades malignas por vir"**
 - **Ritual interrompido** mas **entidades cercaram** o grupo no final
 
 ---
@@ -175,7 +175,7 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 - Palco da resistência liderada por Rita
 - Grupo fugiu após Rita desaparecer
 
-### ✨ **Longe** *(Próximo Destino)*
+### ✨ **Londe** *(Próximo Destino)*
 - Cidade da magia com universidade arcana
 - Possui **círculos de teletransporte** misteriosos
 - Destino da missão de 40 platinas
@@ -240,25 +240,25 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 ## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 18)**
 
 ### 📍 **Localização**
-O grupo está estabelecido em **Longe** (cidade dos magos) após descobrir e interromper um **ritual apocalíptico** nas proximidades.
+O grupo está estabelecido em **Londe** (cidade dos magos) após descobrir e interromper um **ritual apocalíptico** nas proximidades.
 
 ### 💰 **Recursos**
-- **40 platinas** garantidas por missão bem-sucedida
-- **Pedra de comunicação** dada por Letícia (com Kaelion)
-- **Pedra mágica** que fornece comida infinita
-- **Cavalo "Bartinho"** e equipamentos completos
-- **Hospedagem garantida** por 15 dias em Longe
+- **420 moedas de ouro** para cada membro (da negociação com Converto)
+- **Cavalo "Cenouro"** com ferraduras mágicas (Tony)
+- **Pedra mágica portátil** que fornece refúgio dimensional
+- **Hospedagem na taverna "Cabeça de Golly"** em Londe
 
 ### 🎲 **Estado do Grupo Pós-Transformações**
-- **Tony**: Líder experiente, descobrindo verdades perturbadoras sobre sua fé nos dados
+- **Tony**: Líder experiente, organizador financeiro e diplomático do grupo
 - **Dustin**: **TRANSFORMADO** - renasceu espiritualmente mas perdeu memórias/identidade
 - **Nightwolf**: Progresso real no controle da licantropia (controlou transformação parcialmente)
 - **Bartrock**: **POSSESSÃO SEVERA** - manifestando criaturas demoníacas fisicamente
-- **Kaelion**: Guardião da pedra de comunicação, observador dos eventos
+- **Kaelion**: Voz da consciência e cautela do grupo
 - **Borin**: Pragmático diante das transformações do grupo
+- **Orestan**: Novo membro recrutado durante a jornada ao santuário
 
 ### 🎯 **Situação Crítica Atual**
-1. **Ameaça Apocalíptica** - Profecia sobre "filho da aurora final" e fim dos tempos
+1. **Ameaça Apocalíptica** - Profecia sobre "entidades malignas por vir" e fim dos tempos
 2. **Ritual Interrompido** - Consequências desconhecidas da interferência no ovo demoníaco
 3. **Transformação de Dustin** - Identidade perdida em troca de poder espiritual
 4. **Progressão de Bartrock** - Possessão atingindo manifestações físicas grotescas
@@ -269,9 +269,9 @@ O grupo está estabelecido em **Longe** (cidade dos magos) após descobrir e int
 ## 🔮 **MISTÉRIOS PENDENTES**
 
 ### 🔴 **CRÍTICOS (Pós-Sessão 18)**
-- **Quem são as entidades que cercaram o grupo no bosque?**
-- **O que significa a profecia sobre "filho da aurora final"?**
-- **Os "cinco pilares de carne" já foram todos oferecidos?**
+- **Quem são as entidades que cercaram o grupo na floresta?**
+- **O que significa a profecia sobre "entidades malignas por vir"?**
+- **Os "cinco pilares de pedra" já foram todos oferecidos?**
 - **Que consequências virão da destruição do ovo demoníaco?**
 - **Dustin transformado é ainda o mesmo pessoa?**
 
@@ -298,7 +298,7 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ## 🔥 **APÓS A SESSÃO 18: TUDO MUDOU!**
 
-**A Sessão 18 foi transformadora:** O grupo chegou à cidade mágica de Longe, Dustin passou por renascimento espiritual perdendo sua identidade, Nightwolf demonstrou controle real sobre licantropia, e descobriram um ritual apocalíptico que pode determinar o destino do mundo. Bartrock está manifestando criaturas demoníacas, entidades desconhecidas os cercaram no bosque, e a profecia sobre o "filho da aurora final" sugere que o fim dos tempos se aproxima.
+**A Sessão 18 foi transformadora:** O grupo chegou à cidade mágica de Londe, Dustin passou por renascimento espiritual perdendo sua identidade, Nightwolf demonstrou controle real sobre licantropia, e descobriram um ritual apocalíptico que pode determinar o destino do mundo. Bartrock está manifestando criaturas demoníacas, entidades desconhecidas os cercaram na floresta, e a profecia sobre as "entidades malignas por vir" sugere que o fim dos tempos se aproxima.
 
 **A campanha Borel alcançou horror cósmico - onde as próximas decisões podem salvar ou condenar mundos!** 🎲✨
 

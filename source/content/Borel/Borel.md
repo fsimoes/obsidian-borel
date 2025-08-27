@@ -14,6 +14,7 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 - [[NPCs/|NPCs]]
 - [[Plots/index|Tramas]]
 - [[Sessoes/|Notas das Sessões]]
+- [[Cenas/index|🎭 Cenas Memoráveis]]
 
 
 ## Atualizações Recentes
@@ -23,9 +24,9 @@ A campanha alcançou horror cósmico com transformações dramáticas:
 - **Dustin** passou pelo "ritual da travessia" e **perdeu completamente sua identidade**
 - **Nightwolf** demonstrou **controle parcial sobre a forma lobisomem** pela primeira vez
 - **Bartrock** manifestou **criaturas demoníacas** vomitando-as de sua boca alargada
-- **Descobrimento de ritual apocalíptico** com profecia sobre "filho da aurora final"
+- **Descobrimento de ritual apocalíptico** com profecia sobre "entidades malignas por vir"
 - **Entidades desconhecidas cercaram** o grupo após interromperem o ritual maligno
-- **Letícia se despediu** em Longe, entregando pedra de comunicação para Kaelion
+- **Letícia se despediu** em Londe, entregando pedra de comunicação para Kaelion
 
 ### Sessão 17 - Entre Cordas e Confissões
 O grupo se organizou em Rilonde para próximos passos:
@@ -51,7 +52,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ### Principais
 - **A Maldição de Nightwolf** - Licantropia descoberta, possível cura revelada por Bartrock
 - **A Possessão de Bartrock** - Entidade maligna controlando o mago através de máscara fundida
-- **Viagem para Longe** - Missão contratada por Alberto (40 platinas) relacionada a círculos de teletransporte
+- **Viagem para Londe** - Missão contratada por Alberto (40 platinas) relacionada a círculos de teletransporte
 - **Proteção dos Refugiados** - Jorge no Templo de Megarde, Letícia trabalhando com Alberto
 - **Consequências da Revolução** - Repercussões da queda da Alva Cidadela
 
@@ -78,9 +79,10 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - [[Borin]] - Anão inventor
 - [[LordBart]] - Mago elfo (**POSSUÍDO** por entidade maligna via máscara)
 - [[Kaelion]] - Membro do grupo
-- [[Dustin]] - Ranger/Clérigo
+- [[Dustin]] - Ranger/Clérigo (**TRANSFORMADO** após ritual da travessia)
 - [[Nightwolf]] - **LOBISOMEM** (condição recém-descoberta)
 - [[Tony]] - Líder do grupo e negociador
+- [[Orestan]] - **NOVO MEMBRO** - Guerreiro religioso recrutado no santuário
 
 ## Locais
 
@@ -88,7 +90,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - [[Alva Cidadela]] - Cidade-fortaleza conquistada por Rita
 - [[Elriste]] - Cidade dividida pela desigualdade (grupo fugiu após revolução)
 - [[Rilonde]] - Centro comercial e ponto de origem (local atual do grupo)
-- **Longe** - Cidade da magia com universidade e círculos de teletransporte
+- **Londe** - Cidade da magia com universidade e círculos de teletransporte
 
 ### Pontos de Interesse
 - [[Armazem_568|Armazém 568]] - Antigo laboratório secreto em Rilonde

@@ -1,731 +1,755 @@
-BLOCO 1 - [0:00:00 - 0:29:57]
+BLOCO 1 - [0:00:00 - 0:29:59]
 ================================================================================
 
-[0:00:00] - 1-BOREL_SOUND_8775 - Amém.
-[0:00:00] - 2-MATHEUSBARTCOSTA - eu não pensei
-[0:00:00] - 3-HUGONORTH - É, aquele já pega já com...
+[0:00:00] - 2-MATHEUSBARTCOSTA - no PC
+[0:00:00] - 3-HUGONORTH - É, que ele já pega já com...
 [0:00:00] - 4-FS_SIMOES - Não, não, já começa já, já começa já.
-[0:00:00] - 6-NIGHTWOLFBIELZOVSKY - Ah, cara.
+[0:00:00] - 6-NIGHTWOLFBIELZOVSKY - Ah, cara...
 [0:00:00] - 8-LUISFELIPEPJVAZQUEZ - Legenda Adriana Zanotto
-[0:00:02] - 4-FS_SIMOES - Lá vai.
-[0:00:05] - 3-HUGONORTH - Enfim, a última sessão o Nightwolf acorda mais uma vez amarrado e bisuntado de olho, né?
-[0:00:14] - 3-HUGONORTH - Vocês descem na taverna e vocês reparam que a Thais Carla está na frente do quarto do Bartrock.
+[0:00:00] - 9-GUSTAVONIKOV - Legenda Adriana Zanotto
+[0:00:02] - 4-FS_SIMOES - Só vai.
+[0:00:05] - 3-HUGONORTH - Enfim, a última sessão, o Nightwolf acorda mais uma vez amarrado e besuntado de óleo, né?
+[0:00:14] - 3-HUGONORTH - Vocês descem na taverna e vocês reparam que a Thais Carla tá na frente do quarto do Bartroc.
 [0:00:23] - 3-HUGONORTH - É, vocês...
-[0:00:27] - 3-HUGONORTH - Depois de conversar um pouco lá embaixo, vocês resolvem tentar conversar com o Bartrock, né?
+[0:00:27] - 3-HUGONORTH - Depois de conversar um pouco lá embaixo, vocês resolvem tentar conversar com o Bartroc, né?
+[0:00:30] - 7-RAPHAELVICARONE - Legenda Adriana Zanotto
 [0:00:30] - 3-HUGONORTH - Vocês, depois de algumas tentativas de passar pela Thais Carla, que claramente não queria que vocês passassem,
 [0:00:37] - 3-HUGONORTH - vocês arremessam a Peppa Pig na Thais Carla, que explode na parede, né?
-[0:00:43] - 3-HUGONORTH - Logo depois, a Thais Carla começa a comer a Peppa Pig e ela desaparece e o Bartrock sai pela porta.
+[0:00:43] - 3-HUGONORTH - Logo depois, a Thais Carla começa a comer a Peppa Pig e ela desaparece.
+[0:00:49] - 3-HUGONORTH - E o Bartroc sai pela porta.
 [0:00:53] - 3-HUGONORTH - É...
-[0:00:55] - 3-HUGONORTH - Vocês conversam, né? O Bartrock revela pra vocês que tem uma forma de cu.
-[0:00:59] - 2-MATHEUSBARTCOSTA - eu não desculpa
-[0:01:03] - 2-MATHEUSBARTCOSTA - é só para tu lembrar
-[0:01:05] - 2-MATHEUSBARTCOSTA - um staff mais três
-[0:01:07] - 2-MATHEUSBARTCOSTA - caralho
-[0:01:08] - 3-HUGONORTH - Ah, sim. Fiar dentro do teu cu, né?
-[0:01:10] - 3-HUGONORTH - É...
-[0:01:11] - 7-RAPHAELVICARONE - Ele tentou né cara, ele tentou, vai lá
-[0:01:14] - 4-FS_SIMOES - Martins, você realmente atrapalhou a intro para essa piada, cara?
-[0:01:14] - 2-MATHEUSBARTCOSTA - precisa disso
-[0:01:22] - 7-RAPHAELVICARONE - Obrigado.
-[0:01:22] - 2-MATHEUSBARTCOSTA - tentei
-[0:01:23] - 3-HUGONORTH - Beleza. Aí o Bartrock revelou, né? Que...
-[0:01:25] - 4-FS_SIMOES - Lá vai.
-[0:01:34] - 3-HUGONORTH - É...
-[0:01:40] - 3-HUGONORTH - Depois disso, o Tony levou o Jorge lá pra...
+[0:00:55] - 3-HUGONORTH - Vocês conversam, né? O Bartroc revela pra vocês que tem uma forma de...
+[0:01:00] - 4-FS_SIMOES - Martins, você realmente atrapalhou a intro pra uma sapiada, cara?
+[0:01:00] - 6-NIGHTWOLFBIELZOVSKY - Caralho, né?
+[0:01:00] - 2-MATHEUSBARTCOSTA - Não, desculpa
+[0:01:03] - 2-MATHEUSBARTCOSTA - É só pra tu lembrar que eu ganhei
+[0:01:05] - 2-MATHEUSBARTCOSTA - Um Steph mais 3 mágico
+[0:01:08] - 2-MATHEUSBARTCOSTA - Cara, precisa disso
+[0:01:08] - 3-HUGONORTH - Ah, sim.
+[0:01:14] - 5-NOBREAK0497 - Caralho, mano.
+[0:01:15] - 2-MATHEUSBARTCOSTA - Tentei, mano
+[0:01:19] - 4-FS_SIMOES - Pô.
+[0:01:20] - 3-HUGONORTH - É...
+[0:01:22] - 5-NOBREAK0497 - Mas eu achei que pela resposta
+[0:01:23] - 3-HUGONORTH - Beleza, aí o Bartroc revelou, né, que tinha achado uma forma de curar o Nightwolf.
+[0:01:24] - 5-NOBREAK0497 - É...
+[0:01:25] - 4-FS_SIMOES - É, justo.
+[0:01:29] - 5-NOBREAK0497 - Entretenimento.
+[0:01:30] - 4-FS_SIMOES - E né, na 13, daí você bota outra nele, e ele faz isso, e usa essa rotulena, nossa.
+[0:01:39] - 3-HUGONORTH - É...
+[0:01:41] - 4-FS_SIMOES - Ichi a g дисothermatizado.
 [0:01:45] - 3-HUGONORTH - Pro templo.
-[0:01:49] - 3-HUGONORTH - Pra lá pro seu Alberto.
-[0:01:53] - 3-HUGONORTH - Interessante de informações.
+[0:01:46] - 4-FS_SIMOES - A Matr awake?
+[0:01:48] - 4-FS_SIMOES - Tarou pra um lugar.
+[0:01:52] - 4-FS_SIMOES - A Alá-
+[0:01:52] - 3-HUGONORTH - Interessante.
+[0:01:55] - 4-FS_SIMOES - Uns vídeos do Capitão.
 [0:01:57] - 3-HUGONORTH - E...
+[0:02:00] - 4-FS_SIMOES - Tchau.
 [0:02:03] - 3-HUGONORTH - Mágicos.
-[0:02:08] - 3-HUGONORTH - Teve uma grande oportunidade, mas...
-[0:02:10] - 3-HUGONORTH - É...
-[0:02:13] - 3-HUGONORTH - Né?
-[0:02:20] - 3-HUGONORTH - Ahm...
-[0:02:24] - 3-HUGONORTH - Onde vocês falaram que vocês iam passar pelo...
-[0:02:26] - 3-HUGONORTH - Santuário.
-[0:02:32] - 3-HUGONORTH - E...
-[0:02:36] - 3-HUGONORTH - Ahm...
-[0:02:38] - 3-HUGONORTH - O seu...
+[0:02:06] - 3-HUGONORTH - O Kellyanne não achou muita coisa, o Bartroc teve uma grande oportunidade, mas...
+[0:02:12] - 3-HUGONORTH - É...
+[0:02:14] - 3-HUGONORTH - Tentou atacar o vendedor e o vendedor conseguiu fugir.
+[0:02:21] - 3-HUGONORTH - Ahm...
+[0:02:23] - 3-HUGONORTH - A viagem, onde vocês falaram que iam passar pelo santuário.
+[0:02:27] - 3-HUGONORTH - E...
+[0:02:29] - 5-NOBREAK0497 - Re fresco.
+[0:02:30] - 4-FS_SIMOES - Sim.
+[0:02:32] - 3-HUGONORTH - E é isso, a gente parou aí.
+[0:02:34] - 3-HUGONORTH - Ahn...
+[0:02:36] - 3-HUGONORTH - Tony, antes de a gente começar, o seu cavalo...
 [0:02:40] - 3-HUGONORTH - Ele foi vendido pra você como um cavalo sem raça.
-[0:02:46] - 3-HUGONORTH - Mestiço.
+[0:02:45] - 3-HUGONORTH - Tá, mestiço.
+[0:02:46] - 4-FS_SIMOES - Uhum.
+[0:02:47] - 3-HUGONORTH - E o nome dele é Cenouro.
 [0:02:49] - 3-HUGONORTH - Mas aí você dá o nome que você quiser.
-[0:02:52] - 5-NOBREAK0497 - É um puto é um púérola é um puto é um puto
-[0:02:56] - 3-HUGONORTH - É uma puta.
-[0:02:58] - 6-NIGHTWOLFBIELZOVSKY - Se deixar na mão do Cris Falco, filho.
-[0:02:59] - 4-FS_SIMOES - Como coloca
-[0:03:00] - 5-NOBREAK0497 - Ele vai transformar esse cavalo em 15
-[0:03:03] - 4-FS_SIMOES - Qual vai?
-[0:03:03] - 5-NOBREAK0497 - Tudo puro sangue, filho
-[0:03:05] - 6-NIGHTWOLFBIELZOVSKY - E tudo por sangue.
-[0:03:07] - 6-NIGHTWOLFBIELZOVSKY - Ah, cara.
-[0:03:08] - 5-NOBREAK0497 - Tier 10, Tier 8
-[0:03:09] - 3-HUGONORTH - Deixa eu ver se você fez uma parada aqui.
-[0:03:11] - 5-NOBREAK0497 - O bagulho é muito doido
-[0:03:14] - 3-HUGONORTH - Vou partilhar aqui a...
-[0:03:19] - 4-FS_SIMOES - Legal, eu tava falando que assim, qual o nome?
-[0:03:23] - 4-FS_SIMOES - virou nome
-[0:03:29] - 3-HUGONORTH - Pelo menos o mapa...
-[0:03:33] - 4-FS_SIMOES - Eu repartirei o nome do meu cavalo
+[0:02:50] - 4-FS_SIMOES - Cenouro.
+[0:02:51] - 3-HUGONORTH - Ah, tá.
+[0:02:53] - 4-FS_SIMOES - Tá.
+[0:02:53] - 3-HUGONORTH - Entendi.
+[0:02:56] - 6-NIGHTWOLFBIELZOVSKY - Se deixar na mão do Cris Falco,
+[0:02:56] - 3-HUGONORTH - Ahn?
+[0:02:58] - 4-FS_SIMOES - É como eu coloco?
+[0:02:58] - 3-HUGONORTH - Aliás, o camo que você vai dar?
+[0:02:59] - 6-NIGHTWOLFBIELZOVSKY - filho
+[0:03:00] - 5-NOBREAK0497 - É, ele vai transformar esse cavalo em 15.
+[0:03:00] - 3-HUGONORTH - Então agora nenhuma pecão só.
+[0:03:02] - 3-HUGONORTH - A Barça é uma petoça, provavelmente, que provavelmente você faz isso em maio.
+[0:03:04] - 3-HUGONORTH - Mas hoje é mais sobre o 그는생들.
+[0:03:06] - 3-HUGONORTH - Vamos...
+[0:03:07] - 5-NOBREAK0497 - Tudo puro sangue, filho.
+[0:03:08] - 3-HUGONORTH - Os pão é progro com o orelume?
+[0:03:10] - 3-HUGONORTH - Por quê não?
+[0:03:12] - 3-HUGONORTH - Então tó que éblito...
+[0:03:14] - 3-HUGONORTH - Que fica na pergunta né?
+[0:03:14] - 5-NOBREAK0497 - O bagulho é muito doido, né?
+[0:03:15] - 4-FS_SIMOES - Cover.
+[0:03:20] - 4-FS_SIMOES - Legal, porque assim, qual o nome?
+[0:03:23] - 3-HUGONORTH - Vou compartilhar aqui a tela para a gente ter pelo menos o mapa.
+[0:03:23] - 4-FS_SIMOES - Uhum.
+[0:03:29] - 6-NIGHTWOLFBIELZOVSKY - e tudo por o sangue
+[0:03:30] - 4-FS_SIMOES - O nome, eu repartilhei o nome do meu cavalo.
 [0:03:34] - 3-HUGONORTH - Seguiu.
-[0:03:40] - 3-HUGONORTH - Vocês...
-[0:03:46] - 3-HUGONORTH - É...
-[0:03:56] - 3-HUGONORTH - Você quer revelar ou deixa pra depois...
-[0:03:58] - 4-FS_SIMOES - vou revelar agora, pode ser?
-[0:03:59] - 6-NIGHTWOLFBIELZOVSKY - Mentira
-[0:04:00] - 5-NOBREAK0497 - Cara, se tu falar que o nome do teu cavalo é Bartinho
+[0:03:39] - 3-HUGONORTH - Show.
+[0:03:43] - 3-HUGONORTH - Mais alguma coisa que vocês vão fazer antes da viagem?
+[0:03:46] - 3-HUGONORTH - Tony, eu estou assumindo que você está usando as ferraduras no cavalo, correto?
+[0:03:53] - 3-HUGONORTH - Você quer revelar ou deixa para depois?
+[0:03:58] - 4-FS_SIMOES - Vou revelar agora, pode ser?
 [0:04:00] - 3-HUGONORTH - Pode ser.
-[0:04:03] - 4-FS_SIMOES - o nome do meu cavalo é
-[0:04:07] - 4-FS_SIMOES - não, é
-[0:04:07] - 5-NOBREAK0497 - Eu vou perder tudo, tá?
-[0:04:09] - 4-FS_SIMOES - ah não, pô
-[0:04:10] - 5-NOBREAK0497 - Não faz isso
-[0:04:13] - 2-MATHEUSBARTCOSTA - Não, pô, os bichos estão se amostrando pra Luís, tá ligado? É normal.
+[0:04:05] - 5-NOBREAK0497 - Cara, se tu falar que o nome do teu cavalo é Bartinho, eu vou perder tudo, tá?
+[0:04:05] - 4-FS_SIMOES - O nome do meu cavalo é...
+[0:04:08] - 4-FS_SIMOES - Não, é...
+[0:04:09] - 5-NOBREAK0497 - Não faz isso. Não faz isso.
+[0:04:11] - 4-FS_SIMOES - É... Ah, não, pô.
 [0:04:13] - 3-HUGONORTH - Ah, não.
-[0:04:16] - 6-NIGHTWOLFBIELZOVSKY - Caralho, porra
-[0:04:17] - 4-FS_SIMOES - juro, pô
+[0:04:15] - 6-NIGHTWOLFBIELZOVSKY - Mentira!
+[0:04:17] - 4-FS_SIMOES - Te juro, pô.
 [0:04:19] - 3-HUGONORTH - Tá bom.
-[0:04:24] - 5-NOBREAK0497 - Caralho, Bartinho
-[0:04:29] - 4-FS_SIMOES - ah
-[0:04:29] - 6-NIGHTWOLFBIELZOVSKY - Relaxa que o Luiz é do
-[0:04:30] - 5-NOBREAK0497 - Aí
-[0:04:33] - 5-NOBREAK0497 - Seu cavalo anão, pô
-[0:04:33] - 2-MATHEUSBARTCOSTA - Tá de boa.
-[0:04:36] - 6-NIGHTWOLFBIELZOVSKY - Brejo
-[0:04:45] - 3-HUGONORTH - Vocês chegam na porta da cidade, né?
+[0:04:21] - 6-NIGHTWOLFBIELZOVSKY - Caralho, porra!
+[0:04:22] - 5-NOBREAK0497 - Caralho.
+[0:04:23] - 3-HUGONORTH - É o nome do cavalo.
+[0:04:28] - 4-FS_SIMOES - Ah, não.
+[0:04:29] - 6-NIGHTWOLFBIELZOVSKY - Relaxa que o Luiz é do Brejo.
+[0:04:30] - 5-NOBREAK0497 - Aí, minha...
+[0:04:31] - 4-FS_SIMOES - Pô, é, é...
+[0:04:38] - 4-FS_SIMOES - Ah tá bom aí E Whereas
+[0:04:41] - 4-FS_SIMOES - Tá bom relationship.
+[0:04:43] - 3-HUGONORTH - Show.
 [0:04:47] - 3-HUGONORTH - Logo de manhã cedo.
-[0:04:50] - 3-HUGONORTH - O Tony tá lá escovando...
-[0:04:52] - 3-HUGONORTH - O seu cavalo.
-[0:04:59] - 3-HUGONORTH - E aí?
-[0:04:59] - 6-NIGHTWOLFBIELZOVSKY - Relaxa
-[0:05:03] - 4-FS_SIMOES - lá vem
+[0:04:53] - 3-HUGONORTH - E aí?
+[0:04:54] - 4-FS_SIMOES - how to love you
+[0:04:54] - 5-NOBREAK0497 - Seu cavalo anão, pô.
+[0:04:58] - 4-FS_SIMOES - Lá vem.
+[0:05:00] - 3-HUGONORTH - Oi.
 [0:05:05] - 3-HUGONORTH - Claro.
-[0:05:13] - 4-FS_SIMOES - ah
-[0:05:15] - 2-MATHEUSBARTCOSTA - Não, então, mas tem...
-[0:05:18] - 2-MATHEUSBARTCOSTA - Como é que eu posso saber na sessão, entendeu?
-[0:05:19] - 9-GUSTAVONIKOV - Pode ser o DM
-[0:05:20] - 2-MATHEUSBARTCOSTA - Tipo, tem alguma maneira, assim, de saber, sei lá.
+[0:05:14] - 3-HUGONORTH - Você não sabe, cara.
 [0:05:21] - 3-HUGONORTH - Como que você pode saber?
-[0:05:26] - 2-MATHEUSBARTCOSTA - Tá de boa.
-[0:05:26] - 9-GUSTAVONIKOV - É, você sabe
-[0:05:28] - 3-HUGONORTH - É, assim...
-[0:05:29] - 2-MATHEUSBARTCOSTA - Entendi.
-[0:05:32] - 3-HUGONORTH - É...
-[0:05:35] - 3-HUGONORTH - Uma criatura, assim, diretamente.
-[0:05:39] - 3-HUGONORTH - Uma magia, alguma coisa dessa forma.
-[0:05:41] - 2-MATHEUSBARTCOSTA - Fechou.
-[0:05:41] - 9-GUSTAVONIKOV - Primeiro que o personagem não sabe nem que tem
-[0:05:43] - 2-MATHEUSBARTCOSTA - Então, vou ter que andar com o Tony Tiger.
-[0:05:44] - 3-HUGONORTH - Tem a habilidade guerreira que faz?
-[0:05:52] - 3-HUGONORTH - Expert aí.
-[0:05:55] - 2-MATHEUSBARTCOSTA - Fechou.
-[0:05:57] - 2-MATHEUSBARTCOSTA - Obrigado, hein?
-[0:06:00] - 2-MATHEUSBARTCOSTA - Valeu.
-[0:06:01] - 4-FS_SIMOES - Os preparativos foram feitos
-[0:06:01] - 3-HUGONORTH - Show de bola.
-[0:06:02] - 2-MATHEUSBARTCOSTA - Tchau.
-[0:06:05] - 3-HUGONORTH - E é isso.
-[0:06:09] - 3-HUGONORTH - Vocês seguem?
+[0:05:23] - 3-HUGONORTH - Você não sabe.
+[0:05:29] - 3-HUGONORTH - É assim, é difícil.
+[0:05:31] - 3-HUGONORTH - Não sei se existe uma forma de você saber o quanto de vida tem um...
+[0:05:35] - 3-HUGONORTH - Uma criatura assim diretamente, uma magia, alguma coisa dessa forma.
+[0:05:41] - 3-HUGONORTH - Tem um habilidade de guerreiro que faz?
+[0:05:46] - 3-HUGONORTH - É.
+[0:05:48] - 3-HUGONORTH - Eu sou um experto aí.
+[0:05:50] - 3-HUGONORTH - Eu gosto de fazer.
+[0:05:53] - 3-HUGONORTH - Gosto de ser experto aí, eu gosto de ser experto.
+[0:05:59] - 3-HUGONORTH - Show de bola.
+[0:06:02] - 3-HUGONORTH - E é isso.
+[0:06:09] - 3-HUGONORTH - Vocês seguem viagem, então?
 [0:06:11] - 3-HUGONORTH - Todos os preparativos foram feitos?
-[0:06:15] - 4-FS_SIMOES - Luiz, só pra você saber
+[0:06:13] - 4-FS_SIMOES - Todos os preparativos foram feitos.
 [0:06:17] - 3-HUGONORTH - Show.
-[0:06:19] - 2-MATHEUSBARTCOSTA - E aí, ô.
-[0:06:19] - 9-GUSTAVONIKOV - O personagem é muito feliz
-[0:06:20] - 4-FS_SIMOES - Quando a gente fala assim
-[0:06:22] - 7-RAPHAELVICARONE - Obrigada.
-[0:06:23] - 4-FS_SIMOES - Eu tenho a pedra mágica
-[0:06:25] - 9-GUSTAVONIKOV - Ou seja, queremos
-[0:06:26] - 3-HUGONORTH - É craque.
-[0:06:26] - 4-FS_SIMOES - Tá?
-[0:06:27] - 5-NOBREAK0497 - Entrou todo mundo na pedra crack
-[0:06:29] - 9-GUSTAVONIKOV - vim
-[0:06:30] - 2-MATHEUSBARTCOSTA - O que eu enquanto...
-[0:06:32] - 4-FS_SIMOES - É que a gente
-[0:06:35] - 2-MATHEUSBARTCOSTA - Ei Hugo, antes de...
-[0:06:35] - 4-FS_SIMOES - Tá bom
-[0:06:35] - 3-HUGONORTH - Sim.
-[0:06:38] - 4-FS_SIMOES - Só pra ficar bem claro
-[0:06:43] - 4-FS_SIMOES - Caralho, Martins
-[0:06:43] - 9-GUSTAVONIKOV - Ou seja, osoby
-[0:06:46] - 2-MATHEUSBARTCOSTA - Calma, pô. É importante isso aqui.
-[0:06:46] - 5-NOBREAK0497 - imagem dele, né?
-[0:06:46] - 4-FS_SIMOES - Porra
-[0:06:50] - 2-MATHEUSBARTCOSTA - Hugo, antes de sair da taverna, eu vou pegar duas garrafas vazias.
-[0:06:51] - 3-HUGONORTH - Diga.
-[0:06:55] - 3-HUGONORTH - Duas garrafas de vasilhas, ok.
-[0:06:57] - 3-HUGONORTH - Sim.
-[0:06:58] - 4-FS_SIMOES - Eu cagoeto
-[0:07:00] - 3-HUGONORTH - É...
-[0:07:01] - 4-FS_SIMOES - Pro estalajadeiro
-[0:07:04] - 4-FS_SIMOES - Duas garrafas aí
-[0:07:05] - 3-HUGONORTH - É isso que está.
-[0:07:08] - 5-NOBREAK0497 - Caralho!
-[0:07:10] - 4-FS_SIMOES - Eu acordo no meio da noite
-[0:07:13] - 3-HUGONORTH - É...
-[0:07:14] - 4-FS_SIMOES - Pra falar
-[0:07:17] - 3-HUGONORTH - Beleza.
-[0:07:18] - 4-FS_SIMOES - Tá
-[0:07:22] - 3-HUGONORTH - Vocês...
-[0:07:22] - 4-FS_SIMOES - A gente tinha discutido
-[0:07:23] - 6-NIGHTWOLFBIELZOVSKY - Eu tô ouvindo essa conversa?
-[0:07:25] - 6-NIGHTWOLFBIELZOVSKY - Relaxa
-[0:07:27] - 3-HUGONORTH - É...
-[0:07:29] - 3-HUGONORTH - O Tony...
-[0:07:29] - 6-NIGHTWOLFBIELZOVSKY - Você tá vindo caralho
-[0:07:32] - 3-HUGONORTH - e o resto do grupo caminhando, né?
-[0:07:34] - 3-HUGONORTH - Vocês vão em direção ao quê?
-[0:07:34] - 6-NIGHTWOLFBIELZOVSKY - Assim
-[0:07:35] - 2-MATHEUSBARTCOSTA - Do following...
-[0:07:37] - 6-NIGHTWOLFBIELZOVSKY - Você tá vindo caralho
-[0:07:41] - 6-NIGHTWOLFBIELZOVSKY - T submitando
-[0:07:41] - 4-FS_SIMOES - Muito por cima
-[0:07:45] - 4-FS_SIMOES - Que a gente ia direto
-[0:07:46] - 3-HUGONORTH - O santuário do professor?
-[0:07:47] - 4-FS_SIMOES - É, foi
-[0:07:49] - 6-NIGHTWOLFBIELZOVSKY - Sim
-[0:07:49] - 9-GUSTAVONIKOV - é a santuária do professor,
-[0:07:52] - 7-RAPHAELVICARONE - Não
-[0:07:52] - 6-NIGHTWOLFBIELZOVSKY - Você tá vindo caralho
-[0:07:52] - 9-GUSTAVONIKOV - eu lembro que foi um campeão da 5,
-[0:07:55] - 4-FS_SIMOES - Mas, assim
-[0:07:55] - 6-NIGHTWOLFBIELZOVSKY - É assim
-[0:07:57] - 4-FS_SIMOES - Se a gente pegava
-[0:07:58] - 3-HUGONORTH - Eu vou dizer que
-[0:08:00] - 4-FS_SIMOES - Por
-[0:08:03] - 4-FS_SIMOES - Tá bom
-[0:08:03] - 3-HUGONORTH - não vai adicionar em nada na viagem
-[0:08:05] - 3-HUGONORTH - passar por lá.
-[0:08:07] - 4-FS_SIMOES - Então vamos reto
+[0:06:18] - 4-FS_SIMOES - Luiz, só para você saber, quando a gente fala assim,
+[0:06:22] - 4-FS_SIMOES - entrou todo mundo na pedra, eu tenho a pedra mágica.
+[0:06:23] - 3-HUGONORTH - É craque.
+[0:06:25] - 4-FS_SIMOES - Tá?
+[0:06:28] - 4-FS_SIMOES - A gente não está fumando a pedra, não, tá?
+[0:06:32] - 4-FS_SIMOES - É que a gente...
+[0:06:33] - 5-NOBREAK0497 - Não, é craqueiro.
+[0:06:37] - 4-FS_SIMOES - Tá bom.
+[0:06:41] - 4-FS_SIMOES - Só para ficar bem claro.
+[0:06:44] - 5-NOBREAK0497 - O Felipe, ele tem que prezar pela imagem dele, né, cara?
+[0:06:44] - 4-FS_SIMOES - Caralho, Martins, deixa rolar, filho.
+[0:06:47] - 3-HUGONORTH - Diga.
+[0:06:51] - 4-FS_SIMOES - Porra.
+[0:06:58] - 4-FS_SIMOES - Eu cagoeto para o estalajadeiro que ele está pegando duas garrafas aí.
+[0:07:00] - 5-NOBREAK0497 - Caralho.
+[0:07:05] - 4-FS_SIMOES - O que você está fazendo?
+[0:07:08] - 4-FS_SIMOES - Isso é Gustavo.
+[0:07:12] - 4-FS_SIMOES - Eu acordo no meio da noite para falar, para ver se ele levou as garrafas.
+[0:07:21] - 4-FS_SIMOES - Tá.
+[0:07:23] - 3-HUGONORTH - Se age no dia seguinte.
+[0:07:27] - 3-HUGONORTH - O Tony.
+[0:07:28] - 4-FS_SIMOES - O que é que era mais útil para você na cen намadar?
+[0:07:30] - 3-HUGONORTH - Tony no seu cavalo.
+[0:07:33] - 5-NOBREAK0497 - Cozinhando.
+[0:07:33] - 4-FS_SIMOES - Trabalhar com você.
+[0:07:34] - 3-HUGONORTH - Vocês vão em direção ao que?
+[0:07:35] - 5-NOBREAK0497 - Caralho.
+[0:07:38] - 4-FS_SIMOES - Sim!
+[0:07:39] - 5-NOBREAK0497 - Que coisa linda, né?
+[0:07:41] - 5-NOBREAK0497 - Eu não sei.
+[0:07:41] - 4-FS_SIMOES - Logo ao nosso escpopão, então,
+[0:07:43] - 5-NOBREAK0497 - Caralho.
+[0:07:43] - 4-FS_SIMOES - sapatear.
+[0:07:47] - 5-NOBREAK0497 - Seu cavalo anão, pô.
+[0:07:47] - 3-HUGONORTH - Santuário do professor?
+[0:07:48] - 4-FS_SIMOES - Eu acho que eu estou com as wirts aqui,
+[0:07:50] - 5-NOBREAK0497 - Calma, minha amiga.
+[0:07:52] - 4-FS_SIMOES - O Kiara deannya não está aqui.
+[0:07:53] - 3-HUGONORTH - Eu vou dizer que...
+[0:07:54] - 5-NOBREAK0497 - Caralho.
+[0:07:55] - 4-FS_SIMOES - Que pariu!
+[0:07:56] - 5-NOBREAK0497 - Ainda não sei.
+[0:07:57] - 4-FS_SIMOES - Não...
+[0:08:00] - 4-FS_SIMOES - por
+[0:08:03] - 4-FS_SIMOES - tá bom, então vamos reto
+[0:08:04] - 3-HUGONORTH - Não vai adicionar em nada na viagem.
+[0:08:08] - 4-FS_SIMOES - vamos retão
 [0:08:11] - 3-HUGONORTH - Para o santuário, né?
 [0:08:13] - 3-HUGONORTH - Beleza, vocês vão andando...
-[0:08:14] - 4-FS_SIMOES - Direto pra longe
-[0:08:16] - 4-FS_SIMOES - É
-[0:08:16] - 3-HUGONORTH - Para longe?
-[0:08:18] - 4-FS_SIMOES - Não
-[0:08:19] - 3-HUGONORTH - Rola o wisdom aí, Tony.
-[0:08:20] - 7-RAPHAELVICARONE - Sim.
-[0:08:21] - 4-FS_SIMOES - É isso, né, time?
-[0:08:24] - 4-FS_SIMOES - Beleza
-[0:08:33] - 4-FS_SIMOES - Logo o meu isto?
-[0:08:36] - 4-FS_SIMOES - Pelo menos
-[0:08:41] - 4-FS_SIMOES - Não foi
+[0:08:15] - 4-FS_SIMOES - pra longe
+[0:08:16] - 3-HUGONORTH - Para lá onde?
+[0:08:18] - 4-FS_SIMOES - não
+[0:08:22] - 4-FS_SIMOES - beleza
+[0:08:23] - 3-HUGONORTH - Olha o wisdom aí, Tony.
+[0:08:27] - 5-NOBREAK0497 - Legenda Adriana Zanotto
+[0:08:27] - 4-FS_SIMOES - porra, assim de graça?
+[0:08:34] - 4-FS_SIMOES - logo o meu wisdom
+[0:08:36] - 4-FS_SIMOES - pelo menos não foi deception
 [0:08:41] - 3-HUGONORTH - 14.
 [0:08:43] - 3-HUGONORTH - Tony, você sente uma vontade de ir nesse santuário?
-[0:08:47] - 3-HUGONORTH - Não.
-[0:08:55] - 4-FS_SIMOES - Eu tô achando que a viagem vai ser muito longa
-[0:08:58] - 6-NIGHTWOLFBIELZOVSKY - Confia.
-[0:08:58] - 4-FS_SIMOES - Se a gente for direto
-[0:09:01] - 3-HUGONORTH - E aíhydrafo.
-[0:09:02] - 4-FS_SIMOES - Pra esse período todo
-[0:09:06] - 4-FS_SIMOES - Vamos ver onde é que a gente pode parar nesse meio do caminho
-[0:09:08] - 3-HUGONORTH - E aí Самu.
-[0:09:09] - 4-FS_SIMOES - Alguém pode me ajudar, por favor?
-[0:09:11] - 7-RAPHAELVICARONE - Você não tem um mapa aí, Tony?
-[0:09:13] - 4-FS_SIMOES - Ah, é verdade
-[0:09:16] - 4-FS_SIMOES - Santuário do
-[0:09:19] - 4-FS_SIMOES - Como é que é?
-[0:09:23] - 3-HUGONORTH - Qualquer...
-[0:09:23] - 4-FS_SIMOES - Confia?
-[0:09:25] - 7-RAPHAELVICARONE - É
-[0:09:26] - 3-HUGONORTH - Eu ia ignorar isso, mas hoje eu preciso sempre falar.
-[0:09:29] - 3-HUGONORTH - Então...
-[0:09:31] - 3-HUGONORTH - Luiz, você conseguiu conectar o Dend Beyond?
-[0:09:35] - 4-FS_SIMOES - Eu tiro 20
-[0:09:37] - 4-FS_SIMOES - Pô, filho
-[0:09:40] - 4-FS_SIMOES - Você ainda tem vontade
-[0:09:46] - 4-FS_SIMOES - De ir pro Santuário
-[0:09:46] - 5-NOBREAK0497 - A vontade é um bagulho pica.
-[0:09:57] - 3-HUGONORTH - Abriu sua ficha?
-[0:10:01] - 3-HUGONORTH - Isso, clica em qualquer atributo seu ali pra dar uma rolada.
+[0:08:53] - 3-HUGONORTH - Sim.
+[0:08:54] - 4-FS_SIMOES - gente, tô achando que
+[0:08:57] - 4-FS_SIMOES - muito longa
+[0:09:00] - 9-GUSTAVONIKOV - Lewinski
+[0:09:00] - 4-FS_SIMOES - eu não sei se eu tenho comida pro cavalo
+[0:09:02] - 4-FS_SIMOES - pra esse período todo
+[0:09:06] - 4-FS_SIMOES - vamos ver onde é que a gente pode parar
+[0:09:08] - 9-GUSTAVONIKOV - Adriano
+[0:09:08] - 4-FS_SIMOES - nesse meio do caminho, alguém pode me ajudar, por favor?
+[0:09:11] - 7-RAPHAELVICARONE - Você não tem o mapa aí, Tony?
+[0:09:11] - 9-GUSTAVONIKOV - Alves
+[0:09:13] - 4-FS_SIMOES - ah, é verdade, eu tenho uma
+[0:09:16] - 4-FS_SIMOES - santuário do
+[0:09:16] - 7-RAPHAELVICARONE - Legenda Adriana Zanotto
+[0:09:20] - 4-FS_SIMOES - vamos lá, confia
+[0:09:23] - 3-HUGONORTH - Aí, qualquer outro dia eu ia ignorar isso,
+[0:09:23] - 9-GUSTAVONIKOV - Rodolfo
+[0:09:23] - 4-FS_SIMOES - olha
+[0:09:27] - 3-HUGONORTH - mas hoje eu preciso que você me fale.
+[0:09:27] - 4-FS_SIMOES - know how to
+[0:09:29] - 9-GUSTAVONIKOV - Diogo
+[0:09:30] - 7-RAPHAELVICARONE - risos
+[0:09:40] - 4-FS_SIMOES - personal, pergurando
+[0:09:45] - 4-FS_SIMOES - bom, seu unnatural
+[0:09:47] - 4-FS_SIMOES - eu acho que o melhor que disso
+[0:09:49] - 3-HUGONORTH - Show.
+[0:09:49] - 4-FS_SIMOES - é doar
+[0:09:52] - 4-FS_SIMOES - Will
+[0:09:53] - 3-HUGONORTH - Sim.
+[0:09:54] - 4-FS_SIMOES - 愛
+[0:09:56] - 4-FS_SIMOES - annoto
+[0:09:58] - 3-HUGONORTH - Abriu sua ficha?
+[0:10:00] - 7-RAPHAELVICARONE - hum?
+[0:10:00] - 9-GUSTAVONIKOV - Legenda Adriana Zanotto
+[0:10:01] - 3-HUGONORTH - Isso, clica em qualquer atributo seu ali para dar uma rolada.
 [0:10:09] - 3-HUGONORTH - Olha lá, foi.
 [0:10:13] - 3-HUGONORTH - Show.
-[0:10:15] - 3-HUGONORTH - Dá pra fazer isso com os ataques e tal, você vai ver na hora que precisar.
-[0:10:16] - 4-FS_SIMOES - Eu quero só fazer o seguinte
-[0:10:20] - 3-HUGONORTH - Beleza, galera, vocês seguem em direção ao santuário.
-[0:10:24] - 3-HUGONORTH - Vocês dormem na pedra durante o dia?
-[0:10:26] - 3-HUGONORTH - Durante a noite, desculpa.
-[0:10:29] - 3-HUGONORTH - Sim.
-[0:10:29] - 4-FS_SIMOES - Em algum momento
-[0:10:33] - 4-FS_SIMOES - Pra que a equipe
-[0:10:35] - 4-FS_SIMOES - Fique dentro da pedra
-[0:10:37] - 4-FS_SIMOES - Fique do lado de fora
-[0:10:41] - 4-FS_SIMOES - Por
-[0:10:45] - 4-FS_SIMOES - Assim
-[0:10:48] - 4-FS_SIMOES - Senta aqui no cavalo
+[0:10:15] - 3-HUGONORTH - Dá para fazer isso com os ataques e tal.
+[0:10:19] - 3-HUGONORTH - Beleza, galera.
+[0:10:23] - 3-HUGONORTH - Vocês dormem na pedra durante o dia?
+[0:10:24] - 7-RAPHAELVICARONE - sim
+[0:10:26] - 3-HUGONORTH - Durante a noite?
+[0:10:27] - 4-FS_SIMOES - Eu quero
+[0:10:28] - 3-HUGONORTH - Hum, sim.
+[0:10:29] - 6-NIGHTWOLFBIELZOVSKY - Legenda Adriana Zanotto
+[0:10:30] - 7-RAPHAELVICARONE - Legenda Adriana Zanotto
+[0:10:31] - 4-FS_SIMOES - Meio que criar uma situação
+[0:10:35] - 4-FS_SIMOES - Dentro da pedra e a Letícia
+[0:10:38] - 4-FS_SIMOES - Tipo como se ela fosse a responsável por
+[0:10:42] - 4-FS_SIMOES - Seguir
+[0:10:45] - 4-FS_SIMOES - A gente tá levando
+[0:10:49] - 4-FS_SIMOES - Que eu preciso descansar um pouquinho
 [0:10:51] - 4-FS_SIMOES - E chamo todo mundo pra dentro da pedra
-[0:10:55] - 3-HUGONORTH - Tá, então, é dessa forma que você quer fazer isso?
-[0:10:56] - 4-FS_SIMOES - Esse momento
-[0:10:58] - 4-FS_SIMOES - Como assim?
+[0:10:53] - 3-HUGONORTH - all membros
+[0:10:54] - 4-FS_SIMOES - Só quero ter
+[0:10:57] - 3-HUGONORTH - Desta forma...
+[0:10:57] - 4-FS_SIMOES - Como assim?
+[0:10:59] - 8-LUISFELIPEPJVAZQUEZ - Legenda Adriana Zanotte
+[0:11:01] - 3-HUGONORTH - Sim, sem β fulfilled.
 [0:11:03] - 4-FS_SIMOES - É dessa forma que eu quero fazer isso
-[0:11:06] - 3-HUGONORTH - Você acabou de escrever a cena que você fez?
-[0:11:09] - 3-HUGONORTH - Só passo.
-[0:11:09] - 4-FS_SIMOES - Se for, Letícia
-[0:11:13] - 4-FS_SIMOES - Assim
-[0:11:13] - 3-HUGONORTH - Deixa eu falar.
-[0:11:15] - 4-FS_SIMOES - Ô, Letícia
-[0:11:17] - 4-FS_SIMOES - Você pode levar a pedra
-[0:11:21] - 4-FS_SIMOES - Aí eu meio que vou chamando
-[0:11:24] - 3-HUGONORTH - Meito em todo mundo descansar comigo.
-[0:11:24] - 4-FS_SIMOES - A galera
-[0:11:25] - 7-RAPHAELVICARONE - Nada, nada, claro
-[0:11:27] - 4-FS_SIMOES - Pô, bora
-[0:11:33] - 4-FS_SIMOES - Jogar um dado
-[0:11:36] - 4-FS_SIMOES - É
-[0:11:36] - 7-RAPHAELVICARONE - Deception
-[0:11:39] - 4-FS_SIMOES - Porra
-[0:11:42] - 4-FS_SIMOES - Fudeu
-[0:11:43] - 7-RAPHAELVICARONE - Aqui vai ser histórico
+[0:11:06] - 3-HUGONORTH - Você acabou de escrever a cena que você fez,
+[0:11:09] - 3-HUGONORTH - Fui...
+[0:11:09] - 4-FS_SIMOES - Você falou Letícia
+[0:11:13] - 3-HUGONORTH - Só me passa.
+[0:11:13] - 4-FS_SIMOES - Ô Letícia, tudo bem?
+[0:11:17] - 4-FS_SIMOES - Você pode levar a pedra um pouquinho pra eu poder descansar?
+[0:11:21] - 4-FS_SIMOES - Aí meio que vou chamando
+[0:11:23] - 3-HUGONORTH - Amei todo mundo descansar comigo.
+[0:11:25] - 4-FS_SIMOES - Vem descansar aqui
+[0:11:27] - 4-FS_SIMOES - Pô
+[0:11:32] - 4-FS_SIMOES - Pô, bora jogar um dado lá
+[0:11:34] - 4-FS_SIMOES - Porque
+[0:11:37] - 3-HUGONORTH - Tô ali.
+[0:11:43] - 4-FS_SIMOES - E gol do Flamengo
 [0:11:43] - 3-HUGONORTH - Rola o Deception aí, povo.
-[0:11:49] - 7-RAPHAELVICARONE - Ah, não, não é bom
-[0:11:50] - 3-HUGONORTH - Egron e Enzo ficou pra ajudar o Alberto lá na estalagem.
-[0:11:55] - 7-RAPHAELVICARONE - Eu ia falar isso, ia falar
-[0:11:55] - 4-FS_SIMOES - Tá
-[0:11:57] - 7-RAPHAELVICARONE - Pode tirar, né, pra todo mundo mexer mais um token
-[0:12:00] - 7-RAPHAELVICARONE - Mó dor de cabeça
-[0:12:02] - 3-HUGONORTH - O Alberto pediu a ajuda dele, aquele é um cara forte e vale por dois.
-[0:12:03] - 7-RAPHAELVICARONE - Literalmente
-[0:12:09] - 3-HUGONORTH - Deception, treze.
-[0:12:09] - 4-FS_SIMOES - Acho que foi o meu maior decepção
-[0:12:15] - 4-FS_SIMOES - Que eu tirei até hoje
-[0:12:15] - 3-HUGONORTH - Eu até tentei te ajudar, cara.
+[0:11:48] - 3-HUGONORTH - Só lembrando que
+[0:11:51] - 3-HUGONORTH - ficou pra ajudar o Alberto
+[0:11:53] - 3-HUGONORTH - lá na estalagem.
+[0:11:57] - 4-FS_SIMOES - Tá
+[0:12:02] - 3-HUGONORTH - É isso.
+[0:12:05] - 3-HUGONORTH - Aquele é um cara forte e vale por dois.
+[0:12:09] - 3-HUGONORTH - Deception, 13.
+[0:12:09] - 4-FS_SIMOES - Acho que foi o meu maior deception que eu tirei até hoje
+[0:12:16] - 3-HUGONORTH - Eu até tentei te ajudar, cara.
 [0:12:19] - 3-HUGONORTH - Beleza.
-[0:12:22] - 3-HUGONORTH - Ô, Tony.
-[0:12:24] - 3-HUGONORTH - E ela levanta uma sobrancelha assim e fala...
-[0:12:25] - 7-RAPHAELVICARONE - E olha lá
-[0:12:25] - 4-FS_SIMOES - Tá
-[0:12:27] - 3-HUGONORTH - Ok.
+[0:12:21] - 3-HUGONORTH - Eu tô ali.
+[0:12:23] - 4-FS_SIMOES - Tá
+[0:12:26] - 3-HUGONORTH - Ok.
+[0:12:27] - 4-FS_SIMOES - É, tá
+[0:12:30] - 8-LUISFELIPEPJVAZQUEZ - Obrigado.
 [0:12:30] - 3-HUGONORTH - E vocês entram na pedra.
 [0:12:32] - 3-HUGONORTH - Alguém se opõe a entrar na pedra?
-[0:12:35] - 6-NIGHTWOLFBIELZOVSKY - e aí
+[0:12:32] - 4-FS_SIMOES - Tá
 [0:12:37] - 3-HUGONORTH - Perfeito.
-[0:12:38] - 6-NIGHTWOLFBIELZOVSKY - não
-[0:12:41] - 3-HUGONORTH - Tá.
-[0:12:45] - 4-FS_SIMOES - Primeira coisa que eu vou fazer
-[0:12:48] - 4-FS_SIMOES - Vai ser
-[0:12:50] - 4-FS_SIMOES - É
-[0:12:53] - 4-FS_SIMOES - Pra poder dividir pra galera aí
-[0:12:55] - 7-RAPHAELVICARONE - É isso aí
-[0:12:56] - 4-FS_SIMOES - Somos quantos?
-[0:12:56] - 3-HUGONORTH - Ok.
-[0:12:59] - 3-HUGONORTH - A Emegard também entrou?
-[0:12:59] - 4-FS_SIMOES - Três
-[0:13:01] - 4-FS_SIMOES - O meu gás não me entrou
-[0:13:03] - 3-HUGONORTH - Beleza.
-[0:13:03] - 4-FS_SIMOES - Já só foi a gente da merda
-[0:13:05] - 7-RAPHAELVICARONE - Ela vale, talvez ela valha por dois
-[0:13:07] - 4-FS_SIMOES - Mais de uma vez
-[0:13:08] - 3-HUGONORTH - E aí?
-[0:13:09] - 7-RAPHAELVICARONE - Não, são sete, são sete, são sete
-[0:13:11] - 4-FS_SIMOES - Ela
-[0:13:14] - 4-FS_SIMOES - Dois
-[0:13:16] - 4-FS_SIMOES - Seis
-[0:13:18] - 4-FS_SIMOES - Correto
-[0:13:21] - 4-FS_SIMOES - Quatro
-[0:13:22] - 9-GUSTAVONIKOV - Oi, tu câmera gás, eu acho. Não?
-[0:13:23] - 4-FS_SIMOES - Um
-[0:13:26] - 9-GUSTAVONIKOV - Oi.
-[0:13:27] - 4-FS_SIMOES - Dois
-[0:13:29] - 4-FS_SIMOES - Seis
-[0:13:30] - 3-HUGONORTH - Aí...
-[0:13:32] - 7-RAPHAELVICARONE - Ah, que número difícil
-[0:13:33] - 4-FS_SIMOES - São sete
-[0:13:38] - 3-HUGONORTH - É isso aí?
-[0:13:38] - 7-RAPHAELVICARONE - Quatro é alguma coisa
-[0:13:42] - 7-RAPHAELVICARONE - E o excedente é teu
-[0:13:42] - 4-FS_SIMOES - Eu dou
-[0:13:44] - 4-FS_SIMOES - Moedas de platina
-[0:13:46] - 6-NIGHTWOLFBIELZOVSKY - Ih
-[0:13:47] - 4-FS_SIMOES - É taxa de negociação
-[0:13:50] - 4-FS_SIMOES - Tá
-[0:13:54] - 4-FS_SIMOES - Eu chego pra galera do
-[0:13:57] - 4-FS_SIMOES - Quatro moedas
-[0:13:59] - 4-FS_SIMOES - O resto vai comigo
-[0:14:02] - 4-FS_SIMOES - 4.2
-[0:14:03] - 7-RAPHAELVICARONE - Tá
-[0:14:05] - 4-FS_SIMOES - É
-[0:14:05] - 6-NIGHTWOLFBIELZOVSKY - Quanto?
-[0:14:07] - 4-FS_SIMOES - 4.2
-[0:14:08] - 3-HUGONORTH - Tchau.
-[0:14:10] - 4-FS_SIMOES - Vezes
-[0:14:12] - 4-FS_SIMOES - É
-[0:14:15] - 9-GUSTAVONIKOV - É 420 euros, não?
-[0:14:17] - 4-FS_SIMOES - Mais um gol do Flamengo
-[0:14:19] - 4-FS_SIMOES - 20
-[0:14:21] - 7-RAPHAELVICARONE - Beleza
-[0:14:21] - 4-FS_SIMOES - É
-[0:14:24] - 4-FS_SIMOES - 420 de ouro
-[0:14:25] - 6-NIGHTWOLFBIELZOVSKY - 420 de ouro
-[0:14:27] - 4-FS_SIMOES - Isso
-[0:14:28] - 5-NOBREAK0497 - Porra, saiu o quarto e o quinto.
-[0:14:31] - 5-NOBREAK0497 - Eu tô viajando aqui.
-[0:14:35] - 6-NIGHTWOLFBIELZOVSKY - 520 de ouro
-[0:14:37] - 4-FS_SIMOES - Tá
-[0:14:40] - 4-FS_SIMOES - É
-[0:14:42] - 9-GUSTAVONIKOV - Sim.
-[0:14:45] - 3-HUGONORTH - Show de bola.
-[0:14:47] - 4-FS_SIMOES - Eu vou falar com ele sobre a negociação que eu fiz com o
-[0:14:48] - 3-HUGONORTH - Eu me engano de falar.
-[0:14:51] - 3-HUGONORTH - Felipe, Felipe.
-[0:14:59] - 4-FS_SIMOES - Com o Alberto
-[0:15:02] - 4-FS_SIMOES - Vou explicar pra eles
-[0:15:02] - 3-HUGONORTH - Ok.
-[0:15:05] - 6-NIGHTWOLFBIELZOVSKY - 620 de ouro
-[0:15:07] - 6-NIGHTWOLFBIELZOVSKY - 520 de ouro
-[0:15:10] - 4-FS_SIMOES - E convencer os caras a não colocar, não aplicarem a lei do teleporte
-[0:15:12] - 6-NIGHTWOLFBIELZOVSKY - 72121 beats
-[0:15:16] - 4-FS_SIMOES - Eu consegui negociar 30 de platina para antecipado, que eu já distribuí pra gente aqui
-[0:15:22] - 4-FS_SIMOES - Se a gente conseguir que ele seja aprovado, vão ser com mais 40 de platina
-[0:15:27] - 6-NIGHTWOLFBIELZOVSKY - 22121
-[0:15:29] - 6-NIGHTWOLFBIELZOVSKY - 72121
-[0:15:30] - 4-FS_SIMOES - É
-[0:15:32] - 6-NIGHTWOLFBIELZOVSKY - 82321
-[0:15:34] - 6-NIGHTWOLFBIELZOVSKY - 12121 Alexander
-[0:15:34] - 3-HUGONORTH - É o resto.
-[0:15:39] - 4-FS_SIMOES - Os portões e invadir lá em
-[0:15:42] - 4-FS_SIMOES - Naquela cidade de
-[0:15:52] - 2-MATHEUSBARTCOSTA - Obrigado.
-[0:15:55] - 4-FS_SIMOES - Ele ofereceu mais 10 platinas se a gente falar quem é o grupo
-[0:15:58] - 5-NOBREAK0497 - Acho.
-[0:15:59] - 4-FS_SIMOES - É
-[0:16:05] - 7-RAPHAELVICARONE - Você acha que algum problema a gente contar para ele que foi a gente
-[0:16:09] - 4-FS_SIMOES - Por que você acha isso, Boren?
-[0:16:09] - 9-GUSTAVONIKOV - Eu acho que depois que a gente tem mentido, talvez dê merda, mas...
-[0:16:09] - 7-RAPHAELVICARONE - Qual seria o problema?
-[0:16:14] - 5-NOBREAK0497 - Por que você acha que ele quer saber?
-[0:16:17] - 4-FS_SIMOES - Ele diz que quer contratar a gente
-[0:16:18] - 5-NOBREAK0497 - Ele quer pegar e quer arregaçar.
-[0:16:21] - 4-FS_SIMOES - Ele quer contratar essa galera
-[0:16:23] - 4-FS_SIMOES - Só que ele já contrata a gente
-[0:16:25] - 7-RAPHAELVICARONE - Então
-[0:16:26] - 5-NOBREAK0497 - É isso, é isso, é...
-[0:16:28] - 5-NOBREAK0497 - É, eu acho que ele vai arregaçar.
-[0:16:33] - 5-NOBREAK0497 - Acho que ele vai arrumar alguém pra arregaçar a gente.
-[0:16:34] - 4-FS_SIMOES - É
-[0:16:35] - 5-NOBREAK0497 - Acho que é pra isso que ele quer saber.
-[0:16:38] - 4-FS_SIMOES - Eu acho que a gente está dando poder na mão de uma pessoa fora do grupo
-[0:16:39] - 9-GUSTAVONIKOV - ...
-[0:16:39] - 5-NOBREAK0497 - É, a gente pode...
-[0:16:42] - 5-NOBREAK0497 - A gente escolhe no Unidunit aqui
-[0:16:42] - 4-FS_SIMOES - eu meto o dedo na cara
-[0:16:45] - 5-NOBREAK0497 - e a gente joga a culpa nessa pessoa.
-[0:16:48] - 5-NOBREAK0497 - Aí se essa pessoa for arregaçada,
-[0:16:51] - 5-NOBREAK0497 - Acontece.
-[0:16:53] - 3-HUGONORTH - Aí o Megane fala, eu não concordo com isso.
-[0:16:56] - 6-NIGHTWOLFBIELZOVSKY - Então vai ser
-[0:16:56] - 3-HUGONORTH - Foi uma escurra de grupo.
-[0:16:58] - 5-NOBREAK0497 - É legal.
-[0:16:59] - 6-NIGHTWOLFBIELZOVSKY - Obrigado
-[0:16:59] - 7-RAPHAELVICARONE - mar
-[0:17:02] - 5-NOBREAK0497 - Rapaziada, junta aqui.
-[0:17:04] - 6-NIGHTWOLFBIELZOVSKY - É brincadeira, meu bem
-[0:17:06] - 4-FS_SIMOES - não fala se eu me agarro de novo
-[0:17:09] - 6-NIGHTWOLFBIELZOVSKY - Você me salvou
-[0:17:13] - 3-HUGONORTH - Ou sei que a voz está brincando.
-[0:17:19] - 4-FS_SIMOES - vamos discutir isso em outro momento
-[0:17:26] - 4-FS_SIMOES - eu tenho um outro tópico
-[0:17:28] - 4-FS_SIMOES - para poder levantar aqui com a gente
-[0:17:28] - 5-NOBREAK0497 - É, aparentemente derrubar uma tirania também era um progresso natural.
-[0:17:30] - 7-RAPHAELVICARONE - Olha, Tony, eu não sei mais de nada.
-[0:17:32] - 4-FS_SIMOES - porque parece que ter teleporte entre as cidades
-[0:17:35] - 4-FS_SIMOES - parece ser uma coisa de progresso universal
-[0:17:38] - 4-FS_SIMOES - da civilização
-[0:17:44] - 7-RAPHAELVICARONE - Da última vez que a gente tentou ajudar, deu tanta merda que eu já não sei mais o lado certo.
-[0:17:51] - 5-NOBREAK0497 - e a gente só fez merda.
+[0:12:40] - 3-HUGONORTH - Todo mundo entra na pedra.
+[0:12:42] - 3-HUGONORTH - Eu vou dizer que isso aí é o quarto dia de viagem.
+[0:12:45] - 4-FS_SIMOES - Primeira coisa que eu vou fazer vai ser
+[0:12:48] - 4-FS_SIMOES - Dividir
+[0:12:51] - 3-HUGONORTH - Ok.
+[0:12:54] - 4-FS_SIMOES - É
+[0:12:56] - 4-FS_SIMOES - Vamos contra?
+[0:12:58] - 3-HUGONORTH - A Emegard também entrou?
+[0:12:59] - 4-FS_SIMOES - O migrais do metrô
+[0:13:00] - 2-MATHEUSBARTCOSTA - Bazman", Tentei,त
+[0:13:02] - 3-HUGONORTH - Beleza.
+[0:13:02] - 4-FS_SIMOES - Ela faz parte da equipe
+[0:13:06] - 2-MATHEUSBARTCOSTA - Tentei, mais umcemقي
+[0:13:08] - 4-FS_SIMOES - Ela vai ganhar dobrado
+[0:13:12] - 4-FS_SIMOES - 1, 2, 3, 4, 5, 6, 7
+[0:13:17] - 4-FS_SIMOES - Né?
+[0:13:20] - 4-FS_SIMOES - 1, 2, 3, 4, 5, 6, 7
+[0:13:21] - 3-HUGONORTH - Que liaries.
+[0:13:22] - 2-MATHEUSBARTCOSTA - Artistic
+[0:13:22] - 4-FS_SIMOES - Isso
+[0:13:25] - 4-FS_SIMOES - 1, 2, 3, 4, 5, 6, 7
+[0:13:27] - 2-MATHEUSBARTCOSTA - B mans
+[0:13:27] - 4-FS_SIMOES - vai, vai sim
+[0:13:30] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:13:30] - 3-HUGONORTH - Que lirias.
+[0:13:31] - 4-FS_SIMOES - são 7
+[0:13:36] - 3-HUGONORTH - Fui.
+[0:13:41] - 4-FS_SIMOES - tá
+[0:13:42] - 3-HUGONORTH - Lerá-ann!
+[0:13:44] - 4-FS_SIMOES - moedas de platina
+[0:13:49] - 3-HUGONORTH - Que delícia.
+[0:13:50] - 4-FS_SIMOES - tá, eu chego
+[0:13:51] - 3-HUGONORTH - Legenda Adriana Zanotto
+[0:13:55] - 4-FS_SIMOES - pra galera do
+[0:13:58] - 4-FS_SIMOES - 4.2 o resto é comigo, então vamos lá
+[0:14:00] - 4-FS_SIMOES - 4.2
+[0:14:02] - 4-FS_SIMOES - 4.
+[0:14:06] - 4-FS_SIMOES - 4.2
+[0:14:08] - 4-FS_SIMOES - platina vai dar quanto?
+[0:14:11] - 4-FS_SIMOES - 200 é
+[0:14:13] - 4-FS_SIMOES - caralho, mais um gol do Flamengo
+[0:14:17] - 4-FS_SIMOES - 20 de prata
+[0:14:21] - 3-HUGONORTH - Legendas Adriana Zanotto
+[0:14:21] - 4-FS_SIMOES - é, 420 de ouro
+[0:14:26] - 6-NIGHTWOLFBIELZOVSKY - 420 de ouro, стоит?
+[0:14:27] - 4-FS_SIMOES - isso
+[0:14:29] - 6-NIGHTWOLFBIELZOVSKY - Beleza?
+[0:14:37] - 4-FS_SIMOES - tá, todo mundo recebeu 420 de ouro?
+[0:14:45] - 4-FS_SIMOES - é
+[0:14:56] - 4-FS_SIMOES - eu vou falar com ele sobre o a negociação que eu fiz com o Converto
+[0:14:59] - 6-NIGHTWOLFBIELZOVSKY - A CIDADE NO BRASIL
+[0:15:02] - 4-FS_SIMOES - vou explicar pra ele só hiperto contratou a gente vai poder
+[0:15:06] - 4-FS_SIMOES - e até a cidade dezembro de convencer os caras a não colocar e não aplicarem a lei do telecom Actually, internet morning thanks library of hell i ao c r
+[0:15:17] - 4-FS_SIMOES - contexto de bons caras ou não a lei do teleporte eu consegui e eu g gl service isso é tudo ó agora foi bom eu até grenades a 30 de platina para duplicado santo onde é a segunda tipa para ainda se você acreditar 0 elegers nós vamos gastar metade legs lets goAI
+[0:15:22] - 4-FS_SIMOES - se a gente conseguir que ele seja aprovado
+[0:15:25] - 4-FS_SIMOES - com mais 40 de platina
+[0:15:28] - 4-FS_SIMOES - e se
+[0:15:33] - 4-FS_SIMOES - muito interesse em saber quem foi o grupo
+[0:15:38] - 4-FS_SIMOES - os portões e
+[0:15:42] - 4-FS_SIMOES - invadir lá naquela
+[0:15:44] - 4-FS_SIMOES - Hillest
+[0:15:50] - 4-FS_SIMOES - eu falei pra ele que eu não conhecia
+[0:15:55] - 4-FS_SIMOES - ele ofereceu mais 10 platinas
+[0:15:59] - 4-FS_SIMOES - alguém tem alguma dúvida
+[0:16:04] - 4-FS_SIMOES - sobre o nosso plano?
+[0:16:13] - 4-FS_SIMOES - por que você acha isso, Boren?
+[0:16:18] - 4-FS_SIMOES - ele diz que quer
+[0:16:20] - 4-FS_SIMOES - gente
+[0:16:25] - 4-FS_SIMOES - é
+[0:16:30] - 4-FS_SIMOES - é que eu acho que
+[0:16:36] - 4-FS_SIMOES - eu acho que a gente está dando poder
+[0:16:41] - 4-FS_SIMOES - na mão de uma pessoa fora do grupo
+[0:16:50] - 4-FS_SIMOES - eu me atrodei na cara
+[0:16:51] - 2-MATHEUSBARTCOSTA - Eu vou tocar ele.
+[0:16:57] - 5-NOBREAK0497 - é legal
+[0:17:01] - 5-NOBREAK0497 - rapaziada, junta aqui
+[0:17:06] - 4-FS_SIMOES - não fala super mega de não, meu irmão
+[0:17:13] - 4-FS_SIMOES - tá, mas vamos
+[0:17:20] - 4-FS_SIMOES - vamos discutir isso em outro momento
+[0:17:25] - 4-FS_SIMOES - eu tenho um outro tópico
+[0:17:27] - 5-NOBREAK0497 - é, aparentemente derrubar uma tirania
+[0:17:28] - 4-FS_SIMOES - pra poder levantar aqui com a gente
+[0:17:33] - 4-FS_SIMOES - porque parece que
+[0:17:35] - 4-FS_SIMOES - parece ser uma coisa de progresso
+[0:17:38] - 4-FS_SIMOES - universal da civilização, né?
+[0:17:41] - 7-RAPHAELVICARONE - Olha, Tony, eu não sei mais de nada.
+[0:17:44] - 7-RAPHAELVICARONE - Da última vez que a gente tentou ajudar,
+[0:17:50] - 5-NOBREAK0497 - também era um progresso natural
+[0:17:50] - 4-FS_SIMOES - frágil, importante
+[0:17:52] - 4-FS_SIMOES - quero falar de uma questão
 [0:17:52] - 7-RAPHAELVICARONE - Exatamente.
-[0:17:54] - 5-NOBREAK0497 - Eu acho que a gente vai conseguir estragar
-[0:17:57] - 5-NOBREAK0497 - o progresso de alguma forma.
+[0:17:53] - 5-NOBREAK0497 - eu acho que a gente vai conseguir
+[0:17:56] - 5-NOBREAK0497 - estragar
+[0:17:56] - 4-FS_SIMOES - também a Aksel
+[0:17:58] - 4-FS_SIMOES - criado ontem
+[0:17:59] - 5-NOBREAK0497 - mas enfim
 [0:18:00] - 7-RAPHAELVICARONE - Eu acho que a gente devia fazer.
-[0:18:02] - 5-NOBREAK0497 - Mas, enfim...
-[0:18:03] - 4-FS_SIMOES - beleza então
-[0:18:04] - 6-NIGHTWOLFBIELZOVSKY - Beleza.
-[0:18:05] - 5-NOBREAK0497 - Há mais algum input que seja útil?
+[0:18:02] - 4-FS_SIMOES - então, o que que eles queriam
+[0:18:03] - 5-NOBREAK0497 - há mais algum input que seja útil?
+[0:18:11] - 4-FS_SIMOES - né?
 [0:18:11] - 7-RAPHAELVICARONE - Eu não tenho nada contra isso, não.
-[0:18:15] - 4-FS_SIMOES - mas você não duvidava não
-[0:18:18] - 4-FS_SIMOES - cavaleiro branco
-[0:18:23] - 4-FS_SIMOES - e das pessoas
-[0:18:30] - 7-RAPHAELVICARONE - Eu já não sei mais, cara, o que a gente está falando.
-[0:18:31] - 4-FS_SIMOES - porra
-[0:18:37] - 5-NOBREAK0497 - Luiz...
-[0:18:37] - 4-FS_SIMOES - nossa, pelo amor de Deus
-[0:18:42] - 4-FS_SIMOES - que golaço do Flamengo
-[0:18:43] - 5-NOBREAK0497 - Nossa, filho.
-[0:18:48] - 4-FS_SIMOES - cara, eu olho
-[0:18:49] - 5-NOBREAK0497 - Filho, Samo lindo.
-[0:18:49] - 7-RAPHAELVICARONE - Eu estou perdido.
-[0:18:52] - 5-NOBREAK0497 - Não tem jeito.
-[0:18:53] - 7-RAPHAELVICARONE - Tipo assim, a pessoa mais focada no RPG hoje está assistindo o jogo do Flamengo.
-[0:18:57] - 7-RAPHAELVICARONE - Essa sessão vai ser foda.
-[0:18:59] - 5-NOBREAK0497 - Caralho, que canetinha.
-[0:19:00] - 7-RAPHAELVICARONE - Desculpa.
-[0:19:02] - 4-FS_SIMOES - eu olho pro
-[0:19:03] - 5-NOBREAK0497 - O Bórim vai falar, caralho...
-[0:19:05] - 4-FS_SIMOES - pra Kellen
-[0:19:08] - 4-FS_SIMOES - ele tá
-[0:19:11] - 4-FS_SIMOES - na sala do lado
-[0:19:14] - 4-FS_SIMOES - já é então
-[0:19:17] - 4-FS_SIMOES - porque que a gente tá indo na cidade, irmão
-[0:19:22] - 4-FS_SIMOES - esse você tá falando do Dustin?
-[0:19:26] - 6-NIGHTWOLFBIELZOVSKY - é só o 2 mesmo
-[0:19:33] - 5-NOBREAK0497 - Não, de bom coração está faltando.
-[0:19:34] - 4-FS_SIMOES - é o Dustin, né?
-[0:19:36] - 4-FS_SIMOES - tá
-[0:19:36] - 5-NOBREAK0497 - De bom coração está em falta.
-[0:19:37] - 6-NIGHTWOLFBIELZOVSKY - o máximo que eu posso fazer
-[0:19:42] - 5-NOBREAK0497 - Eu consigo te entregar de coração de qualidade média.
-[0:19:43] - 4-FS_SIMOES - então beleza
-[0:19:47] - 3-HUGONORTH - Galera, dá dois segundos
-[0:19:50] - 5-NOBREAK0497 - É o máximo que eu posso fazer para você.
-[0:19:54] - 5-NOBREAK0497 - Meio coração.
-[0:19:56] - 6-NIGHTWOLFBIELZOVSKY - eu acho que é pegar ou largar
-[0:19:57] - 4-FS_SIMOES - coraçãozinho
-[0:19:57] - 5-NOBREAK0497 - Metade coração, metade figo.
-[0:19:59] - 4-FS_SIMOES - caralho
-[0:20:00] - 5-NOBREAK0497 - Coraçãozinho quente, é.
-[0:20:02] - 5-NOBREAK0497 - É.
-[0:20:06] - 4-FS_SIMOES - melhor do que metade com a moranga
-[0:20:11] - 9-GUSTAVONIKOV - 
-[0:20:13] - 4-FS_SIMOES - tá
-[0:20:17] - 4-FS_SIMOES - e aí
-[0:20:17] - 6-NIGHTWOLFBIELZOVSKY - tá
-[0:20:20] - 5-NOBREAK0497 - Porra, você também não pode confiar em qualquer um, né?
-[0:20:22] - 5-NOBREAK0497 - É.
-[0:20:33] - 5-NOBREAK0497 - Mas eu não sabia o que ia acontecer também, cara.
-[0:20:36] - 5-NOBREAK0497 - Estou tão surpreso quanto você.
-[0:20:36] - 4-FS_SIMOES - a
-[0:20:40] - 5-NOBREAK0497 - Fiquei, porra.
-[0:20:44] - 5-NOBREAK0497 - Eu também...
-[0:20:45] - 4-FS_SIMOES - e aí
-[0:20:48] - 5-NOBREAK0497 - Isso não é mentira, porra.
-[0:20:51] - 4-FS_SIMOES - Tá me amando?
-[0:20:52] - 5-NOBREAK0497 - Não, não é.
-[0:20:54] - 5-NOBREAK0497 - Não, eu não sabia exatamente o que ia acontecer.
-[0:20:56] - 5-NOBREAK0497 - Não, pô.
+[0:18:13] - 4-FS_SIMOES - walking
+[0:18:16] - 4-FS_SIMOES - ganhar algum can ос
+[0:18:18] - 4-FS_SIMOES - menos atrasos
+[0:18:24] - 7-RAPHAELVICARONE - Eu acho que a gente devia fazer.
+[0:18:27] - 5-NOBREAK0497 - porra filho, não para
+[0:18:30] - 7-RAPHAELVICARONE - Eu já não sei mais
+[0:18:30] - 9-GUSTAVONIKOV - Não, pô, é que eu pensei que a gente só ia pra cidade, pô, eu não sabia, eu não prestei atenção nessa parte que tinha coisa lá no ar.
+[0:18:31] - 4-FS_SIMOES - Porra.
+[0:18:32] - 5-NOBREAK0497 - Luiz, nossa filho
+[0:18:36] - 4-FS_SIMOES - Então tá bom.
+[0:18:41] - 4-FS_SIMOES - Nossa, pelo amor de Deus, que golaço do Flamengo!
+[0:18:44] - 4-FS_SIMOES - O Flamengo está muito ruim!
+[0:18:44] - 5-NOBREAK0497 - Samu lindo
+[0:18:47] - 7-RAPHAELVICARONE - O que a gente tá falando
+[0:18:49] - 4-FS_SIMOES - Cara, eu olho...
+[0:18:50] - 7-RAPHAELVICARONE - Tipo assim, a pessoa mais focada no RPG
+[0:18:51] - 5-NOBREAK0497 - estou de pau duro de novo, não tem jeito
+[0:18:52] - 4-FS_SIMOES - Eu olho para o...
+[0:18:55] - 7-RAPHAELVICARONE - Hoje tá assistindo o jogo do Flamengo
+[0:18:57] - 5-NOBREAK0497 - caralho, que canetinha
+[0:19:00] - 7-RAPHAELVICARONE - Essa sessão vai ser foda
+[0:19:00] - 9-GUSTAVONIKOV - Eu falo que eu confio no nosso novo Paladino, transformado, restaurado, reabilitado.
+[0:19:01] - 5-NOBREAK0497 - que canetinha de Samu lindo
+[0:19:03] - 5-NOBREAK0497 - hein filho
+[0:19:03] - 4-FS_SIMOES - Eu olho para a Karen, depois de falar tudo isso, ele está, sei lá, fazendo um sanduíche na sala do lado.
+[0:19:06] - 5-NOBREAK0497 - vocês estão
+[0:19:12] - 4-FS_SIMOES - Porra, beleza.
+[0:19:16] - 4-FS_SIMOES - O cara não sabe nem para que a gente está indo à cidade, irmão.
+[0:19:19] - 4-FS_SIMOES - Porra.
+[0:19:27] - 5-NOBREAK0497 - não, de bom coração está faltando
+[0:19:28] - 4-FS_SIMOES - Esse você está falando do Dustin?
+[0:19:29] - 2-MATHEUSBARTCOSTA - え?
+[0:19:30] - 9-GUSTAVONIKOV - Tem outro Paladino aqui, outra pessoa de bom coração?
+[0:19:33] - 4-FS_SIMOES - É o Dustin, né?
+[0:19:34] - 6-NIGHTWOLFBIELZOVSKY - É só o 2, hein, meu?
+[0:19:35] - 4-FS_SIMOES - É só o Dustin mesmo.
+[0:19:39] - 5-NOBREAK0497 - de bom coração está em falta
+[0:19:42] - 4-FS_SIMOES - Tá. Então, beleza.
+[0:19:43] - 5-NOBREAK0497 - eu consigo te entregar de coração de qualidade média
+[0:19:46] - 5-NOBREAK0497 - é o máximo que eu posso fazer por você
+[0:19:47] - 6-NIGHTWOLFBIELZOVSKY - O máximo que eu posso fazer...
+[0:19:49] - 4-FS_SIMOES - Beijinho...
+[0:19:53] - 5-NOBREAK0497 - mais ou menos assim
+[0:19:55] - 9-GUSTAVONIKOV - Eu aceito, eu aceito.
+[0:19:57] - 5-NOBREAK0497 - metade coração, metade figo
+[0:19:57] - 4-FS_SIMOES - Coraçãozinho quente.
+[0:19:58] - 9-GUSTAVONIKOV - Meio...
+[0:19:59] - 6-NIGHTWOLFBIELZOVSKY - É só o 2.
+[0:19:59] - 5-NOBREAK0497 - coraçãozinho quente, é
+[0:19:59] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:20:01] - 5-NOBREAK0497 - é
+[0:20:02] - 3-HUGONORTH - Galera, dá dois segundos.
+[0:20:05] - 4-FS_SIMOES - Caraio?
+[0:20:05] - 5-NOBREAK0497 - eu te entrego a pessoa que pensa
+[0:20:09] - 5-NOBREAK0497 - porra, você também não pode confiar em qualquer um, né
+[0:20:11] - 9-GUSTAVONIKOV - Mas tá bom pra mim. A última pessoa que eu confiei fez o teleportar uma pessoa pra um buraco negro.
+[0:20:11] - 4-FS_SIMOES - Melhor do que metade com a moranga.
+[0:20:16] - 6-NIGHTWOLFBIELZOVSKY - É pegar ou largar.
+[0:20:16] - 4-FS_SIMOES - Parabéns.
+[0:20:21] - 3-HUGONORTH - Legendas Adriana Zanotto
+[0:20:25] - 9-GUSTAVONIKOV - É exatamente isso.
+[0:20:27] - 5-NOBREAK0497 - mas eu não sabia o que ia acontecer também, cara
+[0:20:30] - 7-RAPHAELVICARONE - Confiança é algo
+[0:20:30] - 9-GUSTAVONIKOV - Você me ensinou a lição dura da vida, Bori.
+[0:20:36] - 5-NOBREAK0497 - estou tão surpreso quanto você
+[0:20:39] - 5-NOBREAK0497 - fiquei, porra
+[0:20:40] - 9-GUSTAVONIKOV - Eu só acho que na sua cabeça não ia acontecer nada de bom.
+[0:20:41] - 3-HUGONORTH - Valeu, fala de 7.
+[0:20:44] - 5-NOBREAK0497 - caralho, eu não sabia o que ia acontecer, cara
+[0:20:47] - 5-NOBREAK0497 - isso não é mentira, porra
+[0:20:47] - 3-HUGONORTH - Vai se fuder.
+[0:20:49] - 4-FS_SIMOES - Tá, meu amor?
+[0:20:50] - 3-HUGONORTH - Não é mentira.
+[0:20:50] - 5-NOBREAK0497 - não, não é
+[0:20:53] - 5-NOBREAK0497 - não é mentira
+[0:20:53] - 3-HUGONORTH - Quer dizer, é mentira.
+[0:20:56] - 5-NOBREAK0497 - eu não sabia exatamente o que ia acontecer
+[0:20:57] - 3-HUGONORTH - Claro que você sabia, porra.
+[0:21:00] - 7-RAPHAELVICARONE - Pra você saber, Luiz
+[0:21:00] - 9-GUSTAVONIKOV - Como que é que eu posso tirar essa informação?
+[0:21:00] - 3-HUGONORTH - Tu sabe o que é que agora tá usando, porra.
 [0:21:01] - 4-FS_SIMOES - Não.
-[0:21:03] - 5-NOBREAK0497 - Está na lore do meu personagem, que ele queria saber o que acontecia com...
-[0:21:06] - 5-NOBREAK0497 - Quando eu botava uma bag of holding dentro da bag of holding.
-[0:21:07] - 4-FS_SIMOES - Tá me amando.
-[0:21:11] - 5-NOBREAK0497 - É?
-[0:21:13] - 7-RAPHAELVICARONE - É
-[0:21:15] - 7-RAPHAELVICARONE - O Bóring
-[0:21:18] - 7-RAPHAELVICARONE - Instigou
-[0:21:18] - 5-NOBREAK0497 - Só que ele achava que iria explodir.
-[0:21:21] - 4-FS_SIMOES - Não, não, peraí.
-[0:21:21] - 5-NOBREAK0497 - A explosão, tipo...
-[0:21:22] - 7-RAPHAELVICARONE - O Bóring
-[0:21:24] - 5-NOBREAK0497 - Não sabia.
-[0:21:24] - 7-RAPHAELVICARONE - O Caelion
-[0:21:28] - 4-FS_SIMOES - Tinha uma líder rebelde que ela deu uma surtada.
-[0:21:29] - 5-NOBREAK0497 - Não sei.
-[0:21:31] - 4-FS_SIMOES - Ela deu uma surtada, assim, tipo assim, ela ficou extremamente maluca e começou a atacar todo mundo.
-[0:21:32] - 5-NOBREAK0497 - Vamos lá.
-[0:21:34] - 5-NOBREAK0497 - Também queскую.
-[0:21:36] - 5-NOBREAK0497 - A gloveada começar.
-[0:21:37] - 4-FS_SIMOES - Aí o Callion falou assim, eu vou lá conversar com ela.
-[0:21:40] - 4-FS_SIMOES - Aí o Borin falou, claro, é só você chegar do lado dela e botar esse bag of holding dentro desse baú of holding.
-[0:21:42] - 5-NOBREAK0497 - O周do.
-[0:21:44] - 5-NOBREAK0497 - Vamos lá.
-[0:21:45] - 3-HUGONORTH - Beleza
-[0:21:47] - 5-NOBREAK0497 - Teacher da igreja de hoje.
-[0:21:50] - 4-FS_SIMOES - E ela com certeza vai entender o seu ponto.
-[0:21:53] - 5-NOBREAK0497 - Oi.
+[0:21:02] - 9-GUSTAVONIKOV - Tá lá.
+[0:21:02] - 5-NOBREAK0497 - não, pô, tá na loja do meu personagem
+[0:21:06] - 5-NOBREAK0497 - quando botava uma bag of hold dentro da bag of hold
+[0:21:07] - 9-GUSTAVONIKOV - Essa, essa outra ali.
+[0:21:08] - 4-FS_SIMOES - Peraí.
+[0:21:08] - 5-NOBREAK0497 - é?
+[0:21:10] - 3-HUGONORTH - Ah, é?
+[0:21:11] - 9-GUSTAVONIKOV - Isso!
+[0:21:12] - 3-HUGONORTH - Oi.
+[0:21:13] - 9-GUSTAVONIKOV - Não me lembro a palavra do outro.
+[0:21:14] - 7-RAPHAELVICARONE - Foi isso que aconteceu
+[0:21:18] - 5-NOBREAK0497 - só que ele achava que iria explodir
+[0:21:20] - 7-RAPHAELVICARONE - O Boren convenceu o Caelion
+[0:21:21] - 3-HUGONORTH - Ei, o que é isso?
+[0:21:21] - 5-NOBREAK0497 - a explosão, tipo
+[0:21:24] - 5-NOBREAK0497 - não sabia
+[0:21:25] - 7-RAPHAELVICARONE - A colocar
+[0:21:27] - 4-FS_SIMOES - O Tim é uma líder rebelde
+[0:21:28] - 3-HUGONORTH - Ele ia fantastizar.
+[0:21:28] - 9-GUSTAVONIKOV - Tem outro aqui?
+[0:21:29] - 4-FS_SIMOES - que ela deu uma surtada.
+[0:21:30] - 5-NOBREAK0497 - que iria ocasionar uma explosão
+[0:21:33] - 4-FS_SIMOES - ela ficou extremamente maluca
+[0:21:33] - 3-HUGONORTH - É, o MaITE de Narcos.
+[0:21:36] - 3-HUGONORTH - Mas, ele já tem assim a ideia da Volt idioticiada, né?
+[0:21:37] - 4-FS_SIMOES - Aí o Callum falou assim,
+[0:21:38] - 5-NOBREAK0497 - foi tudo por Deus
+[0:21:40] - 4-FS_SIMOES - Aí o Boren falou,
+[0:21:41] - 5-NOBREAK0497 - mas até quando ele começou a falar
+[0:21:43] - 5-NOBREAK0497 - nunca mais
+[0:21:45] - 4-FS_SIMOES - e botar esse bag of holding
+[0:21:45] - 3-HUGONORTH - Méd акți Sunday of Life.
+[0:21:46] - 5-NOBREAK0497 - é o monstro
+[0:21:48] - 4-FS_SIMOES - dentro desse baú,
+[0:21:48] - 3-HUGONORTH - Maceió.
+[0:21:48] - 5-NOBREAK0497 - mas foi isso
+[0:21:50] - 5-NOBREAK0497 - country
+[0:21:51] - 4-FS_SIMOES - E ela com certeza vai entender o seu ponto.
 [0:21:53] - 4-FS_SIMOES - E a mulher foi sugada por além.
-[0:22:02] - 7-RAPHAELVICARONE - Obrigado.
-[0:22:05] - 3-HUGONORTH - E você rolou bem na persuasão
+[0:21:57] - 5-NOBREAK0497 - Não, o argumento foi, cara,
+[0:22:00] - 7-RAPHAELVICARONE - O Boren convenceu o Caelion
+[0:22:04] - 8-LUISFELIPEPJVAZQUEZ - Que argumento maravilhoso.
 [0:22:08] - 5-NOBREAK0497 - aí vai acontecer uma magia
 [0:22:12] - 5-NOBREAK0497 - De fato, ela ficou.
-[0:22:16] - 3-HUGONORTH - No deception
+[0:22:13] - 3-HUGONORTH - É.
 [0:22:17] - 5-NOBREAK0497 - É.
-[0:22:19] - 5-NOBREAK0497 - Eu tenho que rolar a Deception agora?
-[0:22:19] - 3-HUGONORTH - Vou dizer que sim
-[0:22:23] - 5-NOBREAK0497 - Se eu rolar, eu vou...
-[0:22:24] - 3-HUGONORTH - Porque você sabia que alguma coisa bizarra ia acontecer
-[0:22:26] - 6-NIGHTWOLFBIELZOVSKY - Pelo entretenimento
-[0:22:27] - 3-HUGONORTH - Não ia acontecer a questão de convencê-la
-[0:22:30] - 3-HUGONORTH - Rola um insight
-[0:22:32] - 7-RAPHAELVICARONE - 25.
-[0:22:34] - 3-HUGONORTH - O Nikov
-[0:22:36] - 3-HUGONORTH - O Kael
-[0:22:39] - 5-NOBREAK0497 - Rola mal, aí, por favor.
-[0:22:41] - 9-GUSTAVONIKOV - Desculpa.
-[0:22:43] - 4-FS_SIMOES - 7 a 0, filho.
-[0:22:44] - 7-RAPHAELVICARONE - Ah, quase.
-[0:22:44] - 6-NIGHTWOLFBIELZOVSKY - Claro
-[0:22:51] - 3-HUGONORTH - Que talvez
-[0:22:53] - 3-HUGONORTH - Sabia que ia dar merda
-[0:22:56] - 3-HUGONORTH - Quando ele te sugeriu de fazer aquilo
-[0:23:00] - 5-NOBREAK0497 - Põe na sua cabeça que talvez ele soubesse que ia dar merda, mas não qual merda.
-[0:23:00] - 9-GUSTAVONIKOV - Bem.
-[0:23:04] - 3-HUGONORTH - Quem jáã
-[0:23:05] - 5-NOBREAK0497 - Caralho, 7x0?
-[0:23:08] - 4-FS_SIMOES - 8 a 0,
-[0:23:11] - 5-NOBREAK0497 - E aí, porra, vou te falar, o Flamengo resolveu, tá todo mundo afim de jogar contra o Vitória.
-[0:23:11] - 9-GUSTAVONIKOV - Tá.
-[0:23:12] - 6-NIGHTWOLFBIELZOVSKY - ah
-[0:23:20] - 6-NIGHTWOLFBIELZOVSKY - e jogar contra os cara da pai também sympath por aí
-[0:23:21] - 3-HUGONORTH - Beleza, Kellen
-[0:23:31] - 9-GUSTAVONIKOV - Eu penso que não dá pra confiar em ninguém nessa PT.
-[0:23:31] - 5-NOBREAK0497 - Pensa nisso, mas pensa com carinho.
-[0:23:32] - 7-RAPHAELVICARONE - Como você fala isso comigo presente?
-[0:23:38] - 3-HUGONORTH - é isso, você tem uma suspeita de que
-[0:23:40] - 4-FS_SIMOES - não, não, pera, gente, só vai, só vai, só vai, gente, vambora.
-[0:23:41] - 3-HUGONORTH - o Borin
-[0:23:44] - 3-HUGONORTH - vez
-[0:23:47] - 3-HUGONORTH - Bom dia
-[0:23:50] - 5-NOBREAK0497 - O Bórem é um...
-[0:23:53] - 5-NOBREAK0497 - Vamos lá, vamos lá.
-[0:23:56] - 9-GUSTAVONIKOV - Ali vocês ficaram me julgando.
-[0:23:56] - 6-NIGHTWOLFBIELZOVSKY - Dá pra confiar no Deus, Ricardo
-[0:23:59] - 5-NOBREAK0497 - Pera aí.
-[0:24:01] - 9-GUSTAVONIKOV - Assim, não dessa forma que você tá imaginando, provavelmente.
-[0:24:02] - 5-NOBREAK0497 - Vamos analisar.
-[0:24:02] - 7-RAPHAELVICARONE - Ele tem um ponto, Caélio.
-[0:24:02] - 3-HUGONORTH - Boa tarde
-[0:24:04] - 5-NOBREAK0497 - Friamente.
-[0:24:07] - 4-FS_SIMOES - 8 a 0, 1,
-[0:24:11] - 5-NOBREAK0497 - Você foi lá pra resolver a questão com a Rita.
+[0:22:17] - 3-HUGONORTH - No deception, acho.
+[0:22:19] - 3-HUGONORTH - Acho, sei lá.
+[0:22:20] - 5-NOBREAK0497 - Tá bom, eu rolo deception.
+[0:22:23] - 5-NOBREAK0497 - Se for rolar...
+[0:22:27] - 5-NOBREAK0497 - Tá aí.
+[0:22:27] - 3-HUGONORTH - Não ia acontecer a questão de convencê-la.
+[0:22:30] - 7-RAPHAELVICARONE - Lei de Defesa
+[0:22:30] - 8-LUISFELIPEPJVAZQUEZ - Nossa senhora!
+[0:22:33] - 3-HUGONORTH - Rola um insight, o Nikov.
+[0:22:37] - 3-HUGONORTH - Nikov, ou o Kael.
+[0:22:39] - 5-NOBREAK0497 - Rola mal, hein, por favor.
+[0:22:43] - 7-RAPHAELVICARONE - Uma SAS
+[0:22:45] - 7-RAPHAELVICARONE - É né
+[0:22:47] - 7-RAPHAELVICARONE - Pois é
+[0:22:50] - 3-HUGONORTH - Kael, eu...
+[0:22:50] - 7-RAPHAELVICARONE - Que agora
+[0:22:52] - 7-RAPHAELVICARONE - Eu meio que
+[0:22:57] - 5-NOBREAK0497 - Põe na sua cabeça
+[0:22:57] - 3-HUGONORTH - de fazer aquilo.
+[0:22:58] - 7-RAPHAELVICARONE - Que agora
+[0:22:59] - 9-GUSTAVONIKOV - Bem
+[0:23:01] - 5-NOBREAK0497 - que talvez ele soubesse
+[0:23:03] - 5-NOBREAK0497 - que ia dar merda, mas não.
+[0:23:05] - 4-FS_SIMOES - 7x0, filho.
+[0:23:09] - 5-NOBREAK0497 - Não adianta se queixar.
+[0:23:12] - 4-FS_SIMOES - Que isso?
+[0:23:16] - 4-FS_SIMOES - Botaram pra jogar com criança, filho.
+[0:23:19] - 4-FS_SIMOES - 7x0, filho.
+[0:23:20] - 3-HUGONORTH - E ele ficou muito surpreso.
+[0:23:24] - 5-NOBREAK0497 - Vou te falar,
+[0:23:27] - 5-NOBREAK0497 - resolveu, tá todo mundo
+[0:23:29] - 5-NOBREAK0497 - afim de jogar contra o Vitória.
+[0:23:29] - 6-NIGHTWOLFBIELZOVSKY - Dá para confiar no Deus, cara.
+[0:23:29] - 9-GUSTAVONIKOV - Eu penso que não dá pra confiar em ninguém
+[0:23:37] - 3-HUGONORTH - Beleza.
+[0:23:42] - 3-HUGONORTH - O Boring mentiu pra você naquela...
+[0:23:44] - 3-HUGONORTH - Naquela vez.
+[0:23:48] - 5-NOBREAK0497 - Pensa nisso,
+[0:23:48] - 3-HUGONORTH - Sobre...
+[0:23:49] - 4-FS_SIMOES - Que isso?
+[0:23:51] - 4-FS_SIMOES - 6x0, filho.
+[0:23:52] - 5-NOBREAK0497 - O Boren é um...
+[0:23:54] - 9-GUSTAVONIKOV - Nessa PT
+[0:23:54] - 4-FS_SIMOES - 8x0, filho.
+[0:23:57] - 5-NOBREAK0497 - Vamos lá, vamos lá.
+[0:23:58] - 4-FS_SIMOES - 9x0, filho.
+[0:23:59] - 9-GUSTAVONIKOV - Assim
+[0:24:00] - 5-NOBREAK0497 - Peraí, peraí, peraí.
+[0:24:00] - 7-RAPHAELVICARONE - Vem comigo presente
+[0:24:02] - 5-NOBREAK0497 - Vamos analisar
+[0:24:04] - 4-FS_SIMOES - Não, não, peraí, gente.
+[0:24:07] - 4-FS_SIMOES - Vamos embora.
+[0:24:07] - 5-NOBREAK0497 - Não, isso é o Boren falando mesmo.
+[0:24:09] - 4-FS_SIMOES - Ah, tá. Desculpa.
+[0:24:11] - 5-NOBREAK0497 - Você foi lá pra resolver
+[0:24:14] - 4-FS_SIMOES - 9x0, filho.
 [0:24:15] - 5-NOBREAK0497 - Correto?
-[0:24:21] - 9-GUSTAVONIKOV - Bem, contra fato...
-[0:24:22] - 5-NOBREAK0497 - Você foi lá pra resolver a questão com a Rita.
+[0:24:18] - 9-GUSTAVONIKOV - Não dessa forma que você está imaginando
+[0:24:20] - 3-HUGONORTH - Tchau.
+[0:24:21] - 9-GUSTAVONIKOV - Provavelmente
+[0:24:21] - 5-NOBREAK0497 - Vamos lá.
 [0:24:24] - 5-NOBREAK0497 - Tá resolvido.
-[0:24:29] - 7-RAPHAELVICARONE - Isso aí?
-[0:24:29] - 5-NOBREAK0497 - Ela...
-[0:24:32] - 9-GUSTAVONIKOV - Então, mas a gente não tirou as crianças de lá da cidade, você sabe, né?
-[0:24:33] - 4-FS_SIMOES - 9 a 0, 1,
-[0:24:35] - 7-RAPHAELVICARONE - Eu vou falar isso.
-[0:24:37] - 4-FS_SIMOES - 8 a 0, 1,
-[0:24:39] - 4-FS_SIMOES - 
-[0:24:39] - 9-GUSTAVONIKOV - Então, né?
-[0:24:41] - 5-NOBREAK0497 - Mas aí...
+[0:24:27] - 5-NOBREAK0497 - Ela não está mais
+[0:24:27] - 7-RAPHAELVICARONE - Ele tem um ponto, Caio
+[0:24:28] - 9-GUSTAVONIKOV - Contra a gente
+[0:24:29] - 7-RAPHAELVICARONE - Isso aí.
+[0:24:30] - 9-GUSTAVONIKOV - Então, mas a gente não tirou
+[0:24:32] - 5-NOBREAK0497 - matando crianças.
+[0:24:35] - 5-NOBREAK0497 - Onde ela tá?
+[0:24:36] - 9-GUSTAVONIKOV - A gente não tirou as crianças de lá da cidade
+[0:24:39] - 9-GUSTAVONIKOV - Você sabe, né?
+[0:24:40] - 5-NOBREAK0497 - Mas aí,
 [0:24:45] - 5-NOBREAK0497 - 50%.
-[0:24:50] - 9-GUSTAVONIKOV - Agora não...
-[0:24:52] - 5-NOBREAK0497 - Eu tava esperando ouvir o input de alguém.
-[0:24:56] - 6-NIGHTWOLFBIELZOVSKY - Vamos falar a verdade
-[0:24:59] - 6-NIGHTWOLFBIELZOVSKY - As crianças não iam conseguir correr
-[0:25:02] - 6-NIGHTWOLFBIELZOVSKY - Vamos ser sinceros
-[0:25:02] - 5-NOBREAK0497 - Pode.
-[0:25:05] - 7-RAPHAELVICARONE - A gente salvou uma.
-[0:25:09] - 4-FS_SIMOES - a gente levou uma
-[0:25:10] - 5-NOBREAK0497 - Vamos parar pra pensar.
-[0:25:13] - 9-GUSTAVONIKOV - Mas assim, agora já foi.
-[0:25:15] - 9-GUSTAVONIKOV - Depois da merda que a gente fez...
-[0:25:16] - 5-NOBREAK0497 - Isso.
-[0:25:16] - 4-FS_SIMOES - a gente já levou uma
-[0:25:17] - 3-HUGONORTH - E aí, isso?
-[0:25:20] - 4-FS_SIMOES - o que é um começo
-[0:25:24] - 7-RAPHAELVICARONE - E a Letícia?
-[0:25:25] - 9-GUSTAVONIKOV - O que dá pra fazer agora é seguir em frente.
-[0:25:27] - 4-FS_SIMOES - isso, isso aí
-[0:25:30] - 9-GUSTAVONIKOV - Ficar preso no passado só vai nos atrasar.
-[0:25:32] - 5-NOBREAK0497 - Deixa...
-[0:25:33] - 4-FS_SIMOES - como é que você está andando
-[0:25:33] - 9-GUSTAVONIKOV - Eu olho assim pra cara com aquele olhinho de cachorro suspeito pro Boren e vou andando.
-[0:25:36] - 5-NOBREAK0497 - Ela tá presa em algum lugar.
-[0:25:41] - 5-NOBREAK0497 - Agora...
-[0:25:46] - 3-HUGONORTH - Show.
-[0:25:54] - 4-FS_SIMOES - você está dentro da pedra, irmão
-[0:25:56] - 9-GUSTAVONIKOV - Ah, a pedra não é um espaço?
-[0:25:59] - 9-GUSTAVONIKOV - Eu pensei que era tipo outra dimensão.
-[0:26:01] - 4-FS_SIMOES - é um quartinho
-[0:26:03] - 9-GUSTAVONIKOV - Entendi.
-[0:26:04] - 5-NOBREAK0497 - O que eu preciso...
-[0:26:07] - 5-NOBREAK0497 - O que é, né...
-[0:26:10] - 7-RAPHAELVICARONE - Obrigado.
-[0:26:11] - 5-NOBREAK0497 - Que aí eu realmente não sei...
-[0:26:16] - 5-NOBREAK0497 - Porque aí, se ela sair, ela vai vir muito puta com você, cara.
-[0:26:19] - 3-HUGONORTH - Yeah.
-[0:26:20] - 9-GUSTAVONIKOV - Assim...
-[0:26:23] - 9-GUSTAVONIKOV - Talvez da pior forma.
-[0:26:25] - 9-GUSTAVONIKOV - Mas...
-[0:26:28] - 5-NOBREAK0497 - Eu vou te apoiar.
-[0:26:30] - 9-GUSTAVONIKOV - Como você me apoiou...
-[0:26:35] - 9-GUSTAVONIKOV - Entendi.
-[0:26:35] - 5-NOBREAK0497 - Eu apoiei.
-[0:26:38] - 5-NOBREAK0497 - É...
-[0:26:41] - 5-NOBREAK0497 - Eu tava ali...
-[0:26:44] - 5-NOBREAK0497 - Eu tava do seu lado.
-[0:26:50] - 9-GUSTAVONIKOV - Julgando pelo...
-[0:26:51] - 3-HUGONORTH - Fala um deception
-[0:26:54] - 9-GUSTAVONIKOV - Eu tenho certeza que você foi ver...
-[0:26:57] - 9-GUSTAVONIKOV - Não pra me apoiar, mas pra ver a desgraça acontecendo.
-[0:27:01] - 5-NOBREAK0497 - Que...
-[0:27:03] - 9-GUSTAVONIKOV - Tá.
-[0:27:04] - 5-NOBREAK0497 - A desgraça pra ela.
-[0:27:05] - 4-FS_SIMOES - Tá, então a gente ficou definido
-[0:27:07] - 5-NOBREAK0497 - Você é meu amigo.
-[0:27:11] - 3-HUGONORTH - Beleza, beleza
-[0:27:13] - 5-NOBREAK0497 - Caralho.
-[0:27:16] - 9-GUSTAVONIKOV - Mas enfim, vamos seguir pro jogo no...
-[0:27:17] - 5-NOBREAK0497 - Eu tô...
-[0:27:19] - 9-GUSTAVONIKOV - Ah, lembrei agora.
-[0:27:19] - 3-HUGONORTH - Mais alguma coisa? Vocês conversam
-[0:27:21] - 3-HUGONORTH - Dentro da pedra? Tony, alguma coisa mais
-[0:27:25] - 4-FS_SIMOES - De que a gente vai tentar persuadir
-[0:27:27] - 4-FS_SIMOES - A cidade dos magos lá
-[0:27:30] - 4-FS_SIMOES - A não aplicar a lei do telepóptero
-[0:27:35] - 4-FS_SIMOES - E de preferência o que, Dux?
-[0:27:37] - 9-GUSTAVONIKOV - Eu voto no nosso...
-[0:27:37] - 3-HUGONORTH - Puta que pariu
-[0:27:43] - 4-FS_SIMOES - É, exatamente
-[0:27:47] - 4-FS_SIMOES - Para se alguém
-[0:27:51] - 9-GUSTAVONIKOV - No magro da nossa PT.
-[0:27:51] - 4-FS_SIMOES - Não, não
-[0:27:52] - 2-MATHEUSBARTCOSTA - Aí todo mundo vai pegar fogo, irmão
-[0:27:55] - 4-FS_SIMOES - Ah, outra coisa
-[0:27:58] - 4-FS_SIMOES - Eu não falei para a Letícia o que a gente está fazendo
-[0:28:03] - 4-FS_SIMOES - Que se ela quiser ela pode vir junto
-[0:28:07] - 9-GUSTAVONIKOV - Sônia for
-[0:28:07] - 4-FS_SIMOES - Não sabe do nosso objetivo lá
-[0:28:10] - 4-FS_SIMOES - Pegando a...
-[0:28:10] - 7-RAPHAELVICARONE - E por que ela está indo com a gente mesmo?
-[0:28:14] - 5-NOBREAK0497 - Caralho, a gente trouxe o caos pra cidade, né, cara?
-[0:28:14] - 4-FS_SIMOES - E ela não tinha o que fazer na vida dela
-[0:28:18] - 4-FS_SIMOES - Por algum motivo
-[0:28:19] - 7-RAPHAELVICARONE - Mas eu achei que ela ia ficar lá em Rilonde mesmo.
-[0:28:21] - 9-GUSTAVONIKOV - Não magro da nossa schools...
-[0:28:24] - 9-GUSTAVONIKOV - Eu entendo muito mesmo...
-[0:28:26] - 9-GUSTAVONIKOV - Tá.
-[0:28:27] - 7-RAPHAELVICARONE - Culpa sua, Barry.
-[0:28:29] - 3-HUGONORTH - Show
-[0:28:29] - 5-NOBREAK0497 - Por que a culpa é minha?
-[0:28:31] - 7-RAPHAELVICARONE - Alguém precisa ganhar a culpa.
-[0:28:32] - 9-GUSTAVONIKOV - Sim, sim, sim.
-[0:28:36] - 4-FS_SIMOES - Não
+[0:24:50] - 9-GUSTAVONIKOV - Então, né?
+[0:24:50] - 6-NIGHTWOLFBIELZOVSKY - Vamos falar a verdade?
+[0:24:51] - 5-NOBREAK0497 - eu tava esperando ouvir o input
+[0:24:54] - 5-NOBREAK0497 - de alguém.
+[0:24:57] - 5-NOBREAK0497 - Você resolveu?
+[0:24:59] - 6-NIGHTWOLFBIELZOVSKY - As crianças não iam conseguir correr.
+[0:24:59] - 9-GUSTAVONIKOV - A gente ia tentar ajudar elas a saírem da cidade, né?
+[0:25:00] - 5-NOBREAK0497 - também está at travailler bastante bem.
+[0:25:01] - 6-NIGHTWOLFBIELZOVSKY - A verdade seja dita.
+[0:25:02] - 5-NOBREAK0497 - no teatrovesco,
+[0:25:04] - 6-NIGHTWOLFBIELZOVSKY - Vamos ser sinceros.
+[0:25:04] - 5-NOBREAK0497 - algumas água e aí
+[0:25:07] - 5-NOBREAK0497 - Já caiu num curso massacre,
+[0:25:10] - 5-NOBREAK0497 - ända.
+[0:25:12] - 4-FS_SIMOES - A gente levou uma já
+[0:25:13] - 9-GUSTAVONIKOV - Mas assim, agora já foi
+[0:25:13] - 5-NOBREAK0497 - porque eu não consigo entrar
+[0:25:15] - 5-NOBREAK0497 - Olha assim,
+[0:25:16] - 4-FS_SIMOES - Já
+[0:25:16] - 9-GUSTAVONIKOV - Bem
+[0:25:18] - 5-NOBREAK0497 - onde eu fiz o show,
+[0:25:19] - 4-FS_SIMOES - a gente já levou uma, o que é um começo.
+[0:25:21] - 7-RAPHAELVICARONE - A gente salvou uma.
+[0:25:21] - 5-NOBREAK0497 - Aua,
+[0:25:24] - 5-NOBREAK0497 - o de Reinventado em gotcha
+[0:25:25] - 7-RAPHAELVICARONE - E a Letícia?
+[0:25:26] - 9-GUSTAVONIKOV - O que dá pra fazer agora é seguir em frente
+[0:25:26] - 4-FS_SIMOES - E a Letícia.
+[0:25:27] - 5-NOBREAK0497 - isso, deixa
+[0:25:29] - 7-RAPHAELVICARONE - Dá círculos.
+[0:25:29] - 9-GUSTAVONIKOV - Ficar preso no passado
+[0:25:32] - 4-FS_SIMOES - Isso, isso aí.
+[0:25:33] - 5-NOBREAK0497 - ele ficar preso é coisa
+[0:25:33] - 9-GUSTAVONIKOV - Eu olho assim pra cara
+[0:25:35] - 5-NOBREAK0497 - da Rita, ela tá presa em algum lugar
+[0:25:37] - 5-NOBREAK0497 - a gente tá surdo
+[0:25:38] - 4-FS_SIMOES - Num plano...
+[0:25:47] - 9-GUSTAVONIKOV - Com aquele olhinho de cachorro suspeito pro Boren
+[0:25:49] - 9-GUSTAVONIKOV - E vou andando
+[0:25:57] - 5-NOBREAK0497 - agora
+[0:25:57] - 9-GUSTAVONIKOV - Normal?
+[0:25:59] - 4-FS_SIMOES - É cinco metros.
+[0:25:59] - 7-RAPHAELVICARONE - Certo.
+[0:25:59] - 9-GUSTAVONIKOV - Outra dimensão
+[0:26:02] - 4-FS_SIMOES - Tipo, é um quartinho.
+[0:26:03] - 9-GUSTAVONIKOV - Entendi
+[0:26:04] - 5-NOBREAK0497 - o que eu preciso
+[0:26:05] - 9-GUSTAVONIKOV - Assim
+[0:26:07] - 5-NOBREAK0497 - o que é de fato uma preocupação
+[0:26:09] - 5-NOBREAK0497 - e eu preciso estudar
+[0:26:13] - 5-NOBREAK0497 - a possibilidade dela sair de lá
+[0:26:15] - 5-NOBREAK0497 - que aí se ela sair, ela vai vir
+[0:26:18] - 5-NOBREAK0497 - eu
+[0:26:20] - 9-GUSTAVONIKOV - Um dia a gente vai descobrir, talvez
+[0:26:23] - 9-GUSTAVONIKOV - Talvez da pior forma
+[0:26:25] - 9-GUSTAVONIKOV - Mas
+[0:26:27] - 5-NOBREAK0497 - vou te apoiar
+[0:26:29] - 5-NOBREAK0497 - porque eu tava invisível
+[0:26:29] - 9-GUSTAVONIKOV - , como você me apoiou
+[0:26:32] - 5-NOBREAK0497 - eu apoiei
+[0:26:34] - 9-GUSTAVONIKOV - Da última vez
+[0:26:37] - 5-NOBREAK0497 - eu dei muito
+[0:26:41] - 5-NOBREAK0497 - eu tava ali mentalmente
+[0:26:43] - 5-NOBREAK0497 - eu tava com você, eu tava do seu lado
+[0:26:47] - 5-NOBREAK0497 - mas eu tava do seu lado
+[0:26:50] - 9-GUSTAVONIKOV - Julgando pelo brilho nos seus olhos
+[0:26:52] - 9-GUSTAVONIKOV - Quando você falou desse experimento
+[0:26:56] - 9-GUSTAVONIKOV - Não pra me apoiar
+[0:26:57] - 5-NOBREAK0497 - a desgraça pra ela
+[0:26:58] - 9-GUSTAVONIKOV - Mas pra ver a desgraça acontecendo
+[0:27:05] - 5-NOBREAK0497 - não pra você, você é meu amigo
+[0:27:09] - 9-GUSTAVONIKOV - Mas enfim, vamos seguir pro
+[0:27:13] - 5-NOBREAK0497 - caralho
+[0:27:17] - 9-GUSTAVONIKOV - Pro Hugo no traseiro
+[0:27:22] - 4-FS_SIMOES - Tá, então a gente ficou definido de que a gente vai tentar persuadir
+[0:27:27] - 5-NOBREAK0497 - емуdo
+[0:27:27] - 4-FS_SIMOES - a cidade dos magos lá a não aplicar a lei do telepósito.
+[0:27:29] - 9-GUSTAVONIKOV - , né?
+[0:27:30] - 5-NOBREAK0497 - остав임us
+[0:27:33] - 5-NOBREAK0497 - o que querolp
+[0:27:33] - 7-RAPHAELVICARONE - Sim.
+[0:27:36] - 5-NOBREAK0497 - o que to explanando
+[0:27:36] - 7-RAPHAELVICARONE - Que não seja você.
+[0:27:36] - 9-GUSTAVONIKOV - Eu voto no nosso...
+[0:27:37] - 4-FS_SIMOES - E de preferência o quê?
+[0:27:39] - 5-NOBREAK0497 - de doce
+[0:27:40] - 4-FS_SIMOES - É, exatamente.
+[0:27:41] - 5-NOBREAK0497 - fica
+[0:27:41] - 7-RAPHAELVICARONE - Fale com alguém lá.
+[0:27:43] - 5-NOBREAK0497 - qualque
+[0:27:44] - 4-FS_SIMOES - Eu, eu só vou tá lá se alguém sofrer algum tipo de injúria, eu bater na cara deles.
+[0:27:47] - 5-NOBREAK0497 - satisfaz
+[0:27:51] - 9-GUSTAVONIKOV - No mago da nossa PT
+[0:27:51] - 4-FS_SIMOES - Não, não, não.
+[0:27:52] - 7-RAPHAELVICARONE - Eu acho que ele é o que tem mais...
+[0:27:53] - 5-NOBREAK0497 - e ainda
+[0:27:53] - 2-MATHEUSBARTCOSTA - Aí todo mundo vai pegar fogo, irmão.
+[0:27:55] - 5-NOBREAK0497 - não
+[0:27:55] - 4-FS_SIMOES - Ah, outra coisa, eu não falei pra Letícia o que a gente tá fazendo.
+[0:27:59] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:27:59] - 7-RAPHAELVICARONE - E por que ela tá indo com a gente mesmo?
+[0:27:59] - 9-GUSTAVONIKOV - 
+[0:28:01] - 4-FS_SIMOES - Eu falei pra ela que a gente tá indo pra cidade e que se ela quiser ela pode vir junto,
+[0:28:05] - 4-FS_SIMOES - então ela não sabe de nada que tá acontecendo, não sabe do nosso objetivo lá.
+[0:28:08] - 4-FS_SIMOES - Ah, não é?
+[0:28:11] - 4-FS_SIMOES - pegando a...
+[0:28:16] - 4-FS_SIMOES - a cidade dela acabou destruída...
+[0:28:19] - 7-RAPHAELVICARONE - Ah, mas eu achei que ela ia ficar lá em Rilonde mesmo.
+[0:28:19] - 4-FS_SIMOES - por algum motivo...
+[0:28:26] - 5-NOBREAK0497 - Por que a culpa é minha?
+[0:28:27] - 7-RAPHAELVICARONE - Culpa sua, Bari.
+[0:28:29] - 4-FS_SIMOES - acho que vai ser oito agora...
+[0:28:29] - 7-RAPHAELVICARONE - Alguém precisa ganhar a culpa.
+[0:28:29] - 9-GUSTAVONIKOV - tried to the best
+[0:28:36] - 4-FS_SIMOES - não...
 [0:28:37] - 5-NOBREAK0497 - Foi você que quis entregar a mama.
-[0:28:41] - 7-RAPHAELVICARONE - Sim
+[0:28:38] - 9-GUSTAVONIKOV - Puta que pariu
+[0:28:40] - 7-RAPHAELVICARONE - Mas eu não entreguei, não é mesmo?
+[0:28:41] - 9-GUSTAVONIKOV - Sunanya uma vergonha
+[0:28:43] - 9-GUSTAVONIKOV - Dando-se queko
+[0:28:44] - 5-NOBREAK0497 - Não tem nem como eu estar falando isso porque eu não estava presente, né?
 [0:28:47] - 5-NOBREAK0497 - Foi mal, me perdi no personagem.
+[0:28:49] - 9-GUSTAVONIKOV - Foi assim
 [0:28:49] - 5-NOBREAK0497 - Segue aí.
-[0:28:52] - 7-RAPHAELVICARONE - Então...
-[0:28:52] - 2-MATHEUSBARTCOSTA - Só uma dúvida
-[0:28:52] - 3-HUGONORTH - É
-[0:28:56] - 3-HUGONORTH - Alguém vai fazer mais alguma coisa
-[0:29:00] - 3-HUGONORTH - A gente chegar no santuário?
-[0:29:02] - 9-GUSTAVONIKOV - Meu Deus, cara.
-[0:29:03] - 2-MATHEUSBARTCOSTA - A gente não teve long rest, né?
-[0:29:05] - 2-MATHEUSBARTCOSTA - Em nenhum momento
-[0:29:06] - 3-HUGONORTH - Oi
-[0:29:07] - 4-FS_SIMOES - Todo esse tempo
-[0:29:08] - 3-HUGONORTH - Todos os dias
-[0:29:10] - 3-HUGONORTH - Vocês
-[0:29:11] - 2-MATHEUSBARTCOSTA - Tá bom
-[0:29:14] - 3-HUGONORTH - Sete dias até agora
-[0:29:16] - 3-HUGONORTH - Dia seguinte
-[0:29:19] - 3-HUGONORTH - Mais nada
-[0:29:21] - 3-HUGONORTH - Vocês chegam finalmente no santuário
-[0:29:22] - 7-RAPHAELVICARONE - E aí, fudeu.
-[0:29:26] - 3-HUGONORTH - Antes da gente entrar no santuário
-[0:29:31] - 3-HUGONORTH - De eu entrar no mapa do santuário
-[0:29:32] - 9-GUSTAVONIKOV - Alun?
-[0:29:35] - 3-HUGONORTH - Se contenha, ok?
-[0:29:37] - 4-FS_SIMOES - Vou me mutar, então
-[0:29:38] - 2-MATHEUSBARTCOSTA - Aí é difícil, né?
-[0:29:40] - 7-RAPHAELVICARONE - Você está esperando demais.
-[0:29:41] - 2-MATHEUSBARTCOSTA - Aí vai ter um monte de pica aí no santuário
-[0:29:42] - 4-FS_SIMOES - Então eu vou me mutar
+[0:28:51] - 9-GUSTAVONIKOV - Perdoe-me
+[0:28:54] - 3-HUGONORTH - Vocês seguem a viagem.
+[0:28:56] - 3-HUGONORTH - Tchau.
+[0:28:58] - 3-HUGONORTH - Alguém vai fazer mais alguma coisa antes de chegar no santuário?
+[0:28:59] - 9-GUSTAVONIKOV - Meu Deus, cara.
+[0:29:02] - 3-HUGONORTH - Tchau.
+[0:29:06] - 4-FS_SIMOES - tivemos...
+[0:29:08] - 3-HUGONORTH - Todos os dias vocês têm longa hércule.
+[0:29:09] - 4-FS_SIMOES - não...
+[0:29:10] - 3-HUGONORTH - Ó, passaram-se um, dois, três,
+[0:29:12] - 3-HUGONORTH - quatro, cinco, seis, sete dias até agora,
+[0:29:14] - 3-HUGONORTH - uma semana, vocês estão na estrada.
+[0:29:16] - 3-HUGONORTH - Dia seguinte, vocês vão chegar no santuário.
+[0:29:18] - 3-HUGONORTH - Mais nada, vocês vão sair de lá,
+[0:29:20] - 3-HUGONORTH - Beleza, vocês chegam finalmente no santuário.
+[0:29:26] - 5-NOBREAK0497 - Caralho, filho, ainda mais hoje.
+[0:29:29] - 2-MATHEUSBARTCOSTA - Aí é difícil, velho.
+[0:29:29] - 7-RAPHAELVICARONE - Aí, fudeu.
+[0:29:29] - 9-GUSTAVONIKOV - Alô?
+[0:29:30] - 3-HUGONORTH - Antes de eu entrar no mapa do santuário, eu gostaria de pedir que a quinta série de vocês se contenham, ok?
+[0:29:39] - 4-FS_SIMOES - vou me montar então...
+[0:29:40] - 7-RAPHAELVICARONE - Você tá esperando demais.
+[0:29:42] - 4-FS_SIMOES - então vou me montar...
 [0:29:43] - 7-RAPHAELVICARONE - Eu vou me mutar.
-[0:29:43] - 5-NOBREAK0497 - o caralho ainda mais hoje hoje saúde hoje Flamengo Flamengo também tem 7 a 0 que é que a quinta
-[0:29:48] - 2-MATHEUSBARTCOSTA - Muda logo o mapa, vai
-[0:29:49] - 3-HUGONORTH - Tá
-[0:29:50] - 5-NOBREAK0497 - série minha quinta série se contém vai ser muito difícil
-[0:29:53] - 5-NOBREAK0497 - e aí e aí e aí e aí e aí e aí e aí eu vou rolar um dado aqui se é o
-[0:29:54] - 3-HUGONORTH - Ok
-[0:29:56] - 6-NIGHTWOLFBIELZOVSKY - Miserravelmente.
-[0:29:57] - 2-MATHEUSBARTCOSTA - Tá bom
+[0:29:45] - 5-NOBREAK0497 - Hoje, Saúl, hoje o Flamengo está metendo 7x0.
+[0:29:45] - 2-MATHEUSBARTCOSTA - Aí vai ter um monte de pica aí no santuário.
+[0:29:49] - 5-NOBREAK0497 - O que é que a quinta-feira, minha quinta-feira, se contém?
+[0:29:50] - 3-HUGONORTH - Tá.
+[0:29:52] - 5-NOBREAK0497 - Vai ser muito difícil.
+[0:29:55] - 2-MATHEUSBARTCOSTA - Muda logo o mapa, vai.
+[0:29:56] - 5-NOBREAK0497 - Vai lá, eu vou rolar um dado aqui.
+[0:29:57] - 7-RAPHAELVICARONE - Tô mutado aqui.
+[0:29:59] - 7-RAPHAELVICARONE - Eu vou me mutar.
+[0:29:59] - 9-GUSTAVONIKOV - Que isso?

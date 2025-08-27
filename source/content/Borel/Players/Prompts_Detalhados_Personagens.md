@@ -10,7 +10,7 @@ Tony Tigger emergiu como figura central do grupo, evoluindo de um guerreiro impu
 - Fighter/Paladino carismático com build forte
 - Proficiente com greatsword e javelin
 - Escudo mágico ativado por palavra de comando "Assis Alba"
-- Braçadeira élfica e ferraduras mágicas
+- Ferraduras mágicas
 - Pedra mágica (proteção dimensional)
 - Katana e anel herdados de Nikov
 - Equipamentos troféu de Ivan (javelin e escudo ornado)
@@ -26,12 +26,12 @@ Tony Tigger emergiu como figura central do grupo, evoluindo de um guerreiro impu
 
 #### **Versão Realista - Líder em Ação**
 ```
-A charismatic human fighter-paladin in his prime, Tony Tigger, standing confidently with a greatsword in one hand and ornate javelin in the other. Strong muscular build, wearing practical medieval armor with an elven bracer gleaming on his arm. His expression shows determined leadership and moral conviction. Behind him, magical horseshoes and a dimensional protection stone glow subtly. Medieval fantasy battlefield setting with warm heroic lighting emphasizing his role as group protector. Epic fantasy art style, detailed character portrait showing both martial prowess and protective nature.
+A charismatic human fighter-paladin in his prime, Tony Tigger, standing confidently with a greatsword in one hand and ornate javelin in the other. Strong muscular build, wearing practical medieval armor. His expression shows determined leadership and moral conviction. Behind him, magical horseshoes and a dimensional protection stone glow subtly. Medieval fantasy battlefield setting with warm heroic lighting emphasizing his role as group protector. Epic fantasy art style, detailed character portrait showing both martial prowess and protective nature.
 ```
 
 #### **Versão Cartoon - Aventureiro Carismático**
 ```
-A cartoon-style charismatic fighter-paladin Tony Tigger with exaggerated heroic features, confidently wielding a large greatsword. Friendly but determined expression, practical armor with visible magical items including glowing elven bracer. Warm colors emphasizing his leadership role, medieval fantasy setting. Animated adventure style with clean lines and vibrant colors, showing his evolution from impulsive warrior to moral leader.
+A cartoon-style charismatic fighter-paladin Tony Tigger with exaggerated heroic features, confidently wielding a large greatsword. Friendly but determined expression, practical armor with visible magical items. Warm colors emphasizing his leadership role, medieval fantasy setting. Animated adventure style with clean lines and vibrant colors, showing his evolution from impulsive warrior to moral leader.
 ```
 
 ---
@@ -43,7 +43,7 @@ A cartoon-style charismatic fighter-paladin Tony Tigger with exaggerated heroic 
 Nightwolf começou como ranger habilidoso especializado em combate à distância e furtividade, evoluindo para protetor estratégico do grupo. Sua trajetória foi marcada por eventos misteriosos: ataque de lobisomem, memórias apagadas, ritual no Templo de Chantaner. Na Sessão 16 descobriu sua licantropia, transformando-se descontroladamente e atacando Dustin. Agora busca cura ou controle para sua condição, mantendo-se como olhos e ouvidos do grupo apesar da maldição.
 
 ### Características Físicas e Equipamentos
-- Ranger com características lupinas sutis
+- Dark elfo ranger com olhos vermelhos
 - Arco longo e espada curta (proficiente)
 - Adaga fumegante (cria cortina de fumaça)
 - Studded leather armor mágica
@@ -62,12 +62,12 @@ Nightwolf começou como ranger habilidoso especializado em combate à distância
 
 #### **Versão Realista - Ranger Amaldiçoado**
 ```
-A mysterious ranger with subtle lupine features, Nightwolf, holding a longbow with a smoking dagger at his belt. Studded leather armor and magical boots, alert predatory stance. His eyes show a hint of red glow suggesting his werewolf curse. Dark shadows around him emphasizing inner conflict between human and wolf nature. Moonlit forest setting with ominous atmosphere. Dark fantasy art style, detailed character portrait showing duality, vigilance, and the burden of lycanthropy.
+A mysterious dark elf ranger with red eyes, Nightwolf, holding a longbow with a smoking dagger at his belt. Studded leather armor and magical boots, alert predatory stance. His eyes show a hint of red glow suggesting his werewolf curse. Dark shadows around him emphasizing inner conflict between human and wolf nature. Moonlit forest setting with ominous atmosphere. Dark fantasy art style, detailed character portrait showing duality, vigilance, and the burden of lycanthropy.
 ```
 
 #### **Versão Cartoon - Arqueiro Vigilante**
 ```
-A cartoon-style ranger Nightwolf with slightly exaggerated lupine features, carrying a longbow and showing his characteristic watchful expression. Subtle hints of his werewolf nature with slightly pointed ears and alert posture. Dark leather armor, mysterious but approachable appearance. Forest setting with moonlight, cartoon adventure style with dynamic poses showing his stealth expertise.
+A cartoon-style dark elf ranger Nightwolf with red eyes, carrying a longbow and showing his characteristic watchful expression. Dark elf features with pointed ears and alert posture. Dark leather armor, mysterious but approachable appearance. Forest setting with moonlight, cartoon adventure style with dynamic poses showing his stealth expertise.
 ```
 
 #### **Versão Transformação - Lobisomem**
@@ -255,6 +255,47 @@ A shocking dark fantasy scene showing the possessed Bartrock coldly casting Fire
 - **Dustin**: Versatilidade e crescimento pessoal
 - **Borin**: Parceria com Trash, estética steampunk
 - **Bartrock**: Transformação de herói para antagonista possuído
+
+---
+
+## Orestan - O Guerreiro Religioso Misterioso
+**Jogador:** LUISFELIPEPJVAZQUEZ | **Classe:** Guerreiro Religioso | **Status:** NOVO MEMBRO
+
+### Descrição do Personagem
+Orestan é um guerreiro tatuado com presença religiosa e mística que se juntou ao grupo durante a Sessão 18. Sua aparência e conhecimento profundo sobre o Santuário dos Magos sugerem uma conexão profunda com as tradições místicas da região. Ele estava procurando por alguém específico chamado "Golfimb" quando foi recrutado por Tony, e rapidamente se tornou essencial para a sobrevivência do grupo.
+
+Sua habilidade com alabarda e capacidades de cura o tornaram um combatente valioso, mas o uso de sua voz em profecias demoníacas durante o ritual apocalíptico criou mistérios profundos sobre sua verdadeira natureza. Orestan representa uma nova camada de complexidade mística e religiosa para o grupo, adicionando profundidade espiritual às aventuras.
+
+### Características Físicas e Equipamentos
+- Guerreiro tatuado com presença religiosa marcante
+- Proficiente com alabarda como arma principal
+- Tatuagens com significado místico e religioso
+- Equipamento de guerreiro com elementos sagrados
+- Presença que sugere conexão com forças sobrenaturais
+
+### Personalidade e Habilidades
+- Observador e cauteloso em novas situações
+- Demonstra preocupação genuína pelos companheiros
+- Adaptável rapidamente às dinâmicas do grupo
+- Corajoso em combate contra ameaças sobrenaturais
+- Conhecimento especializado sobre locais sagrados
+
+### Prompts de Imagem
+
+#### **Versão Realista - Guerreiro Religioso**
+```
+A mysterious tattooed warrior with religious presence, Orestan, wielding a halberd with mystical symbols. Religious tattoos visible on his arms and body, wearing warrior gear with sacred elements. His expression shows both martial readiness and spiritual depth. Ancient mystical setting with sacred atmosphere emphasizing his connection to religious traditions. Epic fantasy art style, detailed character portrait showing both combat prowess and mystical nature.
+```
+
+#### **Versão Cartoon - Guerreiro Místico**
+```
+A cartoon-style tattooed warrior Orestan with religious symbols and mystical tattoos, confidently holding a halberd. Friendly but mysterious expression, warrior gear with sacred elements visible. Ancient mystical background with religious symbols, cartoon adventure style with warm colors emphasizing his spiritual nature and combat skills.
+```
+
+#### **Versão Mística - Profeta das Sombras**
+```
+A dramatic scene showing Orestan during the apocalyptic ritual, his voice being used by demonic forces. Religious tattoos glowing with mystical energy, halberd at his side, expression of spiritual conflict. Dark forest setting with profane ritual elements, horror fantasy art style emphasizing the mystery of his supernatural connection.
+```
 
 ---
 

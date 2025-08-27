@@ -1,533 +1,589 @@
 BLOCO 3 - [1:00:00 - 1:29:58]
 ================================================================================
 
-[1:00:00] - 7-RAPHAELVICARONE - Quando ficar crítico?
-[1:00:01] - 3-HUGONORTH - 6 morre, 6 morre
-[1:00:03] - 3-HUGONORTH - você está agora no momento com desvantagem
-[1:00:07] - 3-HUGONORTH - em ability checks
-[1:00:09] - 3-HUGONORTH - qual o seu nome?
-[1:00:14] - 7-RAPHAELVICARONE - Hoje não vai jogar
-[1:00:21] - 7-RAPHAELVICARONE - Ai meu Deus
-[1:00:23] - 7-RAPHAELVICARONE - Deixa eu só responder qualquer coisa
-[1:00:27] - 5-NOBREAK0497 - Parece uma boa jogada.
-[1:00:27] - 3-HUGONORTH - você renuncia do seu nome?
-[1:00:30] - 7-RAPHAELVICARONE - Tipo, meu nome é Kaelian
-[1:00:39] - 3-HUGONORTH - você vê que as vozes se afastam um pouco
-[1:00:42] - 7-RAPHAELVICARONE - Então, continuo seguindo
-[1:00:45] - 3-HUGONORTH - o lugar deixa de ficar tão frio, fica mais agradável
-[1:00:48] - 3-HUGONORTH - você continua caminhando?
-[1:00:57] - 3-HUGONORTH - você começa a andar
-[1:00:58] - 7-RAPHAELVICARONE - Chega a tomar dano
-[1:01:01] - 3-HUGONORTH - e você começa a sentir
+[1:00:00] - 3-HUGONORTH - 6.
+[1:00:00] - 7-RAPHAELVICARONE - Quando ficar crítico? Seis.
+[1:00:03] - 3-HUGONORTH - No sexto morre.
+[1:00:05] - 3-HUGONORTH - Você está agora no momento com desvantagem
+[1:00:07] - 3-HUGONORTH - Em ability checks.
+[1:00:13] - 7-RAPHAELVICARONE - Não é o bagulho, é difícil.
+[1:00:19] - 3-HUGONORTH - Qual o seu nome?
+[1:00:20] - 7-RAPHAELVICARONE - É, hoje não vai jogar não.
+[1:00:22] - 7-RAPHAELVICARONE - Ai, meu Deus.
+[1:00:26] - 4-FS_SIMOES - Legenda Adriana Zanotto
+[1:00:26] - 5-NOBREAK0497 - Parece uma boa jogada
+[1:00:28] - 7-RAPHAELVICARONE - Deixa eu só responder qualquer coisa, tipo...
+[1:00:31] - 7-RAPHAELVICARONE - Meu nome é Kaelion.
+[1:00:37] - 3-HUGONORTH - Você renuncia do seu nome?
+[1:00:41] - 7-RAPHAELVICARONE - Renuncio.
+[1:00:43] - 3-HUGONORTH - Você vê que as vozes se afastam um pouco.
+[1:00:46] - 3-HUGONORTH - O lugar deixa de ficar tão frio
+[1:00:49] - 3-HUGONORTH - Você continua caminhando.
+[1:00:57] - 7-RAPHAELVICARONE - Então, eu continuo seguindo.
+[1:00:59] - 3-HUGONORTH - Você começa a andar
 [1:01:03] - 3-HUGONORTH - que o chão
-[1:01:06] - 3-HUGONORTH - você começa a sentir
+[1:01:06] - 3-HUGONORTH - diferente.
 [1:01:09] - 3-HUGONORTH - ossos
-[1:01:13] - 3-HUGONORTH - sabe?
-[1:01:16] - 3-HUGONORTH - você vê que eles começam a ficar mais finos
-[1:01:22] - 7-RAPHAELVICARONE - Ou só machuca, só incomoda?
-[1:01:27] - 3-HUGONORTH - e começam a machucar
-[1:01:28] - 7-RAPHAELVICARONE - O que?
-[1:01:31] - 3-HUGONORTH - abandone sua carne
-[1:01:34] - 3-HUGONORTH - você continua caminhando em frente
-[1:01:42] - 3-HUGONORTH - você começa a andar
-[1:01:44] - 7-RAPHAELVICARONE - Continuo
-[1:01:49] - 3-HUGONORTH - e você começa a sentir
-[1:01:52] - 3-HUGONORTH - e rasgar o seu pé
-[1:01:54] - 3-HUGONORTH - e está difícil de andar
-[1:01:57] - 3-HUGONORTH - nesse lugar
-[1:01:58] - 7-RAPHAELVICARONE - Eu consigo
-[1:02:01] - 3-HUGONORTH - piercing
-[1:02:04] - 7-RAPHAELVICARONE - Usar magia?
-[1:02:09] - 3-HUGONORTH - pode tentar
-[1:02:11] - 7-RAPHAELVICARONE - Ou usar
-[1:02:12] - 3-HUGONORTH - nenhum efeito
-[1:02:14] - 7-RAPHAELVICARONE - Gente
-[1:02:16] - 3-HUGONORTH - nada sai de você
-[1:02:22] - 3-HUGONORTH - você vê
-[1:02:25] - 3-HUGONORTH - e sangue está escorrendo
-[1:02:28] - 7-RAPHAELVICARONE - Eu me aproximo bem devagar do lado
-[1:02:29] - 3-HUGONORTH - e você chega num lago
-[1:02:40] - 7-RAPHAELVICARONE - Pode ser o ataque a...
-[1:02:42] - 3-HUGONORTH - e você olha
-[1:02:45] - 3-HUGONORTH - lembra
-[1:02:48] - 3-HUGONORTH - descreve uma memória
-[1:02:55] - 7-RAPHAELVICARONE - Como é que é o nome?
+[1:01:16] - 3-HUGONORTH - o seu pé.
+[1:01:20] - 7-RAPHAELVICARONE - Chega a tomar dano ou só machuca, só incomoda?
+[1:01:23] - 3-HUGONORTH - Você vê que eles começam a ficar mais finos
+[1:01:27] - 3-HUGONORTH - e começam a machucar.
+[1:01:32] - 3-HUGONORTH - Abandone sua carne.
+[1:01:34] - 7-RAPHAELVICARONE - O quê?
+[1:01:37] - 3-HUGONORTH - Você continua caminhando em frente.
+[1:01:42] - 3-HUGONORTH - Você começa a andar
+[1:01:44] - 7-RAPHAELVICARONE - Continuo.
+[1:01:49] - 3-HUGONORTH - e você começa a sentir os pedaços de osso
+[1:01:50] - 7-RAPHAELVICARONE - Eu consigo usar magia?
+[1:01:51] - 3-HUGONORTH - entrando no seu pé e rasgar o seu pé.
+[1:01:53] - 3-HUGONORTH - Você começa a sangrar.
+[1:01:56] - 3-HUGONORTH - E está difícil de andar
+[1:01:59] - 3-HUGONORTH - Você toma 14 de dano.
+[1:02:01] - 3-HUGONORTH - P5.
+[1:02:07] - 3-HUGONORTH - Você vai tentar usar magia?
+[1:02:09] - 3-HUGONORTH - Pode tentar.
+[1:02:10] - 7-RAPHAELVICARONE - Vou usar...
+[1:02:13] - 7-RAPHAELVICARONE - Curio Wounds.
+[1:02:15] - 3-HUGONORTH - Nenhum efeito.
+[1:02:20] - 7-RAPHAELVICARONE - Mentira.
+[1:02:21] - 3-HUGONORTH - Você vai andando.
+[1:02:24] - 3-HUGONORTH - começa a estar toda rasgada
+[1:02:27] - 3-HUGONORTH - Até que você sai desses ossos
+[1:02:31] - 3-HUGONORTH - Você vai andando.
+[1:02:37] - 3-HUGONORTH - Você se aproxima
+[1:02:38] - 7-RAPHAELVICARONE - Eu me aproximo bem devagar do lago.
+[1:02:42] - 3-HUGONORTH - e você olha no lago
+[1:02:44] - 3-HUGONORTH - e você lembra
+[1:02:46] - 3-HUGONORTH - de uma memória pessoal sua.
+[1:02:49] - 3-HUGONORTH - Descreve uma memória muito pessoal sua.
+[1:02:50] - 7-RAPHAELVICARONE - Pode ser o...
+[1:02:53] - 7-RAPHAELVICARONE - O ataque a...
+[1:02:56] - 7-RAPHAELVICARONE - A...
 [1:03:00] - 7-RAPHAELVICARONE - A vila?
-[1:03:01] - 3-HUGONORTH - você lembra?
-[1:03:02] - 7-RAPHAELVICARONE - Simplesmente durante a noite
-[1:03:05] - 3-HUGONORTH - descreve
-[1:03:05] - 7-RAPHAELVICARONE - Todo mundo
-[1:03:08] - 7-RAPHAELVICARONE - Atacaram a vila que ele fazia parte
-[1:03:10] - 7-RAPHAELVICARONE - Incendiaram tudo
-[1:03:18] - 3-HUGONORTH - você vê
-[1:03:22] - 3-HUGONORTH - e
-[1:03:24] - 3-HUGONORTH - destruindo a sua
-[1:03:25] - 7-RAPHAELVICARONE - Eu chego a ver pessoas no lago?
-[1:03:27] - 3-HUGONORTH - e
-[1:03:29] - 3-HUGONORTH - e você vê gente
-[1:03:32] - 3-HUGONORTH - e você vê isso no lago
-[1:03:39] - 7-RAPHAELVICARONE - Algo assim?
-[1:03:40] - 3-HUGONORTH - ver pessoas no lago
+[1:03:03] - 3-HUGONORTH - Você lembra?
+[1:03:04] - 7-RAPHAELVICARONE - Simplesmente durante a noite, todo mundo...
+[1:03:07] - 7-RAPHAELVICARONE - Simplesmente a noite, atacaram a vila que ele fazia parte.
+[1:03:07] - 3-HUGONORTH - Você vê a vila pegando fogo
+[1:03:10] - 7-RAPHAELVICARONE - Incendiaram tudo e mataram praticamente todo mundo que ele conhecia.
+[1:03:13] - 7-RAPHAELVICARONE - Sim.
+[1:03:22] - 3-HUGONORTH - e quem atacava
+[1:03:24] - 3-HUGONORTH - destruindo a sua vila
+[1:03:27] - 3-HUGONORTH - e quebrando a porra toda.
+[1:03:29] - 3-HUGONORTH - Você lembra de gritos de pessoas
+[1:03:32] - 3-HUGONORTH - e você vê isso no lago.
+[1:03:37] - 3-HUGONORTH - Você consegue ver pessoas no lago.
 [1:03:42] - 7-RAPHAELVICARONE - Alguém na descrição que o...
-[1:03:45] - 7-RAPHAELVICARONE - Careca me passou?
-[1:03:45] - 3-HUGONORTH - a memória que você tem
-[1:03:48] - 3-HUGONORTH - sim
-[1:03:49] - 7-RAPHAELVICARONE - Hum, ah tá, entendi
-[1:03:52] - 7-RAPHAELVICARONE - Não algo diferente
-[1:03:53] - 3-HUGONORTH - exatamente o que você sabe
-[1:03:54] - 7-RAPHAELVICARONE - Como se fosse um filme, né?
-[1:03:56] - 3-HUGONORTH - você está vendo um filme
-[1:03:58] - 7-RAPHAELVICARONE - Entendi
-[1:04:02] - 3-HUGONORTH - sim
-[1:04:05] - 3-HUGONORTH - você toca no lago
-[1:04:05] - 7-RAPHAELVICARONE - Sim
-[1:04:08] - 3-HUGONORTH - e a água
-[1:04:10] - 3-HUGONORTH - o lago era bem raso
-[1:04:13] - 3-HUGONORTH - e a água se seca
-[1:04:16] - 3-HUGONORTH - abrindo o caminho
-[1:04:19] - 7-RAPHAELVICARONE - Então eu sigo em frente
-[1:04:22] - 7-RAPHAELVICARONE - Não
-[1:04:23] - 3-HUGONORTH - quais são
-[1:04:25] - 3-HUGONORTH - e flaws
-[1:04:27] - 3-HUGONORTH - consegui
-[1:04:28] - 7-RAPHAELVICARONE - Mas dá pra gente ter uma noção do que é
-[1:04:31] - 3-HUGONORTH - beleza
-[1:04:32] - 7-RAPHAELVICARONE - De como é, né?
-[1:04:39] - 3-HUGONORTH - você
-[1:04:43] - 3-HUGONORTH - no último
-[1:04:47] - 3-HUGONORTH - é
-[1:04:49] - 7-RAPHAELVICARONE - É visível ou tá escuro ainda?
-[1:04:50] - 3-HUGONORTH - eu vou descrever
-[1:04:52] - 7-RAPHAELVICARONE - Medo?
-[1:04:52] - 3-HUGONORTH - está tudo escuro em volta
-[1:04:57] - 3-HUGONORTH - perdão
-[1:04:59] - 3-HUGONORTH - qual é o maior medo do Dustin
-[1:05:02] - 3-HUGONORTH - qual o maior medo do Dustin
-[1:05:05] - 3-HUGONORTH - morde
-[1:05:08] - 7-RAPHAELVICARONE - Aí fica difícil
-[1:05:09] - 3-HUGONORTH - gente invisível
-[1:05:10] - 7-RAPHAELVICARONE - Deixa eu ver
-[1:05:14] - 3-HUGONORTH - honestidade
-[1:05:18] - 7-RAPHAELVICARONE - É...
-[1:05:22] - 3-HUGONORTH - pode ser
-[1:05:27] - 7-RAPHAELVICARONE - Não sei
-[1:05:34] - 7-RAPHAELVICARONE - Pode ser
-[1:05:36] - 7-RAPHAELVICARONE - Não tem como ser, né?
-[1:05:39] - 3-HUGONORTH - qualquer medo
-[1:05:39] - 7-RAPHAELVICARONE - É, mas ele não teria entrado aqui se fosse
-[1:05:42] - 7-RAPHAELVICARONE - Não vai ser claustrofobia mesmo
-[1:05:42] - 3-HUGONORTH - broxar
-[1:05:46] - 3-HUGONORTH - claustrofobia
-[1:05:46] - 7-RAPHAELVICARONE - Vai lá
-[1:05:48] - 3-HUGONORTH - beleza
-[1:05:50] - 3-HUGONORTH - conforme você vai andando
-[1:05:52] - 3-HUGONORTH - começa a apertar
-[1:05:56] - 3-HUGONORTH - sabe
-[1:05:58] - 3-HUGONORTH - e você vê que o ar
-[1:06:00] - 3-HUGONORTH - você vai começando a ficar desesperado
-[1:06:04] - 7-RAPHAELVICARONE - É...
-[1:06:05] - 3-HUGONORTH - Wisdom
-[1:06:16] - 3-HUGONORTH - você começa a ficar desesperado
-[1:06:25] - 3-HUGONORTH - você começa a entrar em desespero
-[1:06:28] - 3-HUGONORTH - você começa a ficar desesperado
-[1:06:30] - 7-RAPHAELVICARONE - Eu acho que isso aqui não é para mim, eu não vou conseguir, não tem como.
-[1:06:35] - 3-HUGONORTH - cola mais um teste de sabedoria
-[1:06:36] - 7-RAPHAELVICARONE - Eu já vim até aqui.
-[1:06:38] - 3-HUGONORTH - você pensa em desistir
-[1:06:43] - 3-HUGONORTH - você está quase sucumbindo
-[1:06:48] - 3-HUGONORTH - mas você
-[1:06:52] - 3-HUGONORTH - o seu medo
-[1:06:58] - 3-HUGONORTH - e você chega numa câmera circular
-[1:07:00] - 3-HUGONORTH - iluminada
-[1:07:03] - 3-HUGONORTH - dessa câmera
-[1:07:06] - 7-RAPHAELVICARONE - Eu estou sentindo frio, alguma coisa assim?
-[1:07:06] - 3-HUGONORTH - você sente
-[1:07:11] - 7-RAPHAELVICARONE - É?
-[1:07:13] - 3-HUGONORTH - completamente confortável
-[1:07:15] - 3-HUGONORTH - você sente
-[1:07:17] - 3-HUGONORTH - você está machucado
-[1:07:21] - 3-HUGONORTH - dolorida
-[1:07:24] - 3-HUGONORTH - se sentindo confortável
-[1:07:26] - 3-HUGONORTH - de acolhimento
-[1:07:28] - 3-HUGONORTH - a luz vira pra você
-[1:07:29] - 7-RAPHAELVICARONE - OK.
-[1:07:30] - 3-HUGONORTH - e fala
-[1:07:34] - 3-HUGONORTH - você deixou
-[1:07:36] - 3-HUGONORTH - para trás
-[1:07:39] - 3-HUGONORTH - agora você tem
-[1:07:45] - 3-HUGONORTH - a última decisão
-[1:07:49] - 3-HUGONORTH - renascer
-[1:07:52] - 3-HUGONORTH - ou não
-[1:07:56] - 3-HUGONORTH - que tudo que você passou
-[1:07:59] - 3-HUGONORTH - até agora
-[1:08:01] - 7-RAPHAELVICARONE - A
-[1:08:04] - 7-RAPHAELVICARONE - que
-[1:08:05] - 3-HUGONORTH - os amigos
-[1:08:07] - 3-HUGONORTH - os colegas que você fez
-[1:08:10] - 7-RAPHAELVICARONE - é
-[1:08:10] - 3-HUGONORTH - a sua
-[1:08:14] - 3-HUGONORTH - é
-[1:08:17] - 3-HUGONORTH - até chegar nos lugares
-[1:08:20] - 3-HUGONORTH - você começa
-[1:08:21] - 7-RAPHAELVICARONE - E
-[1:08:23] - 3-HUGONORTH - a ter um pouco
-[1:08:25] - 3-HUGONORTH - dessas coisas
-[1:08:27] - 3-HUGONORTH - sabe
-[1:08:30] - 3-HUGONORTH - mas tipo
-[1:08:33] - 3-HUGONORTH - você começa
-[1:08:36] - 3-HUGONORTH - de como
-[1:08:38] - 3-HUGONORTH - chegou nesse
-[1:08:40] - 3-HUGONORTH - quem estava
-[1:08:43] - 3-HUGONORTH - com você
-[1:08:46] - 3-HUGONORTH - alguém
-[1:08:48] - 3-HUGONORTH - até aqui
-[1:08:50] - 7-RAPHAELVICARONE - Mas o que eu estou fazendo aqui mesmo?
-[1:08:52] - 7-RAPHAELVICARONE - .
-[1:08:55] - 3-HUGONORTH - você sabe
-[1:08:59] - 3-HUGONORTH - ao ritual
-[1:09:01] - 3-HUGONORTH - a orb
-[1:09:04] - 3-HUGONORTH - vira para você
-[1:09:06] - 3-HUGONORTH - renascer
-[1:09:10] - 3-HUGONORTH - você quer
-[1:09:13] - 3-HUGONORTH - renascer
-[1:09:17] - 3-HUGONORTH - você vê que a luz
-[1:09:21] - 3-HUGONORTH - assim
-[1:09:24] - 3-HUGONORTH - Dustin
-[1:09:30] - 3-HUGONORTH - que algo
-[1:09:33] - 3-HUGONORTH - você sente
-[1:09:37] - 3-HUGONORTH - realmente
-[1:09:40] - 3-HUGONORTH - de que
-[1:09:42] - 3-HUGONORTH - para o futuro
-[1:09:44] - 3-HUGONORTH - do passado
-[1:09:46] - 3-HUGONORTH - você sabe
-[1:09:50] - 3-HUGONORTH - um pouco
-[1:09:52] - 3-HUGONORTH - veio
-[1:09:55] - 3-HUGONORTH - você sente
-[1:09:58] - 3-HUGONORTH - lembra
-[1:10:02] - 3-HUGONORTH - que você está
-[1:10:05] - 3-HUGONORTH - sobre esses amigos
-[1:10:09] - 3-HUGONORTH - que
-[1:10:13] - 3-HUGONORTH - dos seus
-[1:10:15] - 3-HUGONORTH - flaws and bonds
-[1:10:18] - 3-HUGONORTH - de um no caso
-[1:10:25] - 3-HUGONORTH - ganância
-[1:10:27] - 3-HUGONORTH - não
-[1:10:30] - 3-HUGONORTH - tanto
-[1:10:32] - 3-HUGONORTH - Dustin
+[1:03:45] - 3-HUGONORTH - Sim.
+[1:03:45] - 7-RAPHAELVICARONE - O careca me passou?
+[1:03:47] - 3-HUGONORTH - está ali no lago.
+[1:03:49] - 7-RAPHAELVICARONE - Hum, ah tá, entendi.
+[1:03:52] - 3-HUGONORTH - Sim.
+[1:03:54] - 7-RAPHAELVICARONE - Tá.
+[1:03:56] - 3-HUGONORTH - Você está vendo um filme no lago.
+[1:03:58] - 7-RAPHAELVICARONE - Entendi.
+[1:04:01] - 7-RAPHAELVICARONE - Eu posso tocar no lago?
+[1:04:01] - 3-HUGONORTH - E conforme você vê...
+[1:04:04] - 3-HUGONORTH - Você toca no lago.
+[1:04:05] - 7-RAPHAELVICARONE - Sim.
+[1:04:08] - 3-HUGONORTH - e a água se seca.
+[1:04:12] - 3-HUGONORTH - O lago era bem raso
+[1:04:14] - 3-HUGONORTH - e a água se seca
+[1:04:19] - 7-RAPHAELVICARONE - Entendi.
+[1:04:22] - 3-HUGONORTH - Você não escreveu quais são os seus
+[1:04:26] - 3-HUGONORTH - no seu personagem, não, né?
+[1:04:28] - 7-RAPHAELVICARONE - Não.
+[1:04:30] - 3-HUGONORTH - Consegui.
+[1:04:30] - 7-RAPHAELVICARONE - Mas dá pra gente ter uma noção do que é e de como é, né?
+[1:04:34] - 3-HUGONORTH - Beleza.
+[1:04:37] - 3-HUGONORTH - Você atravessa pelo espaço onde estava o lago
+[1:04:42] - 3-HUGONORTH - e você chega no último espaço.
+[1:04:47] - 3-HUGONORTH - É...
+[1:04:49] - 7-RAPHAELVICARONE - É...
+[1:04:50] - 3-HUGONORTH - Eu vou te escrever.
+[1:04:53] - 3-HUGONORTH - Está tudo escuro em volta,
+[1:04:53] - 7-RAPHAELVICARONE - Esse jogo...
+[1:04:55] - 3-HUGONORTH - Desculpa, perdão.
+[1:04:56] - 7-RAPHAELVICARONE - Rudy as senhora 아니에요 one.
+[1:04:58] - 3-HUGONORTH - Você anda na escuridão.
+[1:05:02] - 7-RAPHAELVICARONE - Cut side in theigh.
+[1:05:02] - 3-HUGONORTH - Qual é o maior medo do Dusty Mord?
+[1:05:06] - 7-RAPHAELVICARONE - Eu tenho medo de fazer coisas que ...
+[1:05:07] - 3-HUGONORTH - É...
+[1:05:10] - 7-RAPHAELVICARONE - E depois eu une.
+[1:05:11] - 3-HUGONORTH - Gente invisível.
+[1:05:13] - 7-RAPHAELVICARONE - Nãoュ, não, não...
+[1:05:15] - 7-RAPHAELVICARONE - Doi que...
+[1:05:19] - 7-RAPHAELVICARONE - É...
+[1:05:21] - 3-HUGONORTH - Honestidade.
+[1:05:30] - 7-RAPHAELVICARONE - Não sei, pode ser.
+[1:05:35] - 7-RAPHAELVICARONE - Se fosse claustrofobia é foda, né?
+[1:05:37] - 3-HUGONORTH - Pode ser, ué.
+[1:05:39] - 3-HUGONORTH - Qualquer medo.
+[1:05:39] - 7-RAPHAELVICARONE - É, mas o problema é que ele não teria entrado aqui se fosse.
+[1:05:43] - 3-HUGONORTH - Brochar...
+[1:05:45] - 7-RAPHAELVICARONE - Não vai ser a claustrofobia mesmo.
+[1:05:45] - 3-HUGONORTH - Qualquer porra.
+[1:05:47] - 3-HUGONORTH - Caustrofobia.
+[1:05:49] - 7-RAPHAELVICARONE - É, agora eu começo a pensar.
+[1:05:49] - 3-HUGONORTH - Você vai andando.
+[1:05:51] - 3-HUGONORTH - você vai sentindo que a caverna começa a apertar.
+[1:05:53] - 3-HUGONORTH - Você começa a ter que andar de lado.
+[1:05:56] - 3-HUGONORTH - Sabe?
+[1:05:58] - 3-HUGONORTH - E você vê que o ar começa a te faltar.
+[1:06:00] - 3-HUGONORTH - Você vai começando a ficar desesperado.
+[1:06:04] - 3-HUGONORTH - Fala pra mim o teste de...
+[1:06:06] - 3-HUGONORTH - Wisdom, você entrou.
+[1:06:08] - 3-HUGONORTH - Mas, cara, você está meio que de novo, mano.
+[1:06:11] - 3-HUGONORTH - Cara, você começa a ficar desesperado, Dusty.
+[1:06:18] - 3-HUGONORTH - Você toma 18 de dano psíquico.
+[1:06:18] - 7-RAPHAELVICARONE - É.
+[1:06:20] - 7-RAPHAELVICARONE - Vai fugir daqui.
+[1:06:26] - 8-LUISFELIPEPJVAZQUEZ - Obrigado.
+[1:06:26] - 3-HUGONORTH - Você começa a entrar em desespero, Dusty.
+[1:06:28] - 3-HUGONORTH - Qual é mais um teste de sabedoria?
+[1:06:30] - 7-RAPHAELVICARONE - Eu acho que isso aqui não é pra mim.
+[1:06:33] - 7-RAPHAELVICARONE - Não tem como.
+[1:06:35] - 3-HUGONORTH - Um...
+[1:06:49] - 7-RAPHAELVICARONE - Eu já vim até aqui.
+[1:06:49] - 3-HUGONORTH - mas você se empurra e você deixa para trás o seu medo.
+[1:06:53] - 3-HUGONORTH - Você consegue sair do lugar apertado.
+[1:06:56] - 3-HUGONORTH - E você chega em uma câmara circular, iluminada, e no meio dessa câmara tem uma luz pulsante.
+[1:07:09] - 7-RAPHAELVICARONE - Eu tô sentindo frio, alguma coisa assim?
+[1:07:11] - 3-HUGONORTH - Você se sente completamente confortável.
+[1:07:15] - 3-HUGONORTH - Você está machucado, sua mente está dolorida, mas você está se sentindo confortável.
+[1:07:19] - 7-RAPHAELVICARONE - E ele me utilisava de cara pra ficar sem sollte.
+[1:07:21] - 7-RAPHAELVICARONE - E ele ficou lá, de que forma, eu falei.
+[1:07:24] - 7-RAPHAELVICARONE - E, por fim, ele me trouxe aqui aqui coisa de distância,
+[1:07:25] - 3-HUGONORTH - Você está em um lugar...
+[1:07:26] - 7-RAPHAELVICARONE - Não.
+[1:07:29] - 7-RAPHAELVICARONE - ல
+[1:07:29] - 3-HUGONORTH - A luz vira para você e fala...
+[1:07:34] - 3-HUGONORTH - Bem, você deixou para trás aquilo que era você.
+[1:07:44] - 3-HUGONORTH - Agora você tem a última decisão.
+[1:07:48] - 7-RAPHAELVICARONE - Como que era isso?
+[1:07:48] - 3-HUGONORTH - Você quer...
+[1:07:51] - 3-HUGONORTH - renascer...
+[1:07:55] - 3-HUGONORTH - Você sente dor.
+[1:08:04] - 3-HUGONORTH - os seus amigos, entre aspas, os colegas que você fez estão lá fora da caverna.
+[1:08:12] - 3-HUGONORTH - O ataque da sua vila, toda a jornada que você fez até chegar nos lugares onde você encontrou todo mundo.
+[1:08:19] - 7-RAPHAELVICARONE - Amém.
+[1:08:22] - 3-HUGONORTH - Você começa a ter um pouco de dificuldade de lembrar.
+[1:08:26] - 3-HUGONORTH - Dessas coisas, sabe?
+[1:08:31] - 3-HUGONORTH - Por quem?
+[1:08:35] - 3-HUGONORTH - Você começa a ter lembrada de como você chegou na...
+[1:08:38] - 3-HUGONORTH - Você sabe que você chegou nesse lugar, mas...
+[1:08:42] - 3-HUGONORTH - Quem estava com você?
+[1:08:45] - 3-HUGONORTH - Você sabe que...
+[1:08:46] - 4-FS_SIMOES - maria bin therapo
+[1:08:49] - 7-RAPHAELVICARONE - Mas o que eu estou fazendo aqui mesmo?
+[1:08:49] - 4-FS_SIMOES - Mar krij ôk da
+[1:08:51] - 4-FS_SIMOES - Mar betray dit
+[1:08:53] - 7-RAPHAELVICARONE - Sim.
+[1:08:55] - 4-FS_SIMOES - Kiri de Mim
+[1:08:55] - 3-HUGONORTH - Você sabe o que você está fazendo aqui.
+[1:08:58] - 3-HUGONORTH - Se propôs ao ritual de...
+[1:09:00] - 3-HUGONORTH - de renascimento.
+[1:09:03] - 3-HUGONORTH - A orb vira para você e fala...
+[1:09:05] - 3-HUGONORTH - Você deseja renascer?
+[1:09:07] - 3-HUGONORTH - Ou você não quer renascer?
+[1:09:13] - 3-HUGONORTH - Você quer renascer?
+[1:09:16] - 3-HUGONORTH - Beleza, você vê aquela luz brilha assim, você sente tipo...
+[1:09:19] - 3-HUGONORTH - um clarão assim...
+[1:09:21] - 3-HUGONORTH - te cega.
+[1:09:23] - 3-HUGONORTH - Nesse momento, Dustin...
+[1:09:25] - 3-HUGONORTH - Você sente que algo profundamente te afetou.
+[1:09:26] - 4-FS_SIMOES - Legenda Adriana Zanotto
+[1:09:33] - 3-HUGONORTH - Você sente realmente como uma pessoa nova, no sentido de que...
+[1:09:40] - 3-HUGONORTH - Você está mais ansioso para o futuro do que para o passado, porque você não lembra muito bem...
+[1:09:44] - 3-HUGONORTH - do passado.
+[1:09:46] - 3-HUGONORTH - Você sabe que...
+[1:09:48] - 3-HUGONORTH - Você sabe um pouco da sua história, você sabe de onde você veio...
+[1:09:52] - 3-HUGONORTH - Você sabe que algo...
+[1:09:53] - 7-RAPHAELVICARONE - Mas é como se fosse a história de outra pessoa.
+[1:09:54] - 3-HUGONORTH - é...
+[1:09:57] - 3-HUGONORTH - Você não lembra dos detalhes, sabe.
+[1:09:59] - 7-RAPHAELVICARONE - Sim.
+[1:09:59] - 3-HUGONORTH - do seu passado.
+[1:10:01] - 7-RAPHAELVICARONE - Uhum.
+[1:10:01] - 3-HUGONORTH - Você lembra que você está com um grupo de amigos, mas você não lembra de detalhes sobre esses amigos.
+[1:10:06] - 7-RAPHAELVICARONE - Sim.
+[1:10:08] - 7-RAPHAELVICARONE - Uhum.
+[1:10:11] - 3-HUGONORTH - Aí que está, a gente tem que lembrar dos seus...
+[1:10:13] - 3-HUGONORTH - Tinha que ter os seus ideias, flaws e bonds.
+[1:10:16] - 3-HUGONORTH - Você tinha que abrir mão de um, no caso.
+[1:10:19] - 7-RAPHAELVICARONE - Pode ser o de ter dinheiro.
+[1:10:22] - 3-HUGONORTH - é dinheiro
+[1:10:25] - 3-HUGONORTH - ganância já não
+[1:10:28] - 3-HUGONORTH - não te afeta tanto
+[1:10:30] - 3-HUGONORTH - e dustin
+[1:10:32] - 7-RAPHAELVICARONE - Valeu.
+[1:10:33] - 3-HUGONORTH - você pode
 [1:10:35] - 3-HUGONORTH - sacrificar
-[1:10:37] - 3-HUGONORTH - um ponto
-[1:10:40] - 3-HUGONORTH - de um atributo
-[1:10:42] - 3-HUGONORTH - outro atributo
-[1:10:45] - 3-HUGONORTH - do seu personagem
-[1:10:53] - 3-HUGONORTH - isso
-[1:10:57] - 3-HUGONORTH - você pode
-[1:10:59] - 3-HUGONORTH - diminuir
-[1:11:03] - 3-HUGONORTH - em dois
-[1:11:06] - 3-HUGONORTH - você não pode
-[1:11:09] - 3-HUGONORTH - sacrificar um
-[1:11:12] - 3-HUGONORTH - só para você
-[1:11:16] - 3-HUGONORTH - pode fazer
-[1:11:23] - 3-HUGONORTH - depois
+[1:10:37] - 3-HUGONORTH - um ponto de um atributo
+[1:10:41] - 3-HUGONORTH - e aumentar outro atributo em dois
+[1:10:43] - 3-HUGONORTH - nessa ficha do seu personagem
+[1:10:49] - 7-RAPHAELVICARONE - Beleza.
+[1:10:52] - 3-HUGONORTH - ok
+[1:10:56] - 7-RAPHAELVICARONE - Tanto faz, né? Eu escolho qualquer coisa.
+[1:10:57] - 3-HUGONORTH - você pode diminuir
+[1:10:59] - 9-GUSTAVONIKOV - Leilão Abreu
+[1:11:00] - 3-HUGONORTH - você tem que sacrificar um
+[1:11:03] - 3-HUGONORTH - um outro atributo
+[1:11:06] - 3-HUGONORTH - você não pode sacrificar um
+[1:11:07] - 9-GUSTAVONIKOV - Rancho Canal
+[1:11:10] - 3-HUGONORTH - e aumentar dois do mesmo atributo
+[1:11:16] - 7-RAPHAELVICARONE - Seria...
+[1:11:19] - 7-RAPHAELVICARONE - de... Posso fazer a escolha...
+[1:11:20] - 9-GUSTAVONIKOV - Leilão Abreu
+[1:11:22] - 7-RAPHAELVICARONE - Tem que ser agora.
+[1:11:22] - 3-HUGONORTH - pode fazer depois
+[1:11:23] - 9-GUSTAVONIKOV - Rancho Canal
+[1:11:25] - 3-HUGONORTH - tá
+[1:11:25] - 7-RAPHAELVICARONE - Só pra agilizar.
+[1:11:26] - 9-GUSTAVONIKOV - Leilão Abreu
 [1:11:28] - 3-HUGONORTH - beleza
-[1:11:34] - 3-HUGONORTH - não pode
-[1:11:35] - 7-RAPHAELVICARONE - Tá.
-[1:11:37] - 3-HUGONORTH - como é que está
-[1:11:40] - 7-RAPHAELVICARONE - Se pudesse passar de 20, eu teria botado em destreza.
+[1:11:28] - 9-GUSTAVONIKOV - Legenda Adriana Zanotto
+[1:11:29] - 7-RAPHAELVICARONE - Não, foda-se. Vou fazer agora.
+[1:11:34] - 3-HUGONORTH - não pode passar de 20 tá
+[1:11:36] - 7-RAPHAELVICARONE - Tá.
+[1:11:38] - 3-HUGONORTH - mas não pode passar de 20
+[1:11:40] - 7-RAPHAELVICARONE - Se pudesse usar de 20, eu teria botado em destreza.
 [1:11:45] - 7-RAPHAELVICARONE - Por que eu rolei isso aí?
-[1:11:47] - 7-RAPHAELVICARONE - E eu não achei nada lá dentro.
+[1:11:49] - 7-RAPHAELVICARONE - Não é...
 [1:11:49] - 3-HUGONORTH - beleza
-[1:11:51] - 3-HUGONORTH - a luz
-[1:11:53] - 3-HUGONORTH - nesse brilho forte
-[1:11:57] - 3-HUGONORTH - de você
-[1:11:59] - 3-HUGONORTH - assim
-[1:12:02] - 3-HUGONORTH - da
+[1:11:51] - 7-RAPHAELVICARONE - Eu não achei nada lá dentro, né?
+[1:11:52] - 3-HUGONORTH - e aí
+[1:11:55] - 3-HUGONORTH - e logo atrás de você
+[1:11:57] - 3-HUGONORTH - você vê tipo
+[1:12:00] - 3-HUGONORTH - alguns metros atrás
+[1:12:02] - 3-HUGONORTH - da caverna
 [1:12:09] - 3-HUGONORTH - beleza
 [1:12:10] - 7-RAPHAELVICARONE - Então eu sigo lá pra fora.
 [1:12:13] - 7-RAPHAELVICARONE - Não é possível enxergar nada lá dentro mesmo.
 [1:12:15] - 3-HUGONORTH - vocês veem
-[1:12:18] - 3-HUGONORTH - uma pessoa
-[1:12:20] - 3-HUGONORTH - da caverna
-[1:12:23] - 3-HUGONORTH - mais duas horas
-[1:12:31] - 3-HUGONORTH - pra vocês
-[1:12:34] - 3-HUGONORTH - mais duas horas
-[1:12:35] - 4-FS_SIMOES - Cara, eu tava torcendo muito pra ele virar um bebê
-[1:12:36] - 3-HUGONORTH - vocês estão
-[1:12:48] - 3-HUGONORTH - o
-[1:12:50] - 3-HUGONORTH - para as pessoas
-[1:12:52] - 3-HUGONORTH - o outro está
-[1:12:55] - 3-HUGONORTH - de robô
-[1:12:57] - 5-NOBREAK0497 - Mas preocupado
-[1:12:57] - 3-HUGONORTH - um livro
-[1:13:00] - 3-HUGONORTH - está ali jogando
-[1:13:00] - 4-FS_SIMOES - Ah não, nós somos, nosso magro é livro de magia, não
-[1:13:03] - 4-FS_SIMOES - Era Letícia, era Letícia, beleza, entendi
-[1:13:04] - 3-HUGONORTH - tá bom
-[1:13:07] - 3-HUGONORTH - a Letícia
-[1:13:11] - 3-HUGONORTH - você do grupo
-[1:13:13] - 3-HUGONORTH - mais preocupado
-[1:13:15] - 5-NOBREAK0497 - Tá todo mundo
-[1:13:16] - 3-HUGONORTH - se duvidar
-[1:13:19] - 3-HUGONORTH - tem gente
-[1:13:19] - 7-RAPHAELVICARONE - Não é possível enxergar nada lá dentro e aí.
-[1:13:21] - 3-HUGONORTH - não voltar mais
-[1:13:26] - 3-HUGONORTH - vocês olham
-[1:13:29] - 3-HUGONORTH - para o homem
-[1:13:32] - 3-HUGONORTH - e assim
-[1:13:36] - 3-HUGONORTH - para vocês
-[1:13:38] - 3-HUGONORTH - estranha
-[1:13:41] - 3-HUGONORTH - eu
-[1:13:43] - 3-HUGONORTH - eu conheço
-[1:13:46] - 3-HUGONORTH - eu sei que é
-[1:13:48] - 3-HUGONORTH - que entrou
-[1:13:52] - 3-HUGONORTH - qual
-[1:13:54] - 3-HUGONORTH - dele mesmo
-[1:13:57] - 7-RAPHAELVICARONE - E qual é a minha sensação em olhar para eles?
-[1:14:03] - 7-RAPHAELVICARONE - Eu reconheço?
-[1:14:03] - 3-HUGONORTH - é parecida
-[1:14:06] - 3-HUGONORTH - que eles
-[1:14:08] - 3-HUGONORTH - são essas pessoas
-[1:14:11] - 4-FS_SIMOES - جera super amigo
-[1:14:13] - 4-FS_SIMOES - ó
-[1:14:15] - 7-RAPHAELVICARONE - Eu lembro do meu propósito de ter entrado lá
+[1:12:18] - 3-HUGONORTH - uma pessoa saindo
+[1:12:19] - 7-RAPHAELVICARONE - É por causa...
+[1:12:20] - 3-HUGONORTH - de dentro da caverna
+[1:12:21] - 7-RAPHAELVICARONE - Eu não sei em coincidence como uma chamada ketchup.
+[1:12:22] - 3-HUGONORTH - o grupo
+[1:12:24] - 7-RAPHAELVICARONE - Há, enfim?
+[1:12:28] - 3-HUGONORTH - mas duas horas
+[1:12:32] - 3-HUGONORTH - para vocês
+[1:12:36] - 7-RAPHAELVICARONE - Beleza.
+[1:12:36] - 3-HUGONORTH - tá
+[1:12:39] - 8-LUISFELIPEPJVAZQUEZ - Fool!
+[1:12:40] - 7-RAPHAELVICARONE - Isso музы.
+[1:12:41] - 8-LUISFELIPEPJVAZQUEZ - Play!
+[1:12:43] - 8-LUISFELIPEPJVAZQUEZ - Joel!
+[1:12:46] - 8-LUISFELIPEPJVAZQUEZ - No!
+[1:12:46] - 7-RAPHAELVICARONE - Não sei o que 항 değer, hein?
+[1:12:48] - 3-HUGONORTH - o oriça
+[1:12:50] - 3-HUGONORTH - mas você olha para as pessoas
+[1:12:52] - 3-HUGONORTH - carta, o outro tá consertando um guaxinim de robô, o outro tá
+[1:12:56] - 8-LUISFELIPEPJVAZQUEZ - Com o desconhecido.
+[1:12:57] - 3-HUGONORTH - ali lendo um livro de magia, a Emegas tá ali jogando carta com
+[1:13:01] - 3-HUGONORTH - o Tony. Não, não é, tá bom. A Letícia, a Letícia, tava falando
+[1:13:08] - 3-HUGONORTH - da Letícia. Então, assim, você do grupo que tá ali, você é o
+[1:13:11] - 5-NOBREAK0497 - Mas preocupado
+[1:13:13] - 3-HUGONORTH - que tá mais preocupado com com o Dusty. Se duvidar, tem tem
+[1:13:15] - 5-NOBREAK0497 - Está todo mundo...
+[1:13:19] - 3-HUGONORTH - gente, tem gente ali que tava até torcendo pra ele não voltar
+[1:13:22] - 3-HUGONORTH - pra casa.
+[1:13:25] - 3-HUGONORTH - Cara, vocês olham, vocês olham pro homem que sai da da da
+[1:13:26] - 8-LUISFELIPEPJVAZQUEZ - O que é a vida?
+[1:13:26] - 5-NOBREAK0497 - Legenda Adriana Zanotto
+[1:13:31] - 3-HUGONORTH - caverna e assim, ele é familiar pra vocês, mas vocês tem uma
+[1:13:38] - 3-HUGONORTH - sensação estranha de tipo eu eu conheço essa pessoa, mas eu
+[1:13:47] - 3-HUGONORTH - sei que é o meu amigo que entrou,
+[1:13:52] - 3-HUGONORTH - qual qual o nome dele mesmo?
+[1:13:59] - 7-RAPHAELVICARONE - E qual a minha sensação em olhar para ele?
+[1:14:02] - 3-HUGONORTH - A sensação é é parecida, é tipo assim, você sabe que eles
+[1:14:02] - 7-RAPHAELVICARONE - Eu reconheço?
+[1:14:05] - 7-RAPHAELVICARONE - É.
+[1:14:06] - 3-HUGONORTH - são seus aliados, mas tipo assim, São essas pessoas.
+[1:14:15] - 7-RAPHAELVICARONE - Eu lembro do meu propósito de ter entrado lá.
 [1:14:17] - 7-RAPHAELVICARONE - Quer dizer, além do meu propósito pessoal
-[1:14:19] - 3-HUGONORTH - você não lembra
-[1:14:19] - 7-RAPHAELVICARONE - De eu ter ido lá buscar o amigo do careca
-[1:14:22] - 7-RAPHAELVICARONE - Ah, tá
-[1:14:24] - 3-HUGONORTH - disso agora
-[1:14:26] - 7-RAPHAELVICARONE - Então eu saio da caverna
-[1:14:28] - 4-FS_SIMOES - Quem é esse?
-[1:14:30] - 7-RAPHAELVICARONE - Vou em direção ao grupo que está jogando cartas ali
-[1:14:33] - 3-HUGONORTH - essa pessoa
-[1:14:36] - 3-HUGONORTH - e
-[1:14:38] - 3-HUGONORTH - machucada
-[1:14:41] - 3-HUGONORTH - claramente
-[1:14:47] - 7-RAPHAELVICARONE - Sim
-[1:14:49] - 7-RAPHAELVICARONE - Eu não sei por que
-[1:14:55] - 7-RAPHAELVICARONE - Eu olho para a pessoa de cabelo prateado
-[1:15:03] - 6-NIGHTWOLFBIELZOVSKY - eou
-[1:15:07] - 7-RAPHAELVICARONE - Eu não lembro de você
-[1:15:10] - 7-RAPHAELVICARONE - Lua?
-[1:15:12] - 3-HUGONORTH - sim
-[1:15:15] - 6-NIGHTWOLFBIELZOVSKY - Do dele e falo assim
-[1:15:19] - 5-NOBREAK0497 - Tu não é o cara que entrega a mama?
-[1:15:20] - 7-RAPHAELVICARONE - Eu não sei quem é a mama
-[1:15:22] - 5-NOBREAK0497 - A outra
-[1:15:24] - 7-RAPHAELVICARONE - Eu não sei do que você está falando
-[1:15:27] - 6-NIGHTWOLFBIELZOVSKY - Você não ia pra lua, não?
-[1:15:28] - 4-FS_SIMOES - Emigardi, você pode dar uma ajuda ao nosso amigo ali, Emigardi, por favor?
-[1:15:32] - 4-FS_SIMOES - Sim.
-[1:15:34] - 3-HUGONORTH - senhor
-[1:15:37] - 3-HUGONORTH - qual o seu nome
-[1:15:41] - 7-RAPHAELVICARONE - Eu não me lembro, na verdade
-[1:15:42] - 3-HUGONORTH - aí ela
-[1:15:44] - 7-RAPHAELVICARONE - Bem
-[1:15:48] - 7-RAPHAELVICARONE - Não importa
-[1:15:51] - 7-RAPHAELVICARONE - É, eu sinto que eu tinha que fazer alguma coisa
-[1:15:52] - 3-HUGONORTH - deixa eu abrir a ficha dela
-[1:15:55] - 3-HUGONORTH - aqui
-[1:15:57] - 5-NOBREAK0497 - Quer ver o trecho de explodir?
-[1:16:01] - 4-FS_SIMOES - Rapaz...
-[1:16:05] - 4-FS_SIMOES - Senta aqui para eu jogar um pouquinho...
-[1:16:12] - 3-HUGONORTH - dá um
-[1:16:12] - 7-RAPHAELVICARONE - Mas
-[1:16:14] - 4-FS_SIMOES - Você também não lembra não, pô.
-[1:16:18] - 7-RAPHAELVICARONE - Ah, deixa eu botar
-[1:16:20] - 5-NOBREAK0497 - E fodeu, tá uma tá piroca.
-[1:16:25] - 4-FS_SIMOES - Senta aqui.
-[1:16:27] - 4-FS_SIMOES - Não.
-[1:16:28] - 3-HUGONORTH - really good
-[1:16:33] - 7-RAPHAELVICARONE - Valeu
-[1:16:39] - 3-HUGONORTH - o sacerdote
-[1:16:45] - 3-HUGONORTH - ele vira até você
-[1:16:49] - 3-HUGONORTH - alguma mensagem
-[1:16:52] - 5-NOBREAK0497 - É verdade.
-[1:16:54] - 7-RAPHAELVICARONE - Nada que eu consiga me lembrar
-[1:16:56] - 3-HUGONORTH - para nós
-[1:17:01] - 7-RAPHAELVICARONE - Não precisa disso
-[1:17:04] - 3-HUGONORTH - perante a você
-[1:17:07] - 3-HUGONORTH - reverenciando você
-[1:17:11] - 7-RAPHAELVICARONE - Por favor
-[1:17:20] - 7-RAPHAELVICARONE - Muito confusas
-[1:17:25] - 7-RAPHAELVICARONE - Com algum propósito
-[1:17:31] - 7-RAPHAELVICARONE - Como se fosse há muito tempo
-[1:17:38] - 3-HUGONORTH - beleza
-[1:17:39] - 7-RAPHAELVICARONE - Finalia
-[1:17:42] - 7-RAPHAELVICARONE - Vamos ao равно
-[1:17:45] - 3-HUGONORTH - a Letícia
-[1:17:47] - 3-HUGONORTH - olha pra você
-[1:17:51] - 3-HUGONORTH - ela tenta
-[1:17:54] - 7-RAPHAELVICARONE - E agora
-[1:17:56] - 3-HUGONORTH - levanta a mão
-[1:17:58] - 3-HUGONORTH - assim
-[1:18:01] - 3-HUGONORTH - tentando tipo
-[1:18:04] - 3-HUGONORTH - perto de você
-[1:18:06] - 3-HUGONORTH - beleza
-[1:18:08] - 3-HUGONORTH - esquisito
-[1:18:11] - 3-HUGONORTH - sim
-[1:18:24] - 4-FS_SIMOES - E a gente também lembra que ele é do nosso grupo
-[1:18:29] - 3-HUGONORTH - beleza
-[1:18:39] - 7-RAPHAELVICARONE - Não, eu não acho que eu sou um nube do homem
-[1:18:45] - 3-HUGONORTH - Foi de bom.
-[1:18:48] - 4-FS_SIMOES - Ok
-[1:18:50] - 4-FS_SIMOES - Vamos seguir então
-[1:18:52] - 4-FS_SIMOES - Só espero que ele não vira um abisomem de novo
-[1:18:53] - 6-NIGHTWOLFBIELZOVSKY - Eu acho uma excelente ideia
-[1:18:55] - 4-FS_SIMOES - É de noite
-[1:19:02] - 4-FS_SIMOES - Passar olhos só por precaução todas as noites?
-[1:19:09] - 7-RAPHAELVICARONE - Eu não tinha entendido essa na primeira
-[1:19:10] - 6-NIGHTWOLFBIELZOVSKY - Bem, eu acho que é desse cara que acabou de sair da...
-[1:19:15] - 3-HUGONORTH - Deus esses so Ya, imaginou p bütün
-[1:19:19] - 6-NIGHTWOLFBIELZOVSKY - Eu sei? Ah, então beleza.
-[1:19:22] - 6-NIGHTWOLFBIELZOVSKY - Então tá, vou retificar o que eu falei.
-[1:19:24] - 6-NIGHTWOLFBIELZOVSKY - Essas roupas aí são dele.
-[1:19:32] - 6-NIGHTWOLFBIELZOVSKY - que ele tava com foguetão aí.
-[1:19:33] - 3-HUGONORTH - Não, isso criticara o não.
-[1:19:37] - 7-RAPHAELVICARONE - Cara, ele falou e eu só deixei passar, foi mal
-[1:19:40] - 6-NIGHTWOLFBIELZOVSKY - É, pô. Tava esperando alguém falar, ué, a lua...
-[1:19:41] - 4-FS_SIMOES - Eu estava esperando a continuação.
-[1:19:42] - 7-RAPHAELVICARONE - A virada, né? Qual era a punchline
-[1:19:45] - 3-HUGONORTH - eu tava quase entrando no pontilário pra você
-[1:19:47] - 7-RAPHAELVICARONE - Foi mal
-[1:19:50] - 3-HUGONORTH - quase me jogando na frente
-[1:19:54] - 7-RAPHAELVICARONE - Eu tô confuso, eu tô confuso
-[1:19:59] - 3-HUGONORTH - vocês embarcam
-[1:20:02] - 3-HUGONORTH - pra você
-[1:20:07] - 7-RAPHAELVICARONE - Só um metagame aqui
-[1:20:08] - 3-HUGONORTH - você muda se você quiser
-[1:20:10] - 7-RAPHAELVICARONE - Você vai me obrigar a mudar de nome
-[1:20:11] - 4-FS_SIMOES - Vira dois de centro.
-[1:20:12] - 7-RAPHAELVICARONE - Ou eu mudo se eu quiser
-[1:20:14] - 3-HUGONORTH - pode ser, pode continuar com uma das coisas
-[1:20:17] - 7-RAPHAELVICARONE - Ah, essa é a piada que o Abarth
-[1:20:19] - 3-HUGONORTH - não
-[1:20:23] - 3-HUGONORTH - o
-[1:20:24] - 7-RAPHAELVICARONE - Nossa, agora que eu entendi
-[1:20:27] - 7-RAPHAELVICARONE - O Bart tinha mandado isso pra mim no WhatsApp
-[1:20:31] - 7-RAPHAELVICARONE - Cara, do que ele tá falando?
-[1:20:33] - 7-RAPHAELVICARONE - Caralho, velho
-[1:20:37] - 7-RAPHAELVICARONE - Muito boa, Bart
-[1:20:40] - 7-RAPHAELVICARONE - Parabéns
-[1:20:41] - 4-FS_SIMOES - Eu estava esperando a continuação.
-[1:20:42] - 7-RAPHAELVICARONE - É, eu acho que eu não mereço isso tudo
-[1:20:44] - 3-HUGONORTH - o o
-[1:20:46] - 3-HUGONORTH - o
-[1:20:51] - 3-HUGONORTH - o sacerdote ele fica olhando pra você com um olhar de apreço sabe de como se você fosse uma própria divindade
-[1:20:57] - 3-HUGONORTH - deste
-[1:21:02] - 7-RAPHAELVICARONE - Eu fico vergonhado
-[1:21:02] - 3-HUGONORTH - o
-[1:21:04] - 7-RAPHAELVICARONE - Mas eu não consigo descrever o quê, né?
-[1:21:13] - 7-RAPHAELVICARONE - Só tem algo diferente
-[1:21:20] - 7-RAPHAELVICARONE - Eu consigo
-[1:21:25] - 7-RAPHAELVICARONE - Mas eu não tenho o que falar com ele
-[1:21:27] - 7-RAPHAELVICARONE - Não, mas é assim
-[1:21:41] - 4-FS_SIMOES - Eu estou esperando a continuação.
-[1:21:43] - 7-RAPHAELVICARONE - É porque é foda de lembrar, cara
-[1:21:57] - 7-RAPHAELVICARONE - É que ela está usando
-[1:22:12] - 3-HUGONORTH - Orestão, você sabe, vocês falaram que estão indo para longe?
-[1:22:19] - 3-HUGONORTH - Orestão, você sabe para onde eles estão indo?
-[1:22:22] - 3-HUGONORTH - É uma cidade onde há magia e é realmente a direção aposta de onde você está indo, de onde você veio.
-[1:22:42] - 3-HUGONORTH - Orestão, você sabe, vocês falaram que estão indo, de onde você está indo.
-[1:23:01] - 3-HUGONORTH - Ele acena para você com a cabeça assim.
-[1:23:18] - 3-HUGONORTH - Beleza, vocês levantam o acampamento e seguem em viagem.
-[1:23:19] - 4-FS_SIMOES - Conseguimos viajar.
-[1:23:22] - 3-HUGONORTH - E beleza.
-[1:23:27] - 5-NOBREAK0497 - Obrigado.
+[1:14:19] - 7-RAPHAELVICARONE - de eu ter ido lá buscar o amigo do careca.
+[1:14:22] - 3-HUGONORTH - Você não lembra disso agora.
+[1:14:26] - 7-RAPHAELVICARONE - Ah, tá.
+[1:14:28] - 7-RAPHAELVICARONE - Então eu saio da caverna e vou em direção ao grupo que está jogando cartas ali.
+[1:14:32] - 3-HUGONORTH - É, você vê essa pessoa também saindo e ela tá tipo assim, nu
+[1:14:37] - 3-HUGONORTH - e tipo machucada pra ****, tá ligado? Você vê que ele tá
+[1:14:41] - 3-HUGONORTH - claramente assim bem ****
+[1:14:47] - 7-RAPHAELVICARONE - Obrigado por perguntar.
+[1:14:51] - 4-FS_SIMOES - Quem é esse?
+[1:14:54] - 7-RAPHAELVICARONE - É, eu não sei porquê.
+[1:15:01] - 6-NIGHTWOLFBIELZOVSKY - .
+[1:15:04] - 7-RAPHAELVICARONE - Eu olho para a pessoa de cabelo prateado e eu não lembro de você.
+[1:15:09] - 7-RAPHAELVICARONE - Eu passo direto.
+[1:15:10] - 3-HUGONORTH - E aí E aí
+[1:15:12] - 7-RAPHAELVICARONE - Ah, tá.
+[1:15:17] - 7-RAPHAELVICARONE - Lua?
+[1:15:22] - 7-RAPHAELVICARONE - Eu não sei quem é a mama.
+[1:15:25] - 7-RAPHAELVICARONE - Eu não sei do que você está falando.
+[1:15:28] - 6-NIGHTWOLFBIELZOVSKY - para a Lua, não?
+[1:15:31] - 3-HUGONORTH - Ah, sim, senhor. Ah, senhor, qual o seu nome, senhor?
+[1:15:39] - 7-RAPHAELVICARONE - Ah, eu não...
+[1:15:41] - 7-RAPHAELVICARONE - Eu não me lembro, na verdade.
+[1:15:47] - 7-RAPHAELVICARONE - Então...
+[1:15:49] - 7-RAPHAELVICARONE - Não importa. Você consegue me ajudar?
+[1:15:52] - 3-HUGONORTH - Aí ela...
+[1:15:56] - 4-FS_SIMOES - IDIOTO
+[1:15:58] - 6-NIGHTWOLFBIELZOVSKY - Legenda por Sônia Ruberti
+[1:16:02] - 4-FS_SIMOES - INSTANTE
+[1:16:10] - 7-RAPHAELVICARONE - É, eu sinto que eu tinha que fazer alguma coisa, mas...
+[1:16:14] - 7-RAPHAELVICARONE - Pode ser.
+[1:16:14] - 5-NOBREAK0497 - Quer ver o Trestre explodir?
+[1:16:16] - 7-RAPHAELVICARONE - É.
+[1:16:20] - 5-NOBREAK0497 - Ih, fodeu.
+[1:16:22] - 3-HUGONORTH - Ela dá um really wounds em você.
+[1:16:25] - 4-FS_SIMOES - IDIOTO
+[1:16:26] - 5-NOBREAK0497 - É, é verdade.
+[1:16:43] - 3-HUGONORTH - É...
+[1:16:47] - 7-RAPHAELVICARONE - Foi bem difícil, na verdade.
+[1:16:48] - 3-HUGONORTH - Bom que você conseguiu retornar.
+[1:16:52] - 3-HUGONORTH - Alguma mensagem para nós?
+[1:16:56] - 4-FS_SIMOES - Não lembra dele, não?
+[1:16:59] - 7-RAPHAELVICARONE - Nada que eu consiga me lembrar.
+[1:17:02] - 3-HUGONORTH - Você vê que ele se ajoelha perante a você e ele se abaixa assim, reverenciando você.
+[1:17:10] - 7-RAPHAELVICARONE - Não precisa disso, por favor.
+[1:17:15] - 8-LUISFELIPEPJVAZQUEZ - O que você viu lá dentro?
+[1:17:17] - 7-RAPHAELVICARONE - Na verdade, foram coisas muito confusas.
+[1:17:22] - 7-RAPHAELVICARONE - Eu só lembro de ter entrado na caverna com algum propósito, mas...
+[1:17:22] - 3-HUGONORTH - Beleza.
+[1:17:26] - 8-LUISFELIPEPJVAZQUEZ - Certo.
+[1:17:29] - 7-RAPHAELVICARONE - É como se tudo tivesse sido distante.
+[1:17:31] - 7-RAPHAELVICARONE - Como se fosse há muito tempo.
+[1:17:38] - 7-RAPHAELVICARONE - Muito confuso.
+[1:17:45] - 3-HUGONORTH - A Letícia olha para você ou deixa ela falar?
+[1:17:47] - 7-RAPHAELVICARONE - É.
+[1:17:50] - 3-HUGONORTH - Intrigante.
+[1:17:54] - 3-HUGONORTH - Ela levanta a mão e tenta usar alguma magia em volta de você.
+[1:18:01] - 3-HUGONORTH - Tentando detectar alguma magia perto de você.
+[1:18:05] - 3-HUGONORTH - E ela fala...
+[1:18:09] - 3-HUGONORTH - Esquisito.
+[1:18:17] - 7-RAPHAELVICARONE - Muito confuso.
+[1:18:22] - 3-HUGONORTH - Sim.
+[1:18:47] - 7-RAPHAELVICARONE - Não, eu não acho que eu sou um noobzombie.
+[1:18:52] - 3-HUGONORTH - ,
+[1:18:58] - 4-FS_SIMOES - Vocês acham que a gente deveria amarrar ele e passar óleo só por precaução todas as noites?
+[1:18:58] - 9-GUSTAVONIKOV - É
+[1:18:59] - 3-HUGONORTH - Ou algo que você possa fazer.
+[1:19:01] - 9-GUSTAVONIKOV - Eu acho que é bom
+[1:19:03] - 3-HUGONORTH - Não, forum.
+[1:19:05] - 3-HUGONORTH - Ela chama minha mãe ela a koffala.
+[1:19:08] - 9-GUSTAVONIKOV - Inclusive Nightwolf
+[1:19:09] - 3-HUGONORTH - Ela diz isso.
+[1:19:13] - 3-HUGONORTH - participou dessa holy...
+[1:19:16] - 3-HUGONORTH - rose.
+[1:19:18] - 3-HUGONORTH - Você notou hoje nós seus papéis?
+[1:19:21] - 3-HUGONORTH - Sabe o que é roupa dele.
+[1:19:26] - 4-FS_SIMOES - Eu estava esperando a continuação.
+[1:19:47] - 7-RAPHAELVICARONE - É.
+[1:19:48] - 3-HUGONORTH - Eu tava quase entrando no punchline pra você, porra.
+[1:19:51] - 3-HUGONORTH - Quase me jogando na frente.
+[1:19:52] - 7-RAPHAELVICARONE - É, meu irmão.
+[1:19:55] - 7-RAPHAELVICARONE - Eu tô confuso, eu tô confuso.
+[1:19:58] - 3-HUGONORTH - Show.
+[1:20:01] - 3-HUGONORTH - O sacerdote fica olhando pra você.
+[1:20:05] - 3-HUGONORTH - Pessoa sem nome.
+[1:20:08] - 7-RAPHAELVICARONE - Só um metagame aqui.
+[1:20:11] - 3-HUGONORTH - Você muda se você quiser.
+[1:20:11] - 7-RAPHAELVICARONE - Você vai me obrigar a mudar de nome ou eu mudo se eu quiser?
+[1:20:13] - 7-RAPHAELVICARONE - Porque eu gosto tanto do Dusty Martins.
+[1:20:17] - 3-HUGONORTH - Pode ser.
+[1:20:17] - 7-RAPHAELVICARONE - Você vai me obrigar a mudar de nome ou eu mudo se eu quiser?
+[1:20:21] - 3-HUGONORTH - Não.
+[1:20:23] - 7-RAPHAELVICARONE - Ah, essa é a piada que o Abarth...
+[1:20:25] - 7-RAPHAELVICARONE - Nossa, agora que eu entendi.
+[1:20:28] - 3-HUGONORTH - O...
+[1:20:29] - 7-RAPHAELVICARONE - O Abarth tinha mandado isso pra mim no WhatsApp.
+[1:20:31] - 3-HUGONORTH - É muito bom, né?
+[1:20:32] - 7-RAPHAELVICARONE - Cara, do que ele tá falando?
+[1:20:36] - 7-RAPHAELVICARONE - Caralho, velho.
+[1:20:38] - 3-HUGONORTH - Você pode...
+[1:20:38] - 7-RAPHAELVICARONE - Muito boa, Abarth.
+[1:20:41] - 7-RAPHAELVICARONE - Parabéns.
+[1:20:46] - 3-HUGONORTH - Escolher ele é...
+[1:20:47] - 7-RAPHAELVICARONE - É, eu acho que eu não mereço isso tudo.
+[1:20:51] - 3-HUGONORTH - O sacerdote, ele fica olhando pra você com um olhar de apreço, sabe?
+[1:20:55] - 3-HUGONORTH - De...
+[1:20:56] - 5-NOBREAK0497 - Legenda Adriana Zanotto
+[1:20:58] - 3-HUGONORTH - Dusty.
+[1:21:03] - 3-HUGONORTH - Você sente que há algo bastante diferente de você ali na sua memória.
+[1:21:03] - 7-RAPHAELVICARONE - Eu fico envergonhado.
+[1:21:09] - 7-RAPHAELVICARONE - É.
+[1:21:13] - 7-RAPHAELVICARONE - Só tem algo diferente.
+[1:21:14] - 3-HUGONORTH - É algo diferente.
+[1:21:16] - 7-RAPHAELVICARONE - É.
+[1:21:21] - 7-RAPHAELVICARONE - Eu consigo...
+[1:21:21] - 3-HUGONORTH - Ele está ali.
+[1:21:25] - 7-RAPHAELVICARONE - mas eu não tenho o que falar com ele porque eu não lembro, então...
+[1:21:26] - 4-FS_SIMOES - Pode deixar que eu resolvo isso.
+[1:21:28] - 3-HUGONORTH - O sacerdote está olhando pra você.
+[1:21:31] - 3-HUGONORTH - Cool.
+[1:21:32] - 4-FS_SIMOES - Vamos para longe?
+[1:21:35] - 3-HUGONORTH - Estragou eu.
+[1:21:35] - 8-LUISFELIPEPJVAZQUEZ - Pss.
+[1:21:35] - 4-FS_SIMOES - Qual é o seu nome mesmo?
+[1:21:38] - 7-RAPHAELVICARONE - Não, mas é assim.
+[1:21:38] - 8-LUISFELIPEPJVAZQUEZ - Certo.
+[1:21:39] - 3-HUGONORTH - O que aconteceu?
+[1:21:43] - 4-FS_SIMOES - Os dois estão ali.
+[1:21:43] - 7-RAPHAELVICARONE - É porque é foda de lembrar, cara.
+[1:21:44] - 3-HUGONORTH - Você morreu?
+[1:21:47] - 7-RAPHAELVICARONE - É.
+[1:21:47] - 4-FS_SIMOES - Oristano, é isso?
+[1:21:49] - 3-HUGONORTH - É do ano дней?
+[1:21:49] - 8-LUISFELIPEPJVAZQUEZ - Isso.
+[1:21:50] - 4-FS_SIMOES - Junho Baiano?
+[1:21:52] - 4-FS_SIMOES - A gente está indo para uma cidade vizinha aqui.
+[1:21:55] - 4-FS_SIMOES - A gente também está procurando...
+[1:21:56] - 8-LUISFELIPEPJVAZQUEZ - Legenda Adriana Zanotto
+[1:22:00] - 4-FS_SIMOES - Então, sinta-se à vontade.
+[1:22:05] - 4-FS_SIMOES - E...
+[1:22:07] - 7-RAPHAELVICARONE - Na hora em que você for, você..?
+[1:22:08] - 4-FS_SIMOES - a gente está indo lá conhecer a cidade melhor.
+[1:22:10] - 7-RAPHAELVICARONE - É.
+[1:22:12] - 7-RAPHAELVICARONE - Por quê?
+[1:22:14] - 3-HUGONORTH - Vocês falaram que estão indo para Londres?
+[1:22:16] - 7-RAPHAELVICARONE - Legenda Adriana Zanotto
+[1:22:17] - 4-FS_SIMOES - Falamos que estamos indo para longe.
+[1:22:22] - 3-HUGONORTH - É uma cidade de magia e é realmente a direção oposta de onde você está indo, de onde você veio.
+[1:22:26] - 4-FS_SIMOES - A gente está indo para longe.
+[1:22:28] - 9-GUSTAVONIKOV - Legenda Adriana Zanotto
+[1:22:46] - 3-HUGONORTH - Oresta, você sabe para onde eles estão indo?
+[1:23:07] - 3-HUGONORTH - Ele acena para você com a cabeça assim.
+[1:23:09] - 3-HUGONORTH - Oresta, você sabe para onde eles estão indo?
+[1:23:16] - 3-HUGONORTH - Ele acena para onde eles estão indo?
+[1:23:18] - 4-FS_SIMOES - Então, vamos.
+[1:23:21] - 4-FS_SIMOES - O que dizemos, viagens?
+[1:23:26] - 4-FS_SIMOES - O que dizemos de Siobá para nós?
+[1:23:30] - 3-HUGONORTH - Beleza.
 [1:23:34] - 3-HUGONORTH - Tem mais 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dias de viagem.
 [1:23:43] - 3-HUGONORTH - Alguém fez alguma coisa específica?
-[1:23:47] - 3-HUGONORTH - Tá.
-[1:23:49] - 4-FS_SIMOES - Eu tenho?
-[1:23:52] - 3-HUGONORTH - Tem que é um dado.
-[1:24:05] - 3-HUGONORTH - Você não tem no seu armadura?
-[1:24:07] - 4-FS_SIMOES - Tenho, mas era mais roleplay do que real, assim, mas pode ser.
-[1:24:12] - 3-HUGONORTH - Não, é o símbolo que ele tem.
-[1:24:14] - 4-FS_SIMOES - É, o símbolo que eu...
-[1:24:15] - 3-HUGONORTH - Você tem o símbolo.
-[1:24:16] - 4-FS_SIMOES - Peraí, tem símbolo.
-[1:24:17] - 3-HUGONORTH - Ele tem um dado no peito.
-[1:24:19] - 4-FS_SIMOES - Isso.
-[1:24:21] - 4-FS_SIMOES - Pô, você funciona piada, pô.
-[1:24:22] - 3-HUGONORTH - Com certeza você repara fácil que a AmyGuard tem uma presença religiosa.
-[1:24:38] - 3-HUGONORTH - Nightbook também?
-[1:24:41] - 6-NIGHTWOLFBIELZOVSKY - Ele foi arremessado.
-[1:24:41] - 3-HUGONORTH - É.
-[1:24:52] - 3-HUGONORTH - Você sente uma leve presença no...
-[1:24:52] - 4-FS_SIMOES - Peraí, tem símbolo.
-[1:24:56] - 3-HUGONORTH - No Bartroc também.
-[1:24:58] - 4-FS_SIMOES - Quem é o que a gente busca indicierem?
-[1:25:01] - 3-HUGONORTH - Nesse mago.
-[1:25:01] - 4-FS_SIMOES - Aposto a ver no nome.
-[1:25:05] - 2-MATHEUSBARTCOSTA - Esse mago pica aí
-[1:25:08] - 3-HUGONORTH - É.
-[1:25:14] - 3-HUGONORTH - Quando...
-[1:25:16] - 2-MATHEUSBARTCOSTA - Se aproxima
-[1:25:18] - 2-MATHEUSBARTCOSTA - Perfeito
-[1:25:19] - 3-HUGONORTH - É.
-[1:25:35] - 4-FS_SIMOES - Eu senti
+[1:23:45] - 4-FS_SIMOES - Eu queria dizer que você é baita.
+[1:23:46] - 3-HUGONORTH - tem
+[1:23:48] - 4-FS_SIMOES - Está acompanhando, você está acompanhando a cidade já.
+[1:23:51] - 4-FS_SIMOES - A gente está amando a cidade já.
+[1:23:56] - 4-FS_SIMOES - eu tenho
+[1:23:59] - 3-HUGONORTH - que é um dado
+[1:24:07] - 4-FS_SIMOES - mas era mais
+[1:24:09] - 4-FS_SIMOES - é roleplay do que
+[1:24:11] - 3-HUGONORTH - é o símbolo que ele tem
+[1:24:12] - 4-FS_SIMOES - é o símbolo que eu
+[1:24:15] - 3-HUGONORTH - você tem o símbolo
+[1:24:15] - 4-FS_SIMOES - é, eu tenho símbolo
+[1:24:18] - 4-FS_SIMOES - isso
+[1:24:19] - 3-HUGONORTH - ele tem dado em casa
+[1:24:21] - 4-FS_SIMOES - pô, você consome a piada
+[1:24:26] - 4-FS_SIMOES - você foi
+[1:24:31] - 3-HUGONORTH - fácil que a Emegard
+[1:24:35] - 3-HUGONORTH - Nightwook também
+[1:24:38] - 4-FS_SIMOES - o Night Owl foi expulso
+[1:24:41] - 4-FS_SIMOES - mas ó
+[1:24:41] - 3-HUGONORTH - é
+[1:24:43] - 4-FS_SIMOES - o prafanado
+[1:24:46] - 3-HUGONORTH - você sente uma leve presença
+[1:24:47] - 4-FS_SIMOES - ele tem, pô
+[1:24:50] - 4-FS_SIMOES - ele é
+[1:24:55] - 3-HUGONORTH - no
+[1:24:56] - 4-FS_SIMOES - o mais religioso
+[1:24:58] - 6-NIGHTWOLFBIELZOVSKY - Legenda Adriana Zanotto
+[1:25:01] - 3-HUGONORTH - nesse mago
+[1:25:04] - 3-HUGONORTH - esquisita
+[1:25:05] - 2-MATHEUSBARTCOSTA - Esse mago pica欸
+[1:25:08] - 2-MATHEUSBARTCOSTA - a
+[1:25:09] - 3-HUGONORTH - é literalmente essa sensação que você tem
+[1:25:11] - 2-MATHEUSBARTCOSTA - A
+[1:25:13] - 3-HUGONORTH - quando
+[1:25:13] - 2-MATHEUSBARTCOSTA - se
+[1:25:16] - 2-MATHEUSBARTCOSTA - se aproxima desse mago perfeito
+[1:25:18] - 3-HUGONORTH - Bartrock
+[1:25:23] - 3-HUGONORTH - é
+[1:25:23] - 2-MATHEUSBARTCOSTA - o mago da PT
+[1:25:26] - 4-FS_SIMOES - eu, eu senti
+[1:25:26] - 3-HUGONORTH - não
+[1:25:29] - 3-HUGONORTH - TL
+[1:25:34] - 3-HUGONORTH - ela é
+[1:25:37] - 3-HUGONORTH - sinceramente
+[1:25:40] - 3-HUGONORTH - ela
+[1:25:43] - 3-HUGONORTH - eu não sei nada Nau para quem possa sentir
 [1:25:46] - 3-HUGONORTH - Seria.
-[1:25:49] - 2-MATHEUSBARTCOSTA - todo mundo tem que ser um viciado igual você, Tony
-[1:25:51] - 4-FS_SIMOES - Eu chamei ele pra jogar dado três vezes
-[1:25:54] - 4-FS_SIMOES - E ele se recusou
-[1:26:01] - 2-MATHEUSBARTCOSTA - é?
-[1:26:04] - 4-FS_SIMOES - Eu paro quando eu quiser
-[1:26:07] - 4-FS_SIMOES - Eu?
-[1:26:08] - 2-MATHEUSBARTCOSTA - tudo bem
-[1:26:11] - 5-NOBREAK0497 - Argumentos.
-[1:26:20] - 4-FS_SIMOES - Aí eu pego meus dados assim
-[1:26:22] - 4-FS_SIMOES - Tá aqui meus dois deuses
-[1:26:29] - 4-FS_SIMOES - A sorte ela brilha pra todos
-[1:26:34] - 4-FS_SIMOES - Mas na minha mão
-[1:26:37] - 4-FS_SIMOES - Ela brilha mais
-[1:26:38] - 3-HUGONORTH - Tony.
-[1:26:40] - 3-HUGONORTH - Rola um religion check pra mim, por favor.
-[1:26:46] - 3-HUGONORTH - Você sente um frio na sua espinha quando você fala sobre isso?
-[1:26:55] - 4-FS_SIMOES - Que o dado é o Deus
-[1:26:57] - 4-FS_SIMOES - Me dá meu dado de volta
-[1:27:03] - 4-FS_SIMOES - Você vai passar
-[1:27:06] - 3-HUGONORTH - ReviРИR
-[1:27:07] - 4-FS_SIMOES - Eu posso falar uma coisa antes?
-[1:27:30] - 3-HUGONORTH - Me Christiansmelas Sina
-[1:27:33] - 4-FS_SIMOES - Ele só não cheira pior
-[1:27:36] - 3-HUGONORTH - você não lembra o que é?
-[1:27:38] - 4-FS_SIMOES - Do que o Bart
-[1:27:41] - 4-FS_SIMOES - E realmente o Bart
-[1:27:57] - 3-HUGONORTH - vocês lembram que ele entrou
-[1:28:03] - 4-FS_SIMOES - Eu só tenho certo
-[1:28:03] - 3-HUGONORTH - tudo que aconteceu
-[1:28:06] - 3-HUGONORTH - lá em Elriste
-[1:28:07] - 4-FS_SIMOES - Eu também porque o Bart
-[1:28:09] - 3-HUGONORTH - e
-[1:28:10] - 4-FS_SIMOES - Eu acho que scary
-[1:28:10] - 7-RAPHAELVICARONE - É quase como se eu tivesse virado um NPC na memória deles
-[1:28:11] - 3-HUGONORTH - é, tipo assim
-[1:28:12] - 4-FS_SIMOES - Eu soube
-[1:28:13] - 7-RAPHAELVICARONE - Eu tava lá mas...
-[1:28:14] - 3-HUGONORTH - você sabe que o grupo de vocês estava lá
-[1:28:18] - 3-HUGONORTH - a quantidade de pessoas, você consegue lembrar de todo mundo
-[1:28:22] - 3-HUGONORTH - sabe quando você
-[1:28:25] - 3-HUGONORTH - você lembra seus amigos
-[1:28:28] - 3-HUGONORTH - e tinha um amigo de um amigo que você não lembra o nome da pessoa
-[1:28:30] - 3-HUGONORTH - mas estava naquela festa também
-[1:28:34] - 3-HUGONORTH - mas você não sabe dizer quem era
-[1:28:37] - 3-HUGONORTH - o que estava vestindo
-[1:28:39] - 3-HUGONORTH - o que estava fazendo
-[1:28:46] - 3-HUGONORTH - com a Rita
-[1:28:49] - 3-HUGONORTH - mas você não lembra exatamente
-[1:28:52] - 3-HUGONORTH - o que aconteceu
-[1:28:53] - 7-RAPHAELVICARONE - É...
-[1:28:56] - 3-HUGONORTH - que essa pessoa estava envolvida
-[1:29:04] - 3-HUGONORTH - você tem uma pessoa
-[1:29:11] - 6-NIGHTWOLFBIELZOVSKY - Ele é arremessado.
-[1:29:18] - 6-NIGHTWOLFBIELZOVSKY - Ele foi arre Turks brush.
-[1:29:20] - 7-RAPHAELVICARONE - Deixo.
-[1:29:22] - 3-HUGONORTH - a ninguém
-[1:29:23] - 7-RAPHAELVICARONE - Não.
-[1:29:29] - 6-NIGHTWOLFBIELZOVSKY - Ele foi arremessado.
-[1:29:31] - 2-MATHEUSBARTCOSTA - Tchau.
-[1:29:37] - 3-HUGONORTH - Beleza
-[1:29:40] - 3-HUGONORTH - Vocês seguem viagem
-[1:29:43] - 4-FS_SIMOES - Não.
-[1:29:50] - 3-HUGONORTH - Ok galera, alguns dias se passam
+[1:25:51] - 4-FS_SIMOES - eu chamei ele pra jogar dado
+[1:25:54] - 4-FS_SIMOES - e ele se recusou
+[1:25:56] - 4-FS_SIMOES - quem disse que eu tô viciado
+[1:25:59] - 2-MATHEUSBARTCOSTA - Todo mundo tem que ser um viciado igual a você, Tony
+[1:26:04] - 4-FS_SIMOES - eu paro quando eu quiser
+[1:26:08] - 2-MATHEUSBARTCOSTA - Tudo bem
+[1:26:10] - 5-NOBREAK0497 - Argumentos
+[1:26:16] - 3-HUGONORTH - Tony.
+[1:26:19] - 4-FS_SIMOES - eu
+[1:26:21] - 4-FS_SIMOES - jogo na mão dele assim
+[1:26:24] - 4-FS_SIMOES - eu
+[1:26:26] - 4-FS_SIMOES - eu vou tomar
+[1:26:33] - 4-FS_SIMOES - esse
+[1:26:37] - 4-FS_SIMOES - tinha
+[1:26:40] - 4-FS_SIMOES - é
+[1:26:41] - 3-HUGONORTH - Rola um religion check pra mim, por favor.
+[1:26:43] - 4-FS_SIMOES - porque
+[1:26:45] - 4-FS_SIMOES - objective
+[1:26:46] - 3-HUGONORTH - Você sente um frio na sua espinha
+[1:26:48] - 4-FS_SIMOES - o jogo
+[1:26:51] - 4-FS_SIMOES - é
+[1:26:55] - 4-FS_SIMOES - um tempo
+[1:26:58] - 3-HUGONORTH - quando você fala sobre isso?
+[1:27:02] - 4-FS_SIMOES - Me dá meu dado de volta.
+[1:27:06] - 3-HUGONORTH - Não.
+[1:27:16] - 3-HUGONORTH - Lembra do quê?
+[1:27:26] - 4-FS_SIMOES - Eu posso falar uma coisa antes?
+[1:27:36] - 4-FS_SIMOES - Ele só não cheira pior do que o Bart.
+[1:27:39] - 4-FS_SIMOES - Que o Bartrock.
+[1:27:44] - 3-HUGONORTH - Você não lembra o que é, Luiz?
+[1:27:44] - 4-FS_SIMOES - E realmente, Bart.
+[1:27:56] - 5-NOBREAK0497 - Legenda Adriana Zanotto
+[1:27:56] - 4-FS_SIMOES - Eu tenho certeza disso.
+[1:27:59] - 3-HUGONORTH - Vocês lembram que ele entrou?
+[1:28:03] - 3-HUGONORTH - Tudo que aconteceu, tipo, lá em El Histe,
+[1:28:07] - 3-HUGONORTH - vocês estavam como grupo
+[1:28:09] - 3-HUGONORTH - e...
+[1:28:13] - 3-HUGONORTH - É, tipo assim,
+[1:28:16] - 3-HUGONORTH - tava lá,
+[1:28:19] - 3-HUGONORTH - você consegue lembrar de todo mundo
+[1:28:23] - 9-GUSTAVONIKOV - É tipo figurante, tá?
+[1:28:23] - 3-HUGONORTH - Sabe quando você...
+[1:28:26] - 3-HUGONORTH - você lembra, tipo assim,
+[1:28:28] - 3-HUGONORTH - e tinha um amigo de um amigo
+[1:28:28] - 9-GUSTAVONIKOV - Essa dica não é Scratch.
+[1:28:30] - 3-HUGONORTH - mas tava naquela festa também?
+[1:28:32] - 9-GUSTAVONIKOV - Eu acho que você sim!
+[1:28:33] - 3-HUGONORTH - Então, você sabe que tinha aquela pessoa lá,
+[1:28:37] - 3-HUGONORTH - o que que tava vestindo,
+[1:28:38] - 9-GUSTAVONIKOV - É visto comード?
+[1:28:42] - 9-GUSTAVONIKOV - US –
+[1:28:43] - 3-HUGONORTH - Você lembra que você brigou com essa pessoa,
+[1:28:44] - 9-GUSTAVONIKOV - Aceitofactoane house
+[1:28:46] - 3-HUGONORTH - com a Rita,
+[1:28:50] - 3-HUGONORTH - mas você não lembra exatamente
+[1:28:51] - 9-GUSTAVONIKOV - Atraapp
+[1:28:53] - 9-GUSTAVONIKOV - Agem
+[1:28:54] - 3-HUGONORTH - o que que aconteceu,
+[1:28:57] - 3-HUGONORTH - que essa pessoa tava envolvida.
+[1:28:57] - 9-GUSTAVONIKOV - Ok!
+[1:29:03] - 9-GUSTAVONIKOV - Se tiver alguma coisa suspeita
+[1:29:06] - 9-GUSTAVONIKOV - Vai dar algum sinal pra gente mais à frente
+[1:29:09] - 9-GUSTAVONIKOV - Inclusive, amigo
+[1:29:13] - 9-GUSTAVONIKOV - Como é que a gente deveria te chamar?
+[1:29:16] - 3-HUGONORTH - fifteen,
+[1:29:24] - 3-HUGONORTH - sixteen,
+[1:29:24] - 9-GUSTAVONIKOV - Não seria Toma Shelby, não?
+[1:29:28] - 9-GUSTAVONIKOV - Ok
+[1:29:29] - 2-MATHEUSBARTCOSTA - E fica na rua.
+[1:29:38] - 3-HUGONORTH - 17,
+[1:29:40] - 3-HUGONORTH - Você segue em viagem,
+[1:29:46] - 3-HUGONORTH - Ok galera, alguns dias se passam
+[1:29:49] - 4-FS_SIMOES - Não.
 [1:29:52] - 3-HUGONORTH - E um belo dia
-[1:29:55] - 3-HUGONORTH - Na pedra
-[1:29:57] - 5-NOBREAK0497 - Puta que pariu
+[1:29:55] - 3-HUGONORTH - Na
 [1:29:58] - 3-HUGONORTH - Vocês são acordados
+[1:29:58] - 9-GUSTAVONIKOV - O quê?

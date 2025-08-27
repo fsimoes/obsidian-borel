@@ -6,6 +6,7 @@
       {
         "id": "4eb56ba0937f5e7a",
         "type": "tabs",
+        "dimension": 36.11111111111111,
         "children": [
           {
             "id": "80487098c3fa32c5",
@@ -13,10 +14,29 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235312.png"
+                "file": "Borel/Referencias/Players/Bartrok_2.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250821235312"
+              "title": "Bartrok_2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4fc05e1d29c7148",
+        "type": "tabs",
+        "dimension": 63.888888888888886,
+        "children": [
+          {
+            "id": "ce9d6e659ef0f968",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Borel/Referencias/Players/Orestan.png"
+              },
+              "icon": "lucide-image",
+              "title": "Orestan"
             }
           }
         ]
@@ -158,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,52 +187,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "643220a9d8fd77b2",
+  "active": "ce9d6e659ef0f968",
   "lastOpenFiles": [
-    "Borel/Referencias/Cenas/Sessao16/Pasted image 20250821235231.png",
-    "Borel/Referencias/Cenas/Sessao17",
+    "Borel/Players/Orestan.md",
+    "Borel/Referencias/Players/Orestan.png",
+    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827191657.png",
+    "Borel/Sessoes/Capitulo 18 - Parte 2 - O Ritual da Travessia.md",
+    "Borel/Referencias/Cenas/Sessao18",
+    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192357.png",
+    "Borel/Sessoes/Capitulo 18 - Parte 3 - O Renascimento do Desconhecido.md",
+    "Borel/Sessoes/Capitulo 18 - Parte 5 - A Floresta dos Horrores.md",
+    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192128.png",
+    "Borel/Sessoes/Capitulo 18 - Parte 4 - Chegada a Londe.md",
+    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192118.png",
+    "Borel/Sessoes/Capitulo 18 - Parte 1 - Nas Estradas para o Santuario.md",
+    "Borel/Cenas/12_Cenas_Sessao_18.md",
+    "Borel/Referencias/Players/Bartrok_2.png",
+    "Borel/Referencias/Players/Bartrok_1.png",
     "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235312.png",
-    "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235548.png",
-    "Borel/Referencias/Cenas/Sessao16/Pasted image 20250821234954.png",
-    "Borel/Referencias/Cenas/Sessao16/Pasted image 20250821234927.png",
-    "Borel/Referencias/Cenas/Sessao16/Pasted image 20250821234915.png",
-    "Borel/Referencias/Cenas/Sessao16/Pasted image 20250821234904.png",
+    "Borel/Resumo_Completo_Campanha.md",
+    "Borel/Referencias/Players/Tony.png",
+    "Borel/Referencias/Players/Borin_1.png",
+    "Borel/NPCs/Prompts_para_Imagens_NPCs.md",
+    "Borel/Players/Prompts_Detalhados_Personagens.md",
+    "Borel/Players/Prompts_para_Imagens_Players.md",
+    "Borel/Players/Orestan_Prompts_Detalhados.md",
+    "Borel/Cenas/Cenas_Comicas.md",
+    "Borel/Cenas/Cenas_Epicas.md",
+    "Borel/Cenas/index.md",
+    "Borel/Cenas",
+    "Borel/Players/Tony.md",
+    "Borel/NPCs/Thais Carla.md",
+    "Borel/Players/Borin.md",
+    "Borel/Players/Dustin.md",
+    "Borel/Players/Kaelion.md",
+    "Borel/Players/LordBart.md",
+    "Borel/Players/Nightwolf.md",
+    "Borel/Referencias/Cenas/Sessao17",
     "Borel/Sessoes/Capitulo 17 - Entre Cordas e Confissões.md",
-    "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235844.png",
-    "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235811.png",
-    "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235612.png",
     "Borel/Sessoes/Capitulo 16 – Sombras do Passado.md",
     "Borel/Referencias/Cenas/Sessao16",
     "Borel/Referencias/Cenas/random",
     "Borel/Sessoes/Prompts_Cenas_Sessao_17_Detalhados.md",
-    "Borel/NPCs/Jorge.md",
-    "Borel/NPCs/Leticia.md",
-    "Borel/NPCs/Rita.md",
-    "Borel/NPCs/Thais Carla.md",
-    "Borel/NPCs/Alberto.md",
-    "Borel/Sessoes/Prompts_Cenas_Sessao_16_Detalhados.md",
-    "Borel/Players/Borin.md",
-    "index.md",
-    "Arena/Sessoes/Festival do Sangue - Capítulo 1 - A Arena dos Condenados.md",
-    "Arena/Loja/Loja de fama.md",
     "Arena/Loja",
-    "Arena/NPCs/João Batista.md",
-    "Arena/NPCs/Gustavo do Vale.md",
-    "Arena/NPCs/Rainha Simara.md",
-    "Arena/NPCs/Elias Moreira.md",
-    "Arena/Sessoes/Festival do Sangue - Capítulo 8 - Visitantes Misteriosos.md",
-    "Arena/NPCs/Gustavo.md",
-    "Arena/NPCs/Rainha.md",
-    "Arena/Plots/Festival do Sangue.md",
-    "Arena/NPCs/Joao.md",
-    "Arena/Players/Silas.md",
-    "Arena/NPCs/Narradora do Festival.md",
-    "Arena/NPCs/Ghouls.md",
     "Arena/Referencias",
     "Arena/Plots",
     "Arena/Players",
-    "Arena/NPCs",
-    "Arena/Locais",
-    "Arena/Sessoes"
+    "Arena/NPCs"
   ]
 }
