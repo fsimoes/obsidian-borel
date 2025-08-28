@@ -1,3 +1,7 @@
+---
+title: Plots
+---
+
 # Plots da Campanha
 
 ## Plots Principais Ativos

@@ -1,3 +1,7 @@
+---
+title: Sessões
+---
+
 # Sessões - O Legado de Rilonde
 
 ## Cronologia Completa da Campanha
@@ -79,6 +83,28 @@ Após os eventos traumáticos da revolução, o grupo enfrenta suas consequênci
 
 ---
 
+## 🌌 Arco V: O Santuário e Londe (Sessão 18)
+
+### Contexto
+O grupo parte rumo ao santuário em busca de cura para Nightwolf e descobre o ritual da travessia. Dustin aceita o desafio e renasce, alterado e com memórias fragmentadas. Seguem viagem, chegando a Londe, onde Letícia se despede. Na investigação de uma floresta próxima, encontram uma cena demoníaca com profecia e um ovo pulsante — culminando na manifestação de uma criatura ligada a Bartrok e um silêncio ameaçador ao final.
+
+| Sessão | Título | Status da Transcrição | Eventos Principais |
+|--------|--------|----------------------|--------------------|
+| 18 | Capítulo 18 – Partes 1–5 | ✅ Resumos completos | Ritual da travessia; renascimento de Dustin; chegada a Londe; profecia e ovo demoníaco; criatura manifestada por Bartrok |
+
+**Leitura das Partes**:
+- [[Capitulo 18 - Parte 1 - Nas Estradas para o Santuario|Parte 1 – Nas Estradas para o Santuário]]
+- [[Capitulo 18 - Parte 2 - O Ritual da Travessia|Parte 2 – O Ritual da Travessia]]
+- [[Capitulo 18 - Parte 3 - O Renascimento do Desconhecido|Parte 3 – O Renascimento do Desconhecido]]
+- [[Capitulo 18 - Parte 4 - Chegada a Londe|Parte 4 – Chegada a Londe]]
+- [[Capitulo 18 - Parte 5 - A Floresta dos Horrores|Parte 5 – A Floresta dos Horrores]]
+
+**Plots Desenvolvidos**: [[A Maldicao de Nightwolf]] (controle), [[A Possessao de Bartrock]] (manifestação demoníaca), Viagem para Londe (chegada), Profecia das Entidades, Rituais Demoníacos
+**NPCs Introduzidos**: [[Eco]] (guardião), [[Orestan]] (guerreiro religioso)
+**Locais Explorados**: Santuário antigo, [[Londe]], Floresta demoníaca
+
+---
+
 ## 📊 Estatísticas da Campanha
 
 ### Personagens Principais
@@ -99,6 +125,7 @@ Após os eventos traumáticos da revolução, o grupo enfrenta suas consequênci
 | II   | 5       | 0                    | 1                    | 5                 |
 | III  | 5       | 0                    | 0                    | 5                 |
 | IV   | 2       | 1                    | 0                    | 2                 |
+| V    | 1       | 0                    | 0                    | 1                 |
 
 ---
 

@@ -1,3 +1,7 @@
+---
+title: Locais
+---
+
 # Locais da Campanha
 
 ## Cidades Principais

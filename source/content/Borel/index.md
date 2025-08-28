@@ -14,18 +14,26 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 - [[NPCs/|NPCs]]
 - [[Plots/index|Tramas]]
 - [[Sessoes/|Notas das Sessões]]
-- [[Cenas/index|🎭 Cenas Memoráveis]]
+- [[Transcricoes/|Transcrições]]
+- [[Referencias/|Referências Visuais]]
 
 ## Atualizações Recentes
 
-### Sessão 18 - Rumo ao Santuário dos Magos (RECENTE)
-A campanha alcançou horror cósmico com transformações dramáticas:
-- **Dustin** passou pelo "ritual da travessia" e **perdeu completamente sua identidade**
-- **Nightwolf** demonstrou **controle parcial sobre a forma lobisomem** pela primeira vez
-- **Bartrock** manifestou **criaturas demoníacas** vomitando-as de sua boca alargada
-- **Descobrimento de ritual apocalíptico** com profecia sobre "entidades malignas por vir"
-- **Entidades desconhecidas cercaram** o grupo após interromperem o ritual maligno
-- **Letícia se despediu** em Londe, entregando pedra de comunicação para Kaelion
+### Sessão 18 - Arco do Santuário e Londe (RECENTE)
+Resumo rápido:
+- **Dustin** completou o ritual da travessia e renasceu com memórias fragmentadas
+- **Nightwolf** teve sua primeira transformação controlada em lobisomem
+- **Orestan** juntou-se ao grupo
+- **Letícia** se despediu ao chegarem em Londe
+- **Profecia** sobre entidades malignas e um **ovo demoníaco** descobertos na floresta
+- **Bartrok** manifestou uma criatura demoníaca; ovo destruído; ameaça iminente
+
+Acompanhe as partes:
+- [[Sessoes/Capitulo 18 - Parte 1 - Nas Estradas para o Santuario|Parte 1 – Nas Estradas para o Santuário]]
+- [[Sessoes/Capitulo 18 - Parte 2 - O Ritual da Travessia|Parte 2 – O Ritual da Travessia]]
+- [[Sessoes/Capitulo 18 - Parte 3 - O Renascimento do Desconhecido|Parte 3 – O Renascimento do Desconhecido]]
+- [[Sessoes/Capitulo 18 - Parte 4 - Chegada a Londe|Parte 4 – Chegada a Londe]]
+- [[Sessoes/Capitulo 18 - Parte 5 - A Floresta dos Horrores|Parte 5 – A Floresta dos Horrores]]
 
 ## Índice da Campanha
 
