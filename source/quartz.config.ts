@@ -80,9 +80,10 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage({
         sort: (f1, f2) => {
-          // Ordenar por nome para garantir consistência
-          return f1.fileName.localeCompare(f2.fileName)
-        }
+          const t1 = (f1.frontmatter?.title ?? "").toLowerCase()
+          const t2 = (f2.frontmatter?.title ?? "").toLowerCase()
+          return t1.localeCompare(t2)
+        },
       }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
