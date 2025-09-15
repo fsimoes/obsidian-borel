@@ -14,11 +14,11 @@ title: Plots
 - **Urgência**: ALTA - Cura pendente aplicação
 
 ### 😈 **A Possessão de Bartrock**
-- **Status**: ATIVO - Entidade Ativa (Sessão 17)
+- **Status**: ATIVO - Máscara Perdida (Sessão 19)
 - **Tipo**: Plot Principal - Antagonista
-- **Resumo**: Bartrock possuído pela entidade, agora revelando conhecimentos arcanos
-- **Última Atualização**: Sessão 17
-- **Urgência**: CRÍTICA - Ameaça interna com agenda oculta
+- **Resumo**: Bartrock possuído pela entidade através de máscara metálica, tentou canibalismo, máscara se recusou e caiu
+- **Última Atualização**: Sessão 19
+- **Urgência**: CRÍTICA - Máscara perdida, Bartrok afirma ter encontrado
 
 ### 🔮 **Viagem para Londe**
 - **Status**: ATIVO - Chegada Completa (Sessão 18)
@@ -46,6 +46,20 @@ title: Plots
 - **Resumo**: Grupo descobriu e interrompeu ritual demoníaco na floresta
 - **Última Atualização**: Sessão 18
 - **Urgência**: CRÍTICA - Entidades cercaram o grupo
+
+### 👹 **A Criatura Monstruosa**
+- **Status**: RESOLVIDO - Derrotada (Sessão 19)
+- **Tipo**: Plot Principal - Ameaça
+- **Resumo**: Criatura gigante que pode ser a mãe transformada de Bartrok, derrotada pelo grupo
+- **Última Atualização**: Sessão 19
+- **Urgência**: RESOLVIDO - Criatura derrotada, Bartrok coletou sangue
+
+### 🎭 **A Máscara Metálica**
+- **Status**: ATIVO - Perdida (Sessão 19)
+- **Tipo**: Plot Principal - Item Mágico
+- **Resumo**: Máscara metálica que influenciava Bartrok, se recusou a participar do canibalismo e caiu
+- **Última Atualização**: Sessão 19
+- **Urgência**: ALTA - Bartrok afirma ter encontrado, grupo duvida
 
 ## Plots Concluídos Recentemente
 
@@ -120,7 +134,7 @@ timeline
 
 ```mermaid
 timeline
-    title Sessão 17-18 - Jornada para Londe
+    title Sessão 17-19 - Jornada para Londe e Floresta dos Horrores
     section Sessão 17 - Preparativos
         Preparativos : Negociação com Alberto : 40 Platinas
         Organização : Jorge no Templo : Letícia com Alberto
@@ -132,7 +146,14 @@ timeline
         Parte 3 : Renascimento : Dustin Perde Identidade
         Parte 4 : Chegada a Londe : NightWolf Controla Licantropia
         Parte 5 : Floresta Demoníaca : Ritual Apocalíptico
-        Parte 4 : Prisão de Rilonde : Possessão e Execução
+    
+    section Sessão 19 - A Floresta dos Horrores
+        Parte 1 : Encontro na Floresta : Criatura Monstruosa
+        Parte 2 : Transformação de Bartrok : Máscara Metálica
+        Parte 3 : Espectro e Resistência : Combate Intenso
+        Parte 4 : Estratégia do Thresh : Explosão Devastadora
+        Parte 5 : Vitória e Queda da Máscara : Conflito Interno
+        Parte 6 : Fim da Sessão : Busca pela Máscara
 ```
 ```mermaid
 timeline
@@ -147,12 +168,13 @@ timeline
 ## Estado Atual da Campanha
 
 ### Situação Geral
-- **LOCALIZAÇÃO ATUAL**: Prontos para partir de Rilonde para Longe
+- **LOCALIZAÇÃO ATUAL**: Em Longe, após combate épico na Floresta dos Horrores
 - **ESPERANÇA RENOVADA**: Cura descoberta para Nightwolf
-- **AMEAÇA INTERNA**: Bartrock ainda possuído com agenda oculta
+- **AMEAÇA INTERNA**: Bartrock sem máscara, afirma ter encontrado
 - **REFUGIADOS ESTABELECIDOS**: Jorge no templo, Letícia trabalhando
 - **MISSÃO CONTRATADA**: 40 platinas por trabalho em Longe
-- **GRUPO PREPARADO**: Equipamentos, suprimentos e fundos organizados
+- **GRUPO DIVIDIDO**: Conflito interno sobre Bartrok e a máscara
+- **VITÓRIA ÉPICA**: Derrotaram criatura monstruosa com estratégia do Thresh
 
 ### Locais Importantes
 - [[Alva Cidadela]] (em ruínas)
@@ -161,24 +183,28 @@ timeline
 - **Longe** (destino da próxima missão - círculos de teletransporte)
 
 ### Tensões Principais
-1. **CRÍTICO**: Bartrock possuído com agenda oculta da entidade
+1. **CRÍTICO**: Bartrock sem máscara, afirma ter encontrado, grupo duvida
 2. **ALTA**: Aplicação da cura para licantropia de Nightwolf
 3. **MÉDIA**: Sucesso da missão em Longe (40 platinas)
 4. **BAIXA**: Jorge e Letícia estabelecidos em segurança
 5. **BACKGROUND**: Consequências da revolução em Elriste
 6. **INCERTO**: Localização e intenções de Rita
 7. **NOVO**: Grupos rivais mencionados por Tony
+8. **NOVO**: Conflito interno sobre como lidar com Bartrok
+9. **NOVO**: Verificar se Bartrok realmente encontrou a máscara
 
 ## Plots Futuros Potenciais
-> [!info] Possibilidades Sessão 18+
-> - **PRIORIDADE**: Aplicação da cura para licantropia de Nightwolf
+> [!info] Possibilidades Sessão 19+
+> - **PRIORIDADE**: Verificar se Bartrok realmente encontrou a máscara
 > - **MISSÃO ATIVA**: Sucesso nos círculos de teletransporte em Longe
-> - **Libertação de Bartrock** da possessão maligna
+> - **Resolver conflito interno** sobre Bartrok e a máscara
+> - **Aplicação da cura** para licantropia de Nightwolf
 > - **Confronto final** com a entidade maligna
 > - **Investigação dos grupos rivais** mencionados por Tony
 > - **Busca por Rita** e investigação de seu desaparecimento
 > - **Exploração de Longe** e suas oportunidades mágicas
 > - **Consequências da separação** de Jorge e Letícia
+> - **Investigar propriedades** do sangue coletado por Bartrok
 
 ## Notas do Mestre
 > [!note] Lembretes

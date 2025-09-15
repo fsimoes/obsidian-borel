@@ -19,7 +19,24 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 18 - Arco do Santuário e Londe (RECENTE)
+### Sessão 19 - A Floresta dos Horrores (RECENTE)
+Resumo rápido:
+- **Encontro com criatura monstruosa** que pode ser a mãe transformada de Bartrok
+- **Bartrok revelou transformação** com máscara metálica, assumindo identidade como "Bartrok de Mask"
+- **Estratégia épica do Thresh** escalando a criatura e causando explosão devastadora
+- **Vitória sobre criatura principal** após combate intenso com resistências múltiplas
+- **Conflito interno no grupo** quando Bartrok tenta canibalismo sob influência da máscara
+- **Máscara se recusa** a participar do ato e cai do rosto de Bartrok
+
+Acompanhe as partes:
+- [[Sessoes/Capitulo 19 - Parte 1 - O Encontro na Floresta dos Horrores|Parte 1 – O Encontro na Floresta dos Horrores]]
+- [[Sessoes/Capitulo 19 - Parte 2 - A Transformação de Bartrok|Parte 2 – A Transformação de Bartrok]]
+- [[Sessoes/Capitulo 19 - Parte 3 - O Espectro e a Resistência|Parte 3 – O Espectro e a Resistência]]
+- [[Sessoes/Capitulo 19 - Parte 4 - A Estratégia do Thresh e a Destruição do Espectro|Parte 4 – A Estratégia do Thresh e a Destruição do Espectro]]
+- [[Sessoes/Capitulo 19 - Parte 5 - A Vitória e a Queda da Máscara|Parte 5 – A Vitória e a Queda da Máscara]]
+- [[Sessoes/Capitulo 19 - Parte 6 - O Fim da Sessão e a Busca pela Máscara|Parte 6 – O Fim da Sessão e a Busca pela Máscara]]
+
+### Sessão 18 - Arco do Santuário e Londe
 Resumo rápido:
 - **Dustin** completou o ritual da travessia e renasceu com memórias fragmentadas
 - **Nightwolf** teve sua primeira transformação controlada em lobisomem

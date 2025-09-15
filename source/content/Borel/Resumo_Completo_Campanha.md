@@ -1,11 +1,11 @@
 # 📖 **RESUMO COMPLETO - CAMPANHA BOREL** 
-## *Do Início até a Sessão 17 - Para Novo Jogador*
+## *Do Início até a Sessão 19 - Para Novo Jogador*
 
 ---
 
 ## 🎯 **RESUMO EXECUTIVO**
 
-Você está entrando em uma campanha épica que começou com uma briga de taverna e evoluiu para uma revolução que derrubou uma cidade-fortaleza inteira! O grupo agora está pronto para partir de **Rilonde** em direção à cidade mágica de **Longe**, carregando segredos sombrios: um membro se revelou **lobisomem**, outro foi **possuído por uma entidade maligna**, e eles acabaram de descobrir uma possível cura para a licantropia.
+Você está entrando em uma campanha épica que começou com uma briga de taverna e evoluiu para uma revolução que derrubou uma cidade-fortaleza inteira! O grupo agora está estabelecido em **Longe** (cidade dos magos), carregando segredos sombrios: um membro se revelou **lobisomem**, outro foi **possuído por uma entidade maligna**, e eles acabaram de descobrir uma possível cura para a licantropia. Após enfrentar **horror cósmico** e derrotar uma **criatura monstruosa** na Floresta dos Horrores, o grupo agora lida com **conflitos internos** e **mistérios apocalípticos**.
 
 ---
 
@@ -118,6 +118,39 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 
 ---
 
+## 👹 **ARCO 6: A FLORESTA DOS HORRORES (Sessão 19)**
+
+### O Encontro Monstruoso
+Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo da floresta:
+
+#### **A Criatura que Pode Ser a Mãe de Bartrok**
+- Encontraram uma **criatura gigante e deteriorada** que se assemelhava à mãe de Bartrok
+- A criatura atacou com **vômito de gosma preta corrosiva**
+- Demonstrou **resistências múltiplas** (frio, fogo, elétrico, danos não mágicos)
+- **Espectros necróticos** e **zumbis reanimados** se juntaram ao combate
+
+#### **A Transformação de Bartrok**
+- **Bartrok colocou uma máscara metálica** e se transformou em "Bartrok de Mask"
+- Lançou **Fireball devastadora** (nível 4) que desintegrou esqueletos invocados
+- **Entrou em fúria** após a transformação
+- Demonstrou **poderes mágicos devastadores**
+
+### A Estratégia Épica do Thresh
+#### **O Companheiro Corajoso**
+- **Borin desenvolveu estratégia audaciosa** de fazer o Thresh escalar a criatura
+- **Thresh entrou em um "orifício"** da criatura principal
+- **Causou explosão crítica devastadora** que destruiu a parte inferior da criatura
+- **Mudou completamente o curso da batalha**
+
+#### **Vitória e Consequências**
+- **Criatura principal derrotada** após sequência de ataques coordenados
+- **Bartrok tentou canibalismo** sob influência da máscara
+- **Máscara se recusou** a participar do ato e caiu do rosto de Bartrok
+- **Tony arremessou a máscara** para longe, criando conflito interno
+- **Bartrok afirma ter encontrado** a máscara perdida após teste de Investigation
+
+---
+
 ## 👥 **PERSONAGENS PRINCIPAIS**
 
 ### 🗡️ **Tony Tigger** *(Líder do Grupo)*
@@ -146,14 +179,22 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 ### 🔧 **Borin** *(O Inventor)*
 - **Anão Artificer** pragmático com seu guaxinim mecânico **Trash**
 - Especialista em invenções e armas de fogo
+- **Desenvolveu estratégia épica do Thresh** que mudou o curso da batalha
 - Corrige quem o chama de "Boris"
 - Mantém o grupo focado em aspectos práticos
 
 ### 😈 **Bartrock** *(O Possuído)*
 - **Mago/Bruxo** nobre que retornou sombrio após "morte"
-- **COMPLETAMENTE POSSUÍDO** por entidade maligna via máscara fundida
-- A entidade usa seu corpo para planos misteriosos
+- **POSSUÍDO** por entidade maligna via máscara metálica (agora perdida)
+- **Tentou canibalismo** sob influência da máscara
+- **Máscara se recusou** e caiu, Bartrok afirma ter encontrado
 - **AMEAÇA INTERNA CRÍTICA** - mas revelou a cura para Nightwolf
+
+### ⚔️ **Orestan** *(O Novo Membro)*
+- **Clérigo** recrutado durante a jornada ao santuário
+- **Resistiu a efeitos necróticos** do espectro
+- Mostrou habilidades de combate e resistência mental
+- Integrou-se bem ao grupo apesar de ser novo
 
 ---
 
@@ -175,10 +216,17 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 - Palco da resistência liderada por Rita
 - Grupo fugiu após Rita desaparecer
 
-### ✨ **Londe** *(Próximo Destino)*
+### ✨ **Londe** *(Base Atual)*
 - Cidade da magia com universidade arcana
 - Possui **círculos de teletransporte** misteriosos
-- Destino da missão de 40 platinas
+- **Base atual do grupo** após missão bem-sucedida
+- **Taverna "Cabeça de Golly"** - hospedagem garantida por 15 dias
+
+### 🌲 **Floresta dos Horrores** *(Local de Combate Épico)*
+- **Criatura monstruosa** derrotada pelo grupo
+- **Espectros necróticos** e **zumbis reanimados**
+- **Máscara metálica** perdida na floresta
+- **Estratégia épica do Thresh** que mudou a batalha
 
 ---
 
@@ -209,16 +257,35 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 - Ex-serviçal da Baronesa
 - Demonstrou competência administrativa
 - **Trabalhando para Alberto** em Rilonde
+- **Se despediu** em Londe, entregando pedra de comunicação
+
+### 👹 **Criatura Monstruosa** *(Derrotada)*
+- **Possivelmente a mãe transformada de Bartrok**
+- Criatura gigante com resistências múltiplas
+- **Derrotada pelo grupo** após estratégia épica do Thresh
+- **Bartrok coletou sangue** da criatura
+
+### 🎭 **Máscara Metálica** *(Perdida)*
+- **Item mágico** que influenciava Bartrok
+- **Se recusou** a participar do canibalismo
+- **Caiu do rosto** de Bartrok e foi arremessada por Tony
+- **Bartrok afirma ter encontrado** após teste de Investigation
+
+### 🐾 **Thresh** *(Companheiro Épico)*
+- **Companheiro animal** de Borin
+- **Executou estratégia audaciosa** escalando a criatura
+- **Causou explosão devastadora** que mudou o curso da batalha
+- **Herói inesperado** da Sessão 19
 
 ---
 
 ## ⚔️ **AMEAÇAS ATIVAS**
 
-### 🔴 **CRÍTICO: Bartrock Possuído**
-- Entidade maligna em total controle
-- Agenda desconhecida e perigosa
-- **Ameaça interna** disfarçada de aliado
-- Pode estar manipulando o grupo para fins sombrios
+### 🔴 **CRÍTICO: Bartrock sem Máscara**
+- **Máscara perdida** após tentativa de canibalismo
+- **Bartrok afirma ter encontrado** mas grupo duvida
+- **Conflito interno** sobre como lidar com a situação
+- **Ameaça interna** com agenda desconhecida
 
 ### 🟡 **ALTA: Licantropia de Nightwolf**
 - Transformação descontrolada na lua cheia
@@ -235,44 +302,53 @@ A jornada de 7 dias para o **Santuário dos Magos** resultou na transformação 
 - Possível retorno de Rita
 - Situação dos refugiados estabelecidos
 
+### 🟠 **NOVO: Conflito Interno**
+- **Grupo dividido** sobre como lidar com Bartrok
+- **Tony confrontou Bartrok** sobre comportamento canibal
+- **Máscara perdida** pode ser encontrada novamente
+- **Verificar afirmação** de Bartrok sobre encontrar a máscara
+
 ---
 
-## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 18)**
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 19)**
 
 ### 📍 **Localização**
-O grupo está estabelecido em **Londe** (cidade dos magos) após descobrir e interromper um **ritual apocalíptico** nas proximidades.
+O grupo está estabelecido em **Londe** (cidade dos magos) após derrotar uma **criatura monstruosa** na Floresta dos Horrores e enfrentar **conflitos internos** sobre Bartrok e a máscara perdida.
 
 ### 💰 **Recursos**
-- **420 moedas de ouro** para cada membro (da negociação com Converto)
-- **Cavalo "Cenouro"** com ferraduras mágicas (Tony)
+- **40 platinas** da missão bem-sucedida
+- **11.500 XP** ganho na Sessão 19
+- **Duas garrafas de sangue** da criatura monstruosa (coletadas por Bartrok)
+- **Pedra de comunicação** com Letícia (com Kaelion)
 - **Pedra mágica portátil** que fornece refúgio dimensional
-- **Hospedagem na taverna "Cabeça de Golly"** em Londe
+- **Hospedagem na taverna "Cabeça de Golly"** em Londe (15 dias garantidos)
 
 ### 🎲 **Estado do Grupo Pós-Transformações**
-- **Tony**: Líder experiente, organizador financeiro e diplomático do grupo
+- **Tony**: Líder experiente, **confrontou Bartrok** sobre comportamento canibal
 - **Dustin**: **TRANSFORMADO** - renasceu espiritualmente mas perdeu memórias/identidade
 - **Nightwolf**: Progresso real no controle da licantropia (controlou transformação parcialmente)
-- **Bartrock**: **POSSESSÃO SEVERA** - manifestando criaturas demoníacas fisicamente
+- **Bartrock**: **SEM MÁSCARA** - afirma ter encontrado, grupo duvida
 - **Kaelion**: Voz da consciência e cautela do grupo
-- **Borin**: Pragmático diante das transformações do grupo
-- **Orestan**: Novo membro recrutado durante a jornada ao santuário
+- **Borin**: Pragmático diante das transformações, **desenvolveu estratégia épica do Thresh**
+- **Orestan**: Novo membro, **resistiu a efeitos necróticos** do espectro
 
 ### 🎯 **Situação Crítica Atual**
-1. **Ameaça Apocalíptica** - Profecia sobre "entidades malignas por vir" e fim dos tempos
-2. **Ritual Interrompido** - Consequências desconhecidas da interferência no ovo demoníaco
-3. **Transformação de Dustin** - Identidade perdida em troca de poder espiritual
-4. **Progressão de Bartrock** - Possessão atingindo manifestações físicas grotescas
+1. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok e a máscara
+2. **Máscara Perdida** - Bartrok afirma ter encontrado, mas grupo duvida
+3. **Ameaça Apocalíptica** - Profecia sobre "entidades malignas por vir" e fim dos tempos
+4. **Transformação de Dustin** - Identidade perdida em troca de poder espiritual
 5. **Entidades Cercando** - Presenças desconhecidas detectaram interferência no ritual
+6. **Verificar Afirmação** - Se Bartrok realmente encontrou a máscara perdida
 
 ---
 
 ## 🔮 **MISTÉRIOS PENDENTES**
 
-### 🔴 **CRÍTICOS (Pós-Sessão 18)**
+### 🔴 **CRÍTICOS (Pós-Sessão 19)**
+- **Bartrok realmente encontrou a máscara perdida?**
+- **Como resolver o conflito interno sobre Bartrok?**
 - **Quem são as entidades que cercaram o grupo na floresta?**
 - **O que significa a profecia sobre "entidades malignas por vir"?**
-- **Os "cinco pilares de pedra" já foram todos oferecidos?**
-- **Que consequências virão da destruição do ovo demoníaco?**
 - **Dustin transformado é ainda o mesmo pessoa?**
 
 ### 🟡 **IMPORTANTES**
@@ -282,6 +358,8 @@ O grupo está estabelecido em **Londe** (cidade dos magos) após descobrir e int
 - **Qual a verdadeira importância dos círculos de teletransporte?**
 - **Quem são os grupos rivais mencionados?**
 - **O que aconteceu com o Cavaleiro Misterioso?**
+- **Quem era a criatura monstruosa (mãe de Bartrok)?**
+- **Quais as propriedades do sangue coletado por Bartrok?**
 
 ---
 
@@ -296,11 +374,11 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 18: TUDO MUDOU!**
+## 🔥 **APÓS A SESSÃO 19: CONFLITOS INTERNOS E VITÓRIAS ÉPICAS!**
 
-**A Sessão 18 foi transformadora:** O grupo chegou à cidade mágica de Londe, Dustin passou por renascimento espiritual perdendo sua identidade, Nightwolf demonstrou controle real sobre licantropia, e descobriram um ritual apocalíptico que pode determinar o destino do mundo. Bartrock está manifestando criaturas demoníacas, entidades desconhecidas os cercaram na floresta, e a profecia sobre as "entidades malignas por vir" sugere que o fim dos tempos se aproxima.
+**A Sessão 19 foi transformadora:** O grupo enfrentou uma criatura monstruosa que pode ser a mãe transformada de Bartrok, Bartrok revelou uma transformação dramática com máscara metálica, e o Thresh executou uma estratégia épica que mudou completamente o curso da batalha. A vitória trouxe consequências inesperadas quando Bartrok tentou canibalismo sob influência da máscara, levando a conflitos internos no grupo. A máscara se recusou a participar do ato e caiu, sendo arremessada por Tony, e agora Bartrok afirma ter encontrado a máscara perdida.
 
-**A campanha Borel alcançou horror cósmico - onde as próximas decisões podem salvar ou condenar mundos!** 🎲✨
+**A campanha Borel alcançou novos níveis de drama e conflito - onde as próximas decisões podem unir ou dividir o grupo!** 🎲✨
 
 ---
 
@@ -324,7 +402,9 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 - [[Sessoes/|Todas as Sessões]]
 - [[Sessoes/Capitulo 16 – Sombras do Passado|Sessão 16 - As Grandes Revelações]]
 - [[Sessoes/Capitulo 17 - Entre Cordas e Confissões|Sessão 17 - Preparativos para Longe]]
+- [[Sessoes/Capitulo 18 - Parte 1 - Nas Estradas para o Santuario|Sessão 18 - Horror Cósmico]]
+- [[Sessoes/Capitulo 19 - Parte 1 - O Encontro na Floresta dos Horrores|Sessão 19 - A Floresta dos Horrores]]
 
 ---
 
-*Este resumo cobre 17 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*
+*Este resumo cobre 19 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*

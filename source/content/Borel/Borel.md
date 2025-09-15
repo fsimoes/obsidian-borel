@@ -19,7 +19,17 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 18 - Rumo ao Santuário dos Magos (RECENTE)
+### Sessão 19 - A Floresta dos Horrores (RECENTE)
+A campanha atingiu novos níveis de horror e drama com eventos chocantes:
+- **Encontro com criatura monstruosa** que pode ser a mãe transformada de Bartrok
+- **Bartrok revelou transformação** com máscara metálica, assumindo identidade como "Bartrok de Mask"
+- **Estratégia épica do Thresh** escalando a criatura e causando explosão devastadora
+- **Vitória sobre criatura principal** após combate intenso com resistências múltiplas
+- **Conflito interno no grupo** quando Bartrok tenta canibalismo sob influência da máscara
+- **Máscara se recusa** a participar do ato e cai do rosto de Bartrok
+- **Bartrok afirma ter encontrado** a máscara perdida após teste de Investigation
+
+### Sessão 18 - Rumo ao Santuário dos Magos
 A campanha alcançou horror cósmico com transformações dramáticas:
 - **Dustin** passou pelo "ritual da travessia" e **perdeu completamente sua identidade**
 - **Nightwolf** demonstrou **controle parcial sobre a forma lobisomem** pela primeira vez
@@ -144,6 +154,14 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 4. **Parte 4**: Despedida de Letícia e descoberta de nova missão demoníaca
 5. **Parte 5**: Ritual apocalíptico, manifestações de Bartrock e cerco misterioso
 
+### Sessão 19 - A Floresta dos Horrores
+1. **Parte 1**: O Encontro na Floresta dos Horrores
+2. **Parte 2**: A Transformação de Bartrok
+3. **Parte 3**: O Espectro e a Resistência
+4. **Parte 4**: A Estratégia do Thresh e a Destruição do Espectro
+5. **Parte 5**: A Vitória e a Queda da Máscara
+6. **Parte 6**: O Fim da Sessão e a Busca pela Máscara
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
@@ -154,6 +172,9 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 7. **NOVO**: Planos da entidade maligna que possui Bartrock
 8. **NOVO**: Círculos de teletransporte em Longe e sua verdadeira importância
 9. **NOVO**: Grupo rival mencionado por Tony nas negociações
+10. **NOVO**: Identidade da criatura monstruosa (possivelmente mãe de Bartrok)
+11. **NOVO**: Propriedades da máscara metálica e sua influência sobre Bartrok
+12. **NOVO**: Consequências do canibalismo de Bartrok e perda da máscara
 
 ## Facções
 
@@ -171,13 +192,14 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ### Localização
 O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garantida por 15 dias, após interromper um ritual apocalíptico.
 
-### Situação do Grupo (Pós-Sessão 18)
-- **Tony**: Líder experiente, perturbado por revelações sobre dados e sorte
+### Situação do Grupo (Pós-Sessão 19)
+- **Tony**: Líder experiente, confrontou Bartrok sobre comportamento canibal
 - **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, não reconhece companheiros
 - **Nightwolf**: Progresso real no controle da licantropia, primeiro sucesso em Stealth
-- **Bartrock**: **POSSESSÃO SEVERA** - Manifestando criaturas demoníacas fisicamente
+- **Bartrock**: **POSSESSÃO SEVERA** - Tentou canibalismo, máscara se recusou e caiu
 - **Kaelion**: Portador da pedra de comunicação dada por Letícia
-- **Borin**: Pragmático diante das transformações extremas do grupo
+- **Borin**: Pragmático diante das transformações extremas do grupo, desenvolveu estratégia do Thresh
+- **Orestan**: Novo membro, mostrou resistência a efeitos necróticos
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Seguiu caminho independente em Longe
 
@@ -188,17 +210,23 @@ O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garant
 - **Cavalo "Bartinho"**: Transporte nomeado por Tony
 - **Hospedagem**: 15 dias garantidos em taverna de Longe
 - **Emmergard**: Aliada competente para apoio logístico
+- **Duas garrafas de sangue**: Coletadas por Bartrok da criatura monstruosa
+- **11.500 XP**: Experiência ganha na Sessão 19
 
-### Ameaças Críticas (Pós-Sessão 18)
+### Ameaças Críticas (Pós-Sessão 19)
 1. **Apocalipse Iminente** - Profecia sobre "filho da aurora final" e fim dos tempos
 2. **Entidades Desconhecidas** - Cercaram grupo após ritual interrompido
-3. **Bartrock Demoníaco** - Manifestações físicas grotescas da possessão
+3. **Bartrock Demoníaco** - Tentou canibalismo, máscara se recusou e caiu
 4. **Dustin Perdido** - Identidade comprometida por transformação espiritual
 5. **Ritual Interrompido** - Consequências imprevisíveis da interferência
+6. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok
+7. **Máscara Perdida** - Bartrok afirma ter encontrado, mas grupo duvida
 
 ### Situação Urgente
 - **Investigar entidades** - Descobrir quem cercou o grupo no bosque
 - **Lidar com Dustin** - Adaptar-se ao companheiro transformado
 - **Monitorar Bartrock** - Possessão atingiu nível fisicamente perigoso
 - **Compreender profecia** - Decifrar ameaça do "filho da aurora final"
-- **Preparar defesas** - Antecipar retaliação por ritual interrompido 
+- **Preparar defesas** - Antecipar retaliação por ritual interrompido
+- **Resolver conflito interno** - Decidir como lidar com Bartrok e a máscara
+- **Verificar afirmação de Bartrok** - Se realmente encontrou a máscara perdida 

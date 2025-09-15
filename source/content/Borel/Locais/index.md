@@ -49,14 +49,29 @@ title: Locais
   - Líderes da Resistência
 
 ### Longe
-- **Status**: Destino da próxima missão
+- **Status**: Base Atual do Grupo
 - **Tipo**: Cidade da Magia
 - **Pontos Notáveis**:
   - Universidade de Magia
   - **Círculos de Teletransporte** - Objetivo da missão
   - Centros de aprendizado arcano
+  - **Taverna "Cabeça de Golly"** - Hospedagem do grupo
 - **Distância**: 20 hexágonos de Rilonde
 - **Recompensa**: 40 platinas por missão bem-sucedida
+
+### Floresta dos Horrores
+- **Status**: Local de Combate Épico (Sessão 19)
+- **Tipo**: Floresta Sombria
+- **Pontos Notáveis**:
+  - **Criatura Monstruosa** - Derrotada pelo grupo
+  - **Espectros Necróticos** - Criaturas invocadas
+  - **Máscara Metálica** - Perdida na floresta
+  - Ambiente sombrio e perigoso
+- **Eventos Importantes**:
+  - Combate épico contra criatura gigante
+  - Estratégia do Thresh escalando a criatura
+  - Explosão devastadora que derrotou a criatura
+  - Conflito interno sobre Bartrok e canibalismo
 
 ## Mapa de Conexões
 ```mermaid
@@ -69,6 +84,8 @@ graph TD
     A --> |"Fuga"| R
     R --> |"Nova Missão"| L[Longe]
     L --> |"Círculos de Teletransporte"| R
+    L --> |"Floresta dos Horrores"| F[Floresta dos Horrores]
+    F --> |"Combate Épico"| L
 ```
 
 ## Pontos de Interesse
@@ -157,6 +174,27 @@ graph TD
    - Conexões com Alberto
    - Oportunidades futuras
 
+4. **Taverna "Cabeça de Golly"**
+   - Hospedagem atual do grupo
+   - 15 dias garantidos
+   - Base de operações em Longe
+
+### Na Floresta dos Horrores
+1. **Local do Combate Épico**
+   - Onde ocorreu a batalha contra a criatura monstruosa
+   - Estratégia do Thresh escalando a criatura
+   - Explosão devastadora que derrotou a criatura
+
+2. **Máscara Perdida**
+   - Local onde Tony arremessou a máscara metálica
+   - Bartrok afirma ter encontrado
+   - Possível local de busca futura
+
+3. **Restos da Criatura**
+   - Local onde Bartrok coletou sangue
+   - Possíveis propriedades especiais
+   - Consequências do canibalismo
+
 ## Eventos Importantes por Local
 
 ### Rilonde
@@ -177,6 +215,18 @@ graph TD
 1. Formação da resistência
 2. Roubo da pólvora
 3. Traição de Kaelion
+
+### Longe
+1. Chegada do grupo
+2. Estabelecimento na taverna
+3. Preparação para missão dos círculos
+
+### Floresta dos Horrores
+1. Encontro com criatura monstruosa
+2. Combate épico e estratégia do Thresh
+3. Vitória sobre a criatura principal
+4. Conflito interno sobre Bartrok
+5. Perda e busca pela máscara
 
 ## Ameaças Atuais
 - **Relong**: Exército se aproximando
