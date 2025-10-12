@@ -3,7 +3,7 @@
 ## Perfil
 - **Jogador**: NIGHTWOLFBIELZOVSKY
 - **Classe**: Ranger
-- **CONDIÇÃO ESPECIAL**: **LOBISOMEM** (descoberto na Sessão 16)
+- **CONDIÇÃO ESPECIAL**: **CURADO** da licantropia na Sessão 20
 - **Habilidades Notáveis**: 
   - Proficiente com arco e espada curta
   - Hunter's Mark
@@ -11,7 +11,7 @@
   - Habilidades de rastreamento
   - Precisão letal com arco
   - Vigilância e observação
-  - **TRANSFORMAÇÃO LICANTRÓPICA** (descontrolada)
+  - **TRANSFORMAÇÃO LICANTRÓPICA** (curada na Sessão 20)
 
 ## História
 Nightwolf começou sua jornada como um ranger habilidoso, especializado em combate à distância e furtividade. Sua história começou com uma fuga dramática de uma taverna, onde demonstrou suas habilidades ao ajudar a proteger seus companheiros. Ao longo do tempo, evoluiu de um arqueiro solitário para um protetor estratégico do grupo.
@@ -158,6 +158,14 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - **Parte 5**: Participou da investigação na floresta demoníaca
 - **Resultado**: Progresso significativo no controle da licantropia
 
+#### Sessão 20: A Cura Definitiva
+- **Bloco 1**: Descobriu marcas permanentes do ritual pagão em suas mãos
+- **Bloco 2**: Participou do debate na escola de magia de Namarath
+- **Bloco 3**: Testemunhou invocação demoníaca de Bartrock
+- **Bloco 4**: Acompanhou descoberta do cristal misterioso
+- **Bloco 5**: **CURA COMPLETA** - Ritual de libertação bem-sucedido no circo
+- **Resultado**: **LIBERTO** da maldição da licantropia para sempre
+
 
 ## Equipamento Notável
 - Arco longo
@@ -219,17 +227,17 @@ Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas
 - **NOVO**: Se sua condição é permanente ou temporária
 - **NOVO**: Origem de sua licantropia
 
-## Objetivos Atuais
-- **PROGRESSO SIGNIFICATIVO**: Controle parcial demonstrado na Sessão 18
-- **FOCO ATUAL**: Desenvolver e aperfeiçoar controle consciente da forma lobisomem
-- **ESPERANÇA RENOVADA**: Aplicar cura descoberta por Bartrock
-- Comunicar melhor ao grupo seus progressos durante transformações
+## Objetivos Atuais (Pós-Cura)
+- **CURA COMPLETA**: Liberto da maldição da licantropia na Sessão 20
+- **NOVA LIBERDADE**: Pode dormir sem amarras e viver sem medo da transformação
+- **FOCO ATUAL**: Aproveitar sua liberdade e proteger o grupo com habilidades normais
 - Expandir habilidades de Stealth (sucesso histórico alcançado)
-- Proteger grupo usando controle crescente da licantropia
-- Investigar limites e potencial de sua condição transformada
-- Equilibrar natureza dupla com responsabilidades do grupo
-- Manter moral alto apesar das frustrações de comunicação
-- Preparar estratégias para transformações futuras mais controladas
+- Proteger grupo usando suas habilidades de ranger sem limitações
+- Investigar mistérios da campanha sem preocupações transformativas
+- Equilibrar natureza humana com responsabilidades do grupo
+- Manter moral alto com nova perspectiva de vida
+- Preparar estratégias para aventuras futuras sem limitações
+- Ajudar outros membros do grupo com suas próprias transformações
 
 ## Imagens
 ![[NightWolf_1.png]]

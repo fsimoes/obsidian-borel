@@ -165,6 +165,14 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 - **Parte 5**: **VOMITOU CRIATURA DEMONÍACA** - manifestação física da possessão
 - **Resultado**: A possessão demoníaca está progredindo para manifestações físicas
 
+#### Sessão 20: O Legado de Rilonde - INVOCAÇÃO E CURA
+- **Bloco 1**: **COMUNICAÇÃO COM MÁSCARA** - Recebeu oferta de poder em troca de sabotagem
+- **Bloco 2**: **DEBATE DOS PORTAIS** - Invocou Thais Carlos durante demonstração
+- **Bloco 3**: **INVOCAÇÃO DEMONÍACA MASSIVA** - Invocou demônio gigante que levou Tobias
+- **Bloco 4**: **NEGOCIAÇÃO COM ARQUIMAGO** - Aceitou missão para investigar demônio
+- **Bloco 5**: **RITUAL DE CURA** - Libertou Nightwolf da licantropia com sucesso
+- **Resultado**: Demonstrou poder para curar mas também para destruir
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático
@@ -184,9 +192,10 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 - Máscara fundida permanentemente ao rosto
 - Personalidade original suprimida
 - Poderes mágicos amplificados perigosamente
-- Sem empatia ou moralidade
+- **CAPAZ DE CURAR** - Libertou Nightwolf da licantropia
+- **CAPAZ DE DESTRUIR** - Invocou demônio que levou Tobias
 - Executa planos da entidade sem questionamento
-- **AMEAÇA DIRETA** aos antigos companheiros
+- **AMEAÇA AMBÍGUA** - Pode ajudar ou prejudicar o grupo
 
 ## Equipamento Notável
 - Máscara mágica
