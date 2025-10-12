@@ -374,11 +374,11 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 19: CONFLITOS INTERNOS E VITÓRIAS ÉPICAS!**
+## 🔥 **APÓS A SESSÃO 20: CURA E DESTRUIÇÃO!**
 
-**A Sessão 19 foi transformadora:** O grupo enfrentou uma criatura monstruosa que pode ser a mãe transformada de Bartrok, Bartrok revelou uma transformação dramática com máscara metálica, e o Thresh executou uma estratégia épica que mudou completamente o curso da batalha. A vitória trouxe consequências inesperadas quando Bartrok tentou canibalismo sob influência da máscara, levando a conflitos internos no grupo. A máscara se recusou a participar do ato e caiu, sendo arremessada por Tony, e agora Bartrok afirma ter encontrado a máscara perdida.
+**A Sessão 20 foi transformadora:** O grupo descobriu marcas permanentes do ritual pagão em suas mãos, Bartrock comunicou-se com a máscara de xamã e recebeu ofertas de poder, participou de um debate épico na escola de magia de Namarath sobre portais, invocou um demônio gigante que levou Tobias, descobriu um cristal misterioso com propriedades mágicas, e finalmente libertou Nightwolf da maldição da licantropia através de um ritual bem-sucedido no circo.
 
-**A campanha Borel alcançou novos níveis de drama e conflito - onde as próximas decisões podem unir ou dividir o grupo!** 🎲✨
+**A campanha Borel alcançou novos patamares de magia e mistério - onde a cura e a destruição caminham lado a lado!** 🎲✨
 
 ---
 
@@ -404,7 +404,8 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 - [[Sessoes/Capitulo 17 - Entre Cordas e Confissões|Sessão 17 - Preparativos para Longe]]
 - [[Sessoes/Capitulo 18 - Parte 1 - Nas Estradas para o Santuario|Sessão 18 - Horror Cósmico]]
 - [[Sessoes/Capitulo 19 - Parte 1 - O Encontro na Floresta dos Horrores|Sessão 19 - A Floresta dos Horrores]]
+- [[Sessoes/sessao 20_bloco01_resumo|Sessão 20 - O Legado de Rilonde]]
 
 ---
 
-*Este resumo cobre 19 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*
+*Este resumo cobre 20 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*

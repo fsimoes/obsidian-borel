@@ -19,7 +19,17 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 19 - A Floresta dos Horrores (RECENTE)
+### Sessão 20 - O Legado de Rilonde (RECENTE)
+A campanha alcançou novos patamares de magia e mistério com eventos transformadores:
+- **Marcas permanentes do ritual pagão** descobertas nas mãos de todos os membros
+- **Bartrock revelou cura para Nightwolf** e comunicou-se com máscara de xamã
+- **Debate épico na escola de magia** de Namarath sobre portais mágicos
+- **Invocação demoníaca massiva** - Bartrock invocou demônio gigante que levou Tobias
+- **Descoberta de cristal misterioso** com propriedades mágicas especiais
+- **Ritual de libertação bem-sucedido** - Nightwolf foi curado da licantropia
+- **Nova missão do arquimago** para investigar o demônio invocado
+
+### Sessão 19 - A Floresta dos Horrores
 A campanha atingiu novos níveis de horror e drama com eventos chocantes:
 - **Encontro com criatura monstruosa** que pode ser a mãe transformada de Bartrok
 - **Bartrok revelou transformação** com máscara metálica, assumindo identidade como "Bartrok de Mask"
@@ -90,7 +100,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - [[LordBart]] - Mago elfo (**POSSUÍDO** por entidade maligna via máscara)
 - [[Kaelion]] - Membro do grupo
 - [[Dustin]] - Ranger/Clérigo (**TRANSFORMADO** após ritual da travessia)
-- [[Nightwolf]] - **LOBISOMEM** (condição recém-descoberta)
+- [[Nightwolf]] - **CURADO** da licantropia na Sessão 20
 - [[Tony]] - Líder do grupo e negociador
 - [[Orestan]] - **NOVO MEMBRO** - Guerreiro religioso recrutado no santuário
 
@@ -162,19 +172,31 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 5. **Parte 5**: A Vitória e a Queda da Máscara
 6. **Parte 6**: O Fim da Sessão e a Busca pela Máscara
 
+### Sessão 20 - O Legado de Rilonde
+1. **Bloco 1**: Marcas do Ritual - Descoberta das marcas permanentes e comunicação com máscara
+2. **Bloco 2**: O Grande Debate dos Portais - Debate na escola de magia de Namarath
+3. **Bloco 3**: A Invocação Demoníaca - Portal demoníaco e demônio gigante
+4. **Bloco 4**: Entre Cristais e Negociações - Encontro com arquimago e missão
+5. **Bloco 5**: O Ritual do Circo - Libertação bem-sucedida de Nightwolf
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
 3. Identidade do Cavaleiro Misterioso em Elriste
 4. **RESOLVIDO**: Conexão entre Celeste e os eventos sobrenaturais - Era aprendiz da entidade na máscara
-5. **PROGRESSO**: Condição licantrópica de Nightwolf - Cura descoberta por Bartrock
-6. **NOVO**: Natureza exata da magia de cura para licantropia
+5. **RESOLVIDO**: Condição licantrópica de Nightwolf - **CURADO** na Sessão 20
+6. **RESOLVIDO**: Natureza exata da magia de cura para licantropia - **APLICADA COM SUCESSO**
 7. **NOVO**: Planos da entidade maligna que possui Bartrock
 8. **NOVO**: Círculos de teletransporte em Longe e sua verdadeira importância
 9. **NOVO**: Grupo rival mencionado por Tony nas negociações
 10. **NOVO**: Identidade da criatura monstruosa (possivelmente mãe de Bartrok)
 11. **NOVO**: Propriedades da máscara metálica e sua influência sobre Bartrok
 12. **NOVO**: Consequências do canibalismo de Bartrok e perda da máscara
+13. **NOVO**: Destino de Tobias levado pelo demônio
+14. **NOVO**: Propriedades do cristal misterioso descoberto
+15. **NOVO**: Identidade do demônio invocado por Bartrock
+16. **NOVO**: Consequências das marcas permanentes do ritual pagão
+17. **NOVO**: Missão do arquimago para investigar o demônio
 
 ## Facções
 
@@ -192,16 +214,17 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ### Localização
 O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garantida por 15 dias, após interromper um ritual apocalíptico.
 
-### Situação do Grupo (Pós-Sessão 19)
-- **Tony**: Líder experiente, confrontou Bartrok sobre comportamento canibal
+### Situação do Grupo (Pós-Sessão 20)
+- **Tony**: Líder experiente, demonstrou confiança em Bartrock apesar das desconfianças
 - **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, não reconhece companheiros
-- **Nightwolf**: Progresso real no controle da licantropia, primeiro sucesso em Stealth
-- **Bartrock**: **POSSESSÃO SEVERA** - Tentou canibalismo, máscara se recusou e caiu
-- **Kaelion**: Portador da pedra de comunicação dada por Letícia
+- **Nightwolf**: **CURADO** da licantropia através de ritual bem-sucedido de Bartrock
+- **Bartrock**: **POSSESSÃO ATIVA** - Invocou demônio gigante, levou Tobias, mas curou Nightwolf
+- **Kaelion**: Líder diplomático no debate dos portais, portador da pedra de comunicação
 - **Borin**: Pragmático diante das transformações extremas do grupo, desenvolveu estratégia do Thresh
-- **Orestan**: Novo membro, mostrou resistência a efeitos necróticos
+- **Orestan**: Novo membro, mostrou resistência a efeitos necróticos, reconheceu cristal misterioso
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Seguiu caminho independente em Longe
+- **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
 
 ### Recursos Disponíveis
 - **40 platinas**: Pagamento por missão bem-sucedida
@@ -212,21 +235,26 @@ O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garant
 - **Emmergard**: Aliada competente para apoio logístico
 - **Duas garrafas de sangue**: Coletadas por Bartrok da criatura monstruosa
 - **11.500 XP**: Experiência ganha na Sessão 19
+- **Cristal misterioso**: Descoberto no local da invocação demoníaca
+- **Pó mágico de rastreamento**: Fornecido pelo arquimago para investigação
+- **Marcas permanentes do ritual**: Vestígios mágicos nas mãos de todos os membros
 
-### Ameaças Críticas (Pós-Sessão 19)
-1. **Apocalipse Iminente** - Profecia sobre "filho da aurora final" e fim dos tempos
-2. **Entidades Desconhecidas** - Cercaram grupo após ritual interrompido
-3. **Bartrock Demoníaco** - Tentou canibalismo, máscara se recusou e caiu
-4. **Dustin Perdido** - Identidade comprometida por transformação espiritual
-5. **Ritual Interrompido** - Consequências imprevisíveis da interferência
-6. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok
-7. **Máscara Perdida** - Bartrok afirma ter encontrado, mas grupo duvida
+### Ameaças Críticas (Pós-Sessão 20)
+1. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
+2. **Bartrock Demoníaco** - Possessão ativa, invocou demônio, mas curou Nightwolf
+3. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+4. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+5. **Marcas do Ritual** - Vestígios mágicos permanentes nas mãos de todos
+6. **Cristal Misterioso** - Propriedades mágicas desconhecidas
+7. **Missão do Arquimago** - Investigação perigosa sobre o demônio
+8. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok
 
 ### Situação Urgente
-- **Investigar entidades** - Descobrir quem cercou o grupo no bosque
+- **Investigar demônio** - Seguir rastro do demônio que levou Tobias
 - **Lidar com Dustin** - Adaptar-se ao companheiro transformado
-- **Monitorar Bartrock** - Possessão atingiu nível fisicamente perigoso
-- **Compreender profecia** - Decifrar ameaça do "filho da aurora final"
-- **Preparar defesas** - Antecipar retaliação por ritual interrompido
-- **Resolver conflito interno** - Decidir como lidar com Bartrok e a máscara
-- **Verificar afirmação de Bartrok** - Se realmente encontrou a máscara perdida 
+- **Monitorar Bartrock** - Possessão ativa, invocou demônio mas curou Nightwolf
+- **Resgatar Tobias** - Descobrir destino do companheiro levado pelo demônio
+- **Investigar cristal** - Compreender propriedades do cristal misterioso
+- **Executar missão** - Investigar demônio conforme acordo com arquimago
+- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações
+- **Compreender marcas** - Entender consequências das marcas do ritual pagão 

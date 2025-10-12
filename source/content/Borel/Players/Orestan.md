@@ -21,14 +21,13 @@ Orestan é um guerreiro tatuado que foi encontrado pelo grupo no Santuário dos 
 - **Decisão**: Aceitou se juntar ao grupo após observar o ritual de Dustin
 - **Contribuição**: Ofereceu cura a Dustin após sua transformação
 
-## **SESSÃO 18 COMPLETA: Jornada de Recrutamento e Horror Cósmico**
+## **SESSÕES 18-20 COMPLETAS: Jornada de Recrutamento e Mistérios Místicos**
 
 ### **RESUMO EXECUTIVO**
-Orestan foi recrutado pelo grupo durante uma das sessões mais dramáticas da campanha, testemunhando transformações místicas, participando de combates sobrenaturais e revelando capacidades que o tornaram o **sétimo membro oficial** do grupo.
+Orestan foi recrutado pelo grupo durante uma das sessões mais dramáticas da campanha, testemunhando transformações místicas, participando de combates sobrenaturais e revelando capacidades que o tornaram o **sétimo membro oficial** do grupo. Na Sessão 20, demonstrou conhecimento crucial sobre o cristal misterioso.
 
-
-### **LEGADO DA SESSÃO 18**
-Orestan emergiu da sessão 18 como um membro valioso e misterioso do grupo. Sua habilidade em combate, conhecimento místico e adaptabilidade rápida o tornaram essencial para a sobrevivência do grupo. No entanto, o uso de sua voz nas profecias demoníacas e sua busca por Golfimb criaram mistérios profundos que sugerem conexões com forças sobrenaturais além da compreensão atual do grupo. Sua presença transformou fundamentalmente a dinâmica do grupo, adicionando uma nova camada de complexidade mística e religiosa às aventuras futuras.
+### **LEGADO DAS SESSÕES 18-20**
+Orestan emergiu das sessões como um membro valioso e misterioso do grupo. Sua habilidade em combate, conhecimento místico e adaptabilidade rápida o tornaram essencial para a sobrevivência do grupo. Na Sessão 20, reconheceu o cristal misterioso e conectou-o a lendas antigas sobre pedras dos anões que concedem desejos. Sua presença transformou fundamentalmente a dinâmica do grupo, adicionando uma nova camada de complexidade mística e religiosa às aventuras futuras.
 
 ## Características Notáveis
 
@@ -54,6 +53,8 @@ Orestan emergiu da sessão 18 como um membro valioso e misterioso do grupo. Sua 
 - **Conexão com o santuário** - Como conhece tanto sobre o local?
 - **Voz nas profecias** - Por que o corpo morto falou com sua voz?
 - **História pessoal** - Qual é seu passado e motivações?
+- **Conhecimento do cristal** - Como reconheceu o cristal misterioso?
+- **Conexão com lendas antigas** - Qual sua relação com as histórias dos anões?
 
 ## Estado Atual
 Orestan é o membro mais novo do grupo, recrutado durante uma das sessões mais dramáticas da campanha. Sua presença adiciona uma nova perspectiva religiosa e mística ao grupo, e sua habilidade em combate já se provou valiosa. No entanto, sua verdadeira motivação e conexões permanecem misteriosas, criando intriga sobre seu papel futuro na campanha.
