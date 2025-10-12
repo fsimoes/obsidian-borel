@@ -173,6 +173,13 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 - **Bloco 5**: **RITUAL DE CURA** - Libertou Nightwolf da licantropia com sucesso
 - **Resultado**: Demonstrou poder para curar mas também para destruir
 
+#### Sessão 21: Ressurreição e Mistérios - RITUAL DE RESSURREIÇÃO
+- **Bloco 2**: **RITUAL DE RESSURREIÇÃO** - Trouxe Nightwolf de volta à vida com custos severos
+- **Bloco 3**: **SEGUIMENTO DO RASTRO** - Guiou grupo através do rastro de pó mágico
+- **Bloco 4**: **COMBATE SUBTERRÂNEO** - Enfrentou minhocas gigantes com grupo
+- **Bloco 5**: **BATALHA INTENSA** - Continuou combate com Groin em perigo crítico
+- **Resultado**: Demonstrou poder de ressurreição mas grupo questiona suas intenções
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático

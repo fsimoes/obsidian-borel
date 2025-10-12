@@ -8,6 +8,7 @@ Listagem dos principais NPCs encontrados na campanha.
 
 - [[Alberto]] - Mercador influente, contratou grupo para Longe
 - [[Celeste]] - Ex-proprietária do Armazém 568 (morta)
+- [[Cerberus]] - Antigo aliado que se revelou traidor (Sessão 21)
 - [[Emmergard]] - Aliada competente para apoio logístico
 - [[Geraldinho]] - NPC menor
 - [[Ivan]] - Ex-chefe da guarda da Alva Cidadela
