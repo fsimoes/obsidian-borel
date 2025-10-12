@@ -310,10 +310,10 @@ Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo 
 
 ---
 
-## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 19)**
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 21)**
 
 ### 📍 **Localização**
-O grupo está estabelecido em **Londe** (cidade dos magos) após derrotar uma **criatura monstruosa** na Floresta dos Horrores e enfrentar **conflitos internos** sobre Bartrok e a máscara perdida.
+O grupo está **PRESO** em uma armadilha subterrânea após ser traído por Cerberus, um antigo aliado que se revelou estar trabalhando com o demônio. Estão em um salão subterrâneo com porta de metal trabalhado, enfrentando minhocas gigantes em combate desesperado.
 
 ### 💰 **Recursos**
 - **40 platinas** da missão bem-sucedida
@@ -323,42 +323,44 @@ O grupo está estabelecido em **Londe** (cidade dos magos) após derrotar uma **
 - **Pedra mágica portátil** que fornece refúgio dimensional
 - **Hospedagem na taverna "Cabeça de Golly"** em Londe (15 dias garantidos)
 
-### 🎲 **Estado do Grupo Pós-Transformações**
-- **Tony**: Líder experiente, **confrontou Bartrok** sobre comportamento canibal
+### 🎲 **Estado do Grupo Pós-Ressurreição e Traição**
+- **Tony**: Líder experiente, **TENSÃO CRESCENTE** com Bartrok sobre a máscara
 - **Dustin**: **TRANSFORMADO** - renasceu espiritualmente mas perdeu memórias/identidade
-- **Nightwolf**: Progresso real no controle da licantropia (controlou transformação parcialmente)
-- **Bartrock**: **SEM MÁSCARA** - afirma ter encontrado, grupo duvida
-- **Kaelion**: Voz da consciência e cautela do grupo
-- **Borin**: Pragmático diante das transformações, **desenvolveu estratégia épica do Thresh**
-- **Orestan**: Novo membro, **resistiu a efeitos necróticos** do espectro
+- **Nightwolf**: **RESSUSCITADO** - Voltou à vida mas com vida máxima reduzida pela metade
+- **Bartrock**: **POSSESSÃO ATIVA** - Realizou ressurreição mas grupo questiona suas intenções
+- **Kaelion**: Líder diplomático, **PRESO** em armadilha subterrânea
+- **Borin**: Pragmático, **PRESO** com grupo, desenvolveu estratégia épica do Thresh
+- **Orestan**: Novo membro, **PRESO** com grupo, resistiu a efeitos necróticos
+- **Groin**: **EM PERIGO CRÍTICO** - Engolido por minhoca, sofrendo dano ácido contínuo
 
 ### 🎯 **Situação Crítica Atual**
-1. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok e a máscara
-2. **Máscara Perdida** - Bartrok afirma ter encontrado, mas grupo duvida
-3. **Ameaça Apocalíptica** - Profecia sobre "entidades malignas por vir" e fim dos tempos
-4. **Transformação de Dustin** - Identidade perdida em troca de poder espiritual
-5. **Entidades Cercando** - Presenças desconhecidas detectaram interferência no ritual
-6. **Verificar Afirmação** - Se Bartrok realmente encontrou a máscara perdida
+1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
+2. **Groin em Perigo** - Engolido por minhoca, sofrendo dano ácido contínuo
+3. **Combate Ativo** - Minhocas gigantes em ambiente confinado
+4. **Ressurreição de Nightwolf** - Voltou à vida mas com limitações severas
+5. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
+6. **Tensão Interna** - Conflito crescente entre Tony e Bartrok
+7. **Escape Urgente** - Precisam sair da armadilha antes que seja tarde
 
 ---
 
 ## 🔮 **MISTÉRIOS PENDENTES**
 
-### 🔴 **CRÍTICOS (Pós-Sessão 19)**
-- **Bartrok realmente encontrou a máscara perdida?**
-- **Como resolver o conflito interno sobre Bartrok?**
-- **Quem são as entidades que cercaram o grupo na floresta?**
-- **O que significa a profecia sobre "entidades malignas por vir"?**
-- **Dustin transformado é ainda o mesmo pessoa?**
+### 🔴 **CRÍTICOS (Pós-Sessão 21)**
+- **Como escapar da armadilha subterrânea?**
+- **Como resgatar Groin antes que morra?**
+- **Como derrotar as minhocas gigantes?**
+- **Quando Cerberus se aliou ao demônio?**
+- **Quais são os planos de Cerberus e do demônio?**
 
 ### 🟡 **IMPORTANTES**
+- **Consequências da ressurreição de Nightwolf**
+- **Extensão da aliança de Cerberus com o demônio**
+- **Como resolver conflito interno sobre Bartrok**
 - **O que a entidade que possui Bartrock realmente quer?**
-- **A cura para licantropia funcionará mesmo?**
 - **Onde está Rita e ela retornará?**
 - **Qual a verdadeira importância dos círculos de teletransporte?**
 - **Quem são os grupos rivais mencionados?**
-- **O que aconteceu com o Cavaleiro Misterioso?**
-- **Quem era a criatura monstruosa (mãe de Bartrok)?**
 - **Quais as propriedades do sangue coletado por Bartrok?**
 
 ---
@@ -374,11 +376,11 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 20: CURA E DESTRUIÇÃO!**
+## 🔥 **APÓS A SESSÃO 21: RESSURREIÇÃO E TRAIÇÃO!**
 
-**A Sessão 20 foi transformadora:** O grupo descobriu marcas permanentes do ritual pagão em suas mãos, Bartrock comunicou-se com a máscara de xamã e recebeu ofertas de poder, participou de um debate épico na escola de magia de Namarath sobre portais, invocou um demônio gigante que levou Tobias, descobriu um cristal misterioso com propriedades mágicas, e finalmente libertou Nightwolf da maldição da licantropia através de um ritual bem-sucedido no circo.
+**A Sessão 21 foi dramática:** O grupo testemunhou Bartrok realizar um ritual épico de ressurreição que trouxe Nightwolf de volta à vida, mas com consequências severas - vida máxima reduzida pela metade. Seguindo o rastro de pó mágico deixado pelo demônio, foram traídos por Cerberus, um antigo aliado que os levou a uma armadilha mortal em uma caverna subterrânea. Agora presos em um salão subterrâneo com porta trancada, enfrentam minhocas gigantes em combate desesperado, com Groin engolido por uma das criaturas e sofrendo dano ácido contínuo.
 
-**A campanha Borel alcançou novos patamares de magia e mistério - onde a cura e a destruição caminham lado a lado!** 🎲✨
+**A campanha Borel atingiu novos níveis de perigo e traição - onde a ressurreição e a traição caminham lado a lado!** 🎲⚔️
 
 ---
 

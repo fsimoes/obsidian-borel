@@ -166,6 +166,13 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - **Bloco 5**: **CURA COMPLETA** - Ritual de libertação bem-sucedido no circo
 - **Resultado**: **LIBERTO** da maldição da licantropia para sempre
 
+#### Sessão 21: A Ressurreição e Consequências
+- **Bloco 2**: **MORTE E RESSURREIÇÃO** - Morreu e foi trazido de volta à vida por Bartrok
+- **Bloco 3**: **CONSEQUÊNCIAS SEVERAS** - Voltou com vida máxima reduzida pela metade
+- **Bloco 4**: **COMBATE SUBTERRÂNEO** - Enfrentou minhocas gigantes com grupo
+- **Bloco 5**: **BATALHA INTENSA** - Continuou combate com dificuldades de movimento
+- **Resultado**: **VIVO MAS VULNERÁVEL** - Ressuscitado mas com limitações físicas severas
+
 
 ## Equipamento Notável
 - Arco longo
@@ -227,17 +234,18 @@ Nightwolf evoluiu de um arqueiro misterioso para um estrategista eficiente. Suas
 - **NOVO**: Se sua condição é permanente ou temporária
 - **NOVO**: Origem de sua licantropia
 
-## Objetivos Atuais (Pós-Cura)
-- **CURA COMPLETA**: Liberto da maldição da licantropia na Sessão 20
-- **NOVA LIBERDADE**: Pode dormir sem amarras e viver sem medo da transformação
-- **FOCO ATUAL**: Aproveitar sua liberdade e proteger o grupo com habilidades normais
-- Expandir habilidades de Stealth (sucesso histórico alcançado)
-- Proteger grupo usando suas habilidades de ranger sem limitações
-- Investigar mistérios da campanha sem preocupações transformativas
-- Equilibrar natureza humana com responsabilidades do grupo
-- Manter moral alto com nova perspectiva de vida
-- Preparar estratégias para aventuras futuras sem limitações
-- Ajudar outros membros do grupo com suas próprias transformações
+## Objetivos Atuais (Pós-Ressurreição)
+- **RESSUSCITADO**: Voltou à vida mas com vida máxima reduzida pela metade
+- **SOBREVIVÊNCIA URGENTE**: Grupo preso em armadilha subterrânea
+- **COMBATE ADAPTADO**: Lutar com limitações físicas severas
+- **FOCO ATUAL**: Sobreviver ao combate contra minhocas gigantes
+- Adaptar estratégias de combate às limitações físicas
+- Proteger grupo apesar das consequências da ressurreição
+- Ajudar a escapar da armadilha subterrânea
+- Resgatar Groin que está em perigo crítico
+- Manter moral do grupo durante situação desesperadora
+- Preparar estratégias defensivas com vida reduzida
+- Aproveitar habilidades de ranger apesar das limitações
 
 ## Imagens
 ![[NightWolf_1.png]]

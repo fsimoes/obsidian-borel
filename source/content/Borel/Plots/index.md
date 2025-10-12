@@ -61,6 +61,27 @@ title: Plots
 - **Última Atualização**: Sessão 19
 - **Urgência**: ALTA - Bartrok afirma ter encontrado, grupo duvida
 
+### 🐺 **A Ressurreição de Nightwolf**
+- **Status**: ATIVO - Ressuscitado (Sessão 21)
+- **Tipo**: Plot Principal - Transformação
+- **Resumo**: Nightwolf foi ressuscitado por Bartrok mas com vida máxima reduzida pela metade
+- **Última Atualização**: Sessão 21
+- **Urgência**: ALTA - Consequências da ressurreição
+
+### 🕳️ **A Armadilha Subterrânea**
+- **Status**: ATIVO - Grupo Preso (Sessão 21)
+- **Tipo**: Plot Principal - Ameaça Imediata
+- **Resumo**: Grupo preso em armadilha subterrânea após traição de Cerberus
+- **Última Atualização**: Sessão 21
+- **Urgência**: CRÍTICA - Escape urgente necessário
+
+### 🐛 **A Batalha das Minhocas**
+- **Status**: ATIVO - Combate em Andamento (Sessão 21)
+- **Tipo**: Plot Principal - Combate
+- **Resumo**: Grupo enfrenta minhocas gigantes em ambiente subterrâneo, Groin em perigo
+- **Última Atualização**: Sessão 21
+- **Urgência**: CRÍTICA - Groin em perigo de vida
+
 ## Plots Concluídos Recentemente
 
 ### 🏰 [[A Queda da Alva Cidadela|A Queda da Alva Cidadela]]
@@ -168,13 +189,13 @@ timeline
 ## Estado Atual da Campanha
 
 ### Situação Geral
-- **LOCALIZAÇÃO ATUAL**: Em Longe, após combate épico na Floresta dos Horrores
-- **ESPERANÇA RENOVADA**: Cura descoberta para Nightwolf
-- **AMEAÇA INTERNA**: Bartrock sem máscara, afirma ter encontrado
-- **REFUGIADOS ESTABELECIDOS**: Jorge no templo, Letícia trabalhando
-- **MISSÃO CONTRATADA**: 40 platinas por trabalho em Longe
-- **GRUPO DIVIDIDO**: Conflito interno sobre Bartrok e a máscara
-- **VITÓRIA ÉPICA**: Derrotaram criatura monstruosa com estratégia do Thresh
+- **LOCALIZAÇÃO ATUAL**: **PRESOS** em armadilha subterrânea após traição de Cerberus
+- **RESSURREIÇÃO**: Nightwolf ressuscitado mas com vida máxima reduzida pela metade
+- **AMEAÇA CRÍTICA**: Groin engolido por minhoca, sofrendo dano ácido contínuo
+- **COMBATE ATIVO**: Batalha contra minhocas gigantes em ambiente confinado
+- **TRAIÇÃO REVELADA**: Cerberus se aliou ao demônio e prendeu o grupo
+- **TENSÃO INTERNA**: Conflito crescente entre Tony e Bartrok sobre a máscara
+- **URGÊNCIA MÁXIMA**: Escape necessário antes que seja tarde demais
 
 ### Locais Importantes
 - [[Alva Cidadela]] (em ruínas)
@@ -183,28 +204,28 @@ timeline
 - **Longe** (destino da próxima missão - círculos de teletransporte)
 
 ### Tensões Principais
-1. **CRÍTICO**: Bartrock sem máscara, afirma ter encontrado, grupo duvida
-2. **ALTA**: Aplicação da cura para licantropia de Nightwolf
-3. **MÉDIA**: Sucesso da missão em Longe (40 platinas)
-4. **BAIXA**: Jorge e Letícia estabelecidos em segurança
-5. **BACKGROUND**: Consequências da revolução em Elriste
-6. **INCERTO**: Localização e intenções de Rita
-7. **NOVO**: Grupos rivais mencionados por Tony
-8. **NOVO**: Conflito interno sobre como lidar com Bartrok
-9. **NOVO**: Verificar se Bartrok realmente encontrou a máscara
+1. **CRÍTICO**: **ESCAPAR DA ARMADILHA** - Grupo preso em salão subterrâneo
+2. **CRÍTICO**: **SALVAR GROIN** - Engolido por minhoca, sofrendo dano ácido
+3. **CRÍTICO**: **SOBREVIVER AO COMBATE** - Minhocas gigantes em ambiente confinado
+4. **ALTA**: Consequências da ressurreição de Nightwolf (vida reduzida)
+5. **ALTA**: Traição de Cerberus e aliança com demônio
+6. **MÉDIA**: Tensão crescente entre Tony e Bartrok sobre a máscara
+7. **BAIXA**: Jorge e Letícia estabelecidos em segurança
+8. **BACKGROUND**: Consequências da revolução em Elriste
+9. **INCERTO**: Localização e intenções de Rita
 
 ## Plots Futuros Potenciais
-> [!info] Possibilidades Sessão 19+
-> - **PRIORIDADE**: Verificar se Bartrok realmente encontrou a máscara
-> - **MISSÃO ATIVA**: Sucesso nos círculos de teletransporte em Longe
-> - **Resolver conflito interno** sobre Bartrok e a máscara
-> - **Aplicação da cura** para licantropia de Nightwolf
-> - **Confronto final** com a entidade maligna
-> - **Investigação dos grupos rivais** mencionados por Tony
-> - **Busca por Rita** e investigação de seu desaparecimento
-> - **Exploração de Longe** e suas oportunidades mágicas
-> - **Consequências da separação** de Jorge e Letícia
-> - **Investigar propriedades** do sangue coletado por Bartrok
+> [!info] Possibilidades Sessão 21+
+> - **PRIORIDADE MÁXIMA**: Escapar da armadilha subterrânea
+> - **URGENTE**: Resgatar Groin antes que morra
+> - **CRÍTICO**: Derrotar minhocas gigantes e sobreviver
+> - **ALTA**: Lidar com consequências da ressurreição de Nightwolf
+> - **ALTA**: Confrontar Cerberus sobre sua traição
+> - **MÉDIA**: Resolver conflito interno sobre Bartrok e a máscara
+> - **MÉDIA**: Investigar aliança de Cerberus com o demônio
+> - **BAIXA**: Retomar missão dos círculos de teletransporte em Longe
+> - **BAIXA**: Busca por Rita e investigação de seu desaparecimento
+> - **BAIXA**: Explorar propriedades do sangue coletado por Bartrok
 
 ## Notas do Mestre
 > [!note] Lembretes

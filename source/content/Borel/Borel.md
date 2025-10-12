@@ -19,7 +19,17 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 20 - O Legado de Rilonde (RECENTE)
+### Sessão 21 - Ressurreição e Traição (RECENTE)
+A campanha atingiu novos níveis de drama e perigo com eventos chocantes:
+- **Ritual de ressurreição épico** - Bartrok trouxe Nightwolf de volta à vida com consequências severas
+- **Nightwolf ressuscitado** com vida máxima reduzida pela metade e dificuldades de movimento
+- **Traição de Cerberus** - Antigo aliado se revelou trabalhando com o demônio
+- **Grupo preso em armadilha** subterrânea após seguir rastro de pó mágico
+- **Batalha contra minhocas gigantes** em ambiente subterrâneo perigoso
+- **Groin em perigo crítico** - Engolido por minhoca, sofrendo dano ácido contínuo
+- **Tensão crescente** entre Tony e Bartrok sobre a natureza da máscara
+
+### Sessão 20 - O Legado de Rilonde
 A campanha alcançou novos patamares de magia e mistério com eventos transformadores:
 - **Marcas permanentes do ritual pagão** descobertas nas mãos de todos os membros
 - **Bartrock revelou cura para Nightwolf** e comunicou-se com máscara de xamã
@@ -179,6 +189,12 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 4. **Bloco 4**: Entre Cristais e Negociações - Encontro com arquimago e missão
 5. **Bloco 5**: O Ritual do Circo - Libertação bem-sucedida de Nightwolf
 
+### Sessão 21 - Ressurreição e Traição
+1. **Bloco 2**: O Ritual da Ressurreição - Bartrok trouxe Nightwolf de volta à vida
+2. **Bloco 3**: A Traição de Cerberus - Seguimento do rastro e armadilha subterrânea
+3. **Bloco 4**: A Batalha das Minhocas - Combate contra criaturas subterrâneas
+4. **Bloco 5**: A Batalha do Subterrâneo - Continuação do combate com Groin em perigo
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
@@ -212,19 +228,21 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ## Estado Atual da Campanha
 
 ### Localização
-O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garantida por 15 dias, após interromper um ritual apocalíptico.
+O grupo está **PRESO** em uma armadilha subterrânea após seguir o rastro de pó mágico deixado pelo demônio. A localização exata é desconhecida, mas estão em um salão subterrâneo com porta de metal trabalhado, traídos por Cerberus.
 
-### Situação do Grupo (Pós-Sessão 20)
-- **Tony**: Líder experiente, demonstrou confiança em Bartrock apesar das desconfianças
+### Situação do Grupo (Pós-Sessão 21)
+- **Tony**: Líder experiente, **TENSÃO CRESCENTE** com Bartrok sobre a máscara e suas ações
 - **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, não reconhece companheiros
-- **Nightwolf**: **CURADO** da licantropia através de ritual bem-sucedido de Bartrock
-- **Bartrock**: **POSSESSÃO ATIVA** - Invocou demônio gigante, levou Tobias, mas curou Nightwolf
-- **Kaelion**: Líder diplomático no debate dos portais, portador da pedra de comunicação
-- **Borin**: Pragmático diante das transformações extremas do grupo, desenvolveu estratégia do Thresh
-- **Orestan**: Novo membro, mostrou resistência a efeitos necróticos, reconheceu cristal misterioso
+- **Nightwolf**: **RESSUSCITADO** - Voltou à vida mas com vida máxima reduzida pela metade
+- **Bartrock**: **POSSESSÃO ATIVA** - Realizou ritual de ressurreição, mas grupo questiona suas intenções
+- **Kaelion**: Líder diplomático, **PRESO** em armadilha subterrânea com o grupo
+- **Borin**: Pragmático, desenvolveu estratégia do Thresh, **PRESO** com grupo
+- **Orestan**: Novo membro, **PRESO** com grupo, mostrou resistência a efeitos necróticos
+- **Groin**: **EM PERIGO CRÍTICO** - Engolido por minhoca, sofrendo dano ácido contínuo
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Seguiu caminho independente em Longe
 - **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
+- **Cerberus**: **TRAIDOR** - Revelou aliança com demônio, prendeu grupo em armadilha
 
 ### Recursos Disponíveis
 - **40 platinas**: Pagamento por missão bem-sucedida
@@ -239,22 +257,22 @@ O grupo está estabelecido em **Longe** (cidade dos magos) com hospedagem garant
 - **Pó mágico de rastreamento**: Fornecido pelo arquimago para investigação
 - **Marcas permanentes do ritual**: Vestígios mágicos nas mãos de todos os membros
 
-### Ameaças Críticas (Pós-Sessão 20)
-1. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
-2. **Bartrock Demoníaco** - Possessão ativa, invocou demônio, mas curou Nightwolf
-3. **Dustin Perdido** - Identidade comprometida por transformação espiritual
-4. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
-5. **Marcas do Ritual** - Vestígios mágicos permanentes nas mãos de todos
-6. **Cristal Misterioso** - Propriedades mágicas desconhecidas
-7. **Missão do Arquimago** - Investigação perigosa sobre o demônio
-8. **Conflito Interno** - Grupo dividido sobre como lidar com Bartrok
+### Ameaças Críticas (Pós-Sessão 21)
+1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
+2. **Groin em Perigo** - Engolido por minhoca, sofrendo dano ácido contínuo
+3. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
+4. **Bartrock Demoníaco** - Possessão ativa, realizou ressurreição mas grupo desconfia
+5. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+6. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+7. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
+8. **Conflito Interno** - Tensão crescente entre Tony e Bartrok sobre a máscara
 
 ### Situação Urgente
-- **Investigar demônio** - Seguir rastro do demônio que levou Tobias
+- **ESCAPAR DA ARMADILHA** - Encontrar forma de sair do salão subterrâneo
+- **SALVAR GROIN** - Resgatar companheiro engolido pela minhoca antes que morra
+- **SOBREVIVER AO COMBATE** - Derrotar minhocas gigantes em ambiente confinado
 - **Lidar com Dustin** - Adaptar-se ao companheiro transformado
-- **Monitorar Bartrock** - Possessão ativa, invocou demônio mas curou Nightwolf
+- **Monitorar Bartrock** - Possessão ativa, realizou ressurreição mas grupo desconfia
 - **Resgatar Tobias** - Descobrir destino do companheiro levado pelo demônio
 - **Investigar cristal** - Compreender propriedades do cristal misterioso
-- **Executar missão** - Investigar demônio conforme acordo com arquimago
-- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações
-- **Compreender marcas** - Entender consequências das marcas do ritual pagão 
+- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações 
