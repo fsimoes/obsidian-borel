@@ -17,6 +17,7 @@ Listagem dos principais NPCs encontrados na campanha.
 - [[Morgana]] - NPC menor
 - [[Rita]] - Líder revolucionária (desaparecida)
 - [[Thais Carla]] - Guardiã intimidadora da taverna
+- [[Tobias]] - Mago da escola de magia (capturado pelo demônio)
 - [[Trash]] - NPC menor
 - **Criatura Monstruosa** - Possivelmente mãe de Bartrok (derrotada)
 - **Máscara Metálica** - Item mágico que influenciava Bartrok (perdida)
