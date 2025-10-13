@@ -1,7 +1,7 @@
 # Kaelion
 
-## Status: Traidor (Ex-membro do grupo)
-**Última Atualização**: Sessão 9
+## Status: Membro Ativo do Grupo
+**Última Atualização**: Sessão 22
 
 ## Descrição
 Kaelion é um elfo guerreiro que se autodenomina "herói do povo". Inicialmente membro do grupo principal, ele escolheu trair seus companheiros por lealdade à causa de [[Rita]] e à resistência contra a nobreza de Elriste.
@@ -118,17 +118,23 @@ Kaelion evoluiu de um guerreiro idealista para um revolucionário determinado. S
 - A natureza dos experimentos no Armazém 568
 - A ausência de magia em Lucian apesar de sua conexão com Celeste
 
-## Objetivos Atuais
-- **Sessão 17**: Equipou-se com nova katana após busca persistente
-- Fortalecer a posição dos rebeldes em Rio Londe
-- Preparar-se para viagem a Longe com o grupo
-- Desenvolver novas táticas de combate
-- Proteger o grupo durante a missão dos círculos de teletransporte
-- Expandir sua rede de contatos revolucionários
-- Aperfeiçoar suas habilidades de liderança
-- Equilibrar lealdade aos rebeldes com antigas amizades
-- Preparar-se para possíveis retaliações da nobreza
-- Estabelecer uma nova base de operações
+#### Sessão 22: O Heroísmo de Kaelion - RESGATE ÉPICO
+- **Bloco 1**: Participou do combate contra minhocas gigantes em caverna subterrânea
+- **Bloco 2**: **MOMENTO HEROICO** - Resgatou Emmergard de dentro de uma minhoca
+- **Bloco 3**: **ESTABILIZAÇÃO** - Usou Medicine Check para estabilizar Emmergard
+- **Bloco 4**: **COORDENAÇÃO TÁTICA** - Trabalhou em equipe para eliminar minhocas
+- **Bloco 5**: **APOIO CONTÍNUO** - Manteve-se ativo durante toda a batalha
+- **Resultado**: **HEROI DO POVO** - Demonstrou heroísmo genuíno salvando aliada
+
+## Objetivos Atuais (Pós-Sessão 22)
+- **HEROÍSMO CONFIRMADO**: Resgatou Emmergard de dentro da minhoca
+- **CUIDAR DE EMMERGARD**: Aliada resgatada precisa de cuidados após trauma
+- **ESCAPAR DA ARMADILHA**: Grupo preso em caverna subterrânea
+- **COORDENAÇÃO TÁTICA**: Manter trabalho em equipe eficaz
+- **PROTEÇÃO DO GRUPO**: Continuar sendo "herói do povo" em ação
+- **SOBREVIVÊNCIA**: Ajudar grupo a escapar da situação perigosa
+- **APOIO MÉDICO**: Usar habilidades para curar e estabilizar aliados
+- **LIDERANÇA**: Manter moral do grupo durante situação crítica
 
 ## Citações Memoráveis
 - "Eu não sei se eu posso fazer isso, mas eu não estou com a cabeça." - Repetido várias vezes durante momentos de tensão

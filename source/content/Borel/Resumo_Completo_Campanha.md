@@ -323,24 +323,26 @@ O grupo está **PRESO** em uma armadilha subterrânea após ser traído por Cerb
 - **Pedra mágica portátil** que fornece refúgio dimensional
 - **Hospedagem na taverna "Cabeça de Golly"** em Londe (15 dias garantidos)
 
-### 🎲 **Estado do Grupo Pós-Ressurreição e Traição**
-- **Tony**: Líder experiente, **TENSÃO CRESCENTE** com Bartrok sobre a máscara
-- **Dustin**: **TRANSFORMADO** - renasceu espiritualmente mas perdeu memórias/identidade
-- **Nightwolf**: **RESSUSCITADO** - Voltou à vida mas com vida máxima reduzida pela metade
-- **Bartrock**: **POSSESSÃO ATIVA** - Realizou ressurreição mas grupo questiona suas intenções
-- **Kaelion**: Líder diplomático, **PRESO** em armadilha subterrânea
+### 🎲 **Estado do Grupo Pós-Sessão 22: Heroísmo e Sobrevivência**
+- **Tony**: **ATAQUE DEVASTADOR** - Eliminou quatro minhocas recém-nascidas simultaneamente
+- **Dustin**: **TRANSFORMADO** - Perdeu memórias/identidade mas demonstrou precisão com besta
+- **Nightwolf**: **RESSUSCITADO E ATIVO** - Retornou ao combate com Hunter's Mark e ataques precisos
+- **Bartrock**: **FORÇA EXCEPCIONAL** - Demonstrou poder devastador, quase derrotou todos os oponentes
+- **Kaelion**: **HEROÍSMO** - Resgatou Emmergard de dentro da minhoca e a estabilizou
 - **Borin**: Pragmático, **PRESO** com grupo, desenvolveu estratégia épica do Thresh
-- **Orestan**: Novo membro, **PRESO** com grupo, resistiu a efeitos necróticos
-- **Groin**: **EM PERIGO CRÍTICO** - Engolido por minhoca, sofrendo dano ácido contínuo
+- **Orestan**: **SOBREVIVENTE** - Foi engolido por minhoca mas sobreviveu, mostrou resistência
+- **Groih**: **ATAQUE CRÍTICO ÉPICO** - Espada flamejante causou dano massivo com Smite
+- **Emmergard**: **RESGATADA** - Salva por Kaelion de dentro da minhoca, estabilizada
 
-### 🎯 **Situação Crítica Atual**
+### 🎯 **Situação Crítica Atual (Pós-Sessão 22)**
 1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
-2. **Groin em Perigo** - Engolido por minhoca, sofrendo dano ácido contínuo
-3. **Combate Ativo** - Minhocas gigantes em ambiente confinado
-4. **Ressurreição de Nightwolf** - Voltou à vida mas com limitações severas
+2. **Portão Selado** - Mistério adicional descoberto na caverna, pode ser chave para escape
+3. **Minhocas Derrotadas** - Criaturas gigantes eliminadas, mas ambiente ainda perigoso
+4. **Ressurreição de Nightwolf** - Voltou à vida e retornou ao combate com sucesso
 5. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
 6. **Tensão Interna** - Conflito crescente entre Tony e Bartrok
 7. **Escape Urgente** - Precisam sair da armadilha antes que seja tarde
+8. **Cuidar de Emmergard** - Aliada resgatada precisa de cuidados após trauma
 
 ---
 
@@ -376,7 +378,13 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 21: RESSURREIÇÃO E TRAIÇÃO!**
+## 🔥 **APÓS A SESSÃO 22: O PORTÃO SELADO E HEROÍSMO ÉPICO!**
+
+**A Sessão 22 foi épica:** O grupo enfrentou uma das batalhas mais intensas da campanha contra minhocas gigantes em uma caverna subterrânea. Nightwolf retornou triunfante ao combate após sua ressurreição, demonstrando suas habilidades de ranger com Hunter's Mark e ataques precisos. Kaelion executou um resgate heroico salvando Emmergard de dentro de uma minhoca. Tony realizou um ataque estatisticamente impossível eliminando quatro minhocas recém-nascidas simultaneamente. Groih executou um ataque crítico épico com sua espada flamejante causando dano massivo. O grupo demonstrou coordenação tática exemplar e trabalho em equipe eficaz, derrotando as criaturas gigantes e descobrindo um portão selado que pode ser a chave para escapar da armadilha.
+
+**A campanha Borel atingiu novos níveis de heroísmo e combate tático - onde a sobrevivência e o trabalho em equipe brilham!** 🎲⚔️
+
+## 🔥 **SESSÃO 21: RESSURREIÇÃO E TRAIÇÃO!**
 
 **A Sessão 21 foi dramática:** O grupo testemunhou Bartrok realizar um ritual épico de ressurreição que trouxe Nightwolf de volta à vida, mas com consequências severas - vida máxima reduzida pela metade. Seguindo o rastro de pó mágico deixado pelo demônio, foram traídos por Cerberus, um antigo aliado que os levou a uma armadilha mortal em uma caverna subterrânea. Agora presos em um salão subterrâneo com porta trancada, enfrentam minhocas gigantes em combate desesperado, com Groin engolido por uma das criaturas e sofrendo dano ácido contínuo.
 
