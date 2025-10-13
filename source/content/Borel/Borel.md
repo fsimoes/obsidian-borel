@@ -19,7 +19,18 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 21 - Ressurreição e Traição (RECENTE)
+### Sessão 22 - O Portão Selado: Entre Minhocas e Estratégias (RECENTE)
+A campanha atingiu novos níveis de combate tático e heroísmo com eventos épicos:
+- **Batalha épica contra minhocas gigantes** - Combate intenso em caverna subterrânea
+- **Nightwolf retornou à ação** após ressurreição, demonstrando habilidades de ranger
+- **Resgate heroico de Emmergard** - Kaelion salvou a aliada de dentro de uma minhoca
+- **Ataque devastador de Tony** - Eliminou quatro minhocas recém-nascidas simultaneamente
+- **Ataque crítico épico de Groih** - Espada flamejante causou dano massivo
+- **Orestan engolido** - Guerreiro foi devorado por minhoca mas sobreviveu
+- **Coordenação tática exemplar** - Grupo demonstrou trabalho em equipe eficaz
+- **Descoberta de portão selado** - Mistério adicional na caverna subterrânea
+
+### Sessão 21 - Ressurreição e Traição
 A campanha atingiu novos níveis de drama e perigo com eventos chocantes:
 - **Ritual de ressurreição épico** - Bartrok trouxe Nightwolf de volta à vida com consequências severas
 - **Nightwolf ressuscitado** com vida máxima reduzida pela metade e dificuldades de movimento
@@ -195,6 +206,13 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 3. **Bloco 4**: A Batalha das Minhocas - Combate contra criaturas subterrâneas
 4. **Bloco 5**: A Batalha do Subterrâneo - Continuação do combate com Groin em perigo
 
+### Sessão 22 - O Portão Selado: Entre Minhocas e Estratégias
+1. **Bloco 1**: O Portão Selado - Combate contra minhocas gigantes em caverna subterrânea
+2. **Bloco 2**: A Batalha das Minhocas Gigantes - Nightwolf devorado, resgate heroico
+3. **Bloco 3**: A Batalha das Minhocas Gigantes - Ataques devastadores e coordenação tática
+4. **Bloco 4**: A Batalha das Minhocas Gigantes - Resgate de Emmergard e eliminação das criaturas
+5. **Bloco 5**: Entre Dados e Desconfianças - Bartrock demonstra força excepcional
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
@@ -230,15 +248,16 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ### Localização
 O grupo está **PRESO** em uma armadilha subterrânea após seguir o rastro de pó mágico deixado pelo demônio. A localização exata é desconhecida, mas estão em um salão subterrâneo com porta de metal trabalhado, traídos por Cerberus.
 
-### Situação do Grupo (Pós-Sessão 21)
-- **Tony**: Líder experiente, **TENSÃO CRESCENTE** com Bartrok sobre a máscara e suas ações
-- **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, não reconhece companheiros
-- **Nightwolf**: **RESSUSCITADO** - Voltou à vida mas com vida máxima reduzida pela metade
-- **Bartrock**: **POSSESSÃO ATIVA** - Realizou ritual de ressurreição, mas grupo questiona suas intenções
-- **Kaelion**: Líder diplomático, **PRESO** em armadilha subterrânea com o grupo
+### Situação do Grupo (Pós-Sessão 22)
+- **Tony**: Líder experiente, **ATAQUE DEVASTADOR** - Eliminou quatro minhocas recém-nascidas simultaneamente
+- **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, demonstrou precisão com besta
+- **Nightwolf**: **RESSUSCITADO E ATIVO** - Retornou ao combate com Hunter's Mark e ataques precisos
+- **Bartrock**: **FORÇA EXCEPCIONAL** - Demonstrou poder devastador, quase derrotou todos os oponentes
+- **Kaelion**: **HEROÍSMO** - Resgatou Emmergard de dentro da minhoca e a estabilizou
 - **Borin**: Pragmático, desenvolveu estratégia do Thresh, **PRESO** com grupo
-- **Orestan**: Novo membro, **PRESO** com grupo, mostrou resistência a efeitos necróticos
-- **Groin**: **EM PERIGO CRÍTICO** - Engolido por minhoca, sofrendo dano ácido contínuo
+- **Orestan**: **SOBREVIVENTE** - Foi engolido por minhoca mas sobreviveu, mostrou resistência
+- **Groih**: **ATAQUE CRÍTICO ÉPICO** - Espada flamejante causou dano massivo com Smite
+- **Emmergard**: **RESGATADA** - Salva por Kaelion de dentro da minhoca, estabilizada
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Seguiu caminho independente em Longe
 - **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
@@ -257,22 +276,24 @@ O grupo está **PRESO** em uma armadilha subterrânea após seguir o rastro de p
 - **Pó mágico de rastreamento**: Fornecido pelo arquimago para investigação
 - **Marcas permanentes do ritual**: Vestígios mágicos nas mãos de todos os membros
 
-### Ameaças Críticas (Pós-Sessão 21)
+### Ameaças Críticas (Pós-Sessão 22)
 1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
-2. **Groin em Perigo** - Engolido por minhoca, sofrendo dano ácido contínuo
+2. **Portão Selado** - Mistério adicional descoberto na caverna subterrânea
 3. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
-4. **Bartrock Demoníaco** - Possessão ativa, realizou ressurreição mas grupo desconfia
+4. **Bartrock Demoníaco** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
 5. **Dustin Perdido** - Identidade comprometida por transformação espiritual
 6. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
 7. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
-8. **Conflito Interno** - Tensão crescente entre Tony e Bartrok sobre a máscara
+8. **Minhocas Gigantes** - Criaturas derrotadas mas ambiente ainda perigoso
+9. **Conflito Interno** - Tensão crescente entre Tony e Bartrok sobre a máscara
 
 ### Situação Urgente
 - **ESCAPAR DA ARMADILHA** - Encontrar forma de sair do salão subterrâneo
-- **SALVAR GROIN** - Resgatar companheiro engolido pela minhoca antes que morra
-- **SOBREVIVER AO COMBATE** - Derrotar minhocas gigantes em ambiente confinado
+- **INVESTIGAR PORTÃO SELADO** - Descoberto na caverna, pode ser chave para escape
+- **SOBREVIVER AO AMBIENTE** - Caverna ainda perigosa mesmo após derrotar minhocas
 - **Lidar com Dustin** - Adaptar-se ao companheiro transformado
-- **Monitorar Bartrock** - Possessão ativa, realizou ressurreição mas grupo desconfia
+- **Monitorar Bartrock** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
 - **Resgatar Tobias** - Descobrir destino do companheiro levado pelo demônio
 - **Investigar cristal** - Compreender propriedades do cristal misterioso
-- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações 
+- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações
+- **Cuidar de Emmergard** - Aliada resgatada precisa de cuidados após trauma 

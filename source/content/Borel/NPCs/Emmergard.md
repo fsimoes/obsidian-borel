@@ -1,13 +1,15 @@
 # Emmergard
 
 ## Perfil
-- **Posição**: Aliada durante o Cerco
-- **Status**: Sobrevivente
+- **Posição**: Aliada Resgatada
+- **Status**: **RESGATADA** na Sessão 22
 - **Características Notáveis**:
   - Vítima da agressão de Rita
   - Protegida por Tony
   - Participante da resistência
   - Sobrevivente do cerco
+  - **RESGATADA por Kaelion** de dentro de minhoca
+  - **ESTABILIZADA** após trauma
   - Aliada leal
 
 ## História
@@ -33,13 +35,20 @@ Emmergard emergiu como uma figura significativa durante os eventos do cerco de A
 - Ajudou a manter a coesão do grupo
 - Demonstrou coragem em situações difíceis
 
+#### Sessão 22: O Resgate Heroico
+- **ENVOLVIDA EM COMBATE**: Presa em caverna subterrânea com grupo
+- **DEVORADA POR MINHOCA**: Engolida por criatura gigante durante batalha
+- **RESGATE ÉPICO**: Salva por Kaelion que se arriscou para resgatá-la
+- **ESTABILIZAÇÃO**: Cuidada e estabilizada após trauma
+- **SOBREVIVÊNCIA**: Demonstrou resiliência em situação extrema
+
 ## Relacionamentos
 - [[Tony]]: Protetor que a defendeu contra Rita
 - [[Nightwolf]]: Aliado durante o cerco
 - [[Dustin]]: Ajudou em sua proteção
 - [[Borin]]: Companheiro durante a revolução
 - [[LordBart]]: Aliado durante o cerco do castelo
-- [[Kaelion]]: Relação complicada devido à lealdade a Rita
+- [[Kaelion]]: **HEROI E SALVADOR** - Resgatou-a de dentro da minhoca na Sessão 22
 - **Rita**: Agressora e fonte de tensão
 
 ## Significado na História
@@ -66,12 +75,13 @@ Emmergard representa um ponto de virada na narrativa, onde as ações brutais de
 - Sobrevivente que manteve sua integridade
 - Ponte entre diferentes facções do grupo
 
-## Futuro
-- Possível participação na fuga para Rio Londe
-- Continuação de seu papel como aliada
-- Potencial para desenvolvimento futuro
-- Necessidade de proteção contínua
-- Possível papel na reconstrução
+## Futuro (Pós-Sessão 22)
+- **RECUPERAÇÃO**: Precisa de cuidados após trauma de ser engolida por minhoca
+- **PROTEÇÃO CONTÍNUA**: Requer apoio do grupo durante recuperação
+- **ESCAPE DA ARMADILHA**: Ajudar grupo a sair da caverna subterrânea
+- **FORTALECIMENTO**: Desenvolver resiliência após experiência traumática
+- **ALIANÇA FORTALECIDA**: Laços mais fortes com Kaelion após resgate
+- **SOBREVIVÊNCIA**: Manter-se viva e útil ao grupo
 
 ## Impacto na Narrativa
 A presença de Emmergard serve como um lembrete constante das complexidades morais da revolução e da importância de manter princípios mesmo em tempos de conflito. Sua história pessoal ilustra tanto os custos quanto a resistência necessária em tempos de mudança radical. 

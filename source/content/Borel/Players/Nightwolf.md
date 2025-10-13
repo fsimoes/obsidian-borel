@@ -173,6 +173,14 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - **Bloco 5**: **BATALHA INTENSA** - Continuou combate com dificuldades de movimento
 - **Resultado**: **VIVO MAS VULNERÁVEL** - Ressuscitado mas com limitações físicas severas
 
+#### Sessão 22: O Retorno Triunfante - RANGER ATIVO
+- **Bloco 1**: **RETORNO AO COMBATE** - Voltou à ação após ressurreição com Hunter's Mark
+- **Bloco 2**: **DEVORADO E RESGATADO** - Foi engolido por minhoca mas resgatado por Borin
+- **Bloco 3**: **ATAQUES PRECISOS** - Demonstrou habilidades de ranger com ataques coordenados
+- **Bloco 4**: **COORDENAÇÃO TÁTICA** - Trabalhou em equipe para eliminar minhocas gigantes
+- **Bloco 5**: **SOBREVIVÊNCIA** - Manteve-se ativo apesar das limitações físicas
+- **Resultado**: **RANGER RENASCIDO** - Retornou ao combate com determinação e eficiência
+
 
 ## Equipamento Notável
 - Arco longo

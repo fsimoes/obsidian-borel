@@ -156,6 +156,14 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - **Parte 5**: Demonstrou proteção moral ao impedir saque do corpo morto na floresta
 - **Resultado**: Consolidação como líder organizacional e diplomático do grupo
 
+#### Sessão 22: O Portão Selado - ATAQUE DEVASTADOR
+- **Bloco 1**: Liderou combate contra minhocas gigantes em caverna subterrânea
+- **Bloco 2**: Demonstrou coordenação tática durante batalha intensa
+- **Bloco 3**: **MOMENTO ÉPICO** - Eliminou quatro minhocas recém-nascidas simultaneamente com javelin mágica
+- **Bloco 4**: Coordenou grupo para resgate de Emmergard e eliminação das criaturas
+- **Bloco 5**: Demonstrou força excepcional, quase derrotando todos os oponentes
+- **Resultado**: Consolidação como líder tático e combatente devastador do grupo
+
 ## Equipamento Notável
 - Javelina
 - Greatsword
