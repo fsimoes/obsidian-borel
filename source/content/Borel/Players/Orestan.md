@@ -71,8 +71,24 @@ Orestan é o membro mais novo do grupo, recrutado durante uma das sessões mais 
 4. **Capacidades de cura** para emergências
 5. **Experiência** em situações sobrenaturais
 
+#### Sessão 23: A Caverna dos Cogumelos - ANÁLISE E SUPORTE MÁGICO
+- **Bloco 1**: Curou Bartrock após batalha com minhocas mutantes
+- **Bloco 1**: Usou insight check para perceber que Groih parece genuinamente confuso sobre ataque involuntário
+- **Bloco 1**: Explorou sala com porta de três cavidades circulares
+- **Bloco 1**: **DESCOBERTA** - Percebeu plataforma distante na sala
+- **Bloco 2**: **ANÁLISE CRUCIAL** - Usou ação para observar criatura de cristal, identificando que é feita de cristal, não gelo comum
+- **Bloco 2**: Percebeu brisa mais gelada vindo da direção da criatura
+- **Bloco 2**: Passou mão sobre lâmina da alabarda, fazendo-a brilhar como se tivesse acabado de ser polida
+- **Bloco 2**: **SUPORTE MÁGICO** - Lançou bênção de Xanté, abençoando todo o grupo para ajudar no combate
+- **Bloco 3**: Conjurou Guiding Bolt em Tony para ajudá-lo nos ataques
+- **Bloco 3**: Observou e analisou situação do combate, tentando entender escudos mágicos
+- **Bloco 4**: Manteve posicionamento estratégico e preparação para futuras ações
+- **Resultado**: Demonstrou habilidades de observação, análise e suporte mágico essenciais para o grupo
+
 ## Próximos Passos
 - Integração completa ao grupo
 - Revelação de sua busca original
 - Desenvolvimento de suas capacidades místicas
 - Investigação sobre a conexão com as profecias demoníacas
+- Compreender mecânica dos escudos dos elementais
+- Explorar plataforma distante descoberta

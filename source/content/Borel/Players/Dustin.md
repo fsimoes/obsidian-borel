@@ -144,6 +144,17 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Londe, 
 - **Parte 5**: Acompanhou investigação na floresta demoníaca, observando eventos
 - **Resultado**: Transformação fundamental - perdeu memórias mas ganhou poderes espirituais
 
+#### Sessão 23: A Caverna dos Cogumelos - ESTRATÉGIA TÁTICA E DESCOBERTA
+- **Bloco 1**: Explorou corredor com cogumelos luminescentes após descanso na pedra mágica
+- **Bloco 1**: **VÍTIMA DO ATAQUE DE GROIH** - Ataque involuntário de Groih com sombras drenou 6 pontos de vida
+- **Bloco 1**: Investigou porta com três cavidades circulares
+- **Bloco 3**: **ESTRATÉGIA TÁTICA** - Usou Zephyr Strike para tentar atacar golem de pedra
+- **Bloco 3**: Colocou Hunter's Mark no golem de gelo
+- **Bloco 3**: Tentou atacar golem de pedra mas foi bloqueado por escudo de gelo
+- **Bloco 3**: **DESCOBERTA CRUCIAL** - Conseguiu finalmente acertar golem de gelo quando escudos desapareceram
+- **Bloco 3**: **INFORMAÇÃO IMPORTANTE** - Informou grupo que golem de gelo está levando dano e que algo mudou
+- **Resultado**: Demonstrou estratégia tática e foi crucial para descobrir mecânica de defesa dos golems
+
 ## Equipamento Notável
 - Varinha mágica (nova)
 - Arco élfico (adquirido na Sessão 15)

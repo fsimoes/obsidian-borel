@@ -19,7 +19,20 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 22 - O Portão Selado: Entre Minhocas e Estratégias (RECENTE)
+### Sessão 23 - A Caverna dos Cogumelos: Entre Descansos e Elementais (RECENTE)
+A campanha atingiu novos níveis de exploração e combate tático com eventos épicos:
+- **Descanso na pedra mágica** - Grupo recuperou forças após batalha com minhocas mutantes
+- **Ataque involuntário de Groih** - Sombras drenaram força vital de quatro membros do grupo
+- **Descoberta dos totens e esferas** - Três plataformas com mecanismos mágicos explorados
+- **Ativação do primeiro totem** - Tony tocou esfera causando ventania gelada e pedregulhos caindo do céu
+- **Batalha épica contra criatura de cristal** - Criatura colossal apareceu com "Super Hero Landing"
+- **Descoberta dos escudos mágicos** - Golems elementais protegiam-se mutuamente através de escudos
+- **Dois críticos consecutivos de Tony** - Movimento acrobático épico estilo Shadow of the Colossus bloqueado por escudo
+- **Derrota do golem de gelo** - Escudos desapareceram revelando mecânica de defesa mútua
+- **Batalha contra três elementais** - Gelo, fogo e pedra com escudos que se transferem entre eles
+- **Mistérios dos cogumelos luminescentes** - Ambiente mágico com atmosfera de medo e calma ensurdecedora
+
+### Sessão 22 - O Portão Selado: Entre Minhocas e Estratégias
 A campanha atingiu novos níveis de combate tático e heroísmo com eventos épicos:
 - **Batalha épica contra minhocas gigantes** - Combate intenso em caverna subterrânea
 - **Nightwolf retornou à ação** após ressurreição, demonstrando habilidades de ranger
@@ -213,6 +226,12 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 4. **Bloco 4**: A Batalha das Minhocas Gigantes - Resgate de Emmergard e eliminação das criaturas
 5. **Bloco 5**: Entre Dados e Desconfianças - Bartrock demonstra força excepcional
 
+### Sessão 23 - A Caverna dos Cogumelos: Entre Descansos e Elementais
+1. **Bloco 1**: A Caverna dos Cogumelos - Descanso na pedra mágica e ataque involuntário de Groih
+2. **Bloco 2**: O Enigma dos Totens - Exploração de três pontes e despertar da criatura de gelo
+3. **Bloco 3**: Escudos Mágicos e Estratégias - Descoberta da mecânica de defesa mútua dos golems
+4. **Bloco 4**: A Dança dos Elementais - Batalha épica contra três elementais e movimento acrobático de Tony
+
 ## Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
@@ -246,18 +265,18 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ## Estado Atual da Campanha
 
 ### Localização
-O grupo está **PRESO** em uma armadilha subterrânea após seguir o rastro de pó mágico deixado pelo demônio. A localização exata é desconhecida, mas estão em um salão subterrâneo com porta de metal trabalhado, traídos por Cerberus.
+O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Estão enfrentando elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente.
 
-### Situação do Grupo (Pós-Sessão 22)
-- **Tony**: Líder experiente, **ATAQUE DEVASTADOR** - Eliminou quatro minhocas recém-nascidas simultaneamente
-- **Dustin**: **TRANSFORMADO** - Perdeu identidade e memórias, demonstrou precisão com besta
-- **Nightwolf**: **RESSUSCITADO E ATIVO** - Retornou ao combate com Hunter's Mark e ataques precisos
-- **Bartrock**: **FORÇA EXCEPCIONAL** - Demonstrou poder devastador, quase derrotou todos os oponentes
-- **Kaelion**: **HEROÍSMO** - Resgatou Emmergard de dentro da minhoca e a estabilizou
-- **Borin**: Pragmático, desenvolveu estratégia do Thresh, **PRESO** com grupo
-- **Orestan**: **SOBREVIVENTE** - Foi engolido por minhoca mas sobreviveu, mostrou resistência
-- **Groih**: **ATAQUE CRÍTICO ÉPICO** - Espada flamejante causou dano massivo com Smite
-- **Emmergard**: **RESGATADA** - Salva por Kaelion de dentro da minhoca, estabilizada
+### Situação do Grupo (Pós-Sessão 23)
+- **Tony**: **DOIS CRÍTICOS CONSECUTIVOS** - Movimento acrobático épico estilo Shadow of the Colossus bloqueado por escudo de gelo, liderou exploração dos totens
+- **Dustin**: **ESTRATÉGIA TÁTICA** - Usou Zephyr Strike e descobriu mecânica dos escudos, informou grupo sobre mudanças
+- **Nightwolf**: **COMBATE ATIVO** - Participou do combate contra elementais, tentou ataques à distância bloqueados por escudos
+- **Bartrock**: **USO ESTRATÉGICO DE MAGIAS** - Lançou Fireball e Mistéria, descobriu que golem de fogo é imune ao fogo
+- **Kaelion**: **OBSERVAÇÃO E ANÁLISE** - Participou da exploração e teorizou sobre funcionamento dos escudos
+- **Borin**: **ATAQUES À DISTÂNCIA** - Tentou quebrar gelo do elemental de gelo com tiros precisos, causou dano significativo
+- **Orestan**: **ANÁLISE E SUPORTE** - Identificou criatura como cristal, conjurou Guiding Bolt e bênção de Xanté
+- **Groih**: **ATAQUES CORPO A CORPO** - Causou dano significativo ao elemental de gelo com espada de duas mãos, arrancou pedaços de pedra
+- **Emmergard**: **PROTEGIDA** - Cuidada por Tony durante combate, participou da dança de comemoração após Fireball
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Seguiu caminho independente em Longe
 - **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
@@ -276,24 +295,25 @@ O grupo está **PRESO** em uma armadilha subterrânea após seguir o rastro de p
 - **Pó mágico de rastreamento**: Fornecido pelo arquimago para investigação
 - **Marcas permanentes do ritual**: Vestígios mágicos nas mãos de todos os membros
 
-### Ameaças Críticas (Pós-Sessão 22)
-1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
-2. **Portão Selado** - Mistério adicional descoberto na caverna subterrânea
-3. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
-4. **Bartrock Demoníaco** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
-5. **Dustin Perdido** - Identidade comprometida por transformação espiritual
-6. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
-7. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
-8. **Minhocas Gigantes** - Criaturas derrotadas mas ambiente ainda perigoso
-9. **Conflito Interno** - Tensão crescente entre Tony e Bartrok sobre a máscara
+### Ameaças Críticas (Pós-Sessão 23)
+1. **BATALHA CONTRA ELEMENTAIS** - Três elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente
+2. **MECÂNICA DOS ESCUDOS** - Escudos se transferem entre elementais baseado em quem está sendo atacado
+3. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital de quatro membros, criando desconfiança
+4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal
+5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna
+6. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
+7. **Bartrock Demoníaco** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
+8. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+9. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+10. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
 
 ### Situação Urgente
-- **ESCAPAR DA ARMADILHA** - Encontrar forma de sair do salão subterrâneo
-- **INVESTIGAR PORTÃO SELADO** - Descoberto na caverna, pode ser chave para escape
-- **SOBREVIVER AO AMBIENTE** - Caverna ainda perigosa mesmo após derrotar minhocas
-- **Lidar com Dustin** - Adaptar-se ao companheiro transformado
+- **DERROTAR ELEMENTAIS** - Descobrir estratégia para vencer os três elementais restantes
+- **COMPREENDER MECÂNICA DOS ESCUDOS** - Entender padrão de transferência entre elementais
+- **RESOLVER PUZZLE DA PORTA** - Três cavidades circulares podem ser chave para progresso
+- **INVESTIGAR GROIH** - Entender natureza de seus poderes sombrios involuntários
+- **EXPLORAR PLATAFORMA DISTANTE** - Descoberta por Orestan, pode conter pistas importantes
+- **SOBREVIVER AO AMBIENTE** - Caverna com atmosfera de medo e calma ensurdecedora
 - **Monitorar Bartrock** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
-- **Resgatar Tobias** - Descobrir destino do companheiro levado pelo demônio
 - **Investigar cristal** - Compreender propriedades do cristal misterioso
-- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações
-- **Cuidar de Emmergard** - Aliada resgatada precisa de cuidados após trauma 
+- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações 

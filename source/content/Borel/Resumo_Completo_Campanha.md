@@ -310,10 +310,10 @@ Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo 
 
 ---
 
-## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 21)**
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 23)**
 
 ### 📍 **Localização**
-O grupo está **PRESO** em uma armadilha subterrânea após ser traído por Cerberus, um antigo aliado que se revelou estar trabalhando com o demônio. Estão em um salão subterrâneo com porta de metal trabalhado, enfrentando minhocas gigantes em combate desesperado.
+O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Estão enfrentando elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente.
 
 ### 💰 **Recursos**
 - **40 platinas** da missão bem-sucedida
@@ -323,26 +323,26 @@ O grupo está **PRESO** em uma armadilha subterrânea após ser traído por Cerb
 - **Pedra mágica portátil** que fornece refúgio dimensional
 - **Hospedagem na taverna "Cabeça de Golly"** em Londe (15 dias garantidos)
 
-### 🎲 **Estado do Grupo Pós-Sessão 22: Heroísmo e Sobrevivência**
-- **Tony**: **ATAQUE DEVASTADOR** - Eliminou quatro minhocas recém-nascidas simultaneamente
-- **Dustin**: **TRANSFORMADO** - Perdeu memórias/identidade mas demonstrou precisão com besta
-- **Nightwolf**: **RESSUSCITADO E ATIVO** - Retornou ao combate com Hunter's Mark e ataques precisos
-- **Bartrock**: **FORÇA EXCEPCIONAL** - Demonstrou poder devastador, quase derrotou todos os oponentes
-- **Kaelion**: **HEROÍSMO** - Resgatou Emmergard de dentro da minhoca e a estabilizou
-- **Borin**: Pragmático, **PRESO** com grupo, desenvolveu estratégia épica do Thresh
-- **Orestan**: **SOBREVIVENTE** - Foi engolido por minhoca mas sobreviveu, mostrou resistência
-- **Groih**: **ATAQUE CRÍTICO ÉPICO** - Espada flamejante causou dano massivo com Smite
-- **Emmergard**: **RESGATADA** - Salva por Kaelion de dentro da minhoca, estabilizada
+### 🎲 **Estado do Grupo Pós-Sessão 23: Exploração e Combate Tático**
+- **Tony**: **DOIS CRÍTICOS CONSECUTIVOS** - Movimento acrobático épico estilo Shadow of the Colossus bloqueado por escudo de gelo, liderou exploração dos totens
+- **Dustin**: **ESTRATÉGIA TÁTICA** - Usou Zephyr Strike e descobriu mecânica dos escudos, informou grupo sobre mudanças
+- **Nightwolf**: **COMBATE ATIVO** - Participou do combate contra elementais, tentou ataques à distância bloqueados por escudos
+- **Bartrock**: **USO ESTRATÉGICO DE MAGIAS** - Lançou Fireball e Mistéria, descobriu que golem de fogo é imune ao fogo
+- **Kaelion**: **OBSERVAÇÃO E ANÁLISE** - Participou da exploração e teorizou sobre funcionamento dos escudos
+- **Borin**: **ATAQUES À DISTÂNCIA** - Tentou quebrar gelo do elemental de gelo com tiros precisos, causou dano significativo
+- **Orestan**: **ANÁLISE E SUPORTE** - Identificou criatura como cristal, conjurou Guiding Bolt e bênção de Xanté
+- **Groih**: **ATAQUES CORPO A CORPO** - Causou dano significativo ao elemental de gelo, mas também atacou involuntariamente o grupo com sombras
+- **Emmergard**: **PROTEGIDA** - Cuidada por Tony durante combate, participou da dança de comemoração após Fireball
 
-### 🎯 **Situação Crítica Atual (Pós-Sessão 22)**
-1. **GRUPO PRESO** - Armadilha subterrânea, porta trancada, Cerberus traidor
-2. **Portão Selado** - Mistério adicional descoberto na caverna, pode ser chave para escape
-3. **Minhocas Derrotadas** - Criaturas gigantes eliminadas, mas ambiente ainda perigoso
-4. **Ressurreição de Nightwolf** - Voltou à vida e retornou ao combate com sucesso
-5. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
-6. **Tensão Interna** - Conflito crescente entre Tony e Bartrok
-7. **Escape Urgente** - Precisam sair da armadilha antes que seja tarde
-8. **Cuidar de Emmergard** - Aliada resgatada precisa de cuidados após trauma
+### 🎯 **Situação Crítica Atual (Pós-Sessão 23)**
+1. **BATALHA CONTRA ELEMENTAIS** - Três elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente
+2. **MECÂNICA DOS ESCUDOS** - Escudos se transferem entre elementais baseado em quem está sendo atacado
+3. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital de quatro membros, criando desconfiança
+4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal
+5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna
+6. **Derrota do Golem de Gelo** - Escudos desapareceram quando primeiro golem caiu, revelando mecânica
+7. **Estratégia Necessária** - Grupo precisa descobrir padrão para derrotar elementais efetivamente
+8. **Investigação de Groih** - Entender natureza de seus poderes sombrios involuntários
 
 ---
 
@@ -378,7 +378,13 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 22: O PORTÃO SELADO E HEROÍSMO ÉPICO!**
+## 🔥 **APÓS A SESSÃO 23: A CAVERNA DOS COGUMELOS E BATALHA ÉPICA CONTRA ELEMENTAIS!**
+
+**A Sessão 23 foi épica:** O grupo explorou uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após um descanso na pedra mágica, Groih atacou involuntariamente quatro membros com sombras que drenaram força vital, criando tensão e mistério. O grupo descobriu três pontes que levam a plataformas com totens mágicos. Quando Tony tocou a primeira esfera, uma criatura colossal de cristal apareceu com um "Super Hero Landing" dramático. Durante a batalha, descobriram que os golems elementais possuem escudos mágicos que se protegem mutuamente. Tony realizou dois críticos consecutivos e um movimento acrobático épico estilo Shadow of the Colossus, pulando sobre o elemental e rodando no ar antes de descer com um golpe poderoso - apenas para ser bloqueado por um escudo de gelo no último momento. O grupo continua lutando contra três elementais poderosos (gelo, fogo e pedra) enquanto tenta descobrir a mecânica dos escudos que se transferem entre eles.
+
+**A campanha Borel atingiu novos níveis de exploração mágica e combate tático - onde mistérios e estratégia se encontram!** 🎲⚔️
+
+## 🔥 **SESSÃO 22: O PORTÃO SELADO E HEROÍSMO ÉPICO!**
 
 **A Sessão 22 foi épica:** O grupo enfrentou uma das batalhas mais intensas da campanha contra minhocas gigantes em uma caverna subterrânea. Nightwolf retornou triunfante ao combate após sua ressurreição, demonstrando suas habilidades de ranger com Hunter's Mark e ataques precisos. Kaelion executou um resgate heroico salvando Emmergard de dentro de uma minhoca. Tony realizou um ataque estatisticamente impossível eliminando quatro minhocas recém-nascidas simultaneamente. Groih executou um ataque crítico épico com sua espada flamejante causando dano massivo. O grupo demonstrou coordenação tática exemplar e trabalho em equipe eficaz, derrotando as criaturas gigantes e descobrindo um portão selado que pode ser a chave para escapar da armadilha.
 

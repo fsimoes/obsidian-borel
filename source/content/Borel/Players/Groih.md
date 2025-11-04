@@ -1,0 +1,82 @@
+# Groih
+
+## Perfil
+- **Jogador**: HIGORVS1
+- **Classe**: Guerreiro/Bárbaro (possivelmente Paladino)
+- **Status**: **MISTÉRIO** - Ataques involuntários com sombras
+- **Habilidades Notáveis**: 
+  - Combate corpo a corpo com espada de duas mãos
+  - Ataques sombrios involuntários que drenam força vital
+  - Excelente dano em combate
+  - Habilidades de movimento (Dash)
+
+## História
+Groih emergiu como uma figura misteriosa durante a Sessão 23, criando tensão e desconfiança no grupo através de seus poderes sombrios involuntários. Sua presença adiciona uma nova camada de mistério e possível ameaça interna ao grupo.
+
+### Momentos Marcantes
+
+#### Sessão 22: Ataque Crítico Épico
+- **Bloco 3**: **ATAQUE CRÍTICO ÉPICO** - Espada flamejante causou dano massivo com Smite
+- Demonstrou poder devastador em combate
+- Contribuiu significativamente para derrota das minhocas gigantes
+
+#### Sessão 23: A Caverna dos Cogumelos - PODERES SOMBRIOS E MISTÉRIO
+- **Bloco 1**: **ATAQUE INVOLUNTÁRIO** - Quando grupo saiu da pedra mágica, estava do lado de fora
+- **Bloco 1**: **SOMBRAS DRENANTES** - Sombras estenderam-se para quatro membros do grupo (Orestan, Dustin, Amigard e Nightwolf)
+- **Bloco 1**: **DANO CAUSADO** - Sombras perfuraram pernas das vítimas, causando 6 pontos de dano a cada uma
+- **Bloco 1**: **GANHO DE VIDA** - Sombras retornaram para Groih, concedendo 24 pontos de vida temporários
+- **Bloco 1**: **CONFUSÃO GENUÍNA** - Pareceu genuinamente confuso sobre o que aconteceu
+- **Bloco 1**: **INSIGHT CHECK** - Orestan usou insight e percebeu que Groih não estava mentindo
+- **Bloco 2**: **ATAQUES CORPO A CORPO** - Causou dano significativo ao elemental de gelo com espada de duas mãos
+- **Bloco 2**: **ARRANCOU PEDRAS** - Seus ataques arrancaram pedaços de pedra dos joelhos da criatura
+- **Bloco 3**: **DIFICULDADE TÉCNICA** - Tentou fazer dois ataques mas enfrentou confusão com dados sendo rolados infinitamente
+- **Bloco 4**: **TEORIZAÇÃO** - Observou que escudos parecem se transferir entre elementais baseado em quem está sendo atacado
+- **Resultado**: Criou tensão dramática e mistério sobre sua verdadeira natureza, mas também demonstrou valor em combate
+
+## Características Notáveis
+
+### Poderes Sombrios
+- Sombras que se estendem involuntariamente
+- Drenam força vital de alvos (6 pontos de dano)
+- Retornam para Groih concedendo vida temporária
+- Ativam-se automaticamente sem controle aparente
+
+### Habilidades de Combate
+- Combate corpo a corpo eficaz com espada de duas mãos
+- Capaz de causar dano significativo a criaturas grandes
+- Movimento rápido usando Dash
+- Ataques precisos que arrancam pedaços de inimigos
+
+### Personalidade
+- Parece genuinamente confuso sobre seus próprios poderes
+- Não parece ter controle consciente sobre ataques sombrios
+- Mantém valor em combate apesar do mistério
+- Demonstra pensamento tático ao teorizar sobre mecanismos
+
+## Mistérios Pendentes
+- **NATUREZA DOS PODERES** - Por que suas sombras atacam involuntariamente?
+- **ORIGEM** - De onde vêm seus poderes sombrios?
+- **CONTROLE** - Pode aprender a controlar seus ataques?
+- **AMEAÇA** - É uma ameaça para o grupo ou apenas uma maldição?
+- **CONEXÃO** - Está relacionado com outras entidades sombrias da campanha?
+
+## Relacionamentos
+- **Grupo**: Vista com desconfiança após ataque involuntário
+- **Orestan**: Único que tentou entender verdadeira natureza através de insight check
+- **Vítimas do Ataque**: Orestan, Dustin, Amigard e Nightwolf receberam dano
+
+## Impacto na Narrativa
+Groih representa uma nova fonte de tensão interna no grupo. Seus poderes sombrios involuntários criam desconfiança, mas sua genuína confusão sugere que pode não ser uma ameaça intencional. Seu valor em combate o torna útil, mas o mistério sobre sua natureza precisa ser resolvido antes que o grupo possa confiar completamente nele.
+
+## Status Atual
+- Ativo como membro do grupo
+- Envolvido em combate contra elementais na caverna subterrânea
+- Visto com desconfiança devido a ataques involuntários
+- Demonstrou valor em combate apesar do mistério
+
+## Objetivos Futuros
+- Investigar origem de seus poderes sombrios
+- Descobrir como controlar ataques involuntários
+- Ganhar confiança do grupo
+- Compreender verdadeira natureza de suas habilidades
+- Continuar contribuindo em combate de forma eficaz

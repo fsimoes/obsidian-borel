@@ -180,6 +180,17 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 - **Bloco 5**: **BATALHA INTENSA** - Continuou combate com Groin em perigo crítico
 - **Resultado**: Demonstrou poder de ressurreição mas grupo questiona suas intenções
 
+#### Sessão 23: A Caverna dos Cogumelos - USO ESTRATÉGICO DE MAGIAS
+- **Bloco 1**: Foi curado por Orestan após batalha com minhocas mutantes
+- **Bloco 3**: **FIREBALL ESTRATÉGICA** - Lançou Fireball tentando causar dano significativo nos golems
+- **Bloco 3**: **DESCOBERTA DE IMUNIDADE** - Descobriu que golem de fogo é imune ao fogo, magia não afetou
+- **Bloco 3**: **PROTEÇÃO DE ALIADOS** - Tony e Emmergard conseguiram se proteger da explosão
+- **Bloco 4**: **THUNDERSTEP E MISTÉRIA** - Usou Thunderstep para se aproximar do elemental de pedra
+- **Bloco 4**: Lançou Mistéria no elemental de pedra, causando dano mesmo com escudo bloqueando parcialmente
+- **Bloco 4**: **ERRO DE REGRAS** - Tentou usar bonus action para se afastar, depois descobriu que não pode usar duas magias no mesmo turno
+- **Bloco 4**: **APRENDIZADO** - Descobriu regra de D&D sobre máximo de uma magia por turno através de discussão
+- **Resultado**: Demonstrou uso estratégico de magias mas descobriu limitações e fraquezas dos inimigos
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático
