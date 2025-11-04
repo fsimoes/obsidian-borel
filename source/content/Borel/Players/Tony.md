@@ -156,13 +156,21 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - **Parte 5**: Demonstrou proteção moral ao impedir saque do corpo morto na floresta
 - **Resultado**: Consolidação como líder organizacional e diplomático do grupo
 
-#### Sessão 22: O Portão Selado - ATAQUE DEVASTADOR
-- **Bloco 1**: Liderou combate contra minhocas gigantes em caverna subterrânea
-- **Bloco 2**: Demonstrou coordenação tática durante batalha intensa
-- **Bloco 3**: **MOMENTO ÉPICO** - Eliminou quatro minhocas recém-nascidas simultaneamente com javelin mágica
-- **Bloco 4**: Coordenou grupo para resgate de Emmergard e eliminação das criaturas
-- **Bloco 5**: Demonstrou força excepcional, quase derrotando todos os oponentes
-- **Resultado**: Consolidação como líder tático e combatente devastador do grupo
+#### Sessão 23: A Caverna dos Cogumelos - EXPLORAÇÃO E COMBATE ÉPICO
+- **Bloco 1**: Liderou organização do descanso longo na pedra mágica após batalha com minhocas mutantes
+- **Bloco 2**: **ATIVAÇÃO DO TOTEM** - Tocou primeira esfera do totem, causando ventania gelada e fazendo pedregulhos caírem do céu
+- **Bloco 2**: Lançou escudo mágico flutuante para proteção durante combate
+- **Bloco 2**: **ENTRADA DRAMÁTICA** - Criatura colossal de cristal apareceu com "Super Hero Landing"
+- **Bloco 3**: Protegeu Emmergard antes da Fireball de Bartrock, agachando e protegendo a cabeça
+- **Bloco 3**: **DANÇA DE COMEMORAÇÃO** - Dançou com Emmergard após não tomar dano da Fireball
+- **Bloco 3**: Moveu-se diagonalmente para proteger Emmergard do golem de pedra
+- **Bloco 3**: Gritou para Bartrock pedindo ajuda para descobrir como passar pela defesa dos escudos
+- **Bloco 4**: **DOIS CRÍTICOS CONSECUTIVOS** - Sorte excepcional com dados
+- **Bloco 4**: **MOMENTO ÉPICO** - Movimento acrobático estilo Shadow of the Colossus, pulando sobre o elemental de gelo
+- **Bloco 4**: **GOLPE PODEROSO BLOQUEADO** - Desceu do ar com golpe de duas mãos na testa do elemental, mas escudo de gelo bloqueou no último momento
+- **Bloco 4**: O impacto foi tão forte que fez o chão tremer, mas o escudo segurou a espada
+- **Bloco 4**: Caiu ao lado frustrado mas impressionado com a defesa do inimigo
+- **Resultado**: Consolidação como líder explorador e combatente acrobático com sorte excepcional
 
 ## Equipamento Notável
 - Javelina

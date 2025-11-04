@@ -181,6 +181,14 @@ Agora, equipado com sua nova armadura studded leather e botas mágicas, Nightwol
 - **Bloco 5**: **SOBREVIVÊNCIA** - Manteve-se ativo apesar das limitações físicas
 - **Resultado**: **RANGER RENASCIDO** - Retornou ao combate com determinação e eficiência
 
+#### Sessão 23: A Caverna dos Cogumelos - COMBATE ATIVO
+- **Bloco 1**: Participou do descanso longo na pedra mágica após batalha com minhocas mutantes
+- **Bloco 1**: **VÍTIMA DO ATAQUE DE GROIH** - Ataque involuntário de Groih com sombras drenou 6 pontos de vida
+- **Bloco 3**: **ATAQUES BLOQUEADOS** - Tentou dar duas flechadas, primeira errou, segunda foi bloqueada pelo escudo de fogo
+- **Bloco 3**: **PRIMEIRO INDÍCIO** - Foi primeiro a descobrir os escudos protetores através de seu ataque bloqueado
+- **Bloco 4**: Manteve participação ativa no combate contra elementais
+- **Resultado**: Demonstrou persistência em combate apesar de ataques bloqueados pelos escudos mágicos
+
 
 ## Equipamento Notável
 - Arco longo

@@ -62,10 +62,20 @@ Borin foi contratado por [[Alberto]] para transportar uma carroça misteriosa at
 - Sobreviveu a duas quedas contra o Axolotl Ancião
 - Demonstrou pragmatismo durante debates morais
 
+#### Sessão 23: A Caverna dos Cogumelos - ATAQUES À DISTÂNCIA
+- **Bloco 4**: **ATAQUES PRECISOS** - Usou ataques à distância tentando quebrar gelo do elemental de gelo
+- **Bloco 4**: **PRIMEIRO TIRO** - Acertou (18), causando dano e quebrando parte do gelo
+- **Bloco 4**: **SEGUNDO TIRO** - Também acertou, causando mais dano e fazendo gelo voar
+- **Bloco 4**: **CONTRA-ATAQUE** - Recebeu 22 pontos de dano de uma bicuda de gelo do elemental
+- **Bloco 4**: Usou habilidade especial que causa dano adicional ao acertar pela primeira vez
+- **Bloco 4**: Tentou usar Catapult para lançar Thresh na criatura, mas falhou
+- **Bloco 4**: Usou Thresh para atacar criatura em combate corpo a corpo
+- **Resultado**: Demonstrou eficiência com ataques à distância e estratégia de quebrar escudos de gelo
+
 ## Status Atual
 - Ativo como membro do grupo
-- Envolvido nos eventos em Elriste
-- Interessado no uso da pólvora
+- Envolvido em combate contra elementais na caverna subterrânea
+- Usando estratégias táticas para quebrar escudos de gelo dos elementais
 
 ## Observações
 - Frequentemente corrige as pessoas que o chamam de "Boris"

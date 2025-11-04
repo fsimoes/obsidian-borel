@@ -42,6 +42,16 @@ Emmergard emergiu como uma figura significativa durante os eventos do cerco de A
 - **ESTABILIZAÇÃO**: Cuidada e estabilizada após trauma
 - **SOBREVIVÊNCIA**: Demonstrou resiliência em situação extrema
 
+#### Sessão 23: A Caverna dos Cogumelos - PROTEGIDA E ATIVA
+- **Bloco 1**: **VÍTIMA DO ATAQUE DE GROIH** - Ataque involuntário de Groih com sombras drenou 6 pontos de vida
+- **Bloco 3**: **PROTEGIDA POR TONY** - Tony moveu-se para protegê-la antes da Fireball de Bartrock
+- **Bloco 3**: **PROTEÇÃO DA FIREBALL** - Conseguiu se proteger junto com Tony da explosão de Fireball
+- **Bloco 3**: **DANÇA DE COMEMORAÇÃO** - Dançou alegremente com Tony após não tomar dano da Fireball
+- **Bloco 3**: **ATAQUE DE KELLYANNE** - Atacou golem de fogo causando 10 de dano, mas tomou 8 de dano de gelo em retorno
+- **Bloco 3**: **CURA MÁGICA** - Foi curada por Kellyanne usando magia de cura nível 2
+- **Bloco 4**: Manteve participação ativa no combate contra elementais
+- **Resultado**: Demonstrou resiliência continuada e trabalho em equipe eficaz
+
 ## Relacionamentos
 - [[Tony]]: Protetor que a defendeu contra Rita
 - [[Nightwolf]]: Aliado durante o cerco
