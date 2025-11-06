@@ -1,0 +1,709 @@
+BLOCO 2 - [0:30:01 - 0:59:57]
+================================================================================
+
+[0:30:01] - 3-RAPHAELVICARONE - T G
+[0:30:03] - 3-RAPHAELVICARONE - Idade Hum Cadê
+[0:30:05] - 7-HIGORVS1 - Não, só passou uma vergonha, mas tá vivo.
+[0:30:05] - 3-RAPHAELVICARONE - Federal
+[0:30:05] - 2-MATHEUSBARTCOSTA - Obrigado.
+[0:30:09] - 3-RAPHAELVICARONE - o pessoal que
+[0:30:13] - 3-RAPHAELVICARONE - o que?
+[0:30:14] - 4-HUGONORTH - Sim.
+[0:30:17] - 3-RAPHAELVICARONE - não
+[0:30:19] - 5-FS_SIMOES - Normal.
+[0:30:20] - 3-RAPHAELVICARONE - o Hugo
+[0:30:26] - 3-RAPHAELVICARONE - daqui de onde eu tô, consigo ver isso aqui?
+[0:30:27] - 4-HUGONORTH - Consegue?
+[0:30:28] - 7-HIGORVS1 - Ah, agora é isso aí, beleza.
+[0:30:30] - 4-HUGONORTH - Normal, não mudou.
+[0:30:30] - 3-RAPHAELVICARONE - o negócio
+[0:30:35] - 7-HIGORVS1 - Tem alguém abrindo a porta?
+[0:30:36] - 3-RAPHAELVICARONE - tão apagados ou tão acesos?
+[0:30:38] - 4-HUGONORTH - Apagados.
+[0:30:43] - 7-HIGORVS1 - Não, não.
+[0:30:44] - 4-HUGONORTH - É, nessa porta tem tipo soquetes onde...
+[0:30:46] - 7-HIGORVS1 - Ah, não.
+[0:30:49] - 7-HIGORVS1 - Não, não.
+[0:30:51] - 3-RAPHAELVICARONE - aaaah
+[0:30:59] - 7-HIGORVS1 - Tem mais movimentação aí.
+[0:30:59] - 1-BOREL_SOUND_8775 - A CIDADE NO BRASIL
+[0:31:00] - 5-FS_SIMOES - Que é o Rafa mesmo.
+[0:31:04] - 5-FS_SIMOES - Você ainda tem a Windy Han?
+[0:31:05] - 7-HIGORVS1 - Não vai adiantar os ataques mesmo.
+[0:31:06] - 3-RAPHAELVICARONE - mas aí deixa eu ver quanto que ele vem
+[0:31:08] - 3-RAPHAELVICARONE - é uma boa pergunta, calma aí
+[0:31:14] - 3-RAPHAELVICARONE - Hugo, isso aqui é uma parede?
+[0:31:14] - 4-HUGONORTH - Isso aqui não é uma parede, é um vão que desce.
+[0:31:15] - 7-HIGORVS1 - Ah, tá.
+[0:31:17] - 7-HIGORVS1 - Tem uma ali.
+[0:31:18] - 3-RAPHAELVICARONE - só pra saber
+[0:31:21] - 4-HUGONORTH - Está bom?
+[0:31:22] - 3-RAPHAELVICARONE - eu vou ficar
+[0:31:23] - 7-HIGORVS1 - Tem uma aqui.
+[0:31:24] - 4-HUGONORTH - Pega.
+[0:31:28] - 3-RAPHAELVICARONE - vou dar o dash e vou vir correndo até aqui
+[0:31:31] - 3-RAPHAELVICARONE - eu preciso tá aqui no meio
+[0:31:35] - 3-RAPHAELVICARONE - beleza
+[0:31:38] - 4-HUGONORTH - Ok.
+[0:31:39] - 3-RAPHAELVICARONE - no macaco da bola azul
+[0:31:40] - 4-HUGONORTH - Você não vai pegar.
+[0:31:44] - 4-HUGONORTH - Beleza, você pega a órbita.
+[0:31:46] - 4-HUGONORTH - Eu vou pegar.
+[0:31:49] - 3-RAPHAELVICARONE - pedestal e falar
+[0:31:52] - 3-RAPHAELVICARONE - gente, tive uma ideia
+[0:31:54] - 4-HUGONORTH - Ok.
+[0:31:55] - 3-RAPHAELVICARONE - vou tentar usar
+[0:31:57] - 3-RAPHAELVICARONE - ou se é baseado no que eu tinha
+[0:31:59] - 4-HUGONORTH - Vamos lá.
+[0:32:00] - 3-RAPHAELVICARONE - o zephyr strike
+[0:32:02] - 3-RAPHAELVICARONE - ok
+[0:32:06] - 3-RAPHAELVICARONE - Aqui só tá falando do dono né
+[0:32:08] - 4-HUGONORTH - Boa pergunta, advogado.
+[0:32:13] - 3-RAPHAELVICARONE - Ah, o walking speed aumenta em 30 feet
+[0:32:21] - 3-RAPHAELVICARONE - Aí eu posso andar mais 30?
+[0:32:23] - 5-FS_SIMOES - E se ele deteste, ele poderia andar a 60?
+[0:32:25] - 3-RAPHAELVICARONE - Então eu vou andar
+[0:32:30] - 3-RAPHAELVICARONE - Eu não sei como é que funciona essa regra
+[0:32:31] - 5-FS_SIMOES - Não sei, mas se você usasse antes?
+[0:32:36] - 3-RAPHAELVICARONE - Boa pergunta
+[0:32:38] - 3-RAPHAELVICARONE - Qual é a regra do dash?
+[0:32:47] - 3-RAPHAELVICARONE - Ele me dá o dobro de movimentação
+[0:32:49] - 3-RAPHAELVICARONE - Ou ele adiciona a minha movimentação?
+[0:32:51] - 3-RAPHAELVICARONE - Porque esse é o texto importante
+[0:32:54] - 3-RAPHAELVICARONE - E eu ligar o Zephyr Strike antes
+[0:32:58] - 3-RAPHAELVICARONE - Aí se fosse o dobro seria 140
+[0:33:06] - 3-RAPHAELVICARONE - Posso fazer stop?
+[0:33:08] - 3-RAPHAELVICARONE - Beleza
+[0:33:12] - 3-RAPHAELVICARONE - Andei 80
+[0:33:14] - 3-RAPHAELVICARONE - 140 seria mais 60 né
+[0:33:18] - 3-RAPHAELVICARONE - Tá aqui
+[0:33:23] - 7-HIGORVS1 - É igual ao abixalho.
+[0:33:26] - 3-RAPHAELVICARONE - É
+[0:33:28] - 7-HIGORVS1 - É bom lembrar, é bom lembrar.
+[0:33:29] - 3-RAPHAELVICARONE - Gente
+[0:33:31] - 3-RAPHAELVICARONE - Esqueci o bagulho
+[0:33:34] - 3-RAPHAELVICARONE - É
+[0:33:38] - 3-RAPHAELVICARONE - E para, eu encerro meu turno
+[0:33:42] - 3-RAPHAELVICARONE - Ah, eu era o...
+[0:33:47] - 3-RAPHAELVICARONE - Ou o Tony jogou e eu não vi?
+[0:33:49] - 5-FS_SIMOES - Pô, me pularam assim na cara...
+[0:33:54] - 3-RAPHAELVICARONE - É porque eu olhei ali agora
+[0:33:55] - 5-FS_SIMOES - Ah, eu vou falar assim...
+[0:33:56] - 3-RAPHAELVICARONE - Eu falei, ué, ele jogou e eu não vi?
+[0:33:58] - 5-FS_SIMOES - Pera aí, pera aí, pera aí.
+[0:34:02] - 3-RAPHAELVICARONE - Mas vou fazer o seguinte
+[0:34:04] - 3-RAPHAELVICARONE - E vou falar, me joga
+[0:34:09] - 3-RAPHAELVICARONE - Pra mim jogar quando eu passar por ele
+[0:34:11] - 3-RAPHAELVICARONE - Me arremessa com o escudo, velho
+[0:34:11] - 5-FS_SIMOES - Com certeza.
+[0:34:15] - 5-FS_SIMOES - Concordo 100%.
+[0:34:19] - 5-FS_SIMOES - Com certeza.
+[0:34:36] - 3-RAPHAELVICARONE - Eu consigo já colocar ou eu espero?
+[0:34:49] - 5-FS_SIMOES - Que é isso? O Mishismo tá até jogando RPG.
+[0:34:53] - 3-RAPHAELVICARONE - Eu espero o próximo turno
+[0:34:58] - 8-GUSTAVONIKOV - ué
+[0:35:05] - 3-RAPHAELVICARONE - Tá
+[0:35:06] - 8-GUSTAVONIKOV - ça já deu fogo não?
+[0:35:09] - 3-RAPHAELVICARONE - Se alguém lembra qual era o escudo do degelo
+[0:35:13] - 3-RAPHAELVICARONE - E eu encerro meu turno
+[0:35:15] - 2-MATHEUSBARTCOSTA - É o default.
+[0:35:17] - 5-FS_SIMOES - Era de fogo.
+[0:35:18] - 8-GUSTAVONIKOV - Ah, é...
+[0:35:18] - 3-RAPHAELVICARONE - Cara, ele tava bem pra cá
+[0:35:23] - 3-RAPHAELVICARONE - Eu tô com o escudo
+[0:35:34] - 3-RAPHAELVICARONE - Caralho, ele tava bem pra cá
+[0:35:38] - 3-RAPHAELVICARONE - Virou sanduíche,
+[0:35:44] - 3-RAPHAELVICARONE - Moleque.
+[0:35:48] - 8-GUSTAVONIKOV - Tá, eu...
+[0:35:49] - 5-FS_SIMOES - Eu olho pra testar...
+[0:35:57] - 8-GUSTAVONIKOV - Pera aí, minha espada...
+[0:36:00] - 8-GUSTAVONIKOV - Só pra entender o contexto.
+[0:36:02] - 5-FS_SIMOES - Mais uma vez, sim.
+[0:36:04] - 8-GUSTAVONIKOV - Tá.
+[0:36:06] - 3-RAPHAELVICARONE - Eu não sei se o Bart atacou
+[0:36:07] - 8-GUSTAVONIKOV - O do gelo morreu, pelo que eu entendi.
+[0:36:09] - 8-GUSTAVONIKOV - Tô atacando de pedra.
+[0:36:13] - 8-GUSTAVONIKOV - O de pedra não tá com escudo?
+[0:36:18] - 8-GUSTAVONIKOV - Tá, é que pode ter acontecido alguma coisa quando eu tava fora, mas enfim.
+[0:36:19] - 5-FS_SIMOES - E até a próxima.
+[0:36:24] - 8-GUSTAVONIKOV - Aham.
+[0:36:26] - 8-GUSTAVONIKOV - Hum.
+[0:36:30] - 3-RAPHAELVICARONE - de pedra ou de fogo alguém.
+[0:36:36] - 3-RAPHAELVICARONE - O Berto também atacou de fogo.
+[0:36:36] - 8-GUSTAVONIKOV - Ahn.
+[0:36:41] - 8-GUSTAVONIKOV - Tá.
+[0:36:43] - 8-GUSTAVONIKOV - O que aconteceu?
+[0:36:46] - 8-GUSTAVONIKOV - Eu toquei o de fogo, só pra saber.
+[0:36:48] - 8-GUSTAVONIKOV - Ahn.
+[0:36:49] - 5-FS_SIMOES - Eu posso...
+[0:36:50] - 8-GUSTAVONIKOV - Eu tô com espada.
+[0:36:52] - 8-GUSTAVONIKOV - Tá.
+[0:36:55] - 8-GUSTAVONIKOV - Então eu vou chegar perto de pedra aqui e vou tentar atacar ele.
+[0:36:59] - 8-GUSTAVONIKOV - Ele tá funcionando, minha extensão, é, com a espada.
+[0:37:07] - 8-GUSTAVONIKOV - Ué.
+[0:37:10] - 8-GUSTAVONIKOV - É, é.
+[0:37:13] - 4-HUGONORTH - annotação, zoeira
+[0:37:16] - 5-FS_SIMOES - Usar minha reaction pra alguma coisa?
+[0:37:17] - 4-HUGONORTH - Scott
+[0:37:18] - 8-GUSTAVONIKOV - regulation.tv
+[0:37:19] - 5-FS_SIMOES - Posso só gritar uma coisa aqui?
+[0:37:19] - 4-HUGONORTH - ens
+[0:37:24] - 4-HUGONORTH - American
+[0:37:24] - 5-FS_SIMOES - Foda.
+[0:37:27] - 6-NIGHTWOLFBIELZOVSKY - Momento da Sessão
+[0:37:28] - 5-FS_SIMOES - Vamos tentar resolver o resto do puzzle.
+[0:37:30] - 6-NIGHTWOLFBIELZOVSKY - udo.br
+[0:37:30] - 8-GUSTAVONIKOV - int pros.
+[0:37:33] - 5-FS_SIMOES - É o que eu gritei pro...
+[0:37:37] - 4-HUGONORTH - News
+[0:37:37] - 8-GUSTAVONIKOV - Ir CAP.
+[0:37:41] - 8-GUSTAVONIKOV - O de fogo tá de strikes autorizado docmão.
+[0:37:42] - 4-HUGONORTH - Talvez não falando a palavra
+[0:37:43] - 8-GUSTAVONIKOV - enga.
+[0:37:45] - 4-HUGONORTH - realista.
+[0:37:46] - 8-GUSTAVONIKOV - post. Follow.
+[0:37:49] - 5-FS_SIMOES - Eu acho...
+[0:37:54] - 8-GUSTAVONIKOV - Vou tentar o segundo ataque aqui.
+[0:37:55] - 6-NIGHTWOLFBIELZOVSKY - Ande
+[0:37:57] - 6-NIGHTWOLFBIELZOVSKY - Legenda Adriana Zanotto
+[0:37:57] - 4-HUGONORTH - Segura a teta.
+[0:38:01] - 8-GUSTAVONIKOV - 17 é certo?
+[0:38:03] - 4-HUGONORTH - Não acerta.
+[0:38:04] - 8-GUSTAVONIKOV - Isso aí é loucura.
+[0:38:06] - 3-RAPHAELVICARONE - É o Alexandre.
+[0:38:06] - 8-GUSTAVONIKOV - É isso então, valeu.
+[0:38:09] - 4-HUGONORTH - atacar ele mas ele sai do caminho assim.
+[0:38:11] - 4-HUGONORTH - Bate no vento.
+[0:38:16] - 4-HUGONORTH - Você sente que alguma coisa está
+[0:38:16] - 8-GUSTAVONIKOV - Vem isso.
+[0:38:21] - 4-HUGONORTH - Beleza.
+[0:38:24] - 4-HUGONORTH - Golem de pedra.
+[0:38:28] - 4-HUGONORTH - tentando atacar ele.
+[0:38:32] - 3-RAPHAELVICARONE - Ele pode dar um coice?
+[0:38:33] - 4-HUGONORTH - Ele vai tentar
+[0:38:42] - 4-HUGONORTH - Acredito que não.
+[0:38:44] - 4-HUGONORTH - Dustin, ele vai pegar a pedra
+[0:38:46] - 8-GUSTAVONIKOV - É isso aí.
+[0:38:48] - 4-HUGONORTH - e ele arremessa uma pedra na sua direção.
+[0:38:49] - 5-FS_SIMOES - Tá vendo aí, ó.
+[0:38:51] - 4-HUGONORTH - 22.
+[0:38:56] - 4-HUGONORTH - 3.
+[0:39:03] - 5-FS_SIMOES - O fuzil...
+[0:39:06] - 3-RAPHAELVICARONE - Isso aqui é um crossbow, porra.
+[0:39:08] - 3-RAPHAELVICARONE - Fica apontando pro crossbow.
+[0:39:12] - 4-HUGONORTH - 44.
+[0:39:15] - 3-RAPHAELVICARONE - Ai.
+[0:39:17] - 3-RAPHAELVICARONE - Dá pra desarmar.
+[0:39:19] - 5-FS_SIMOES - Ah, meu...
+[0:39:33] - 7-HIGORVS1 - Ébora , o uél contextual para você tá segurando a porrada.
+[0:39:34] - 4-HUGONORTH - 47.
+[0:39:35] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:39:36] - 3-RAPHAELVICARONE - Fica.
+[0:39:39] - 4-HUGONORTH - 48.
+[0:39:42] - 7-HIGORVS1 - Ué, como é que…
+[0:39:42] - 4-HUGONORTH - כלös
+[0:39:47] - 5-FS_SIMOES - Tá.
+[0:39:49] - 7-HIGORVS1 - Eu estou tentando ativar o hash.
+[0:39:51] - 7-HIGORVS1 - J고요.
+[0:39:54] - 7-HIGORVS1 - Esqueci já como usa.
+[0:39:55] - 4-HUGONORTH - Pressiona no seu token e dá um toquezinho no botão direito.
+[0:39:59] - 4-HUGONORTH - Enquanto você pressiona no seu token.
+[0:40:01] - 7-HIGORVS1 - Ah, boa.
+[0:40:03] - 7-HIGORVS1 - Eu vou só me posicionar aqui para tentar
+[0:40:03] - 3-RAPHAELVICARONE - Beleza, não?
+[0:40:06] - 3-RAPHAELVICARONE - Ah, maneiro.
+[0:40:09] - 4-HUGONORTH - É, prático.
+[0:40:11] - 3-RAPHAELVICARONE - Bem mais fácil.
+[0:40:16] - 8-GUSTAVONIKOV - Ué, vocês estão...
+[0:40:17] - 4-HUGONORTH - Bem bem.
+[0:40:17] - 3-RAPHAELVICARONE - É minha mão.
+[0:40:19] - 5-FS_SIMOES - Ah, tá.
+[0:40:23] - 7-HIGORVS1 - Cara, é.
+[0:40:27] - 8-GUSTAVONIKOV - Agora ela está com uma lastima.
+[0:40:29] - 7-HIGORVS1 - Eu só para desperdiçar mesmo.
+[0:40:32] - 4-HUGONORTH - Claro, pode desfeitiçar quando quiser.
+[0:40:35] - 8-GUSTAVONIKOV - Até ela atacar, cara.
+[0:40:36] - 3-RAPHAELVICARONE - meatball?
+[0:40:36] - 7-HIGORVS1 - Tomar um contra-ataque aqui.
+[0:40:39] - 5-FS_SIMOES - Caraca, Hugo.
+[0:40:40] - 7-HIGORVS1 - Ih, caralho.
+[0:40:40] - 4-HUGONORTH - Meu Deus.
+[0:40:41] - 3-RAPHAELVICARONE - Valdado.
+[0:40:42] - 5-FS_SIMOES - Bem feito.
+[0:40:43] - 4-HUGONORTH - O dado...
+[0:40:43] - 8-GUSTAVONIKOV - É.
+[0:40:44] - 5-FS_SIMOES - Merecedor.
+[0:40:46] - 8-GUSTAVONIKOV - É isso aí.
+[0:40:46] - 3-RAPHAELVICARONE - O dado puni.
+[0:40:48] - 7-HIGORVS1 - Precisa nem rodar o dano, né?
+[0:40:49] - 5-FS_SIMOES - Diaztel ago.
+[0:40:50] - 4-HUGONORTH - A sua espada salvando.
+[0:40:51] - 3-RAPHAELVICARONE - Não.
+[0:40:53] - 7-HIGORVS1 - Puta merda.
+[0:40:56] - 4-HUGONORTH - Aqui.
+[0:40:58] - 7-HIGORVS1 - Beleza.
+[0:41:00] - 3-RAPHAELVICARONE - É igual arrumar từ
+[0:41:01] - 8-GUSTAVONIKOV - Ué.
+[0:41:03] - 3-RAPHAELVICARONE - De novo?
+[0:41:04] - 7-HIGORVS1 - Eu vou puxar a longsword
+[0:41:05] - 3-RAPHAELVICARONE - Não has.
+[0:41:07] - 7-HIGORVS1 - e o escudo agora e vou lutar com eles.
+[0:41:09] - 4-HUGONORTH - Ok.
+[0:41:11] - 7-HIGORVS1 - E acho que é isso, né?
+[0:41:14] - 7-HIGORVS1 - Eu estava...
+[0:41:16] - 8-GUSTAVONIKOV - É isso aí.
+[0:41:16] - 4-HUGONORTH - Tem que desativar o seu shield e ativar quando você tiver...
+[0:41:18] - 5-FS_SIMOES - ...
+[0:41:20] - 4-HUGONORTH - Ok.
+[0:41:23] - 7-HIGORVS1 - Sim, sim, sim, sim.
+[0:41:23] - 4-HUGONORTH - Não, beleza. Tudo bem.
+[0:41:28] - 4-HUGONORTH - Porque aí seu AC fica 2 a mais.
+[0:41:30] - 7-HIGORVS1 - Antes de começar essa luta, eu avisei que ia usar a graysword.
+[0:41:32] - 4-HUGONORTH - Não, não. Tudo bem.
+[0:41:35] - 4-HUGONORTH - Vamos lá.
+[0:41:36] - 7-HIGORVS1 - Aí eu não tenho mais ataque para fazer, né?
+[0:41:38] - 4-HUGONORTH - Mais um ataque só.
+[0:41:40] - 7-HIGORVS1 - Tá, eu vou tentar.
+[0:41:44] - 7-HIGORVS1 - Tá bom.
+[0:41:46] - 8-GUSTAVONIKOV - Legenda Adriana Zanotto
+[0:41:47] - 4-HUGONORTH - 20. Acerta.
+[0:41:48] - 5-FS_SIMOES - Obrigado.
+[0:41:50] - 4-HUGONORTH - Você vai atacar, um monte de pedras se formam assim e...
+[0:41:51] - 7-HIGORVS1 - Isso.
+[0:41:54] - 4-HUGONORTH - A sua espada.
+[0:41:57] - 7-HIGORVS1 - Ah, eu vou passar uma vez.
+[0:41:59] - 4-HUGONORTH - Show de bola.
+[0:42:00] - 7-HIGORVS1 - Tá bom.
+[0:42:01] - 4-HUGONORTH - Bom, o body vai dar dois...
+[0:42:06] - 4-HUGONORTH - É isso.
+[0:42:08] - 4-HUGONORTH - Bandeira de esboço.
+[0:42:11] - 7-HIGORVS1 - Hum.
+[0:42:15] - 4-HUGONORTH - nossa ele
+[0:42:17] - 7-HIGORVS1 - Caralho.
+[0:42:18] - 4-HUGONORTH - e o escudo de pedra
+[0:42:21] - 4-HUGONORTH - se forma e segura os dois tiros dele
+[0:42:23] - 4-HUGONORTH - é
+[0:42:25] - 4-HUGONORTH - trash
+[0:42:27] - 4-HUGONORTH - agora o golem de fogo
+[0:42:31] - 4-HUGONORTH - o golem de fogo olha pra você
+[0:42:36] - 3-RAPHAELVICARONE - Ah tá
+[0:42:38] - 7-HIGORVS1 - Agora eu estou com o escudo de novo, hein?
+[0:42:40] - 4-HUGONORTH - beleza ele pega teu escudo
+[0:42:43] - 4-HUGONORTH - a porrada
+[0:42:43] - 7-HIGORVS1 - Que porra.
+[0:42:46] - 4-HUGONORTH - aí dá um socão de fogo assim
+[0:42:48] - 7-HIGORVS1 - Caralho.
+[0:42:51] - 4-HUGONORTH - você levanta o escudo mas vai escudo vai você vai tudo
+[0:42:54] - 4-HUGONORTH - dá um socão
+[0:42:58] - 4-HUGONORTH - pede 20 da sua vida extra né
+[0:43:02] - 4-HUGONORTH - saiu da pedra
+[0:43:06] - 3-RAPHAELVICARONE - Oh my god, Juno
+[0:43:09] - 4-HUGONORTH - ele de novo ele brilha
+[0:43:13] - 4-HUGONORTH - é
+[0:43:16] - 4-HUGONORTH - tony
+[0:43:18] - 4-HUGONORTH - emegard
+[0:43:21] - 4-HUGONORTH - pc 15
+[0:43:23] - 7-HIGORVS1 - Como é que é?
+[0:43:25] - 4-HUGONORTH - é
+[0:43:27] - 4-HUGONORTH - você passou tony
+[0:43:28] - 7-HIGORVS1 - Tá
+[0:43:31] - 4-HUGONORTH - 6 de dano pra quem
+[0:43:38] - 5-FS_SIMOES - O corpo era a luz do diálogo.
+[0:43:39] - 4-HUGONORTH - pede
+[0:43:44] - 5-FS_SIMOES - Ok.
+[0:43:48] - 5-FS_SIMOES - Quando empate, salva, né?
+[0:43:50] - 5-FS_SIMOES - Então vai ser na Amgard.
+[0:43:56] - 5-FS_SIMOES - Empatou, pô.
+[0:43:56] - 4-HUGONORTH - eu acho que hojeinfas Glück
+[0:43:58] - 5-FS_SIMOES - 9 mais 5.
+[0:44:00] - 5-FS_SIMOES - Você falou 14. Ah, pra mim você tinha falado 14.
+[0:44:01] - 4-HUGONORTH - seja
+[0:44:02] - 5-FS_SIMOES - Perdão. Então vai ser no
+[0:44:04] - 5-FS_SIMOES - no Groin.
+[0:44:05] - 4-HUGONORTH - na durante mais um什麼
+[0:44:07] - 4-HUGONORTH - as minhas
+[0:44:10] - 4-HUGONORTH - pra escala 6, Emegard 6.
+[0:44:15] - 4-HUGONORTH - Show.
+[0:44:17] - 4-HUGONORTH - Próximo turno, Emegard de novo.
+[0:44:18] - 5-FS_SIMOES - Opa!
+[0:44:20] - 5-FS_SIMOES - E aí,
+[0:44:22] - 5-FS_SIMOES - a gente vai ter uma
+[0:44:23] - 4-HUGONORTH - A Emegard fala
+[0:44:28] - 4-HUGONORTH - E vai usar outro Cury Mondes nela mesmo.
+[0:44:36] - 4-HUGONORTH - 24.
+[0:44:40] - 4-HUGONORTH - Nightwolf, você vai trocar com essa próxima.
+[0:44:48] - 5-FS_SIMOES - Obrigado.
+[0:44:50] - 4-HUGONORTH - Biel montada.
+[0:44:52] - 6-NIGHTWOLFBIELZOVSKY - Eu vou gastar muito, eu não passo pra cá, tá?
+[0:44:55] - 4-HUGONORTH - Show.
+[0:44:57] - 6-NIGHTWOLFBIELZOVSKY - Eu posso andar mais quanto?
+[0:44:59] - 6-NIGHTWOLFBIELZOVSKY - Foi daqui pra...
+[0:45:00] - 4-HUGONORTH - Você pode dar um 10, se você quiser.
+[0:45:02] - 6-NIGHTWOLFBIELZOVSKY - Tá.
+[0:45:03] - 4-HUGONORTH - Isso aqui.
+[0:45:05] - 4-HUGONORTH - 30, né?
+[0:45:08] - 4-HUGONORTH - Mas você chega nessa sala, você vê os 4 Totem e você vê o Orestan do outro lado.
+[0:45:13] - 6-NIGHTWOLFBIELZOVSKY - Posso usar do rétio?
+[0:45:16] - 4-HUGONORTH - Você quer falar?
+[0:45:17] - 6-NIGHTWOLFBIELZOVSKY - É.
+[0:45:20] - 6-NIGHTWOLFBIELZOVSKY - Eu pergunto pro Alexandre.
+[0:45:23] - 6-NIGHTWOLFBIELZOVSKY - Qual ainda você ainda não foi?
+[0:45:26] - 4-HUGONORTH - Ele fala
+[0:45:27] - 6-NIGHTWOLFBIELZOVSKY - Eu vou usar o rétio.
+[0:45:30] - 4-HUGONORTH - Mas eles se apagaram.
+[0:45:33] - 6-NIGHTWOLFBIELZOVSKY - Eu falo, beleza, eu vou num próximo aqui na minha frente.
+[0:45:36] - 4-HUGONORTH - Ok.
+[0:45:38] - 6-NIGHTWOLFBIELZOVSKY - No mais, né?
+[0:45:41] - 4-HUGONORTH - Você anda mais trinta se você usar o Dash.
+[0:45:41] - 6-NIGHTWOLFBIELZOVSKY - Me encerro.
+[0:45:43] - 4-HUGONORTH - Você pode chegar até aqui.
+[0:45:43] - 6-NIGHTWOLFBIELZOVSKY - Tá, vou dar o baixo.
+[0:45:46] - 4-HUGONORTH - Show.
+[0:45:48] - 4-HUGONORTH - Bá, troca.
+[0:45:51] - 2-MATHEUSBARTCOSTA - Eu vou dar um meteoro e um gole de pedra.
+[0:45:54] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:45:55] - 4-HUGONORTH - Meu Deus do céu.
+[0:45:57] - 6-NIGHTWOLFBIELZOVSKY - Tchau.
+[0:45:58] - 7-HIGORVS1 - o bolso a fr trainees
+[0:45:59] - 4-HUGONORTH - This.
+[0:46:01] - 4-HUGONORTH - É.
+[0:46:07] - 4-HUGONORTH - 15 não passa?
+[0:46:11] - 4-HUGONORTH - O meteoro vai.
+[0:46:14] - 4-HUGONORTH - É defic tido numa.
+[0:46:16] - 4-HUGONORTH - Numa proteção de neve se forma em.
+[0:46:19] - 4-HUGONORTH - Protege o quadro de pedra.
+[0:46:23] - 7-HIGORVS1 - Eu vou perguntar, eu vou falar para o Bartrox
+[0:46:36] - 4-HUGONORTH - Pode usar o reaction.
+[0:46:37] - 7-HIGORVS1 - se ele não tem habilidades de movimentação
+[0:46:40] - 7-HIGORVS1 - para tentar chegar nos...
+[0:46:43] - 7-HIGORVS1 - tentar chegar nas...
+[0:46:51] - 4-HUGONORTH - Não, não, você pode usar o seu reaction para falar, sim.
+[0:46:57] - 6-NIGHTWOLFBIELZOVSKY - Legenda Adriana Zanotto
+[0:46:58] - 7-HIGORVS1 - e ativar os restos dos órgãos.
+[0:46:58] - 4-HUGONORTH - Igor, diga para mim o que o Groin fala.
+[0:47:03] - 7-HIGORVS1 - Eu não sei. Cadê?
+[0:47:05] - 2-MATHEUSBARTCOSTA - crack
+[0:47:06] - 4-HUGONORTH - Estamos aqui. Você sabe palavras.
+[0:47:07] - 7-HIGORVS1 - Não, eu não sei falar assim mesmo, desculpa.
+[0:47:07] - 3-RAPHAELVICARONE - Muita pressão, calma, calma
+[0:47:08] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:47:11] - 7-HIGORVS1 - Não sei falar a primeira pessoa, não.
+[0:47:14] - 3-RAPHAELVICARONE - Segura, segura
+[0:47:16] - 4-HUGONORTH - Hugo, não.
+[0:47:26] - 2-MATHEUSBARTCOSTA - Log석
+[0:47:27] - 4-HUGONORTH - Você pode falar o que quiser para ele.
+[0:47:33] - 2-MATHEUSBARTCOSTA - anh LEHUập
+[0:47:35] - 2-MATHEUSBARTCOSTA - Sa ROHE
+[0:47:36] - 3-RAPHAELVICARONE - Para a votação
+[0:47:36] - 4-HUGONORTH - Sim, pode.
+[0:47:40] - 2-MATHEUSBARTCOSTA - Não, aqui do outro lado
+[0:47:43] - 2-MATHEUSBARTCOSTA - Eu falo, Dust, por favor, me dê o ordem
+[0:47:46] - 4-HUGONORTH - Bashi, você se opõe a ele pegar a orb?
+[0:47:52] - 3-RAPHAELVICARONE - Devemos
+[0:47:55] - 3-RAPHAELVICARONE - Para Bartroc
+[0:47:58] - 2-MATHEUSBARTCOSTA - Caralho, pô
+[0:48:01] - 2-MATHEUSBARTCOSTA - Mas aí não adianta
+[0:48:03] - 4-HUGONORTH - Não, não.
+[0:48:06] - 3-RAPHAELVICARONE - Eu fiz que eu não escuto que eu tô surdo
+[0:48:06] - 4-HUGONORTH - Bashi, você tem a opção de usar o seu ataque para tentar tirar da mão do Dusty, porque aparentemente ele não quer te dar o orb.
+[0:48:27] - 3-RAPHAELVICARONE - O moleque esquiva
+[0:48:31] - 3-RAPHAELVICARONE - Vai ter que disputar acrobáticos aí
+[0:48:31] - 2-MATHEUSBARTCOSTA - Isso é só pela piada eu encerro
+[0:48:32] - 4-HUGONORTH - É...
+[0:48:36] - 3-RAPHAELVICARONE - Ele já tentou encostar aqui nesse aqui?
+[0:48:36] - 4-HUGONORTH - Só pela piada.
+[0:48:37] - 2-MATHEUSBARTCOSTA - Não falta mais nada
+[0:48:41] - 4-HUGONORTH - Ok.
+[0:48:50] - 3-RAPHAELVICARONE - Eu não lembro
+[0:48:51] - 4-HUGONORTH - Sim.
+[0:48:53] - 7-HIGORVS1 - Nesse aqui não, né?
+[0:48:56] - 7-HIGORVS1 - Nesse aqui faltou ainda.
+[0:48:57] - 4-HUGONORTH - Não, ainda não foi.
+[0:48:59] - 7-HIGORVS1 - Ah, então ele ia andar para lá.
+[0:49:01] - 3-RAPHAELVICARONE - Ele consegue?
+[0:49:02] - 4-HUGONORTH - Ele consegue vir até aqui.
+[0:49:04] - 4-HUGONORTH - Um dash.
+[0:49:06] - 3-RAPHAELVICARONE - Eu acho que é...
+[0:49:16] - 7-HIGORVS1 - Da minha parte, não.
+[0:49:18] - 3-RAPHAELVICARONE - Deixa ele lá, deixa ele lá
+[0:49:18] - 4-HUGONORTH - Deixa eu olhar para o Tony.
+[0:49:20] - 4-HUGONORTH - Dusty, você é o próximo depois do Tony.
+[0:49:23] - 7-HIGORVS1 - Não sei falar a primeira pessoa, não.
+[0:49:24] - 3-RAPHAELVICARONE - Não, não
+[0:49:30] - 4-HUGONORTH - Não, não, não.
+[0:49:36] - 3-RAPHAELVICARONE - 
+[0:49:48] - 5-FS_SIMOES - Dito isso, eu não faço nada.
+[0:49:52] - 5-FS_SIMOES - Quer dizer, eu vou rolar meus dados aqui só para ser chato.
+[0:49:57] - 4-HUGONORTH - Felipe, eu vou te explicar.
+[0:49:57] - 5-FS_SIMOES - Oi.
+[0:50:00] - 4-HUGONORTH - Eu vou falar isso de forma educativa para todo mundo saber.
+[0:50:03] - 4-HUGONORTH - Você pode tomar ação de Dodd, se você quiser.
+[0:50:06] - 4-HUGONORTH - que faz com que os inimigos tenham desvantagem
+[0:50:09] - 4-HUGONORTH - pra atacar você
+[0:50:10] - 5-FS_SIMOES - Ação de quê? Perdão?
+[0:50:13] - 4-HUGONORTH - os personagens tem essa ação
+[0:50:15] - 5-FS_SIMOES - Dodge. Ah, beleza.
+[0:50:17] - 4-HUGONORTH - isso, você gasta a sua ação
+[0:50:18] - 5-FS_SIMOES - Ah, então beleza.
+[0:50:21] - 4-HUGONORTH - pra você entrar em modo de dodge
+[0:50:25] - 4-HUGONORTH - pra te acertar
+[0:50:25] - 5-FS_SIMOES - Então beleza, vou fazer isso.
+[0:50:27] - 5-FS_SIMOES - Então estou em Dodge.
+[0:50:30] - 4-HUGONORTH - muito bom
+[0:50:31] - 5-FS_SIMOES - Quero ver você me pegar.
+[0:50:35] - 5-FS_SIMOES - Capoeira.
+[0:50:36] - 3-RAPHAELVICARONE - Silêncio
+[0:50:43] - 5-FS_SIMOES - Ai gente, pera aí.
+[0:50:45] - 5-FS_SIMOES - Fiz uma coisa para a gente aqui que acho que vai ser importante.
+[0:50:48] - 5-FS_SIMOES - Por dadas.
+[0:50:51] - 5-FS_SIMOES - Sobre amigos.
+[0:50:57] - 4-HUGONORTH - gostei, só vejo
+[0:50:58] - 3-RAPHAELVICARONE - Eu vou tentar colocar a Orbe no vermelho, azul no buraco vermelho.
+[0:50:59] - 5-FS_SIMOES - 표현ção sul estrangeira
+[0:51:00] - 4-HUGONORTH - Martins
+[0:51:02] - 4-HUGONORTH - me ende
+[0:51:03] - 5-FS_SIMOES - lighting
+[0:51:06] - 4-HUGONORTH - cara, não encaixa
+[0:51:10] - 3-RAPHAELVICARONE - Vai.
+[0:51:11] - 4-HUGONORTH - todos eles são do mesmo tamanho
+[0:51:13] - 3-RAPHAELVICARONE - Tá doendo, tá bom?
+[0:51:14] - 4-HUGONORTH - mais maior não, maior
+[0:51:17] - 5-FS_SIMOES - Nossa
+[0:51:18] - 3-RAPHAELVICARONE - Tá.
+[0:51:24] - 3-RAPHAELVICARONE - Eu não fui nos outros ainda, então não sei como é que é.
+[0:51:28] - 3-RAPHAELVICARONE - É exatamente o que ele disse.
+[0:51:30] - 4-HUGONORTH - tá como se fosse um
+[0:51:36] - 4-HUGONORTH - Tylenex
+[0:51:40] - 5-FS_SIMOES - Tem existido
+[0:51:43] - 4-HUGONORTH - ela...
+[0:51:47] - 5-FS_SIMOES - Nós podemos ver claramente
+[0:51:51] - 5-FS_SIMOES - que a nossa galera aqui, a massa cinzenta,
+[0:51:51] - 7-HIGORVS1 - Foi o Felipe, mas ele voltou.
+[0:51:55] - 5-FS_SIMOES - o pensamento crítico está afiado.
+[0:51:57] - 4-HUGONORTH - daqui
+[0:51:58] - 3-RAPHAELVICARONE - Quem que tinha ido no...
+[0:52:00] - 5-FS_SIMOES - Inclusive, peraí.
+[0:52:00] - 4-HUGONORTH - só pra
+[0:52:02] - 3-RAPHAELVICARONE - Perdão, vai, falei.
+[0:52:06] - 3-RAPHAELVICARONE - Quem que tinha ido na sala de cima?
+[0:52:08] - 3-RAPHAELVICARONE - Na de gelo ali.
+[0:52:09] - 5-FS_SIMOES - Eu, eu.
+[0:52:12] - 5-FS_SIMOES - Eu encostei na primeira pedra e caiu o primeiro gole, hein.
+[0:52:13] - 7-HIGORVS1 - É, de lá só teve um, né?
+[0:52:13] - 3-RAPHAELVICARONE - Tá.
+[0:52:15] - 5-FS_SIMOES - Aí eu meti o pé.
+[0:52:17] - 5-FS_SIMOES - Que eu ouvi o barulho.
+[0:52:19] - 7-HIGORVS1 - Da Serra de Vila.
+[0:52:21] - 5-FS_SIMOES - Isso.
+[0:52:21] - 4-HUGONORTH - só porque também
+[0:52:25] - 4-HUGONORTH - começou a ventar também dentro da sala
+[0:52:28] - 3-RAPHAELVICARONE - Eu também não.
+[0:52:29] - 5-FS_SIMOES - Ah, tá.
+[0:52:30] - 4-HUGONORTH - é agora
+[0:52:31] - 5-FS_SIMOES - Você não lembrava, não?
+[0:52:37] - 3-RAPHAELVICARONE - Cara.
+[0:52:42] - 7-HIGORVS1 - Eu acho que agora eu entendi.
+[0:52:45] - 4-HUGONORTH - vem aí
+[0:52:46] - 3-RAPHAELVICARONE - Não, no seu turno você fala.
+[0:52:46] - 7-HIGORVS1 - Não, mas eu não tenho o que fazer.
+[0:52:47] - 5-FS_SIMOES - Peraí.
+[0:52:48] - 3-RAPHAELVICARONE - Eu vou deixar...
+[0:52:49] - 7-HIGORVS1 - Não, não vou falar.
+[0:52:51] - 7-HIGORVS1 - Eu acho que...
+[0:52:51] - 5-FS_SIMOES - Ah, não.
+[0:52:55] - 7-HIGORVS1 - Só pensei em voz alta.
+[0:52:55] - 5-FS_SIMOES - Então é história.
+[0:52:57] - 4-HUGONORTH - vai deixe
+[0:52:57] - 5-FS_SIMOES - Ah, já sei, então.
+[0:52:59] - 5-FS_SIMOES - Fala aí.
+[0:52:59] - 7-HIGORVS1 - Tá bom, tá bom.
+[0:53:00] - 4-HUGONORTH - ai show
+[0:53:02] - 3-RAPHAELVICARONE - Ah, não sei, cara.
+[0:53:07] - 3-RAPHAELVICARONE - Tá.
+[0:53:09] - 7-HIGORVS1 - Corre pro alto.
+[0:53:09] - 4-HUGONORTH - você tá com o seu zéfer ainda
+[0:53:12] - 7-HIGORVS1 - E volta.
+[0:53:13] - 4-HUGONORTH - tem negócio lá ou é só no túnel de ser casta
+[0:53:15] - 3-RAPHAELVICARONE - Deixa eu ver.
+[0:53:17] - 5-FS_SIMOES - E aí o que que aconteceu?
+[0:53:17] - 3-RAPHAELVICARONE - Porque eu não dei o hit.
+[0:53:20] - 5-FS_SIMOES - Isso lá eu me lembrei, sabe, e outra kínica.
+[0:53:21] - 3-RAPHAELVICARONE - A concentração por um minuto.
+[0:53:24] - 7-HIGORVS1 - Cosente.
+[0:53:24] - 4-HUGONORTH - ok
+[0:53:27] - 5-FS_SIMOES - Oh.
+[0:53:29] - 5-FS_SIMOES - Pode ser.
+[0:53:30] - 4-HUGONORTH - você
+[0:53:31] - 5-FS_SIMOES - Pelo que ela faria com isso?
+[0:53:34] - 5-FS_SIMOES - E, enfim, fica no segredo, describing o स insanas vezes é estranho.
+[0:53:36] - 4-HUGONORTH - tá
+[0:53:36] - 7-HIGORVS1 - Corre.
+[0:53:40] - 4-HUGONORTH - e você se vê que tá uma ventania aqui dentro
+[0:53:41] - 5-FS_SIMOES - Honra.
+[0:53:42] - 7-HIGORVS1 - Não dá para pular não, meu gente?
+[0:53:43] - 4-HUGONORTH - é
+[0:53:44] - 3-RAPHAELVICARONE - Do outro lado.
+[0:53:46] - 5-FS_SIMOES - George Hart.
+[0:53:46] - 4-HUGONORTH - o de perto de você tá apagado
+[0:53:48] - 3-RAPHAELVICARONE - Tá.
+[0:53:49] - 4-HUGONORTH - eu vou dizer que
+[0:53:53] - 3-RAPHAELVICARONE - Então eu vou continuar andando pra direção...
+[0:53:56] - 3-RAPHAELVICARONE - Cala a direção.
+[0:53:57] - 7-HIGORVS1 - Você tem acrodáctil aí, pô?
+[0:53:58] - 4-HUGONORTH - se
+[0:54:00] - 3-RAPHAELVICARONE - Já andei bastante até aqui.
+[0:54:00] - 4-HUGONORTH - lá
+[0:54:03] - 4-HUGONORTH - depois
+[0:54:03] - 7-HIGORVS1 - Não, na próxima, pô.
+[0:54:05] - 4-HUGONORTH - cima
+[0:54:07] - 3-RAPHAELVICARONE - Qual a distância?
+[0:54:07] - 4-HUGONORTH - que
+[0:54:08] - 7-HIGORVS1 - Tio Rizk?
+[0:54:10] - 3-RAPHAELVICARONE - Ou é só ilustrativo?
+[0:54:12] - 4-HUGONORTH - mas
+[0:54:12] - 7-HIGORVS1 - Olha aí.
+[0:54:13] - 3-RAPHAELVICARONE - Isso configura um pulo...
+[0:54:15] - 4-HUGONORTH - tu
+[0:54:17] - 5-FS_SIMOES - Legenda Adriana Zanotto
+[0:54:18] - 4-HUGONORTH - aqui
+[0:54:18] - 3-RAPHAELVICARONE - É, exatamente.
+[0:54:19] - 7-HIGORVS1 - Se tiver que jogar uma dada, esquece.
+[0:54:22] - 7-HIGORVS1 - Na risca, não.
+[0:54:22] - 4-HUGONORTH - ainda
+[0:54:23] - 3-RAPHAELVICARONE - Se der que jogar dado, eu não vou tentar pular, não.
+[0:54:29] - 4-HUGONORTH - sair
+[0:54:31] - 3-RAPHAELVICARONE - Uhum.
+[0:54:42] - 7-HIGORVS1 - Esquece.
+[0:54:42] - 3-RAPHAELVICARONE - Meu, score de força.
+[0:54:44] - 3-RAPHAELVICARONE - Metade da distância.
+[0:54:45] - 4-HUGONORTH - 13, 13 feet, que você pode percorrer pulando.
+[0:54:51] - 3-RAPHAELVICARONE - Falta dar esse pulinho aqui.
+[0:54:53] - 3-RAPHAELVICARONE - Esse é meu pirulinho aqui, ó.
+[0:54:55] - 3-RAPHAELVICARONE - Esse aqui que eu consigo pular.
+[0:54:57] - 3-RAPHAELVICARONE - Eu vou pular e cair.
+[0:55:00] - 3-RAPHAELVICARONE - Só não tem o cano aqui pra eu descer.
+[0:55:00] - 4-HUGONORTH - Double jump.
+[0:55:01] - 2-MATHEUSBARTCOSTA - Não falta nada
+[0:55:01] - 7-HIGORVS1 - Não tenho o Tânia aí para te jogar para cima.
+[0:55:04] - 7-HIGORVS1 - Tô.
+[0:55:04] - 3-RAPHAELVICARONE - É, aqui eu não tenho...
+[0:55:07] - 2-MATHEUSBARTCOSTA - Não falta mais nada
+[0:55:07] - 3-RAPHAELVICARONE - Ajuda.
+[0:55:10] - 3-RAPHAELVICARONE - É, é isso então.
+[0:55:13] - 3-RAPHAELVICARONE - Tá.
+[0:55:13] - 4-HUGONORTH - Andando, você vai até aqui.
+[0:55:16] - 4-HUGONORTH - Sim, ele conseguiu, eu falei que ele conseguiu ver essa órbita aqui iluminada.
+[0:55:23] - 4-HUGONORTH - Você vê que a ventania, e tá bem frio aí dentro da sala, Dustin.
+[0:55:27] - 3-RAPHAELVICARONE - Yeah, terminou tudo.
+[0:55:29] - 4-HUGONORTH - Beleza?
+[0:55:31] - 2-MATHEUSBARTCOSTA - Legenda Adriana Zanotto
+[0:55:32] - 8-GUSTAVONIKOV - Gente
+[0:55:36] - 8-GUSTAVONIKOV - Peraí, que isso?
+[0:55:39] - 8-GUSTAVONIKOV - Que isso, cara?
+[0:55:41] - 4-HUGONORTH - Pelo amor de Deus.
+[0:55:42] - 3-RAPHAELVICARONE - Ué?
+[0:55:43] - 7-HIGORVS1 - É o Rodota.
+[0:55:46] - 8-GUSTAVONIKOV - Tá, foi mal, gente
+[0:55:47] - 4-HUGONORTH - Beleza, Dustin.
+[0:55:47] - 3-RAPHAELVICARONE - só andei
+[0:55:52] - 8-GUSTAVONIKOV - Tive que atender um telefonema
+[0:55:54] - 8-GUSTAVONIKOV - O que aconteceu?
+[0:55:57] - 8-GUSTAVONIKOV - Aconteceu o que?
+[0:55:58] - 4-HUGONORTH - Nada, só um do dó.
+[0:55:59] - 8-GUSTAVONIKOV - Ah, porque eu vi alguma coisa
+[0:56:00] - 7-HIGORVS1 - A gente ficou...
+[0:56:02] - 8-GUSTAVONIKOV - Tá brilhando aí
+[0:56:06] - 7-HIGORVS1 - Só isso.
+[0:56:08] - 8-GUSTAVONIKOV - Então, peraí
+[0:56:11] - 8-GUSTAVONIKOV - Tem gente na sala do lado
+[0:56:13] - 7-HIGORVS1 - O que é isso?
+[0:56:14] - 8-GUSTAVONIKOV - Não
+[0:56:14] - 3-RAPHAELVICARONE - estou carregando igual
+[0:56:16] - 8-GUSTAVONIKOV - O Dust tá com um orb azul, né?
+[0:56:25] - 8-GUSTAVONIKOV - Beleza
+[0:56:25] - 3-RAPHAELVICARONE - o Lebron
+[0:56:29] - 4-HUGONORTH - Tá.
+[0:56:34] - 3-RAPHAELVICARONE - pode pegar quantos árbitros
+[0:56:34] - 8-GUSTAVONIKOV - Porque o Bartinho tava tentando roubar
+[0:56:37] - 8-GUSTAVONIKOV - Foi tentar roubar do Dust, pô
+[0:56:40] - 8-GUSTAVONIKOV - Mas, beleza
+[0:56:42] - 4-HUGONORTH - Não, não, não.
+[0:56:43] - 3-RAPHAELVICARONE - é
+[0:56:43] - 7-HIGORVS1 - O que largou foi o golem que a gente matou, o Diego.
+[0:56:46] - 8-GUSTAVONIKOV - Não é esses três pontinhos que tá na cara do Bart ali
+[0:56:48] - 3-RAPHAELVICARONE - não, não, aquilo é uma cavidade
+[0:56:49] - 8-GUSTAVONIKOV - Entendi
+[0:56:49] - 7-HIGORVS1 - Não, não.
+[0:56:51] - 3-RAPHAELVICARONE - é
+[0:56:52] - 7-HIGORVS1 - É um slot.
+[0:56:54] - 3-RAPHAELVICARONE - pra gente encantar
+[0:56:55] - 8-GUSTAVONIKOV - Então, beleza
+[0:56:56] - 3-RAPHAELVICARONE - vou botar mais 5
+[0:56:57] - 8-GUSTAVONIKOV - Como eu sou um guerreiro
+[0:57:00] - 4-HUGONORTH - Não foi dito.
+[0:57:01] - 8-GUSTAVONIKOV - Não estou com a capacidade de pensar muito
+[0:57:03] - 8-GUSTAVONIKOV - Já que no nosso ponto forte
+[0:57:11] - 7-HIGORVS1 - Não.
+[0:57:11] - 3-RAPHAELVICARONE - é
+[0:57:17] - 8-GUSTAVONIKOV - Essa foi sacanagem
+[0:57:19] - 8-GUSTAVONIKOV - Pera aí, acertei o que foi
+[0:57:26] - 7-HIGORVS1 - O que adianta? Já tem.
+[0:57:31] - 8-GUSTAVONIKOV - Tá
+[0:57:35] - 7-HIGORVS1 - Cara, tem mais gente do que ordem.
+[0:57:43] - 7-HIGORVS1 - Pega aqui.
+[0:57:43] - 8-GUSTAVONIKOV - É duro
+[0:57:44] - 3-RAPHAELVICARONE - Eu tô clicando em loop
+[0:57:45] - 8-GUSTAVONIKOV - Tá
+[0:57:54] - 3-RAPHAELVICARONE - Eu tô me divertindo
+[0:57:57] - 3-RAPHAELVICARONE - Não é impossível, cara
+[0:58:00] - 8-GUSTAVONIKOV - Não, não, não vou fazer isso não, deixa quieto.
+[0:58:00] - 7-HIGORVS1 - Já é hora.
+[0:58:03] - 3-RAPHAELVICARONE - Por favor, a não ser que você tente pular dali
+[0:58:06] - 7-HIGORVS1 - Ele desfaz é...
+[0:58:09] - 7-HIGORVS1 - Cadê ele?
+[0:58:11] - 8-GUSTAVONIKOV - Eu vou...
+[0:58:13] - 7-HIGORVS1 - Vai tomar até a tua oportunidade, não?
+[0:58:14] - 3-RAPHAELVICARONE - Não é impossível, cara
+[0:58:15] - 8-GUSTAVONIKOV - Peraí.
+[0:58:25] - 8-GUSTAVONIKOV - Eu dou...
+[0:58:30] - 4-HUGONORTH - Não acertou de qualquer forma.
+[0:58:33] - 8-GUSTAVONIKOV - Tá, eu vou atacar aqui o cara.
+[0:58:40] - 8-GUSTAVONIKOV - Nossa.
+[0:58:43] - 4-HUGONORTH - Você tocou com vantagem?
+[0:58:43] - 7-HIGORVS1 - Acho que é o botão, é o botão que usa.
+[0:58:44] - 3-RAPHAELVICARONE - O meu já tava assim
+[0:58:45] - 4-HUGONORTH - Ou desvantagem?
+[0:58:45] - 8-GUSTAVONIKOV - Não.
+[0:58:53] - 4-HUGONORTH - Acho que você tocou com desvantagem sem querer.
+[0:58:53] - 8-GUSTAVONIKOV - Como é que faz pra sair o hit mais o damage no whole train ali na extensão do...
+[0:58:58] - 3-RAPHAELVICARONE - Eu não sei se eu fiz algo diferente não, cara
+[0:59:00] - 8-GUSTAVONIKOV - Ué.
+[0:59:03] - 8-GUSTAVONIKOV - É o primeiro, é o primeiro.
+[0:59:03] - 3-RAPHAELVICARONE - Fazer
+[0:59:05] - 7-HIGORVS1 - Se ele cai em cima do ataque da arma, ele joga os dois, eu acho.
+[0:59:08] - 8-GUSTAVONIKOV - Enfim.
+[0:59:10] - 8-GUSTAVONIKOV - Vou rodar de novo então, peraí.
+[0:59:10] - 1-BOREL_SOUND_8775 - O CIDADE NO BRASIL
+[0:59:13] - 7-HIGORVS1 - Eu acho que é o botão.
+[0:59:14] - 3-RAPHAELVICARONE - Você tinha dúvidas?
+[0:59:16] - 8-GUSTAVONIKOV - É.
+[0:59:18] - 8-GUSTAVONIKOV - Beleza.
+[0:59:20] - 8-GUSTAVONIKOV - Peraí, eu vou botar umas coisas aí, mas só ignora, só pra testar como é que tá funcionando essa extensão aqui, tá?
+[0:59:28] - 8-GUSTAVONIKOV - Uhum.
+[0:59:30] - 8-GUSTAVONIKOV - Vai.
+[0:59:30] - 4-HUGONORTH - O Golem de Pedra, ele olha para a Emmergarde e vê que ela está se curando.
+[0:59:32] - 8-GUSTAVONIKOV - Funciona...
+[0:59:34] - 8-GUSTAVONIKOV - Não.
+[0:59:36] - 5-FS_SIMOES - Eu vou gerar essa imagem agora.
+[0:59:44] - 4-HUGONORTH - 16 acerta.
+[0:59:44] - 3-RAPHAELVICARONE - É desvantagem, tá?
+[0:59:46] - 8-GUSTAVONIKOV - N Vocês!
+[0:59:47] - 5-FS_SIMOES - Eu vou usar o meu escudo.
+[0:59:48] - 8-GUSTAVONIKOV - L darle like.
+[0:59:51] - 3-RAPHAELVICARONE - Não, é desvantagem
+[0:59:52] - 8-GUSTAVONIKOV - Tchau!
+[0:59:53] - 3-RAPHAELVICARONE - Ele usou dodge no último turno
+[0:59:54] - 5-FS_SIMOES - Mas ele não está atacando na...
+[0:59:55] - 4-HUGONORTH - Não, mas ele está com a Emmergarde.
+[0:59:57] - 3-RAPHAELVICARONE - Ah, main guard, já tá
+[0:59:57] - 5-FS_SIMOES - Eu estou usando o meu escudo para dar proteção para ela.

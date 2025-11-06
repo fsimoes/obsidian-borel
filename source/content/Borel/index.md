@@ -19,7 +19,16 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 19 - A Floresta dos Horrores (RECENTE)
+### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais (RECENTE)
+A campanha atingiu novos níveis de combate estratégico e resolução de puzzles:
+- **Batalha épica contra golems elementais** - Combate intenso contra três golems (gelo, pedra e fogo) com escudos elementais
+- **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas de um elemento enfraquece escudos nas salas opostas
+- **Coragem de Dustin** - Cruzou ponte de gelo duas vezes, ativando órbitas e sofrendo congelamento progressivo
+- **Defesa estratégica da Emmergade** - Tony protegeu eficientemente usando reações com escudo, sendo elogiado pelo mestre
+- **Fighting Spirit de Kaelion** - Ativou habilidade e derrotou o último golem de pedra, encerrando a batalha
+- **Vitória final** - Todos os golems destruídos, grupo coletou órbitas vermelha e marrom como recompensas
+
+### Sessão 19 - A Floresta dos Horrores
 Resumo rápido:
 - **Encontro com criatura monstruosa** que pode ser a mãe transformada de Bartrok
 - **Bartrok revelou transformação** com máscara metálica, assumindo identidade como "Bartrok de Mask"

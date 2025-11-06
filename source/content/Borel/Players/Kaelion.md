@@ -126,6 +126,21 @@ Kaelion evoluiu de um guerreiro idealista para um revolucionário determinado. S
 - **Bloco 5**: **APOIO CONTÍNUO** - Manteve-se ativo durante toda a batalha
 - **Resultado**: **HEROI DO POVO** - Demonstrou heroísmo genuíno salvando aliada
 
+#### Sessão 24: O Legado de Rilonde - VITÓRIA FINAL E SUPERação DO CONGELAMENTO
+- **Bloco 1**: Retornou ao combate após ausência (atendendo telefonema), tentou atacar golem de pedra mas falhou (17 não acerta)
+- **Bloco 1**: **FALHA ÉPICA** - Tirou 1 no dado tentando atacar, conseguiu pegar espada com vento em ato de desespero
+- **Bloco 2**: Tentou dois ataques contra golem de pedra, ambos falharam devido à alta CA do golem
+- **Bloco 4**: **TESTE DE DESTREZA** - Passou no teste contra explosão de fogo azul do golem, reduzindo dano pela metade
+- **Bloco 4**: **CORAGEM EXTREMA** - Atravessou área gelada sabendo que tomaria dano de gelo (1d6)
+- **Bloco 4**: **CONGELAMENTO SEVERO** - Tomou dano de gelo e perna esquerda começou a ficar roxa, perdeu sensibilidade completamente
+- **Bloco 4**: **RECUPERAÇÃO** - Dustin ajudou restaurando sensibilidade, perna voltou a sentir formigando
+- **Bloco 5**: **FIGHTING SPIRIT ATIVADO** - Usou habilidade especial ganhando vantagem em ataques
+- **Bloco 5**: **ATAQUE PODEROSO** - Ataque com 28 causando 8 de dano no golem de pedra
+- **Bloco 5**: **VITÓRIA FINAL** - Segundo ataque com 20 causando mais 8 de dano, destruindo completamente o último golem de pedra
+- **Bloco 5**: **EXPLOSÃO FINAL** - Golem explodiu em pedregolinhos, deixando órbita marrom no chão
+- **Bloco 5**: **CELEBRAÇÃO** - "Finalmente acabou" após derrotar último golem, encerrando batalha épica
+- **Resultado**: **HEROI DO POVO CONFIRMADO** - Superou congelamento extremo, ativou Fighting Spirit e derrotou último golem encerrando batalha épica
+
 ## Objetivos Atuais (Pós-Sessão 22)
 - **HEROÍSMO CONFIRMADO**: Resgatou Emmergard de dentro da minhoca
 - **CUIDAR DE EMMERGARD**: Aliada resgatada precisa de cuidados após trauma
