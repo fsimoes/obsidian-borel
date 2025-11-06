@@ -33,6 +33,19 @@ Groih emergiu como uma figura misteriosa durante a Sessão 23, criando tensão e
 - **Bloco 4**: **TEORIZAÇÃO** - Observou que escudos parecem se transferir entre elementais baseado em quem está sendo atacado
 - **Resultado**: Criou tensão dramática e mistério sobre sua verdadeira natureza, mas também demonstrou valor em combate
 
+#### Sessão 24: O Legado de Rilonde - MUDANÇA DE ESTRATÉGIA E DANO MASSIVO
+- **Bloco 1**: Continuou combate contra golems elementais restantes
+- **Bloco 2**: **MUDANÇA DE ESTRATÉGIA** - Removeu Grit Sword e equipou escudo e longsword para melhor defesa
+- **Bloco 2**: Tentou contra-ataque mas falhou
+- **Bloco 2**: **ATAQUE DEVASTADOR DO GOLEM** - Golem de fogo arrancou seu escudo e desferiu soco flamejante causando 20 pontos de dano extra
+- **Bloco 3**: **MODO DODGE ESTRATÉGICO** - Entrou em modo Dodge e aguardou posicionando-se estrategicamente
+- **Bloco 3**: **TRAVESSIA** - Usou Dash para atravessar ponte e reposicionar-se do outro lado
+- **Bloco 4**: **PROTEÇÃO** - Passou no teste de destreza contra ataque em área do golem de fogo, tomou apenas 6 de dano total
+- **Bloco 5**: **ATAQUE INICIAL** - Atacou golem com Great Sword conseguindo acerto com 16 e causando 12 pontos de dano
+- **Bloco 5**: **SEGUNDO ATAQUE** - Realizou segundo ataque bem-sucedido
+- **Bloco 5**: **INÍCIO DA DESTRUIÇÃO** - Iniciou processo de destruição do primeiro golem de pedra junto com Bartrock
+- **Resultado**: Demonstrou adaptabilidade tática mudando de ofensiva para defensiva, mas enfrentou força destrutiva dos golems. Contribuiu crucialmente para início da destruição dos golems
+
 ## Características Notáveis
 
 ### Poderes Sombrios

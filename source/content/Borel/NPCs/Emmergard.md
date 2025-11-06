@@ -52,6 +52,24 @@ Emmergard emergiu como uma figura significativa durante os eventos do cerco de A
 - **Bloco 4**: Manteve participação ativa no combate contra elementais
 - **Resultado**: Demonstrou resiliência continuada e trabalho em equipe eficaz
 
+#### Sessão 24: O Legado de Rilonde - CURA DESESPERADA E PROTEÇÃO ESTRATÉGICA
+- **Bloco 1**: Continuou envolvida em combate contra golems elementais
+- **Bloco 2**: **ATAQUE DO GOLEM DE PEDRA** - Recebeu bica na barriga que a derrubou sem conseguir respirar bem
+- **Bloco 2**: **ATAQUE DO GOLEM DE FOGO** - Recebeu punho flamejante poderoso causando 21 pontos de dano total
+- **Bloco 2**: **EXPLOSÃO DE FOGO** - Falhou teste de destreza contra explosão de fogo em área, tomou 9 de dano adicional
+- **Bloco 2**: **CURA INICIAL** - Usou habilidade de cura regenerando 30 pontos de vida própria
+- **Bloco 3**: **DEFESA PERFEITA COM TONY** - Tony usou reações com escudo protegendo-a eficientemente, sendo elogiado pelo mestre
+- **Bloco 3**: **MODO DODGE** - Entrou em modo Dodge aumentando defesa significativamente
+- **Bloco 3**: **ATAQUE DE PEDRA** - Recebeu 15 pontos de dano de pedra arremessada pelo golem de pedra
+- **Bloco 3**: **GOLPE DEVASTADOR** - Golem de fogo desferiu soco flamejante causando 24 pontos de dano total (20+18+6), deixando-a "toda desgrenhada"
+- **Bloco 3**: **EXPLOSÃO DE FOGO AZUL** - Passou no teste de destreza reduzindo dano pela metade da explosão de fogo azul
+- **Bloco 3**: **PEDIDO EMOCIONAL** - Olhou para Tony e disse "eu preciso de muita ajuda" antes de usar cura
+- **Bloco 3**: **CURA DESESPERADA** - Usou Cure Wounds nível 5, cura massiva que a regenerou completamente após estar extremamente ferida
+- **Bloco 4**: **CURA DE ALIADO** - Andou até Kaelion e lançou Cure Wounds nele, curando 30 pontos de dano
+- **Bloco 5**: **ATAQUE FINAL** - Atacou golem de pedra número 5 causando 5 pontos de dano
+- **Bloco 5**: **PROTEÇÃO MÁGICA** - Usou escudo de gelo mágico para defender Bartrock de uma flecha arremessada
+- **Resultado**: Demonstrou resiliência extrema, conexão emocional profunda com Tony, habilidades de cura massiva e proteção mágica eficaz
+
 ## Relacionamentos
 - [[Tony]]: Protetor que a defendeu contra Rita
 - [[Nightwolf]]: Aliado durante o cerco

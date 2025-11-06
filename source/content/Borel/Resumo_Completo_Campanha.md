@@ -310,10 +310,10 @@ Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo 
 
 ---
 
-## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 23)**
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 24)**
 
 ### 📍 **Localização**
-O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Estão enfrentando elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente.
+O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes e golems elementais, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Compreenderam completamente o puzzle das órbitas elementais - tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação entre membros em diferentes salas. Todos os golems foram derrotados.
 
 ### 💰 **Recursos**
 - **40 platinas** da missão bem-sucedida
@@ -322,27 +322,29 @@ O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores 
 - **Pedra de comunicação** com Letícia (com Kaelion)
 - **Pedra mágica portátil** que fornece refúgio dimensional
 - **Hospedagem na taverna "Cabeça de Golly"** em Londe (15 dias garantidos)
+- **Órbita Vermelha** - Coletada após destruição do primeiro golem de pedra (Sessão 24)
+- **Órbita Marrom** - Coletada após destruição do último golem de pedra (Sessão 24)
 
-### 🎲 **Estado do Grupo Pós-Sessão 23: Exploração e Combate Tático**
-- **Tony**: **DOIS CRÍTICOS CONSECUTIVOS** - Movimento acrobático épico estilo Shadow of the Colossus bloqueado por escudo de gelo, liderou exploração dos totens
-- **Dustin**: **ESTRATÉGIA TÁTICA** - Usou Zephyr Strike e descobriu mecânica dos escudos, informou grupo sobre mudanças
-- **Nightwolf**: **COMBATE ATIVO** - Participou do combate contra elementais, tentou ataques à distância bloqueados por escudos
-- **Bartrock**: **USO ESTRATÉGICO DE MAGIAS** - Lançou Fireball e Mistéria, descobriu que golem de fogo é imune ao fogo
-- **Kaelion**: **OBSERVAÇÃO E ANÁLISE** - Participou da exploração e teorizou sobre funcionamento dos escudos
-- **Borin**: **ATAQUES À DISTÂNCIA** - Tentou quebrar gelo do elemental de gelo com tiros precisos, causou dano significativo
-- **Orestan**: **ANÁLISE E SUPORTE** - Identificou criatura como cristal, conjurou Guiding Bolt e bênção de Xanté
-- **Groih**: **ATAQUES CORPO A CORPO** - Causou dano significativo ao elemental de gelo, mas também atacou involuntariamente o grupo com sombras
-- **Emmergard**: **PROTEGIDA** - Cuidada por Tony durante combate, participou da dança de comemoração após Fireball
+### 🎲 **Estado do Grupo Pós-Sessão 24: Vitória Triunfante e Coragem Extraordinária**
+- **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergade com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita. Multitarefa eficiente lutando enquanto mantém efeitos mágicos ativos
+- **Dustin**: **CORAGEM EXTREMA** - Atravessou ponte de gelo duas vezes sob ventos intensos, ativou órbitas, sofreu congelamento progressivo mas sobreviveu. Descobriu mecânica crucial do puzzle. Ajudou Kaelion a se recuperar do congelamento
+- **Nightwolf (Keren)**: **COMBATE EFETIVO** - Primeiro dano significativo no golem de pedra com espada flamejante, causou 12 de dano arrancando pedaços. Lançou Fireballs em área causando dano nos golems
+- **Bartrock**: **COORDENAÇÃO TÁTICA** - Coordenou ataque com Thaís Carla causando 32 pontos de dano total. Tentou Meteor Swarm bloqueado por proteção de gelo, revelando mecânica de defesas
+- **Kaelion**: **HEROI DO POVO** - Ativou Fighting Spirit, derrotou último golem de pedra com dois ataques poderosos (16 pontos de dano total). Superou congelamento extremo com ajuda de Dustin
+- **Groih**: **DANO MASSIVO** - Causou 12 de dano iniciando destruição do primeiro golem. Mudou estratégia para defesa (escudo e longsword), teve escudo arrancado pelo golem de fogo
+- **Boren**: **TELEPORTAÇÃO ESTRATÉGICA** - Usou Mist Step para cruzar ponte instantaneamente, evitando testes de acrobacia perigosos
+- **Orestan**: **EXPLORAÇÃO E ANÁLISE** - Explorou salas secundárias, tentou interagir com órbitas, coordenou com NightWolf sobre puzzle dos totens
+- **Emmergade**: **CURA DESESPERADA** - Ferida gravemente (24 pontos de dano), pediu ajuda emocionalmente a Tony e usou Cure Wounds nível 5 curando completamente. Protegeu aliados com escudo de gelo mágico
 
-### 🎯 **Situação Crítica Atual (Pós-Sessão 23)**
-1. **BATALHA CONTRA ELEMENTAIS** - Três elementais poderosos (gelo, fogo e pedra) com escudos mágicos que se protegem mutuamente
-2. **MECÂNICA DOS ESCUDOS** - Escudos se transferem entre elementais baseado em quem está sendo atacado
+### 🎯 **Situação Crítica Atual (Pós-Sessão 24)**
+1. **RESOLVIDO: BATALHA CONTRA ELEMENTAIS** - Todos os golems elementais foram derrotados. Mecânica do puzzle compreendida completamente
+2. **CONSEQUÊNCIAS DO CONGELAMENTO** - Dustin e Kaelion sofreram congelamento extremo, podem ter efeitos permanentes
 3. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital de quatro membros, criando desconfiança
-4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal
-5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna
-6. **Derrota do Golem de Gelo** - Escudos desapareceram quando primeiro golem caiu, revelando mecânica
-7. **Estratégia Necessária** - Grupo precisa descobrir padrão para derrotar elementais efetivamente
-8. **Investigação de Groih** - Entender natureza de seus poderes sombrios involuntários
+4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal, possível uso das órbitas coletadas
+5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna, efeitos de frio extremo
+6. **Órbitas Coletadas** - Duas órbitas (vermelha e marrom) coletadas, função ainda não completamente clara
+7. **Compreender Função das Órbitas** - Como usar órbitas coletadas para resolver puzzle da porta
+8. **Investigar Groih** - Entender natureza de seus poderes sombrios involuntários
 
 ---
 
@@ -378,7 +380,13 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 23: A CAVERNA DOS COGUMELOS E BATALHA ÉPICA CONTRA ELEMENTAIS!**
+## 🔥 **APÓS A SESSÃO 24: A BATALHA FINAL DOS GOLEMS E VITÓRIA TRIUNFANTE!**
+
+**A Sessão 24 foi épica:** O grupo finalmente completou a batalha contra os golems elementais, demonstrando coragem extrema e resolução estratégica. Dustin atravessou duas vezes uma ponte de gelo escorregadia sob ventos intensos para ativar órbitas mágicas, sofrendo congelamento progressivo mas sobrevivendo. Tony demonstrou defesa estratégica perfeita protegendo Emmergade com reações de escudo, sendo elogiado pelo mestre, enquanto lutava com uma mão e mantinha contato com órbita com a outra. Kaelion superou congelamento extremo e derrotou o último golem de pedra usando Fighting Spirit, encerrando a batalha épica. O grupo descobriu completamente a mecânica do puzzle: tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação simultânea. Todos os golems foram destruídos e o grupo coletou órbitas vermelha e marrom como recompensas. Bartrock coordenou ataques com Thaís Carla causando dano massivo. Groih adaptou estratégia de ofensiva para defensiva. A Emmergade demonstrou conexão emocional profunda com Tony, pedindo ajuda desesperadamente antes de usar Cure Wounds nível 5 para se curar completamente após receber 24 pontos de dano.
+
+**A campanha Borel atingiu novos níveis de heroísmo e resolução de puzzles - onde coragem e estratégia conquistam vitória!** 🎲⚔️
+
+## 🔥 **SESSÃO 23: A CAVERNA DOS COGUMELOS E BATALHA ÉPICA CONTRA ELEMENTAIS!**
 
 **A Sessão 23 foi épica:** O grupo explorou uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após um descanso na pedra mágica, Groih atacou involuntariamente quatro membros com sombras que drenaram força vital, criando tensão e mistério. O grupo descobriu três pontes que levam a plataformas com totens mágicos. Quando Tony tocou a primeira esfera, uma criatura colossal de cristal apareceu com um "Super Hero Landing" dramático. Durante a batalha, descobriram que os golems elementais possuem escudos mágicos que se protegem mutuamente. Tony realizou dois críticos consecutivos e um movimento acrobático épico estilo Shadow of the Colossus, pulando sobre o elemental e rodando no ar antes de descer com um golpe poderoso - apenas para ser bloqueado por um escudo de gelo no último momento. O grupo continua lutando contra três elementais poderosos (gelo, fogo e pedra) enquanto tenta descobrir a mecânica dos escudos que se transferem entre eles.
 
@@ -424,4 +432,4 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-*Este resumo cobre 20 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*
+*Este resumo cobre 24 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*

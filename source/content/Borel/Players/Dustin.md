@@ -155,6 +155,23 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Londe, 
 - **Bloco 3**: **INFORMAÇÃO IMPORTANTE** - Informou grupo que golem de gelo está levando dano e que algo mudou
 - **Resultado**: Demonstrou estratégia tática e foi crucial para descobrir mecânica de defesa dos golems
 
+#### Sessão 24: O Legado de Rilonde - CORAGEM EXTREMA E RESOLUÇÃO DO PUZZLE
+- **Bloco 1**: Continuou combate contra golems elementais, três flechadas consecutivas contra golem de gelo causando dano significativo
+- **Bloco 2**: **EXPLORAÇÃO CORAJOSA** - Pegou órbita azul nas salas secundárias, iniciando exploração do puzzle
+- **Bloco 2**: **DANO MASSIVO** - Recebeu 44 pontos de dano total do golem de pedra em múltiplos ataques
+- **Bloco 2**: Descobriu que órbitas e buracos têm mesmo tamanho mas padrão específico não descoberto ainda
+- **Bloco 3**: Observou travessia de outros personagens pela ponte de gelo perigosa
+- **Bloco 4**: **CORAGEM HERÓICA** - Atravessou completamente ponte de gelo escorregadia sob ventos intensos pela primeira vez
+- **Bloco 4**: **ATIVAÇÃO DA ÓRBITA** - Encostou na órbita, recebeu cards (16 e dois de 0), sentiu mudanças enquanto órbita brilhou mais forte
+- **Bloco 4**: **CONGELAMENTO INICIAL** - Começou a sentir partes do corpo congelando, perna esquerda congelando
+- **Bloco 4**: **JORNADA DE VOLTA** - Decidiu atravessar ponte novamente para voltar ao grupo, enfrentando mesmo perigo
+- **Bloco 4**: **TRAVESSIA PERIGOSA** - Calculou cuidadosamente cada movimento (20, 15, 10 pés), usando Natural Explorer
+- **Bloco 4**: **SUPERAÇÃO DO PERIGO** - Quase escorregou múltiplas vezes mas conseguiu atravessar com sucesso completando toda ponte
+- **Bloco 4**: **CONGELAMENTO COMPLETO** - Quando chegou do outro lado, sentiu braços e pernas bastante congelados
+- **Bloco 5**: **COMPAIXÃO** - Ajudou Kaelion a se recuperar do congelamento extremo, restaurando sensibilidade de sua perna com formigamento
+- **Bloco 5**: **COMPREENSÃO DO PUZZLE** - Participou da discussão reveladora sobre funcionamento real do puzzle das órbitas
+- **Resultado**: Demonstrou coragem extraordinária atravessando ponte perigosa duas vezes, ativou órbita crucial para resolver puzzle, superou congelamento extremo e ajudou aliados
+
 ## Equipamento Notável
 - Varinha mágica (nova)
 - Arco élfico (adquirido na Sessão 15)
