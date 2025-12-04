@@ -59,6 +59,24 @@ title: Locais
 - **Distância**: 20 hexágonos de Rilonde
 - **Recompensa**: 40 platinas por missão bem-sucedida
 
+### Londres
+- **Status**: Ativo - Local de Eventos Recentes (Sessão 25)
+- **Tipo**: Cidade com Universidade
+- **Pontos Notáveis**:
+  - **Universidade de Namraf** - Onde grupo defendeu criação de portais
+  - **Santuário de Córdia** - Local de rituais de purificação
+  - **Caverna Subterrânea** - Local dos experimentos horrendos (relacionada a Cerberus)
+  - **Bordel** - Onde Emmergard encontrou seu marido
+  - **Taverna** - Onde grupo descansou e se despediu de Emmergard
+- **Personagens Importantes**:
+  - **[[Leticia|Letícia]]** - Estudante da universidade
+  - **Sacerdote de Córdia** - Líder do santuário
+- **Eventos Importantes**:
+  - Descoberta dos experimentos horrendos
+  - Cura do Uruk no Santuário de Córdia
+  - Despedida de Emmergard
+  - Encontro com Letícia sobre Conselho Arcano
+
 ### Floresta dos Horrores
 - **Status**: Local de Combate Épico (Sessão 19)
 - **Tipo**: Floresta Sombria
@@ -194,6 +212,24 @@ graph TD
    - Local onde Bartrok coletou sangue
    - Possíveis propriedades especiais
    - Consequências do canibalismo
+
+### Em Londres
+1. **Santuário de Córdia**
+   - Local sagrado para seguidores de Córdia
+   - Realização de rituais de purificação
+   - Onde Uruk foi curado da possessão
+   - [[Santuario de Cordia|Ver detalhes]]
+
+2. **Universidade de Namraf**
+   - Onde grupo defendeu criação de portais
+   - Local de encontro com Letícia
+   - Possível conexão com Conselho Arcano do Circo Vermelho
+
+3. **Caverna Subterrânea (Cerberus?)**
+   - Local dos experimentos horrendos
+   - Entrada relacionada a cão de três cabeças
+   - Corredores com celas de criaturas modificadas
+   - Missão de resgate planejada
 
 ## Eventos Importantes por Local
 

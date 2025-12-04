@@ -185,6 +185,18 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 - **Bloco 5**: Observou que órbita apaga quando não mantém contato, precisa manter toque contínuo
 - **Resultado**: Consolidação como protetor estratégico, multitarefa eficiente lutando enquanto mantém efeitos mágicos ativos, críticos poderosos finais
 
+#### Sessão 25: Descobertas e Planejamento Estratégico - LIDERANÇA E INVESTIGAÇÃO
+- **Bloco 1**: Participou das decisões do grupo sobre descanso e exploração
+- **Bloco 2**: Manteve-se alerta durante exploração do corredor de celas
+- **Bloco 3**: **MEMORIZAÇÃO DA ENTRADA** - Tentou memorizar entrada da caverna, lembrando de algo relacionado a cão de três cabeças (Cerberus)
+- **Bloco 3**: **TRANSPORTE DO URUK** - Participou do transporte do Uruk possuído de volta à cidade
+- **Bloco 3**: **TRADIÇÃO DO GRUPO** - Sugeriu usar óleo e pregos para amarrar Uruk, "tradição" comum do grupo
+- **Bloco 3**: **REVELAÇÃO DAS CARTAS** - Revelou conteúdo das cartas encontradas, mencionando experimentos e Mardus
+- **Bloco 3**: **INFORMAÇÕES SOBRE MARDUS** - Identificou que Mardus entrega sujeitos de teste para experimentos
+- **Bloco 3**: **ABRAÇO ESPECIAL** - Recebeu abraço especial de Emmergard na despedida
+- **Bloco 4**: Participou das discussões sobre próximos passos e investigação do Conselho Arcano
+- **Resultado**: Demonstrou liderança contínua, habilidades de investigação, e capacidade de organizar informações importantes
+
 ## Equipamento Notável
 - Javelina
 - Greatsword

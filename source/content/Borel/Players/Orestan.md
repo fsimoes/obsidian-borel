@@ -85,10 +85,31 @@ Orestan é o membro mais novo do grupo, recrutado durante uma das sessões mais 
 - **Bloco 4**: Manteve posicionamento estratégico e preparação para futuras ações
 - **Resultado**: Demonstrou habilidades de observação, análise e suporte mágico essenciais para o grupo
 
+#### Sessão 25: O Reencontro com Uruk e o Ritual de Purificação - MOMENTO ÉPICO E EMOCIONAL
+- **Bloco 1**: **EXPLORAÇÃO SOLITÁRIA** - Ofereceu-se para explorar escada sozinho, usando Guidance em si mesmo
+- **Bloco 1**: **DESCOBERTA DAS CELAS** - Primeiro a descobrir corredor com celas contendo criaturas modificadas
+- **Bloco 1**: **COMUNICAÇÃO COM O GRUPO** - Retornou para avisar sobre descobertas, depois avançou com grupo
+- **Bloco 2**: **RECONHECIMENTO EMOCIONAL** - Reconheceu criatura solta no corredor como Uruk, amigo de sua tribo que acreditava estar morto
+- **Bloco 2**: **INSISTÊNCIA DESESPERADA** - Persistiu em falar com Uruk mesmo quando ele negava veementemente ser quem era
+- **Bloco 2**: **PERSEGUIÇÃO E CAPTURA** - Perseguiu Uruk quando ele tentou fugir, conseguindo derrubá-lo com tackle (Athletics 17)
+- **Bloco 2**: **MAGIA DE PROTEÇÃO** - Conjurou Protection from Evil and Good em Uruk, quebrando parcialmente o controle
+- **Bloco 2**: **RETORNO DA CONSCIÊNCIA** - Uruk recuperou parcialmente consciência após a magia
+- **Bloco 2**: **COMANDO DE AUTORIDADE** - Usou comando "Silêncio" com tanta autoridade que todas as criaturas nas celas se calaram
+- **Bloco 3**: **DECISÃO DE SALVAR** - Decidiu levar Uruk ao santuário de Córdia para tentar curá-lo
+- **Bloco 3**: **RITUAL DE PURIFICAÇÃO** - Realizou ritual perigoso no santuário de Córdia:
+  - Teste de Religion inicial: 15 (suficiente para iniciar)
+  - Batalha espiritual em plano escuro contra aura de raiva
+  - Testes de Athletics: 19 e 27 (empurrou Uruk para trás, fazendo-o ajoelhar)
+  - Teste de Religion: 28 (sentiu Kord com ele, aura sob domínio)
+  - Golpe final: 15 (expulsou espírito possessor)
+- **Bloco 3**: **SUCESSO COMPLETO** - Uruk foi completamente curado e voltou ao normal
+- **Bloco 3**: **MOMENTO EMOCIONAL** - Abraçou Uruk com força, batendo nas costas, mostrando alívio e felicidade
+- **Bloco 3**: **DECISÃO HEROICA** - Decidiu que precisa ajudar outras pessoas possuídas na caverna, assumindo responsabilidade pessoal
+- **Resultado**: Demonstrou coragem extrema, compaixão profunda, habilidades mágicas poderosas e liderança moral
+
 ## Próximos Passos
-- Integração completa ao grupo
-- Revelação de sua busca original
-- Desenvolvimento de suas capacidades místicas
-- Investigação sobre a conexão com as profecias demoníacas
-- Compreender mecânica dos escudos dos elementais
-- Explorar plataforma distante descoberta
+- Missão de resgate: Retornar à caverna para salvar outras pessoas possuídas
+- Investigação sobre experimentos: Descobrir quem está realizando as transformações
+- Busca por Mardus: Encontrar quem entrega sujeitos de teste
+- Integração completa ao grupo como líder moral
+- Desenvolvimento de suas capacidades místicas e de purificação
