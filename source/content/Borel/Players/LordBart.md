@@ -191,6 +191,18 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 - **Bloco 4**: **APRENDIZADO** - Descobriu regra de D&D sobre máximo de uma magia por turno através de discussão
 - **Resultado**: Demonstrou uso estratégico de magias mas descobriu limitações e fraquezas dos inimigos
 
+#### Sessão 25: A Transformação em Ovelha - MISTÉRIO CRÍTICO
+- **Bloco 1**: **DECISÃO DE VIGIA** - Ficou de vigia do lado de fora da pedra mágica durante descanso longo (decisão unânime do grupo, inclusive sua)
+- **Bloco 1**: **DESAPARECIMENTO** - Quando grupo emergiu após 8 horas, Bartrock havia desaparecido
+- **Bloco 1**: **SUBSTITUIÇÃO MISTERIOSA** - No lugar de Bartrock, havia apenas uma ovelha
+- **Bloco 1**: **CHEIRO ESTRANHO** - Dustin detectou cheiro podre e estranho vindo da ovelha
+- **Bloco 1**: **TENTATIVAS DE COMUNICAÇÃO** - Grupo tentou interagir com a ovelha, mas ela não respondeu
+- **Bloco 1**: **MISTÉRIO PERMANENTE** - Não se sabe se foi transformado em ovelha ou substituído por uma
+- **Bloco 3**: **EXPLORAÇÃO** - Foi na frente explorando corredor que levava para fora da caverna
+- **Bloco 3**: **OFERTA DE AJUDA** - Ofereceu ajuda quando Emmergard pulou pela janela do bordel
+- **Status Atual**: **DESAPARECIDO/TRANSFORMADO** - Localização e condição desconhecidas
+- **Resultado**: Criou um dos maiores mistérios da sessão - o que aconteceu com Bartrock durante o descanso?
+
 ## Transformação
 ### Como Lorde Bart (Original)
 - Mago impulsivo e carismático

@@ -82,6 +82,27 @@ title: Plots
 - **Última Atualização**: Sessão 21
 - **Urgência**: CRÍTICA - Groin em perigo de vida
 
+### 🧪 **Os Experimentos Horrendos**
+- **Status**: ATIVO - Descoberto (Sessão 25)
+- **Tipo**: Plot Principal - Ameaça Sinistra
+- **Resumo**: Instalação subterrânea onde pessoas são transformadas em criaturas modificadas e possuídas
+- **Última Atualização**: Sessão 25
+- **Urgência**: ALTA - Pessoas ainda sofrendo, missão de resgate planejada
+
+### 🎭 **Conselho Arcano do Circo Vermelho**
+- **Status**: ATIVO - Mistério (Sessão 25)
+- **Tipo**: Plot Principal - Organização Secreta
+- **Resumo**: Organização misteriosa que pode estar relacionada aos experimentos e ao Mardus
+- **Última Atualização**: Sessão 25
+- **Urgência**: MÉDIA - Informações fragmentadas, investigação planejada
+
+### 🐑 **A Transformação de Bartrock em Ovelha**
+- **Status**: ATIVO - Mistério (Sessão 25)
+- **Tipo**: Plot Principal - Transformação
+- **Resumo**: Bartrock desapareceu durante descanso e foi substituído por uma ovelha com cheiro podre
+- **Última Atualização**: Sessão 25
+- **Urgência**: ALTA - Localização e condição de Bartrock desconhecidas
+
 ## Plots Concluídos Recentemente
 
 ### 🏰 [[A Queda da Alva Cidadela|A Queda da Alva Cidadela]]

@@ -103,13 +103,20 @@ Emmergard representa um ponto de virada na narrativa, onde as ações brutais de
 - Sobrevivente que manteve sua integridade
 - Ponte entre diferentes facções do grupo
 
-## Futuro (Pós-Sessão 22)
-- **RECUPERAÇÃO**: Precisa de cuidados após trauma de ser engolida por minhoca
-- **PROTEÇÃO CONTÍNUA**: Requer apoio do grupo durante recuperação
-- **ESCAPE DA ARMADILHA**: Ajudar grupo a sair da caverna subterrânea
-- **FORTALECIMENTO**: Desenvolver resiliência após experiência traumática
-- **ALIANÇA FORTALECIDA**: Laços mais fortes com Kaelion após resgate
-- **SOBREVIVÊNCIA**: Manter-se viva e útil ao grupo
+#### Sessão 25: Despedida e Retorno à Vida Familiar
+- **Bloco 3**: **ENCONTRO COM O MARIDO** - Encontrou seu marido (Dudu) em um bordel durante caminhada noturna pela cidade
+- **Bloco 3**: **CONFRONTO CÔMICO** - Pulou pela janela do bordel iniciando briga, depois arrastou marido pelos cabelos
+- **Bloco 3**: **DECISÃO DE PARTIR** - Decidiu deixar o grupo para retornar à sua vida familiar (casa, família, marido)
+- **Bloco 4**: **DESPEDIDA EMOCIONAL** - Se despediu do grupo na taverna, especialmente de Tony com abraço especial
+- **Bloco 4**: **TRANSPORTE DO MARIDO** - Carregou Dudu (que tentava fugir) no ombro e partiu, prometendo conversar no dia seguinte
+- **Status Atual**: **SEPARADA DO GRUPO** - Retornou à vida familiar, deixando aventuras para trás
+- **Resultado**: Demonstrou que nem todos os companheiros permanecem para sempre, mostrando realismo narrativo
+
+## Futuro (Pós-Sessão 25)
+- **VIDA FAMILIAR**: Estabeleceu-se com marido e família, deixando aventuras
+- **POSSÍVEL RETORNO**: Pode retornar no futuro se necessário
+- **CONEXÃO MANTIDA**: Mantém laços com o grupo, especialmente Tony
+- **ESTABILIDADE**: Encontrou paz após todas as aventuras e traumas
 
 ## Impacto na Narrativa
 A presença de Emmergard serve como um lembrete constante das complexidades morais da revolução e da importância de manter princípios mesmo em tempos de conflito. Sua história pessoal ilustra tanto os custos quanto a resistência necessária em tempos de mudança radical. 

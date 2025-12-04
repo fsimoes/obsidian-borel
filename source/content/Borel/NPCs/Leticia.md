@@ -66,11 +66,24 @@ Ex-serviçal da Baronesa na Alva Cidadela, Letícia foi resgatada pelo grupo dur
 - **Separação Madura**: Despedida respeitosa e emocional, seguindo caminho independente
 - **Guia Local**: Recomendou taverna para hospedagem do grupo em Londe
 
+### Sessão 25: Encontro na Universidade e Avisos Perigosos
+- **Bloco 4**: **ENCONTRO NA UNIVERSIDADE** - Encontrou grupo na universidade caminhando com amigas
+- **Bloco 4**: **DESCONFIANÇA INICIAL** - Suspeitou que grupo tinha algo a ver com "aquele fatídico dia" (incidente na universidade)
+- **Bloco 4**: **REVELAÇÃO SOBRE TELETRANSPORTES** - Revelou que último que falou sobre teletransportes "potentemente" tomou catapulta e está internado
+- **Bloco 4**: **AVISO CRUCIAL** - Advertiu que assunto dos teletransportes é extremamente tabu e perigoso
+- **Bloco 4**: **INFORMAÇÃO SOBRE GRUPOS** - Revelou que grupos não alinhados com Nabra são procurados por todos
+- **Bloco 4**: **CONSELHO ARCANO** - Forneceu informações fragmentadas sobre Conselho Arcano do Circo Vermelho:
+  - Dizem que nem existem mais
+  - Ou são extremamente poderosos
+  - Podem não se esconder e grupo nem saber quem são
+- **Bloco 4**: **DÉBITO RECONHECIDO** - Reconheceu que deve algo ao grupo, mas estava desconfortável com perguntas
+- **Status Atual**: **ESTUDANTE ATIVA** - Estabelecida na universidade, mas cautelosa sobre assuntos perigosos
+
 ## Estado Atual
-- **Localização**: Londe (cidade dos magos) - caminho independente
-- **Condição**: Saudável e determinada a seguir vida própria
-- **Status**: Estabelecida com acesso à universidade e conexões acadêmicas
-- **Necessidades**: Explorando opções futuras de carreira e estudo
+- **Localização**: Londres/Universidade - estudante ativa
+- **Condição**: Saudável mas cautelosa sobre assuntos sensíveis
+- **Status**: Estabelecida na universidade, mas consciente dos perigos
+- **Necessidades**: Manter-se segura enquanto explora estudos acadêmicos
 
 ## Habilidades Conhecidas
 - **Administração**: Reconhecida por Tony como competente para gerenciar negócios

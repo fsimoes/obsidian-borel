@@ -172,6 +172,19 @@ Agora, como um dos principais estrategistas do grupo durante a fuga para Londe, 
 - **Bloco 5**: **COMPREENSÃO DO PUZZLE** - Participou da discussão reveladora sobre funcionamento real do puzzle das órbitas
 - **Resultado**: Demonstrou coragem extraordinária atravessando ponte perigosa duas vezes, ativou órbita crucial para resolver puzzle, superou congelamento extremo e ajudou aliados
 
+#### Sessão 25: Investigação e Descobertas Cruciais - DETETIVE ESTRATÉGICO
+- **Bloco 1**: **DETECÇÃO SENSORIAL** - Detectou cheiro estranho e podre vindo da ovelha (substituição de Bartrock)
+- **Bloco 1**: **ATAQUE SURPRESA** - Foi agarrado pelo pé por uma criatura de uma cela durante exploração
+- **Bloco 2**: **ESTRATÉGIA TÁTICA** - Usou Ensnaring Strike para imobilizar criatura que atacou Nightwolf, causando 19 de dano e imobilizando-a
+- **Bloco 2**: **INVESTIGAÇÃO CRUCIAL** - Investigou sala descoberta, encontrando documentos importantes (recebidos por mensagem privada do mestre)
+- **Bloco 3**: **MEMORIZAÇÃO DA ENTRADA** - Tentou memorizar entrada da caverna, fazendo teste de Intelligence e lembrando que nome tem algo a ver com cão de três cabeças (Cerberus)
+- **Bloco 3**: **TRANSPORTE DO URUK** - Ofereceu ajuda para carregar Uruk possuído durante viagem de volta
+- **Bloco 3**: **REVELAÇÃO DAS CARTAS** - Revelou conteúdo das cartas encontradas, mencionando que há alguém fazendo experimentos e Mardus cuidando de alguma coisa
+- **Bloco 3**: **INFORMAÇÕES SOBRE MARDUS** - Identificou que Mardus é quem entrega sujeitos de teste para os experimentos
+- **Bloco 4**: **TENTATIVA DE CONVENCIMENTO** - Tentou usar lábia para convencer Emmergard a ficar com o grupo (sem sucesso)
+- **Bloco 4**: **PERGUNTAS DIRETAS** - Questionou se marido de Emmergard merece todo o esforço que fizeram
+- **Resultado**: Demonstrou habilidades de investigação, estratégia tática, e capacidade de descobrir informações cruciais sobre os experimentos
+
 ## Equipamento Notável
 - Varinha mágica (nova)
 - Arco élfico (adquirido na Sessão 15)
