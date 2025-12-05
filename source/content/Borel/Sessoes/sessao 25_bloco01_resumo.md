@@ -149,7 +149,7 @@ Manteve-se observador e pronto para ação, participando da exploração em grup
 - **Contribuição**: Sensibilidade aos detalhes que podem ser cruciais para entender o que aconteceu com Bartrock e o que está acontecendo neste lugar.
 
 ### Tony (FS Simões)
-- **Classe/Perfil**: Paladino com companheiro Emmergade
+- **Classe/Perfil**: Paladino com companheiro Emmergard
 - **Ações Principais**:
   - Participou das decisões do grupo
   - Apoiou a exploração

@@ -34,21 +34,21 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          secondary: "#284b63", // Azul profundo - tema RPG
+          tertiary: "#d4af37", // Dourado - tesouros e conquistas
+          highlight: "rgba(212, 175, 55, 0.15)", // Dourado suave
+          textHighlight: "#d4af3788", // Dourado para destaques
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0f0f0f", // Preto mais profundo
+          lightgray: "#1a1a1a", // Cinza muito escuro
+          gray: "#4a4a4a", // Cinza médio
+          darkgray: "#b8b8b8", // Cinza claro para texto
+          dark: "#e8e8e8", // Quase branco para texto principal
+          secondary: "#c9a961", // Dourado envelhecido - tema RPG
+          tertiary: "#8b4513", // Marrom terroso - ambiente medieval
+          highlight: "rgba(201, 169, 97, 0.2)", // Dourado com transparência
+          textHighlight: "#d4af3788", // Dourado para destaques
         },
       },
     },

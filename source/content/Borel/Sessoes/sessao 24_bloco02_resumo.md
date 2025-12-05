@@ -38,7 +38,7 @@ Kaelion retorna ao combate e tenta atacar o golem de pedra, mas seus ataques nã
 
 Groih muda completamente de estratégia, removendo sua Grit Sword e equipando escudo e longsword para melhor defesa. Ele tenta um contra-ataque mas falha, e então o golem de fogo demonstra sua força destrutiva: ele arranca o escudo de Groih e desfere um soco de fogo devastador que causa 20 pontos de dano extra, deixando Groih seriamente ferido.
 
-A Emmergade usa sua habilidade de cura em si mesma novamente, enquanto NightWolf chega na sala com os totens e descobre que todos estão apagados. Ele conversa com Orestan sobre qual totem ainda não foi ativado e decide usar o Dash para chegar até o próximo totem.
+A Emmergard usa sua habilidade de cura em si mesma novamente, enquanto NightWolf chega na sala com os totens e descobre que todos estão apagados. Ele conversa com Orestan sobre qual totem ainda não foi ativado e decide usar o Dash para chegar até o próximo totem.
 
 Bartrock tenta usar Meteor Swarm contra o golem de pedra, mas uma proteção de gelo se forma e bloqueia completamente o ataque, protegendo o golem. Isso revela que os golems têm proteções mágicas contra elementos específicos.
 
@@ -146,7 +146,7 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 - **Dano**: Soco de fogo causando 20 pontos de dano extra além do dano físico
 - **Efeito**: Demonstra força destrutiva ao destruir equipamento
 
-### Turno da Emmergade
+### Turno da Emmergard
 - **Cura**: Usa habilidade de cura em si mesma novamente
 
 ### Turno de NightWolf
@@ -186,7 +186,7 @@ Mudou completamente de estratégia, trocando o dano pela defesa. Apesar de equip
 Retornou ao combate após ausência, mas teve dificuldades para acertar os golems devido à alta CA. Mostrou persistência ao continuar tentando.
 
 ### Tony
-Demonstrou compreensão tática ao usar Dodge ao invés de apenas atacar. Mostrou apoio ao grupo através da Emmergade.
+Demonstrou compreensão tática ao usar Dodge ao invés de apenas atacar. Mostrou apoio ao grupo através da Emmergard.
 
 ### NightWolf
 Continuou explorando e tentando resolver o puzzle dos totens. Manteve comunicação com outros membros do grupo para coordenar esforços.
@@ -208,13 +208,13 @@ Tentou usar poder de magia de alto nível mas foi bloqueado completamente. Demon
 - **Contribuição**: Obteve item crucial para resolver o puzzle e continuou explorando apesar do dano massivo.
 
 ### Tony (FS Simões)
-- **Classe/Perfil**: Paladino com companheiro Emmergade
+- **Classe/Perfil**: Paladino com companheiro Emmergard
 - **Ações Principais**:
-  - Emmergade usou cura em si mesma
+  - Emmergard usou cura em si mesma
   - Tony usou Dodge para aumentar defesa
   - Ofereceu arremessar Dustin com escudo (não executado)
 - **Momento Notável**: Usar Dodge estrategicamente ao invés de apenas atacar, mostrando compreensão tática.
-- **Contribuição**: Suporte através da Emmergade e aumento de defesa própria.
+- **Contribuição**: Suporte através da Emmergard e aumento de defesa própria.
 
 ### Groih (Higor VS1)
 - **Classe/Perfil**: Paladino
@@ -272,7 +272,7 @@ Tentou usar poder de magia de alto nível mas foi bloqueado completamente. Demon
 
 ## NPCs Notáveis
 
-### Emmergade
+### Emmergard
 - **Descrição**: Companheiro espiritual de Tony, guardiã que participa do combate.
 - **Ações**: Usou cura em si mesma novamente, mantendo-se funcional no combate.
 - **Importância**: Continua sendo presença crucial como tanque e suporte.

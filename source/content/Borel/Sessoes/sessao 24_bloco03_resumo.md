@@ -20,21 +20,21 @@ plots:
 eventos:
   - Batalha
   - Puzzle
-resumo: "Emmergade usa escudo defensivamente sendo elogiada, Tony protege usando reações, Bartrock toca totem específico causando tremor no chão sugerindo algo grandioso prestes a acontecer"
-description: "Emmergade usa escudo defensivamente para bloquear ataques sendo elogiada pelo mestre. Tony demonstra ser excelente aliado usando reações com escudo. Bartrock toca totem específico causando tremor no chão."
+resumo: "Emmergard usa escudo defensivamente sendo elogiada, Tony protege usando reações, Bartrock toca totem específico causando tremor no chão sugerindo algo grandioso prestes a acontecer"
+description: "Emmergard usa escudo defensivamente para bloquear ataques sendo elogiada pelo mestre. Tony demonstra ser excelente aliado usando reações com escudo. Bartrock toca totem específico causando tremor no chão."
 ---
 
 # O Legado de Rilonde: Capítulo 24 – Bloco 3 – Totens e Descobertas Misteriosas
 
 ## Introdução
 
-O terceiro bloco da sessão 24 continua a intensa batalha contra os golems elementais restantes, enquanto o grupo tenta desvendar o mistério dos totens nas salas secundárias. Com a Emmergade usando táticas defensivas brilhantes, Dustin explorando pontes escorregadias de gelo, e Bartrock tentando ativar totens específicos, a sessão mistura combate estratégico com exploração perigosa. O momento culminante ocorre quando Bartrock finalmente toca em um totem específico, causando uma reação inesperada que faz o chão tremer e sugere que algo grandioso está prestes a acontecer.
+O terceiro bloco da sessão 24 continua a intensa batalha contra os golems elementais restantes, enquanto o grupo tenta desvendar o mistério dos totens nas salas secundárias. Com a Emmergard usando táticas defensivas brilhantes, Dustin explorando pontes escorregadias de gelo, e Bartrock tentando ativar totens específicos, a sessão mistura combate estratégico com exploração perigosa. O momento culminante ocorre quando Bartrock finalmente toca em um totem específico, causando uma reação inesperada que faz o chão tremer e sugere que algo grandioso está prestes a acontecer.
 
 ## Resumo da Sessão
 
-O bloco 3 inicia com a Emmergade usando seu escudo defensivamente para bloquear ataques dos golems, sendo elogiada pelo mestre pela eficácia tática. Tony demonstra ser um excelente aliado ao usar reações com o escudo para proteger a guardiã espiritual. O golem de pedra arremessa pedras causando dano significativo, enquanto o golem de fogo continua seus ataques ferozes.
+O bloco 3 inicia com a Emmergard usando seu escudo defensivamente para bloquear ataques dos golems, sendo elogiada pelo mestre pela eficácia tática. Tony demonstra ser um excelente aliado ao usar reações com o escudo para proteger a guardiã espiritual. O golem de pedra arremessa pedras causando dano significativo, enquanto o golem de fogo continua seus ataques ferozes.
 
-Groih decide entrar em modo Dodge e aguardar, posicionando-se estrategicamente. Dustin tenta lançar uma bola de gelo no golem de fogo, mas o escudo elementar o protege completamente. A Emmergade continua sendo alvo prioritário dos golems devido à sua capacidade de cura.
+Groih decide entrar em modo Dodge e aguardar, posicionando-se estrategicamente. Dustin tenta lançar uma bola de gelo no golem de fogo, mas o escudo elementar o protege completamente. A Emmergard continua sendo alvo prioritário dos golems devido à sua capacidade de cura.
 
 NightWolf chega ao totem e tenta interagir com ele, mas nada acontece - o mestre relembra o grupo sobre o estado dos totens: todas as estátuas estão apagadas desde que algo aconteceu anteriormente nesta sessão. Há uma discussão sobre os eventos passados e como os totens funcionam.
 
@@ -46,11 +46,11 @@ Dustin inicia uma travessia cuidadosa pela ponte de gelo, descobrindo que quanto
 
 Após uma discussão detalhada sobre as regras de movimento em terreno difícil, Dustin consegue avançar pela ponte usando vinhas que surgem do gelo para se segurar enquanto o vento sopra sobre ele. A descrição narrativa mostra Dustin se arrastando cuidadosamente pela ponte escorregadia.
 
-O golem de pedra continua atacando a Emmergade, causando 15 pontos de dano. O golem então arremessa outra pedra causando 15 pontos de dano em Bartrock. Groih usa Dash para se reposicionar e chegar do outro lado da ponte.
+O golem de pedra continua atacando a Emmergard, causando 15 pontos de dano. O golem então arremessa outra pedra causando 15 pontos de dano em Bartrock. Groih usa Dash para se reposicionar e chegar do outro lado da ponte.
 
-O golem de fogo desfere um ataque devastador contra a Emmergade: um soco flamejante que causa 24 pontos de dano (20+18+6), deixando-a seriamente ferida e "toda desgrenhada". O ataque inclui uma explosão de fogo azul que causa dano em área, exigindo testes de destreza de Kaelion e Emmergade, que passa no teste e reduz o dano pela metade.
+O golem de fogo desfere um ataque devastador contra a Emmergard: um soco flamejante que causa 24 pontos de dano (20+18+6), deixando-a seriamente ferida e "toda desgrenhada". O ataque inclui uma explosão de fogo azul que causa dano em área, exigindo testes de destreza de Kaelion e Emmergard, que passa no teste e reduz o dano pela metade.
 
-A Emmergade, extremamente ferida, olha para Tony e diz "eu preciso de muita ajuda" antes de usar Cure Wounds nível 5, cura massiva que a regenera completamente. O momento é dramático e emocional, mostrando a conexão entre Tony e sua guardiã espiritual.
+A Emmergard, extremamente ferida, olha para Tony e diz "eu preciso de muita ajuda" antes de usar Cure Wounds nível 5, cura massiva que a regenera completamente. O momento é dramático e emocional, mostrando a conexão entre Tony e sua guardiã espiritual.
 
 NightWolf decide permanecer em posição, enquanto Bartrock chama Thaís Carla de volta usando um comando verbal. Ele então atravessa a ponte e chega do outro lado, tentando interagir com uma órbita mas nada acontece.
 
@@ -68,21 +68,21 @@ A sessão termina com Tony preparando-se para arremessar uma javelin comum contr
 
 ## Eventos Principais
 
-1. **A Defesa Perfeita da Emmergade**: Tony usa reações com o escudo para proteger a Emmergade, sendo elogiado pelo mestre.
+1. **A Defesa Perfeita da Emmergard**: Tony usa reações com o escudo para proteger a Emmergard, sendo elogiado pelo mestre.
 2. **A Discussão sobre os Totens**: O mestre relembra o grupo sobre o estado dos totens e como algo aconteceu que os apagou todos.
 3. **O Ataque Duplo de Bartrock**: Bartrock causa 32 pontos de dano total nos dois golems usando sua espada e coordenando com Thaís Carla.
 4. **A Confusão sobre Thaís Carla**: Discussão sobre as capacidades de comunicação e obediência de Thaís Carla.
 5. **A Travessia da Ponte de Gelo**: Dustin atravessa cuidadosamente a ponte escorregadia usando vinhas de gelo para se segurar.
-6. **O Ataque Devastador do Golem de Fogo**: Um soco flamejante que causa 24 pontos de dano na Emmergade, deixando-a seriamente ferida.
-7. **A Cura Desesperada**: A Emmergade usa Cure Wounds nível 5 após dizer "eu preciso de muita ajuda".
+6. **O Ataque Devastador do Golem de Fogo**: Um soco flamejante que causa 24 pontos de dano na Emmergard, deixando-a seriamente ferida.
+7. **A Cura Desesperada**: A Emmergard usa Cure Wounds nível 5 após dizer "eu preciso de muita ajuda".
 8. **A Ativação do Totem**: Bartrock finalmente toca no totem causando tremores e mudanças no ambiente.
 9. **O Crítico Final**: Tony arremessa uma javelin que encrava na testa do golem de pedra causando 8 pontos de dano crítico.
 
 ## Momentos Chaves
 
-- **"Senhor Tony, você é bom!"**: O mestre elogia Tony pela estratégia defensiva com o escudo da Emmergade.
-- **O Ataque Devastador**: O golem de fogo desfere um golpe que deixa a Emmergade "toda desgrenhada" e seriamente ferida.
-- **"Eu preciso de muita ajuda"**: A Emmergade, ferida, pede ajuda antes de se curar completamente.
+- **"Senhor Tony, você é bom!"**: O mestre elogia Tony pela estratégia defensiva com o escudo da Emmergard.
+- **O Ataque Devastador**: O golem de fogo desfere um golpe que deixa a Emmergard "toda desgrenhada" e seriamente ferida.
+- **"Eu preciso de muita ajuda"**: A Emmergard, ferida, pede ajuda antes de se curar completamente.
 - **A Ativação do Totem**: Quando Bartrock toca no totem, o chão treme e algo muda no ambiente, sugerindo progresso no puzzle.
 - **A Travessia Perigosa**: Dustin atravessa a ponte de gelo usando vinhas que surgem do gelo enquanto o vento sopra sobre ele.
 - **O Crítico na Testa**: O golpe final de Tony encrava a javelin na testa do golem, criando uma imagem visual marcante.
@@ -117,11 +117,11 @@ A sessão termina com Tony preparando-se para arremessar uma javelin comum contr
 
 ## Melhores Momentos
 
-1. **A Defesa Estratégica**: Tony usando reações com o escudo para proteger a Emmergade de forma eficiente.
+1. **A Defesa Estratégica**: Tony usando reações com o escudo para proteger a Emmergard de forma eficiente.
 2. **O Ataque Duplo de Bartrock**: A coordenação entre Bartrock e Thaís Carla causando dano massivo em ambos os golems.
 3. **A Travessia da Ponte**: A descrição narrativa de Dustin atravessando a ponte de gelo usando vinhas enquanto o vento sopra.
-4. **O Ataque do Golem de Fogo**: O golpe devastador que deixa a Emmergade seriamente ferida antes da cura desesperada.
-5. **A Cura Emocional**: O momento onde a Emmergade pede ajuda e usa Cure Wounds nível 5 em si mesma.
+4. **O Ataque do Golem de Fogo**: O golpe devastador que deixa a Emmergard seriamente ferida antes da cura desesperada.
+5. **A Cura Emocional**: O momento onde a Emmergard pede ajuda e usa Cure Wounds nível 5 em si mesma.
 6. **A Ativação do Totem**: O momento tenso onde Bartrock toca no totem e o chão treme, sugerindo progresso.
 7. **O Crítico Final**: O lance perfeito de Tony que encrava a javelin na testa do golem de pedra.
 
@@ -131,17 +131,17 @@ A sessão termina com Tony preparando-se para arremessar uma javelin comum contr
 
 A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por seus escudos elementais.
 
-### Turno da Emmergade (Controlada por Tony)
+### Turno da Emmergard (Controlada por Tony)
 - **Reação com Escudo**: Bloqueia ataques usando reações com o escudo de forma eficiente.
 - **Dodge**: Entra em modo Dodge para aumentar defesa.
 - **Cure Wounds Nível 5**: Usa cura massiva após ser seriamente ferida, regenerando completamente.
 
 ### Turno dos Golems
 - **Golem de Pedra**: 
-  - Arremessa pedra na Emmergade causando 15 pontos de dano.
+  - Arremessa pedra na Emmergard causando 15 pontos de dano.
   - Arremessa outra pedra em Bartrock causando 15 pontos de dano.
 - **Golem de Fogo**: 
-  - Desfere soco flamejante devastador na Emmergade causando 24 pontos de dano total (20+18+6).
+  - Desfere soco flamejante devastador na Emmergard causando 24 pontos de dano total (20+18+6).
   - Explosão de fogo azul causa dano em área, exigindo testes de destreza.
 
 ### Turno de Groih
@@ -170,7 +170,7 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 - **Terreno Difícil**: Descobre que quanto mais rápido move, maior o risco de escorregar.
 
 ### Turno de Tony
-- **Movimento**: Move a Emmergade usando Dash para posicioná-la estrategicamente.
+- **Movimento**: Move a Emmergard usando Dash para posicioná-la estrategicamente.
 - **Ataque Final**: Arremessa javelin comum conseguindo acerto crítico.
 - **Dano**: 8 pontos de dano crítico (4+4).
 - **Efeito Visual**: A lança encrava na testa do golem de pedra de forma impressionante.
@@ -180,7 +180,7 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 
 ## Desenvolvimento dos Personagens
 
-### Emmergade (Tony)
+### Emmergard (Tony)
 - Demonstra dependência emocional de Tony quando pede ajuda enquanto ferida.
 - Mostra determinação ao usar cura massiva em si mesma mesmo estando extremamente ferida.
 - A conexão entre Tony e sua guardiã espiritual fica mais evidente neste bloco.
@@ -197,7 +197,7 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 
 ### Tony
 - Desenvolve ainda mais suas habilidades táticas defensivas.
-- Demonstra cuidado e estratégia ao proteger a Emmergade.
+- Demonstra cuidado e estratégia ao proteger a Emmergard.
 - Mostra capacidade de adaptação rápida quando precisa usar último recurso (javelin).
 
 ### Groih
@@ -216,13 +216,13 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 - **Contribuição**: Explorou e descobriu mecânicas importantes do terreno difícil, preparando o terreno para outros personagens atravessarem.
 
 ### Tony (FS_SIMOES)
-- **Classe/Perfil**: Clérigo/Controlador da Emmergade
+- **Classe/Perfil**: Clérigo/Controlador da Emmergard
 - **Ações Principais**: 
-  - Usou reações com escudo para proteger a Emmergade eficientemente.
-  - Moveu a Emmergade estrategicamente usando Dash.
+  - Usou reações com escudo para proteger a Emmergard eficientemente.
+  - Moveu a Emmergard estrategicamente usando Dash.
   - Arremessou javelin conseguindo acerto crítico no golem de pedra.
 - **Momento Notável**: "Senhor Tony, você é bom!" - elogiado pelo mestre pela estratégia defensiva.
-- **Contribuição**: Mantém a Emmergade viva e protegida, além de causar dano crítico final no golem.
+- **Contribuição**: Mantém a Emmergard viva e protegida, além de causar dano crítico final no golem.
 
 ### Bartrock (Matheus)
 - **Classe/Perfil**: Guerreiro/Rogue
@@ -258,7 +258,7 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 - **Momento Notável**: Passou no teste de destreza reduzindo dano pela metade.
 - **Contribuição**: Manteve-se seguro durante ataque em área do golem de fogo.
 
-### Emmergade (Espírito Guardião de Tony)
+### Emmergard (Espírito Guardião de Tony)
 - **Tipo**: Espírito Guardião
 - **Ações Principais**: 
   - Bloqueou ataques usando escudo com reações.
@@ -328,9 +328,9 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 
 3. **Bartrock Usa Insight**: Antes de tocar no totem, Bartrock usa Insight para tentar entender melhor a situação, demonstrando crescimento em estratégia.
 
-4. **Tony Protege a Emmergade**: Tony prioriza proteger a Emmergade usando reações com escudo, demonstrando cuidado e estratégia defensiva.
+4. **Tony Protege a Emmergard**: Tony prioriza proteger a Emmergard usando reações com escudo, demonstrando cuidado e estratégia defensiva.
 
-5. **A Emmergade Usa Cura Massiva**: Quando extremamente ferida, a Emmergade decide usar Cure Wounds nível 5 em si mesma, demonstrando auto-preservação e determinação.
+5. **A Emmergard Usa Cura Massiva**: Quando extremamente ferida, a Emmergard decide usar Cure Wounds nível 5 em si mesma, demonstrando auto-preservação e determinação.
 
 6. **Bartrock Ativa o Totem**: Após várias tentativas frustradas, Bartrock finalmente toca no totem correto, causando mudanças no ambiente.
 
@@ -348,17 +348,17 @@ A batalha continua com os golems de pedra e fogo ainda ativos e protegidos por s
 
 ## Citação da Noite
 
-"Senhor Tony, você é bom! Muito bom pra me ajudar. Muito obrigado." - O mestre elogiando Tony pela estratégia defensiva brilhante com o escudo da Emmergade.
+"Senhor Tony, você é bom! Muito bom pra me ajudar. Muito obrigado." - O mestre elogiando Tony pela estratégia defensiva brilhante com o escudo da Emmergard.
 
 ## Encerramento
 
-O bloco 3 termina com uma sensação de progresso misturada com ansiedade. Enquanto o grupo finalmente consegue ativar um totem após várias tentativas frustradas, os tremores e mudanças no ambiente sugerem que algo grande está prestes a acontecer. A batalha contra os golems continua intensa, com a Emmergade tendo sobrevivido milagrosamente através de cura desesperada. O grupo agora entende melhor os desafios do terreno e parece estar mais próximo de descobrir o padrão do puzzle, mas o que acontecerá quando o totem ativado causar mudanças na sala principal? A resposta permanece um mistério até a próxima sessão.
+O bloco 3 termina com uma sensação de progresso misturada com ansiedade. Enquanto o grupo finalmente consegue ativar um totem após várias tentativas frustradas, os tremores e mudanças no ambiente sugerem que algo grande está prestes a acontecer. A batalha contra os golems continua intensa, com a Emmergard tendo sobrevivido milagrosamente através de cura desesperada. O grupo agora entende melhor os desafios do terreno e parece estar mais próximo de descobrir o padrão do puzzle, mas o que acontecerá quando o totem ativado causar mudanças na sala principal? A resposta permanece um mistério até a próxima sessão.
 
 ## Cenas da Sessão
 
 ### Cena 1: A Defesa Perfeita
 **Estilo**: Arte baseada no jogo de cartas Magic: The Gathering
-**Prompt**: Uma cena dramática de combate de Dungeons and Dragons mostrando um espírito guardião feminino (Emmergade) usando um escudo brilhante para bloquear um soco flamejante azul de um golem de fogo gigante. O escudo está envolto em luz protetora, e o golem de fogo tem mãos vermelhas brilhantes com fogo azul mágico. A cena mostra o momento preciso onde o mestre de jogo elogia a estratégia defensiva. Estilo de arte épica de Magic: The Gathering, detalhes de armadura e magia, iluminação dramática.
+**Prompt**: Uma cena dramática de combate de Dungeons and Dragons mostrando um espírito guardião feminino (Emmergard) usando um escudo brilhante para bloquear um soco flamejante azul de um golem de fogo gigante. O escudo está envolto em luz protetora, e o golem de fogo tem mãos vermelhas brilhantes com fogo azul mágico. A cena mostra o momento preciso onde o mestre de jogo elogia a estratégia defensiva. Estilo de arte épica de Magic: The Gathering, detalhes de armadura e magia, iluminação dramática.
 
 ### Cena 2: A Travessia Perigosa
 **Estilo**: Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering
@@ -370,11 +370,11 @@ O bloco 3 termina com uma sensação de progresso misturada com ansiedade. Enqua
 
 ### Cena 4: O Golpe Devastador
 **Estilo**: Arte baseada no jogo de cartas Magic: The Gathering
-**Prompt**: Uma cena dramática mostrando um golem de fogo gigante desferindo um soco flamejante devastador contra um espírito guardião feminino (Emmergade). O golpe está envolto em fogo azul mágico, e a guardiã está sendo empurrada para trás, com seu cabelo pegando fogo e começando a queimar. A expressão de dor e desespero está visível no rosto da guardiã. Estilo de arte épica de Magic: The Gathering, mostrando poder destrutivo e drama emocional.
+**Prompt**: Uma cena dramática mostrando um golem de fogo gigante desferindo um soco flamejante devastador contra um espírito guardião feminino (Emmergard). O golpe está envolto em fogo azul mágico, e a guardiã está sendo empurrada para trás, com seu cabelo pegando fogo e começando a queimar. A expressão de dor e desespero está visível no rosto da guardiã. Estilo de arte épica de Magic: The Gathering, mostrando poder destrutivo e drama emocional.
 
 ### Cena 5: A Cura Desesperada
 **Estilo**: Arte baseada no jogo de cartas Magic: The Gathering
-**Prompt**: Uma cena emocional mostrando um espírito guardião feminino (Emmergade) extremamente ferida e "toda desgrenhada" olhando para um clérigo humano (Tony) enquanto diz "eu preciso de muita ajuda". Magia de cura nível 5 está sendo canalizada através dela, com luz dourada brilhante saindo de suas mãos e envolvendo seu corpo ferido. A conexão emocional entre clérigo e guardiã é visível. Estilo de arte épica de Magic: The Gathering, mostrando cura mágica e conexão emocional.
+**Prompt**: Uma cena emocional mostrando um espírito guardião feminino (Emmergard) extremamente ferida e "toda desgrenhada" olhando para um clérigo humano (Tony) enquanto diz "eu preciso de muita ajuda". Magia de cura nível 5 está sendo canalizada através dela, com luz dourada brilhante saindo de suas mãos e envolvendo seu corpo ferido. A conexão emocional entre clérigo e guardiã é visível. Estilo de arte épica de Magic: The Gathering, mostrando cura mágica e conexão emocional.
 
 ### Cena 6: Os Totens Apagados
 **Estilo**: Estilo RPG de mesa de Dungeons and Dragons

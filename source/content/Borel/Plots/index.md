@@ -7,9 +7,9 @@ tags:
   - tipo/plot
 ---
 
-# Plots da Campanha
+# 📖 Plots da Campanha
 
-## Plots Principais Ativos
+## 📖 Plots Principais Ativos
 
 ### 🐺 **A Maldição de Nightwolf**
 - **Status**: ATIVO - Cura Descoberta (Sessão 17)

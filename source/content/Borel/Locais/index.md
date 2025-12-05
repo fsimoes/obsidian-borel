@@ -7,9 +7,9 @@ tags:
   - tipo/local
 ---
 
-# Locais da Campanha
+# 🏰 Locais da Campanha
 
-## Cidades Principais
+## 🏰 Cidades Principais
 
 ### [[Rilonde]]
 - **Status**: Ativo - Base atual do grupo

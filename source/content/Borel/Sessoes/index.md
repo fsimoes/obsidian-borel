@@ -7,9 +7,9 @@ tags:
   - tipo/sessao
 ---
 
-# Sessões - O Legado de Rilonde
+# 🎲 Sessões - O Legado de Rilonde
 
-## Cronologia Completa da Campanha
+## 📅 Cronologia Completa da Campanha
 
 > **📝 Nota sobre Documentação**: Estas sessões foram reconstituídas a partir de transcrições de áudio, anotações do mestre e memórias dos jogadores. A completude das gravações varia entre sessões. Para detalhes específicos sobre fontes, consulte nosso [Relatório de Análise](../relatorio_analise_transcricoes_sessoes.md).
 
@@ -28,9 +28,9 @@ Os aventureiros se encontram em Rilonde, uma próspera cidade comercial, onde s�
 | 4 | [[Capitulo 4 - Noite na Cidade]] | ⚠️ Parcial (~60%) | Confusão na taverna, ataque a Nightwolf |
 | 5 | [[Capitulo 5 - Entre Rastros, Risadas e Revelações no Templo]] | ⚠️ Incompleta (~40%) | Investigação, ritual no templo, confronto com Celeste |
 
-**Plots Desenvolvidos**: [[Misterio de Rilonde]], [[Ameaca dos Lobisomens]]
-**NPCs Introduzidos**: [[Alberto]], [[Lucian]], [[Celeste]], [[Emmergard]]
-**Locais Explorados**: [[Rilonde]], Taverna A Enguia Roxa, Templo de Chantaner
+**📖 Plots Desenvolvidos**: [[Misterio de Rilonde]], [[Ameaca dos Lobisomens]]
+**👹 NPCs Introduzidos**: [[Alberto]], [[Lucian]], [[Celeste]], [[Emmergard]]
+**🏰 Locais Explorados**: [[Rilonde]], Taverna A Enguia Roxa, Templo de Chantaner
 
 ---
 

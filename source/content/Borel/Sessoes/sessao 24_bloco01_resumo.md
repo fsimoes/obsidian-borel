@@ -39,9 +39,9 @@ O grupo rapidamente descobriu que cada golem possuía um escudo de elemento dife
 
 Kaelion, sob controle do grupo, tenta atacar mas falha dramaticamente, conseguindo apenas pegar sua espada com o vento em um ato de desespero. Groih então entra em ação, usando Mist Step para se teleportar até o golem de gelo e desferir um golpe crítico devastador com sua Grit Sword, causando 45 pontos de dano total incluindo um Divine Smite. A espada brilha com luz divina e explode dentro do gelo, destruindo parte do torso do golem.
 
-O golem de pedra responde atacando ferozmente, dando uma bica na barriga da Emmergade (espírito guardião de Tony) e arremessando uma pedra que causa 12 de dano em Kaelion. O golem de fogo então se aproxima da Emmergade e desfere um punho flamejante poderoso, causando 21 de dano total. O golem de fogo então explode em uma explosão de fogo, causando dano em área exigindo testes de destreza de vários personagens.
+O golem de pedra responde atacando ferozmente, dando uma bica na barriga da Emmergard (espírito guardião de Tony) e arremessando uma pedra que causa 12 de dano em Kaelion. O golem de fogo então se aproxima da Emmergard e desfere um punho flamejante poderoso, causando 21 de dano total. O golem de fogo então explode em uma explosão de fogo, causando dano em área exigindo testes de destreza de vários personagens.
 
-Tony, através da Emmergade, usa sua habilidade de cura, regenerando 30 pontos de vida. NightWolf então entra em ação, movendo-se pela ponte e transferindo seu Hunter's Mark para outro golem. Ele desfere um ataque crítico devastador que finalmente destrói completamente o golem de gelo, reduzindo-o a uma pilha de gelo no chão.
+Tony, através da Emmergard, usa sua habilidade de cura, regenerando 30 pontos de vida. NightWolf então entra em ação, movendo-se pela ponte e transferindo seu Hunter's Mark para outro golem. Ele desfere um ataque crítico devastador que finalmente destrói completamente o golem de gelo, reduzindo-o a uma pilha de gelo no chão.
 
 Bartrock tenta atacar o golem de fogo mas falha. Orestan tenta interagir novamente com um totem já usado, mas nada acontece. A sessão termina com o grupo ainda em combate contra os golems de pedra e fogo, enquanto tentam descobrir o mistério por trás dos escudos elementais e como derrotar completamente os adversários restantes.
 
@@ -59,9 +59,9 @@ Bartrock tenta atacar o golem de fogo mas falha. Orestan tenta interagir novamen
 2. **O Início do Combate**: Dustin abre a iniciativa com uma série de flechadas contra o golem de gelo.
 3. **A Descoberta do Escudo Destruído**: Confirmação de que o escudo do golem de gelo já havia sido destruído anteriormente.
 4. **O Ataque de Groih**: Groih usa Mist Step e desfere um crítico devastador com Divine Smite, causando 45 pontos de dano.
-5. **Ataque do Golem de Pedra**: O golem de pedra ataca a Emmergade e Kaelion com sucesso.
+5. **Ataque do Golem de Pedra**: O golem de pedra ataca a Emmergard e Kaelion com sucesso.
 6. **A Explosão do Golem de Fogo**: O golem de fogo explode, causando dano em área e exigindo testes de destreza.
-7. **A Cura da Emmergade**: Tony usa a habilidade de cura de sua guardiã, regenerando 30 pontos de vida.
+7. **A Cura da Emmergard**: Tony usa a habilidade de cura de sua guardiã, regenerando 30 pontos de vida.
 8. **A Destruição do Golem de Gelo**: NightWolf finaliza o golem de gelo com um ataque crítico preciso.
 9. **A Tentativa de Reinteração**: Orestan tenta interagir novamente com um totem já usado, sem sucesso.
 10. **Discussão sobre Metagame**: Uma pausa importante para discutir os limites entre conhecimento do jogador e conhecimento do personagem.
@@ -126,20 +126,20 @@ A batalha começa com o grupo já em combate, continuando da sessão anterior. O
 - **Ação Bônus**: Move o Bole (companheiro) para posição defensiva.
 
 ### Turno do Golem de Pedra
-- **Ataque 1**: Bica na barriga da Emmergade causando dano que a derruba sem conseguir respirar bem.
+- **Ataque 1**: Bica na barriga da Emmergard causando dano que a derruba sem conseguir respirar bem.
 - **Ataque 2**: Arremessa pedra em Kaelion causando 12 de dano.
 
 ### Turno do Golem de Fogo
-- **Ataque Principal**: Punho flamejante na Emmergade com 26 de acerto, causando 16 de dano físico + 8 de dano de fogo (total 24, mas registrado como 21).
+- **Ataque Principal**: Punho flamejante na Emmergard com 26 de acerto, causando 16 de dano físico + 8 de dano de fogo (total 24, mas registrado como 21).
 - **Efeito Especial**: O golem explode brilhando forte, causando dano em área.
 - **Testes de Destreza**: 
-  - Emmergade: Falhou, tomou 9 de dano de fogo.
+  - Emmergard: Falhou, tomou 9 de dano de fogo.
   - Shadow Spawn: Falhou, tomou 9 de dano de fogo.
   - Tony: Passou, evitou o dano.
 
-### Turno de Tony (via Emmergade)
+### Turno de Tony (via Emmergard)
 - **Cura**: Usa habilidade de cura regenerando 30 pontos de vida própria.
-- **Efeito**: A Emmergade usa suas habilidades de barreira e cura.
+- **Efeito**: A Emmergard usa suas habilidades de barreira e cura.
 
 ### Turno de NightWolf
 - **Movimento**: Move-se pela ponte até a sala com o último totem não ativado.
@@ -172,7 +172,7 @@ Demonstrou versatilidade tática ao combinar movimento (Mist Step), ataque crít
 ### NightWolf
 Mostrou compreensão estratégica ao transferir seu Hunter's Mark e posicionar-se corretamente. Seu golpe final foi decisivo para eliminar o golem de gelo.
 
-### Tony (via Emmergade)
+### Tony (via Emmergard)
 Demonstrou responsabilidade como suporte, usando cura quando necessário e mantendo a guardiã funcional para o grupo.
 
 ### Kaelion
@@ -190,13 +190,13 @@ Controlado pelo grupo, teve dificuldades mas ainda conseguiu recuperar sua arma 
 - **Contribuição**: Dano massivo inicial que enfraqueceu significativamente o golem de gelo, preparando-o para ser finalizado.
 
 ### Tony (FS Simões)
-- **Classe/Perfil**: Paladino com companheiro Emmergade
+- **Classe/Perfil**: Paladino com companheiro Emmergard
 - **Ações Principais**:
-  - Usou a habilidade de cura da Emmergade (30 pontos)
-  - Mantive a Emmergade no combate apesar dos danos
+  - Usou a habilidade de cura da Emmergard (30 pontos)
+  - Mantive a Emmergard no combate apesar dos danos
   - Alertou sobre metagame no grupo
-- **Momento Notável**: A cura de 30 pontos que manteve a Emmergade funcional após receber múltiplos ataques.
-- **Contribuição**: Suporte crucial através da cura e da presença da Emmergade no campo de batalha.
+- **Momento Notável**: A cura de 30 pontos que manteve a Emmergard funcional após receber múltiplos ataques.
+- **Contribuição**: Suporte crucial através da cura e da presença da Emmergard no campo de batalha.
 
 ### Groih (Higor VS1)
 - **Classe/Perfil**: Paladino
@@ -249,7 +249,7 @@ Controlado pelo grupo, teve dificuldades mas ainda conseguiu recuperar sua arma 
 
 ## NPCs Notáveis
 
-### Emmergade
+### Emmergard
 - **Descrição**: Companheiro espiritual de Tony, uma guardiã que participa ativamente do combate.
 - **Ações**: Recebeu múltiplos ataques dos golems, foi curada por Tony, e é capaz de usar habilidades de barreira e cura.
 - **Importância**: Presença crucial no campo de batalha como tanque e suporte.
@@ -266,7 +266,7 @@ Controlado pelo grupo, teve dificuldades mas ainda conseguiu recuperar sua arma 
 
 ### Os Golems Elementais
 - **Golem de Gelo**: Destruído durante este bloco. Possuía escudo de elemento diferente (já destruído), foi alvo principal dos ataques do grupo.
-- **Golem de Pedra**: Ainda ativo, atacou com sucesso a Emmergade e Kaelion.
+- **Golem de Pedra**: Ainda ativo, atacou com sucesso a Emmergard e Kaelion.
 - **Golem de Fogo**: Ainda ativo, causou dano significativo e explodiu causando dano em área.
 
 ## Construção de Mundo
@@ -294,7 +294,7 @@ Há menção a terreno de gelo (azul no mapa) que requer o dobro de movimento pa
 
 3. **Posicionamento Tático**: NightWolf decidiu mover-se pela ponte para alcançar a última sala com totem não ativado, sugerindo estratégia de puzzle além do combate.
 
-4. **Cura Estratégica**: Tony decidiu usar a cura da Emmergade após ela receber múltiplos ataques, priorizando manter a guardiã no combate.
+4. **Cura Estratégica**: Tony decidiu usar a cura da Emmergard após ela receber múltiplos ataques, priorizando manter a guardiã no combate.
 
 5. **Teste de Mecânica**: Orestan tentou interagir novamente com um totem já usado, testando os limites do sistema de puzzle.
 
@@ -320,7 +320,7 @@ Há menção a terreno de gelo (azul no mapa) que requer o dobro de movimento pa
 
 Ou alternativamente:
 
-*"É a única forma da gente estar vivo"* - Tony (FS Simões), sobre a importância da cura da Emmergade.
+*"É a única forma da gente estar vivo"* - Tony (FS Simões), sobre a importância da cura da Emmergard.
 
 ## Encerramento
 
@@ -350,13 +350,13 @@ O primeiro bloco da sessão 24 termina com uma vitória parcial: o golem de gelo
 **Prompt**: Um paladino (Groih) em uma pose heroica, crava sua espada brilhante (Grit Sword) no torso de um golem de gelo gigante. Raios de luz divina explodem do ponto de impacto, quebrando o gelo e criando uma explosão de energia dourada. O golem está sendo destruído por dentro, com rachaduras de luz se espalhando pelo corpo de gelo. Estilo de arte dramatic de Magic: The Gathering, épico e poderoso, enfatizando o poder divino.
 
 ### Cena 8: O Golem de Pedra Ataca
-**Prompt**: Um golem de pedra massivo dando uma bica poderosa na barriga de uma guardiã espiritual (Emmergade), fazendo-a cair no chão sem conseguir respirar. Em segundo plano, o golem arremessa uma pedra gigante contra outro personagem. Estilo de arte de Magic: The Gathering, ação dramática e impacto visual forte.
+**Prompt**: Um golem de pedra massivo dando uma bica poderosa na barriga de uma guardiã espiritual (Emmergard), fazendo-a cair no chão sem conseguir respirar. Em segundo plano, o golem arremessa uma pedra gigante contra outro personagem. Estilo de arte de Magic: The Gathering, ação dramática e impacto visual forte.
 
 ### Cena 9: A Explosão do Golem de Fogo
 **Prompt**: Um golem de fogo explodindo em uma explosão massiva de chamas e energia, criando uma onda de fogo que se espalha pela sala. Múltiplos personagens tentam se esquivar ou se proteger, com testes de destreza visuais. A explosão ilumina toda a sala com luz laranja e vermelha intensa. Estilo de arte dramatic de Magic: The Gathering, mostrando poder elementar devastador.
 
-### Cena 10: A Cura da Emmergade
-**Prompt**: Uma guardiã espiritual (Emmergade) envolta em uma aura de cura verde e dourada, regenerando suas feridas enquanto barreiras mágicas se formam ao seu redor. O personagem está em uma pose defensiva, com escudo levantado. Estilo de arte de Magic: The Gathering, místico e protetor, mostrando poder de cura.
+### Cena 10: A Cura da Emmergard
+**Prompt**: Uma guardiã espiritual (Emmergard) envolta em uma aura de cura verde e dourada, regenerando suas feridas enquanto barreiras mágicas se formam ao seu redor. O personagem está em uma pose defensiva, com escudo levantado. Estilo de arte de Magic: The Gathering, místico e protetor, mostrando poder de cura.
 
 ### Cena 11: NightWolf e o Golpe Final
 **Prompt**: Um ranger (NightWolf) em uma pose de ataque preciso, desferindo uma flechada crítica contra um golem de gelo já muito danificado. A flecha brilha com magia de caça enquanto voa em direção ao coração do golem. O impacto final faz o golem se desmontar completamente em uma pilha de gelo. Estilo de arte de Magic: The Gathering, preciso e decisivo, mostrando o momento final da destruturação.

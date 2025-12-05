@@ -2077,12 +2077,12 @@
 [1:51:20] - 3-HUGONORTH - Acerta
 [1:51:25] - 3-HUGONORTH - Ele
 [1:51:26] - 4-FS_SIMOES - Oi, meu querido
-[1:51:27] - 3-HUGONORTH - A Embergard
+[1:51:27] - 3-HUGONORTH - A Emmergard
 [1:51:30] - 7-NOBREAK0497 - Tá.
 [1:51:39] - 4-FS_SIMOES - Deixa eu ver se eu acho
 [1:51:40] - 3-HUGONORTH - Bora
 [1:51:41] - 4-FS_SIMOES - E...
-[1:51:42] - 3-HUGONORTH - Você vê que a Embergard
+[1:51:42] - 3-HUGONORTH - Você vê que a Emmergard
 [1:51:45] - 3-HUGONORTH - Assim
 [1:51:47] - 3-HUGONORTH - Acorda
 [1:51:49] - 7-NOBREAK0497 - O Thresh vai andar pra cá.

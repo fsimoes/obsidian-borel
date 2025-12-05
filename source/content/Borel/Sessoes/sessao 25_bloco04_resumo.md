@@ -8,7 +8,7 @@ tags:
   - sessao/25
   - status/ativo
 personagens:
-  - Embergard
+  - Emmergard
   - Dustin
   - Orestan
   - Letícia
@@ -20,8 +20,8 @@ plots:
 eventos:
   - Despedida
   - Investigação
-resumo: "Embergard se despede do grupo retornando à família, grupo encontra Letícia na universidade, descobre informações fragmentadas sobre Conselho Arcano do Circo Vermelho, Orestan decide retornar à caverna"
-description: "Embergard se despede do grupo na taverna retornando à sua família e marido. Grupo encontra Letícia caminhando com amigas na universidade. Letícia fornece informações fragmentadas sobre Conselho Arcano do Circo Vermelho. Orestan decide retornar à caverna para resgatar outras pessoas possuídas."
+resumo: "Emmergard se despede do grupo retornando à família, grupo encontra Letícia na universidade, descobre informações fragmentadas sobre Conselho Arcano do Circo Vermelho, Orestan decide retornar à caverna"
+description: "Emmergard se despede do grupo na taverna retornando à sua família e marido. Grupo encontra Letícia caminhando com amigas na universidade. Letícia fornece informações fragmentadas sobre Conselho Arcano do Circo Vermelho. Orestan decide retornar à caverna para resgatar outras pessoas possuídas."
 ---
 
 # O Legado de Rilonde: Capítulo 25 – Bloco 4 – Despedidas e Novos Rumos
@@ -32,9 +32,9 @@ Após a recuperação do Uruk e a decisão de retornar à caverna para resgatar 
 
 ## Resumo da Sessão
 
-A sessão inicia com o grupo na taverna, onde percebem que Embergard está em um quarto separado. Quando chegam ao quarto, encontram Embergard esperando por eles, com malas prontas. Ela agradece tudo que o grupo fez por ela, mas explica que tem uma vida fora dali - sua casa, sua família e seu marido. O grupo tenta convencê-la a ficar, especialmente Dustin que tenta usar sua lábia, mas Embergard está determinada a partir.
+A sessão inicia com o grupo na taverna, onde percebem que Emmergard está em um quarto separado. Quando chegam ao quarto, encontram Emmergard esperando por eles, com malas prontas. Ela agradece tudo que o grupo fez por ela, mas explica que tem uma vida fora dali - sua casa, sua família e seu marido. O grupo tenta convencê-la a ficar, especialmente Dustin que tenta usar sua lábia, mas Emmergard está determinada a partir.
 
-Embergard se despede de todos, especialmente do Tony, dando-lhe um abraço especial. Quando ela sai, o grupo vê algo inesperado: o marido de Embergard (Dudu) está se arrastando pelo chão, tentando fugir da taverna. Ele é um homem esbirradinho, com uma cara de desespero. Embergard o agarra, levanta-o no ombro e o carrega embora. Antes de sair, Dudu olha para o grupo e esboça um "Me ajudem", mas Embergard o leva embora, dizendo "Até a próxima" e seguindo seu caminho.
+Emmergard se despede de todos, especialmente do Tony, dando-lhe um abraço especial. Quando ela sai, o grupo vê algo inesperado: o marido de Emmergard (Dudu) está se arrastando pelo chão, tentando fugir da taverna. Ele é um homem esbirradinho, com uma cara de desespero. Emmergard o agarra, levanta-o no ombro e o carrega embora. Antes de sair, Dudu olha para o grupo e esboça um "Me ajudem", mas Emmergard o leva embora, dizendo "Até a próxima" e seguindo seu caminho.
 
 O grupo então discute os próximos passos. Kaelion sugere que precisam investigar duas coisas: o Conselho Arcano do Circo Vermelho (na universidade) e as informações sobre os teletransportes. Ele menciona que pelas cartas que viram, talvez o conselho saiba quem é o Mardus, e que se conseguirem chegar ao conselho, talvez possam evitar os experimentos.
 
@@ -56,13 +56,13 @@ O grupo agradece a Letícia e se despede. A sessão termina com o grupo ainda pr
 
 ## Itens Perdidos
 
-- **Embergard**: A guerreira deixa o grupo para retornar à sua vida familiar
+- **Emmergard**: A guerreira deixa o grupo para retornar à sua vida familiar
 - Nenhum item físico foi perdido neste bloco da sessão
 
 ## Eventos Principais
 
-1. **A Despedida de Embergard**: Embergard decide deixar o grupo para retornar à sua família
-2. **O Encontro com Dudu**: O grupo vê o marido de Embergard tentando fugir, sendo carregado por ela
+1. **A Despedida de Emmergard**: Emmergard decide deixar o grupo para retornar à sua família
+2. **O Encontro com Dudu**: O grupo vê o marido de Emmergard tentando fugir, sendo carregado por ela
 3. **O Planejamento da Investigação**: O grupo decide investigar o Conselho Arcano do Circo Vermelho
 4. **O Encontro com Letícia**: O grupo encontra Letícia na universidade com suas amigas
 5. **A Desconfiança de Letícia**: Letícia suspeita que o grupo tem algo a ver com o incidente na universidade
@@ -72,16 +72,16 @@ O grupo agradece a Letícia e se despede. A sessão termina com o grupo ainda pr
 
 ## Momentos Chaves
 
-- **A Despedida de Embergard**: O momento emocional quando Embergard decide partir, mostrando que nem todos os companheiros permanecem para sempre
-- **O Pedido de Ajuda de Dudu**: O momento tenso quando Dudu tenta pedir ajuda ao grupo, mas é carregado embora por Embergard
+- **A Despedida de Emmergard**: O momento emocional quando Emmergard decide partir, mostrando que nem todos os companheiros permanecem para sempre
+- **O Pedido de Ajuda de Dudu**: O momento tenso quando Dudu tenta pedir ajuda ao grupo, mas é carregado embora por Emmergard
 - **A Desconfiança de Letícia**: O momento de tensão quando Letícia suspeita que o grupo está envolvido no incidente
 - **O Aviso sobre o Tabu**: A revelação de que o assunto dos teletransportes é extremamente perigoso e tabu
 - **A Informação Fragmentada**: A frustração de receber informações incompletas sobre o Conselho Arcano
 
 ## Momentos Engraçados
 
-- **"Poxa, mas você acha que ele merece todo esse esforço?"**: A pergunta de Dustin questionando se o marido de Embergard merece todo o trabalho que fizeram
-- **"Que malas são essas, MH?"**: A pergunta de Dustin sobre as malas de Embergard
+- **"Poxa, mas você acha que ele merece todo esse esforço?"**: A pergunta de Dustin questionando se o marido de Emmergard merece todo o trabalho que fizeram
+- **"Que malas são essas, MH?"**: A pergunta de Dustin sobre as malas de Emmergard
 - **O Marido Tentando Fugir**: A cena cômica de Dudu se arrastando pelo chão tentando escapar
 - **"Me ajudem"**: O pedido silencioso de Dudu enquanto é carregado embora
 - **"Boa sorte, Dudu. Não sei quem você é, mas sinto que você precisa"**: A fala do mestre sobre Dudu
@@ -101,8 +101,8 @@ O grupo agradece a Letícia e se despede. A sessão termina com o grupo ainda pr
 
 ## Melhores Momentos
 
-- **A Despedida de Embergard**: O momento emocional e realista quando um companheiro decide seguir seu próprio caminho, mostrando que nem todas as histórias continuam juntas
-- **O Pedido Silencioso de Dudu**: O momento tenso e cômico quando o marido de Embergard tenta pedir ajuda, criando uma situação ambígua
+- **A Despedida de Emmergard**: O momento emocional e realista quando um companheiro decide seguir seu próprio caminho, mostrando que nem todas as histórias continuam juntas
+- **O Pedido Silencioso de Dudu**: O momento tenso e cômico quando o marido de Emmergard tenta pedir ajuda, criando uma situação ambígua
 - **O Encontro com Letícia**: A interação tensa e cheia de subtexto quando Letícia suspeita do grupo
 - **O Aviso de Letícia**: O momento de revelação quando Letícia compartilha informações perigosas sobre o tabu dos teletransportes
 - **A Determinação do Grupo**: A persistência do grupo em continuar investigando apesar dos perigos e desconfianças
@@ -114,8 +114,8 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 ## Desenvolvimento dos Personagens
 
 - **Kaelion**: Demonstra persistência e liderança ao continuar investigando apesar das dificuldades. Mostra habilidade social ao tentar obter informações de Letícia, mesmo que não tenha sucesso completo.
-- **Dustin**: Continua sendo o membro mais direto do grupo, fazendo perguntas incômodas mas necessárias. Tenta usar sua lábia para convencer Embergard a ficar.
-- **O Grupo como um Todo**: Mostra maturidade ao aceitar a partida de Embergard, mesmo que não concordem completamente. Demonstram determinação em continuar a investigação apesar dos perigos.
+- **Dustin**: Continua sendo o membro mais direto do grupo, fazendo perguntas incômodas mas necessárias. Tenta usar sua lábia para convencer Emmergard a ficar.
+- **O Grupo como um Todo**: Mostra maturidade ao aceitar a partida de Emmergard, mesmo que não concordem completamente. Demonstram determinação em continuar a investigação apesar dos perigos.
 
 ## As Ações de Todos os Personagens
 
@@ -130,17 +130,17 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 
 ### Dustin (Raphael) - Personagem Versátil
 - **Ações Principais**: 
-  - Tenta convencer Embergard a ficar usando sua lábia
-  - Faz perguntas diretas sobre as malas e a decisão de Embergard
-  - Questiona se o marido de Embergard merece todo o esforço
-- **Momento Notável**: A tentativa (falhada) de convencer Embergard a permanecer com o grupo
+  - Tenta convencer Emmergard a ficar usando sua lábia
+  - Faz perguntas diretas sobre as malas e a decisão de Emmergard
+  - Questiona se o marido de Emmergard merece todo o esforço
+- **Momento Notável**: A tentativa (falhada) de convencer Emmergard a permanecer com o grupo
 - **Contribuição**: Voz da razão e questionamentos necessários
 
 ### Tony - Membro do Grupo
 - **Ações Principais**: 
-  - Recebe um abraço especial de Embergard na despedida
+  - Recebe um abraço especial de Emmergard na despedida
   - Participa das discussões sobre os próximos passos
-- **Momento Notável**: O abraço especial de Embergard, mostrando uma conexão particular
+- **Momento Notável**: O abraço especial de Emmergard, mostrando uma conexão particular
 - **Contribuição**: Suporte ao grupo
 
 ### Bartrock - Mago
@@ -171,7 +171,7 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 - **Momento Notável**: A preocupação sobre o tempo limitado antes de serem reconhecidos
 - **Contribuição**: Perspectiva estratégica sobre urgência
 
-### Embergard - NPC (Deixando o Grupo)
+### Emmergard - NPC (Deixando o Grupo)
 - **Ações Principais**: 
   - Decide deixar o grupo para retornar à sua família
   - Se despede emocionalmente de todos, especialmente do Tony
@@ -188,18 +188,18 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 - **Momento Notável**: A revelação sobre o perigo do assunto dos teletransportes e a informação fragmentada sobre o Conselho Arcano
 - **Contribuição**: Fornece informações cruciais, mesmo que incompletas, e cria tensão narrativa
 
-### Dudu - NPC (Marido de Embergard)
+### Dudu - NPC (Marido de Emmergard)
 - **Ações Principais**: 
   - Tenta fugir da taverna
   - Pede ajuda silenciosamente ao grupo
-  - É carregado embora por Embergard
+  - É carregado embora por Emmergard
 - **Momento Notável**: O pedido silencioso de ajuda, criando uma situação ambígua e cômica
-- **Contribuição**: Adiciona humor e uma nota de mistério sobre a relação de Embergard
+- **Contribuição**: Adiciona humor e uma nota de mistério sobre a relação de Emmergard
 
 ## NPCs Notáveis
 
-- **Embergard**: A guerreira que acompanhou o grupo em várias aventuras decide partir para retornar à sua vida familiar. Sua despedida é emocional, especialmente com Tony. Carrega seu marido embora de forma determinada.
-- **Dudu**: O marido de Embergard, descrito como um homem "esbirradinho" com cara de desespero. Tenta fugir da taverna e pede ajuda silenciosamente ao grupo antes de ser carregado embora.
+- **Emmergard**: A guerreira que acompanhou o grupo em várias aventuras decide partir para retornar à sua vida familiar. Sua despedida é emocional, especialmente com Tony. Carrega seu marido embora de forma determinada.
+- **Dudu**: O marido de Emmergard, descrito como um homem "esbirradinho" com cara de desespero. Tenta fugir da taverna e pede ajuda silenciosamente ao grupo antes de ser carregado embora.
 - **Letícia**: A estudante da universidade que o grupo conheceu anteriormente. Encontra o grupo na universidade e expressa desconfiança sobre seu envolvimento no incidente. Fornece informações importantes sobre o tabu dos teletransportes e o Conselho Arcano, mas de forma fragmentada e cautelosa.
 
 ## Construção de Mundo
@@ -212,10 +212,10 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 
 ## Decisões Importantes
 
-1. **Aceitar a Partida de Embergard**: O grupo aceita (mesmo que relutantemente) a decisão de Embergard de partir, respeitando sua escolha pessoal
+1. **Aceitar a Partida de Emmergard**: O grupo aceita (mesmo que relutantemente) a decisão de Emmergard de partir, respeitando sua escolha pessoal
 2. **Investigar o Conselho Arcano**: A decisão de buscar informações sobre o Conselho Arcano do Circo Vermelho na universidade
 3. **Continuar a Investigação**: Apesar dos perigos e desconfianças, o grupo decide continuar investigando os experimentos e o Mardus
-4. **Não Intervir com Dudu**: O grupo decide não intervir quando Dudu pede ajuda, respeitando a situação de Embergard
+4. **Não Intervir com Dudu**: O grupo decide não intervir quando Dudu pede ajuda, respeitando a situação de Emmergard
 
 ## Presságios e Ganchos Futuros
 
@@ -224,29 +224,29 @@ Não houve batalhas neste bloco da sessão. O foco foi em interações sociais, 
 - **O Reconhecimento**: A preocupação de que o grupo será reconhecido em breve, criando urgência para suas ações
 - **A Perseguição de Grupos Não Alinhados**: A informação de que grupos não alinhados com Nabra são procurados, sugerindo que o grupo pode estar em perigo
 - **O Mardus**: A necessidade contínua de encontrar informações sobre Mardus e sua conexão com os experimentos
-- **A Volta de Embergard?**: A possibilidade de que Embergard possa retornar no futuro, ou que sua situação com Dudu possa se desenvolver
+- **A Volta de Emmergard?**: A possibilidade de que Emmergard possa retornar no futuro, ou que sua situação com Dudu possa se desenvolver
 
 ## Citação da Noite
 
-*"Me ajudem."* - Dudu, o marido de Embergard, esboçando silenciosamente um pedido de ajuda enquanto é carregado embora pela esposa.
+*"Me ajudem."* - Dudu, o marido de Emmergard, esboçando silenciosamente um pedido de ajuda enquanto é carregado embora pela esposa.
 
 ## Encerramento
 
-Com a partida de Embergard, o grupo perde uma companheira valiosa, mas ganha uma lição sobre o fluxo natural das aventuras - nem todos os caminhos permanecem unidos para sempre. A jornada continua, agora com foco na investigação do Conselho Arcano e na descoberta de mais informações sobre os experimentos. No entanto, as revelações de Letícia lançam uma sombra de perigo sobre suas investigações. O assunto dos teletransportes é um tabu mortal, e grupos que não se alinham com Nabra são caçados. O grupo precisa navegar essas águas perigosas com cuidado, sabendo que cada passo em falso pode levar a consequências graves. A urgência aumenta com a consciência de que seus rostos serão reconhecidos em breve, e o tempo para agir está se esgotando. A busca pelo Conselho Arcano do Circo Vermelho - uma organização que pode nem existir mais, ou que pode ser tão poderosa que não precisa se esconder - promete ser uma jornada cheia de mistérios e perigos.
+Com a partida de Emmergard, o grupo perde uma companheira valiosa, mas ganha uma lição sobre o fluxo natural das aventuras - nem todos os caminhos permanecem unidos para sempre. A jornada continua, agora com foco na investigação do Conselho Arcano e na descoberta de mais informações sobre os experimentos. No entanto, as revelações de Letícia lançam uma sombra de perigo sobre suas investigações. O assunto dos teletransportes é um tabu mortal, e grupos que não se alinham com Nabra são caçados. O grupo precisa navegar essas águas perigosas com cuidado, sabendo que cada passo em falso pode levar a consequências graves. A urgência aumenta com a consciência de que seus rostos serão reconhecidos em breve, e o tempo para agir está se esgotando. A busca pelo Conselho Arcano do Circo Vermelho - uma organização que pode nem existir mais, ou que pode ser tão poderosa que não precisa se esconder - promete ser uma jornada cheia de mistérios e perigos.
 
 ## Cenas da Sessão
 
-### Cena 1: A Despedida de Embergard
-**Prompt**: Uma guerreira humana forte (Embergard) de pé em um quarto de taverna, com malas ao lado. Ela está se despedindo de um grupo diverso de aventureiros (clérigo, investigador, guerreiro, ranger, mago, orc). Ela abraça especialmente um aventureiro (Tony). Expressões de tristeza e compreensão. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Atmosfera emocional e melancólica.
+### Cena 1: A Despedida de Emmergard
+**Prompt**: Uma guerreira humana forte (Emmergard) de pé em um quarto de taverna, com malas ao lado. Ela está se despedindo de um grupo diverso de aventureiros (clérigo, investigador, guerreiro, ranger, mago, orc). Ela abraça especialmente um aventureiro (Tony). Expressões de tristeza e compreensão. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Atmosfera emocional e melancólica.
 
 ### Cena 2: Dudu Tentando Fugir
-**Prompt**: Um homem magro e esbirradinho (Dudu) se arrastando pelo chão de uma taverna, tentando fugir. Ele tem uma expressão de desespero. Uma guerreira forte (Embergard) está atrás dele, pronta para agarrá-lo. Estilo engraçado, mostrando a situação cômica e absurda. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico e exagerado.
+**Prompt**: Um homem magro e esbirradinho (Dudu) se arrastando pelo chão de uma taverna, tentando fugir. Ele tem uma expressão de desespero. Uma guerreira forte (Emmergard) está atrás dele, pronta para agarrá-lo. Estilo engraçado, mostrando a situação cômica e absurda. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico e exagerado.
 
 ### Cena 3: O Pedido de Ajuda
-**Prompt**: Um homem magro (Dudu) sendo carregado no ombro de uma guerreira forte (Embergard). Ele olha para trás para um grupo de aventureiros com uma expressão de desespero, esboçando "Me ajudem" silenciosamente. A guerreira tem uma expressão determinada. Estilo engraçado. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico mas com uma nota de tensão.
+**Prompt**: Um homem magro (Dudu) sendo carregado no ombro de uma guerreira forte (Emmergard). Ele olha para trás para um grupo de aventureiros com uma expressão de desespero, esboçando "Me ajudem" silenciosamente. A guerreira tem uma expressão determinada. Estilo engraçado. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico mas com uma nota de tensão.
 
-### Cena 4: Embergard Carregando Dudu
-**Prompt**: Uma guerreira humana forte (Embergard) carregando um homem magro (Dudu) no ombro, caminhando para longe de uma taverna. Ela olha para trás e diz "Até a próxima" enquanto o homem faz uma cara de desespero. Estilo engraçado. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico.
+### Cena 4: Emmergard Carregando Dudu
+**Prompt**: Uma guerreira humana forte (Emmergard) carregando um homem magro (Dudu) no ombro, caminhando para longe de uma taverna. Ela olha para trás e diz "Até a próxima" enquanto o homem faz uma cara de desespero. Estilo engraçado. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Tom cômico.
 
 ### Cena 5: O Planejamento na Taverna
 **Prompt**: Um grupo diverso de aventureiros (clérigo, investigador, guerreiro, ranger, mago, orc) reunidos em uma mesa de taverna, discutindo estratégias. Mapas e documentos espalhados. Expressões sérias e determinadas. Estilo RPG de mesa de Dungeons and Dragons, arte baseada no jogo de cartas Magic: The Gathering. Atmosfera de planejamento estratégico.

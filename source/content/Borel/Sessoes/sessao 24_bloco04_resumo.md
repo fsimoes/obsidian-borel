@@ -47,9 +47,9 @@ O golem de pedra não toma ataque de oportunidade quando Keren se move. Ela ent�
 
 Boren (Borin) toma sua vez. Ele está na outra sala e precisa atravessar a ponte. Ele usa Dash para chegar do outro lado. O mestre explica que ele pode usar Mist Step se tiver slots disponíveis. Boren usa um slot de nível 2 para teleportar e chega do outro lado.
 
-Groih tenta atacar da diagonal, mas com 11 não acerta. Ele tem um extra attack, mas está usando seu escudo agora. Groih tenta atacar novamente mas não acerta. Os golems então atacam: o golem de fogo vai na direção de Emmergade novamente, mas com 12 não acerta.
+Groih tenta atacar da diagonal, mas com 11 não acerta. Ele tem um extra attack, mas está usando seu escudo agora. Groih tenta atacar novamente mas não acerta. Os golems então atacam: o golem de fogo vai na direção de Emmergard novamente, mas com 12 não acerta.
 
-O mestre pede testes de destreza para Groih, Kaelion e Emmergade devido a um ataque em área. Groih passa no teste e toma 0 de dano devido ao seu HP extra, mas toma 6 de dano total. Emmergade então anda até Kaelion e lança Cure Wounds nele, curando 30 pontos de dano.
+O mestre pede testes de destreza para Groih, Kaelion e Emmergard devido a um ataque em área. Groih passa no teste e toma 0 de dano devido ao seu HP extra, mas toma 6 de dano total. Emmergard então anda até Kaelion e lança Cure Wounds nele, curando 30 pontos de dano.
 
 Orestan está na bola e pode andar 30 pés. O mestre explica que ele pode atacar Bartrock ou Orestan se quiser, já que não consegue enxergar o que está acontecendo na sala principal. NightWolf decide atacar Bartrock ou Orestan. Ela rola vários ataques, mas apenas um passa. Ela anda 30 pés para chegar até Bartrock.
 
@@ -89,7 +89,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 4. **O Congelamento Progressivo**: Dustin começa a sentir partes do corpo congelando conforme interage com a órbita.
 5. **O Primeiro Dano Significativo**: Keren (NightWolf) consegue causar 12 de dano no golem de pedra usando sua espada flamejante.
 6. **A Travessia de Boren**: Boren usa Mist Step para teleportar para o outro lado da ponte.
-7. **A Cura de Emmergade**: Emmergade cura Kaelion com Cure Wounds, restaurando 30 pontos de vida.
+7. **A Cura de Emmergard**: Emmergard cura Kaelion com Cure Wounds, restaurando 30 pontos de vida.
 8. **O Ataque em Área do Golem de Fogo**: O golem de fogo usa ataques devastadores em área causando dano em múltiplos alvos.
 9. **O Crítico de Tony**: Tony consegue um acerto crítico no golem de pedra enquanto mantém contato com a órbita.
 10. **A Jornada de Volta**: Dustin atravessa a ponte novamente para voltar ao grupo, enfrentando os mesmos desafios de vento e gelo.
@@ -171,7 +171,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 4. **O Mist Step Estratégico**: Boren usa teleportação para cruzar a ponte instantaneamente.
 5. **O Crítico de Tony**: Tony consegue um acerto crítico enquanto mantém contato com a órbita usando a outra mão.
 6. **A Coragem de Dustin**: Dustin atravessa a ponte novamente para voltar ao grupo, enfrentando os mesmos perigos com determinação.
-7. **A Cura de Emmergade**: Emmergade cura Kaelion com Cure Wounds nível alto, restaurando 30 pontos de vida.
+7. **A Cura de Emmergard**: Emmergard cura Kaelion com Cure Wounds nível alto, restaurando 30 pontos de vida.
 8. **O Fight Spirit de Kaelion**: Kaelion ativa sua habilidade para ganhar vantagem em combate.
 9. **A Defesa de Kaelion**: Kaelion usa Parry para se defender do golem de pedra com sucesso.
 10. **A Coordenação do Grupo**: O grupo tenta coordenar ações entre duas salas diferentes, lidando com limitações de visão e comunicação.
@@ -179,7 +179,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 ## Detalhes da Batalha
 
 **Participantes**: 
-- Grupo: Dustin, Tony, Kaelion, NightWolf (Keren), Bartrock, Orestan, Groih, Boren, Emmergade
+- Grupo: Dustin, Tony, Kaelion, NightWolf (Keren), Bartrock, Orestan, Groih, Boren, Emmergard
 - Inimigos: Golem de Pedra, Golem de Fogo
 
 **Desenvolvimento**:
@@ -188,7 +188,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 - Keren consegue causar 12 de dano de corte no golem de pedra usando sua espada flamejante.
 - Boren usa Mist Step para teleportar para o outro lado.
 - Tony consegue um acerto crítico no golem de pedra, causando 10 de dano enquanto mantém contato com a órbita.
-- Emmergade cura Kaelion com Cure Wounds, restaurando 30 pontos de vida.
+- Emmergard cura Kaelion com Cure Wounds, restaurando 30 pontos de vida.
 - O golem de fogo usa ataques em área devastadores, causando dano em múltiplos alvos.
 - Kaelion ativa Fight Spirit para ganhar vantagem em ataques.
 - Bartrock toma 14 de dano de um ataque em área do golem de fogo (2d8+6).
@@ -205,7 +205,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 
 **Dustin**: Desenvolve coragem e determinação ao atravessar a ponte perigosa duas vezes. Ele enfrenta seus medos e completa a travessia mesmo com "cagaço", demonstrando crescimento pessoal. A interação com a órbita causa efeitos físicos (congelamento) que podem afetar suas capacidades futuras.
 
-**Tony**: Demonstra habilidade multitarefa ao lutar enquanto mantém contato com a órbita. Seu acerto crítico mostra que ele consegue ser eficaz mesmo em situações difíceis. Ele continua sendo um aliado valioso para Emmergade.
+**Tony**: Demonstra habilidade multitarefa ao lutar enquanto mantém contato com a órbita. Seu acerto crítico mostra que ele consegue ser eficaz mesmo em situações difíceis. Ele continua sendo um aliado valioso para Emmergard.
 
 **Keren (NightWolf)**: Consegue causar dano significativo pela primeira vez no golem de pedra, mostrando que suas habilidades de combate são eficazes. Ela começa a sentir os efeitos do congelamento, sugerindo que precisa tomar cuidado com a exposição prolongada ao frio.
 
@@ -297,7 +297,7 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 - **Momento Notável**: Mantém posição estratégica.
 - **Contribuição**: Mantém pressão tática nos inimigos.
 
-### Emmergade (NPC)
+### Emmergard (NPC)
 - **Classe/Perfil**: Guardiã Espiritual/Curandeira
 - **Ações Principais**: 
   - Anda até Kaelion
@@ -314,11 +314,11 @@ O golem de fogo usa um grande ataque em área contra múltiplos alvos. O mestre 
 
 ## NPCs Notáveis
 
-**Emmergade**: A guardiã espiritual continua sendo um alvo prioritário dos golems devido à sua capacidade de cura. Ela cura Kaelion com Cure Wounds, restaurando 30 pontos de vida, demonstrando sua importância crucial para a sobrevivência do grupo.
+**Emmergard**: A guardiã espiritual continua sendo um alvo prioritário dos golems devido à sua capacidade de cura. Ela cura Kaelion com Cure Wounds, restaurando 30 pontos de vida, demonstrando sua importância crucial para a sobrevivência do grupo.
 
 **Golem de Pedra**: Continua sendo um adversário formidável, usando ataques em área e arremessando sua espada. Ele bloqueia vários ataques usando defesas elementais (pedra, neve), mas finalmente toma dano significativo de Keren e Tony.
 
-**Golem de Fogo**: Usa ataques devastadores em área, causando dano em múltiplos alvos. Ele continua trocando escudos defensivos baseados em elementos (fogo, gelo) e tenta atacar prioritariamente a Emmergade.
+**Golem de Fogo**: Usa ataques devastadores em área, causando dano em múltiplos alvos. Ele continua trocando escudos defensivos baseados em elementos (fogo, gelo) e tenta atacar prioritariamente a Emmergard.
 
 ## Construção de Mundo
 
@@ -383,9 +383,9 @@ O bloco 4 termina com o grupo ainda enfrentando os golems elementais em uma bata
 
 **Cena 6 - A Defesa com Parry**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Kaelion, um bárbaro musculoso com armadura de couro e tatuagens tribais, usa sua espada para desviar um golpe massivo do golem de pedra usando a técnica Parry. Faíscas voam do impacto enquanto ele bloqueia o ataque com precisão. Seus olhos brilham com determinação enquanto o Fight Spirit o envolve em uma aura vermelha.*
 
-**Cena 7 - O Ataque em Área Devastador**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. O golem de fogo levanta seus braços enquanto uma explosão massiva de fogo azul se expande em todas as direções. Múltiplos personagens (Bartrock, Kaelion, Emmergade) tentam se proteger enquanto a onda de fogo os atinge. A cena é caótica e devastadora, mostrando o poder destrutivo do golem.*
+**Cena 7 - O Ataque em Área Devastador**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. O golem de fogo levanta seus braços enquanto uma explosão massiva de fogo azul se expande em todas as direções. Múltiplos personagens (Bartrock, Kaelion, Emmergard) tentam se proteger enquanto a onda de fogo os atinge. A cena é caótica e devastadora, mostrando o poder destrutivo do golem.*
 
-**Cena 8 - A Cura Desesperada**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Emmergade, uma guardiã espiritual com vestes brancas e brilhantes, lança uma magia de cura poderosa em Kaelion. Raios de luz dourada envolvem Kaelion enquanto suas feridas se fecham e sua energia é restaurada. A cena é curativa e esperançosa, contrastando com a violência do combate ao redor.*
+**Cena 8 - A Cura Desesperada**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Emmergard, uma guardiã espiritual com vestes brancas e brilhantes, lança uma magia de cura poderosa em Kaelion. Raios de luz dourada envolvem Kaelion enquanto suas feridas se fecham e sua energia é restaurada. A cena é curativa e esperançosa, contrastando com a violência do combate ao redor.*
 
 **Cena 9 - O Congelamento Progressivo**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Dustin, após sua segunda travessia, mostra seus braços e pernas parcialmente congelados com cristais de gelo brilhantes se formando em sua pele. Seu rosto mostra desconforto enquanto os efeitos da exposição prolongada às órbitas se manifestam. A cena é preocupante e visualmente impressionante, mostrando o custo físico de interagir com a magia.*
 

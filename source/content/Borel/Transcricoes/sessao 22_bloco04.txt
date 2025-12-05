@@ -478,7 +478,7 @@ BLOCO 4 - [1:30:04 - 1:59:58]
 [1:52:26] - 2-FS_SIMOES - Foi.
 [1:52:27] - 5-HUGONORTH - Estou de bora.
 [1:52:28] - 2-FS_SIMOES - Acabou o movimento.
-[1:52:30] - 5-HUGONORTH - Minha Kaisa, elas vão concentrar na Embergard.
+[1:52:30] - 5-HUGONORTH - Minha Kaisa, elas vão concentrar na Emmergard.
 [1:52:37] - 5-HUGONORTH - Essas aqui vão atrás de você, Tony.
 [1:52:41] - 5-HUGONORTH - Dois ataques no Tony.
 [1:52:49] - 5-HUGONORTH - Um é crítico e o segundo é 18 não acerta, né?
@@ -501,7 +501,7 @@ BLOCO 4 - [1:30:04 - 1:59:58]
 [1:53:34] - 5-HUGONORTH - Outro é crítico.
 [1:53:37] - 5-HUGONORTH - E outro é 12 não acerta, o crítico...
 [1:53:41] - 5-HUGONORTH - 8 mais dois, 10.
-[1:53:43] - 5-HUGONORTH - 10 de dano na Embergard.
+[1:53:43] - 5-HUGONORTH - 10 de dano na Emmergard.
 [1:53:44] - 3-MATHEUSBARTCOSTA - Aham.
 [1:53:45] - 5-HUGONORTH - Show, Dustin, sua vez de matar a Kvass é a próxima.
 [1:53:47] - 5-HUGONORTH - Sim.

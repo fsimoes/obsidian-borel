@@ -7,7 +7,7 @@ tags:
   - tipo/npc
 ---
 
-# Personagens Não Jogadores
+# 👹 Personagens Não Jogadores
 
 Listagem dos principais NPCs encontrados na campanha.
 

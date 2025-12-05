@@ -359,7 +359,7 @@ Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo 
 - **Batalha épica contra golems elementais** - Combate intenso com três golems
 - **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas enfraquece escudos
 - **Coragem de Dustin** - Cruzou ponte de gelo duas vezes, ativando órbitas
-- **Defesa estratégica da Emmergade** - Tony protegeu eficientemente usando reações
+- **Defesa estratégica da Emmergard** - Tony protegeu eficientemente usando reações
 - **Vitória final** - Todos os golems destruídos, grupo coletou órbitas como recompensas
 - **Compreensão completa do puzzle** - Coordenação entre duas salas simultaneamente
 
@@ -386,7 +386,7 @@ Após derrotar os golems elementais e abrir a porta com três órbitas mágicas,
 #### Descobertas Importantes
 - **Cartas revelaram Mardus** - Responsável por entregar sujeitos de teste
 - **Letícia forneceu informações** sobre Conselho Arcano do Circo Vermelho
-- **Embergard se despediu** retornando à família
+- **Emmergard se despediu** retornando à família
 - **Missão de resgate planejada** - Grupo planeja retornar para salvar outras vítimas
 
 ### Mistérios Revelados
@@ -413,7 +413,7 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 - **Órbita Marrom** - Coletada após destruição do último golem de pedra (Sessão 24)
 
 ### 🎲 **Estado do Grupo Pós-Sessão 25: Descoberta Sinistra e Missão de Resgate**
-- **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergade com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita. Multitarefa eficiente lutando enquanto mantém efeitos mágicos ativos
+- **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergard com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita. Multitarefa eficiente lutando enquanto mantém efeitos mágicos ativos
 - **Dustin**: **CORAGEM EXTREMA** - Atravessou ponte de gelo duas vezes sob ventos intensos, ativou órbitas, sofreu congelamento progressivo mas sobreviveu. Descobriu mecânica crucial do puzzle. Ajudou Kaelion a se recuperar do congelamento
 - **Nightwolf (Keren)**: **COMBATE EFETIVO** - Primeiro dano significativo no golem de pedra com espada flamejante, causou 12 de dano arrancando pedaços. Lançou Fireballs em área causando dano nos golems
 - **Bartrock**: **COORDENAÇÃO TÁTICA** - Coordenou ataque com Thaís Carla causando 32 pontos de dano total. Tentou Meteor Swarm bloqueado por proteção de gelo, revelando mecânica de defesas
@@ -421,7 +421,7 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 - **Groih**: **DANO MASSIVO** - Causou 12 de dano iniciando destruição do primeiro golem. Mudou estratégia para defesa (escudo e longsword), teve escudo arrancado pelo golem de fogo
 - **Boren**: **TELEPORTAÇÃO ESTRATÉGICA** - Usou Mist Step para cruzar ponte instantaneamente, evitando testes de acrobacia perigosos
 - **Orestan**: **EXPLORAÇÃO E ANÁLISE** - Explorou salas secundárias, tentou interagir com órbitas, coordenou com NightWolf sobre puzzle dos totens
-- **Embergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
+- **Emmergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
 - **Uruk**: **CURADO** - Orestan realizou ritual de purificação perigoso curando-o da possessão (Sessão 25)
 - **Mardus**: **DESCOBERTO** - Responsável por entregar sujeitos de teste para experimentos (Sessão 25)
 - **Bartrock**: **DESAPARECIDO** - Desapareceu durante vigília e foi substituído por ovelha com cheiro podre (Sessão 25)
@@ -475,13 +475,13 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ## 🔥 **APÓS A SESSÃO 25: OS EXPERIMENTOS HORRENDOS E MISSÃO DE RESGATE!**
 
-**A Sessão 25 foi chocante:** O grupo descobriu uma das descobertas mais sombrias da campanha - uma instalação subterrânea onde pessoas estão sendo transformadas em criaturas modificadas através de experimentos horrendos. Bartrock desapareceu misteriosamente durante vigília e foi substituído por uma ovelha com cheiro podre, deixando o grupo sem respostas. Orestan teve um reencontro emocional com Uruk, seu amigo de tribo transformado em criatura, e realizou um ritual perigoso de purificação que quase o matou mas curou Uruk com sucesso. O grupo descobriu cartas revelando Mardus como responsável por entregar sujeitos de teste. Letícia forneceu informações fragmentadas sobre o Conselho Arcano do Circo Vermelho. Embergard se despediu retornando à família após missão bem-sucedida. O grupo agora planeja uma missão de resgate para retornar e salvar outras vítimas dos experimentos.
+**A Sessão 25 foi chocante:** O grupo descobriu uma das descobertas mais sombrias da campanha - uma instalação subterrânea onde pessoas estão sendo transformadas em criaturas modificadas através de experimentos horrendos. Bartrock desapareceu misteriosamente durante vigília e foi substituído por uma ovelha com cheiro podre, deixando o grupo sem respostas. Orestan teve um reencontro emocional com Uruk, seu amigo de tribo transformado em criatura, e realizou um ritual perigoso de purificação que quase o matou mas curou Uruk com sucesso. O grupo descobriu cartas revelando Mardus como responsável por entregar sujeitos de teste. Letícia forneceu informações fragmentadas sobre o Conselho Arcano do Circo Vermelho. Emmergard se despediu retornando à família após missão bem-sucedida. O grupo agora planeja uma missão de resgate para retornar e salvar outras vítimas dos experimentos.
 
 **A campanha Borel atingiu novos níveis de horror e heroísmo - onde a descoberta de atrocidades leva a missões de resgate!** 🎲⚔️
 
 ## 🔥 **SESSÃO 24: A BATALHA FINAL DOS GOLEMS E VITÓRIA TRIUNFANTE!**
 
-**A Sessão 24 foi épica:** O grupo finalmente completou a batalha contra os golems elementais, demonstrando coragem extrema e resolução estratégica. Dustin atravessou duas vezes uma ponte de gelo escorregadia sob ventos intensos para ativar órbitas mágicas, sofrendo congelamento progressivo mas sobrevivendo. Tony demonstrou defesa estratégica perfeita protegendo Emmergade com reações de escudo, sendo elogiado pelo mestre, enquanto lutava com uma mão e mantinha contato com órbita com a outra. Kaelion superou congelamento extremo e derrotou o último golem de pedra usando Fighting Spirit, encerrando a batalha épica. O grupo descobriu completamente a mecânica do puzzle: tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação simultânea. Todos os golems foram destruídos e o grupo coletou órbitas vermelha e marrom como recompensas.
+**A Sessão 24 foi épica:** O grupo finalmente completou a batalha contra os golems elementais, demonstrando coragem extrema e resolução estratégica. Dustin atravessou duas vezes uma ponte de gelo escorregadia sob ventos intensos para ativar órbitas mágicas, sofrendo congelamento progressivo mas sobrevivendo. Tony demonstrou defesa estratégica perfeita protegendo Emmergard com reações de escudo, sendo elogiado pelo mestre, enquanto lutava com uma mão e mantinha contato com órbita com a outra. Kaelion superou congelamento extremo e derrotou o último golem de pedra usando Fighting Spirit, encerrando a batalha épica. O grupo descobriu completamente a mecânica do puzzle: tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação simultânea. Todos os golems foram destruídos e o grupo coletou órbitas vermelha e marrom como recompensas.
 
 **A campanha Borel atingiu novos níveis de heroísmo e resolução de puzzles - onde coragem e estratégia conquistam vitória!** 🎲⚔️
 

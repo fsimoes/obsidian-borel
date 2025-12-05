@@ -34,9 +34,9 @@ O quinto e último bloco da sessão 24 chega ao clímax com a destruição final
 
 O bloco 5 inicia com Groih (HIGORVS1) continuando o combate contra os golems. Ele usa sua Great Sword para atacar, conseguindo acertar com 16 e causando 12 de dano ao golem. Em seguida, ele realiza um segundo ataque também bem-sucedido. Bartrock então ataca o golem, causando 9 de dano, e o golem finalmente explode em cinzas, deixando cair uma órbita vermelha no chão.
 
-O combate continua com a Embergard atacando o golem de pedra número 5, causando 5 de dano. Há uma discussão sobre encerrar a sessão devido à hora avançada, mas o grupo decide continuar. NightWolf precisa atravessar a área gelada e pergunta se perderia um turno ao fazer isso, mas o mestre confirma que ela consegue atacar o golem.
+O combate continua com a Emmergard atacando o golem de pedra número 5, causando 5 de dano. Há uma discussão sobre encerrar a sessão devido à hora avançada, mas o grupo decide continuar. NightWolf precisa atravessar a área gelada e pergunta se perderia um turno ao fazer isso, mas o mestre confirma que ela consegue atacar o golem.
 
-Embergard usa um escudo de gelo para defender Bartrock de uma flecha. Bartrock então tenta usar Dash para chegar ao outro golem, mas só consegue chegar até uma posição específica. Ele decide andar para baixo e menciona que tem a mão na órbita, usando o escudo paliativo que usa a mão na pocha.
+Emmergard usa um escudo de gelo para defender Bartrock de uma flecha. Bartrock então tenta usar Dash para chegar ao outro golem, mas só consegue chegar até uma posição específica. Ele decide andar para baixo e menciona que tem a mão na órbita, usando o escudo paliativo que usa a mão na pocha.
 
 Tony (FS_SIMOES) entra em ação, atacando o golem com sua Great Sword. Ele consegue um acerto crítico com 20 e causa 10 de dano, arrancando pedaços de pedra do golem. Em seguida, ele acerta novamente com 22 e causa 11 de dano. Ele faz um comentário engraçado sobre o golem não ser nada sem seu escudinho, enquanto observa seu próprio escudo voando e fica sem graça.
 
@@ -62,7 +62,7 @@ A sessão termina com o grupo coletando as órbitas e discutindo as lições apr
 ## Eventos Principais
 
 1. **A Destruição do Primeiro Golem**: Groih e Bartrock conseguem finalmente destruir um dos golems de pedra, fazendo-o explodir em cinzas e deixar uma órbita vermelha.
-2. **O Ataque de Embergard**: A NPC Embergard ataca o golem de pedra número 5, causando dano adicional.
+2. **O Ataque de Emmergard**: A NPC Emmergard ataca o golem de pedra número 5, causando dano adicional.
 3. **O Crítico Duplo de Tony**: Tony consegue dois acertos poderosos no golem, arrancando pedaços de pedra e comentando sobre o escudo do golem.
 4. **A Travessia Gélida de Kaelion**: Kaelion atravessa a área gelada e toma dano de gelo, começando a sofrer os efeitos do congelamento extremo.
 5. **O Congelamento de Kaelion**: Kaelion sente sua perna esquerda ficar roxa e perder a sensibilidade devido ao frio extremo.
@@ -78,7 +78,7 @@ A sessão termina com o grupo coletando as órbitas e discutindo as lições apr
 - **"Meu Deus do céu"**: Comentário inicial sobre a intensidade do combate.
 - **"Quando eu pedregulho bem, dá uma cacetada em você"**: Comentário sobre os ataques poderosos.
 - **"O golem explode em cinzas"**: A destruição do primeiro golem, deixando uma órbita vermelha.
-- **"A Embergard vai atacar... O golem de 5"**: A NPC entra em ação.
+- **"A Emmergard vai atacar... O golem de 5"**: A NPC entra em ação.
 - **"Qual da suason você tem, méd翻?"**: Pergunta confusa durante o combate.
 - **"Não me apague nem a gente que eu sabia resolver esse problema"**: Tony confiante antes de atacar.
 - **"Ah, você não é nada sem seu escudinho"**: Comentário engraçado de Tony sobre o golem.
@@ -162,14 +162,14 @@ A sessão termina com o grupo coletando as órbitas e discutindo as lições apr
 ## Detalhes da Batalha
 
 **Participantes**: 
-- Grupo: Dustin, Tony, Kaelion, NightWolf, Bartrock, Orestan, Groih, Embergard
+- Grupo: Dustin, Tony, Kaelion, NightWolf, Bartrock, Orestan, Groih, Emmergard
 - Inimigos: Golem de Pedra (vários), Golem de Fogo
 
 **Desenvolvimento**:
 - O combate continua em duas salas separadas, com os golems sendo finalmente derrotados.
 - Groih causa 12 de dano no golem com sua Great Sword.
 - Bartrock causa 9 de dano adicional, destruindo o primeiro golem de pedra que explode em cinzas e deixa uma órbita vermelha.
-- Embergard ataca o golem de pedra número 5, causando 5 de dano.
+- Emmergard ataca o golem de pedra número 5, causando 5 de dano.
 - Tony ataca com sua Great Sword, conseguindo um acerto crítico com 20 e causando 10 de dano, além de um segundo acerto com 22 causando 11 de dano.
 - Kaelion atravessa a área gelada e toma 1d6 de dano de gelo, começando a sofrer congelamento extremo.
 - Dustin ajuda Kaelion a se recuperar do congelamento.
@@ -261,7 +261,7 @@ A sessão termina com o grupo coletando as órbitas e discutindo as lições apr
 - **Momento Notável**: Presente no combate mas não toma ações destacadas neste bloco.
 - **Contribuição**: Continua presente e pronto para apoiar o grupo.
 
-### Embergard (NPC)
+### Emmergard (NPC)
 - **Classe/Perfil**: Guardiã Espiritual/Curandeira
 - **Ações Principais**: 
   - Ataca o golem de pedra número 5, causando 5 de dano
@@ -271,7 +271,7 @@ A sessão termina com o grupo coletando as órbitas e discutindo as lições apr
 
 ## NPCs Notáveis
 
-**Embergard**: A guardiã espiritual continua sendo um aliado valioso, atacando os golems e protegendo o grupo com escudos mágicos. Ela usa um escudo de gelo para defender Bartrock de uma flecha e causa dano adicional no golem de pedra.
+**Emmergard**: A guardiã espiritual continua sendo um aliado valioso, atacando os golems e protegendo o grupo com escudos mágicos. Ela usa um escudo de gelo para defender Bartrock de uma flecha e causa dano adicional no golem de pedra.
 
 **Golem de Pedra**: Os golems de pedra finalmente são destruídos após uma batalha longa e intensa. Quando destruídos, eles explodem em cinzas ou pedregolinhos, deixando órbitas coloridas (vermelha e marrom) no chão que podem ser coletadas pelo grupo.
 
@@ -329,7 +329,7 @@ O bloco 5 termina com uma vitória triunfante para o grupo. Após uma batalha lo
 
 **Cena 1 - A Explosão em Cinzas**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. O golem de pedra explode em uma nuvem massiva de cinzas vermelhas brilhantes enquanto pedaços de rocha voam em todas as direções. Uma órbita vermelha pulsante cai no chão entre as cinzas, brilhando com energia mágica. Bartrock e Groih estão em primeiro plano, observando a destruição do golem com expressões de triunfo. A cena é épica e dramática, com partículas de cinzas flutuando no ar e luz mágica emanando da órbita.*
 
-**Cena 2 - O Escudo de Gelo Protetor**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Embergard cria um escudo translúcido de gelo que aparece instantaneamente na frente de Bartrock, bloqueando uma flecha que voa em direção a ele. O escudo brilha com luz azul enquanto cristais de gelo se formam em padrões complexos. A flecha congela no impacto e cai no chão. A cena mostra proteção mágica em ação, com detalhes visuais impressionantes.*
+**Cena 2 - O Escudo de Gelo Protetor**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Emmergard cria um escudo translúcido de gelo que aparece instantaneamente na frente de Bartrock, bloqueando uma flecha que voa em direção a ele. O escudo brilha com luz azul enquanto cristais de gelo se formam em padrões complexos. A flecha congela no impacto e cai no chão. A cena mostra proteção mágica em ação, com detalhes visuais impressionantes.*
 
 **Cena 3 - O Crítico de Tony**: *Fantasia RPG de mesa D&D, estilo Magic: The Gathering. Tony, um clérigo com armadura e símbolo sagrado, desfere um golpe crítico devastador em um golem de pedra com sua Great Sword. Pedaços grandes de rocha voam enquanto o golem recua. O escudo do golem desaparece momentaneamente, revelando seu interior brilhante. Tony tem uma expressão determinada enquanto seu próprio escudo voa ao fundo. A cena é violenta e poderosa, mostrando o impacto do golpe crítico.*
 

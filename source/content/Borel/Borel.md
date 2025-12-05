@@ -7,24 +7,29 @@ tags:
   - pagina-principal
 ---
 
-# Bem-vindo ao RPG Borel
+# 🎲 Bem-vindo ao RPG Borel
 
 Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas as informações sobre nossas aventuras, personagens e mundo.
 
-## Navegação Rápida
+## 🧭 Navegação Rápida
 
 - [[Resumo_Completo_Campanha|📖 Resumo Completo da Campanha]] - **Para novos jogadores!**
-- [[Locais/index|Locais]]
-- [[Players/|Conheça os Jogadores]]
-- [[NPCs/|NPCs]]
-- [[Plots/index|Tramas]]
-- [[Sessoes/|Notas das Sessões]]
+- [[Locais/index|🏰 Locais]]
+- [[Players/index|👤 Conheça os Jogadores]]
+- [[NPCs/index|👹 NPCs]]
+- [[Plots/index|📖 Tramas]]
+- [[Sessoes/index|🎲 Notas das Sessões]]
 - [[Cenas/index|🎭 Cenas Memoráveis]]
+- [[Dashboard|📊 Dashboard]]
+- [[Cronologia|📅 Cronologia]]
+- [[Estatisticas|📊 Estatísticas]]
+- [[Relacionamentos|🔗 Relacionamentos]]
+- [[Citacoes|💬 Citações]]
 
 
-## Atualizações Recentes
+## 📢 Atualizações Recentes
 
-### Sessão 25 - Os Experimentos Horrendos (RECENTE)
+### 🎲 Sessão 25 - Os Experimentos Horrendos (RECENTE)
 A campanha revelou uma das descobertas mais sombrias até agora:
 - **Transformação de Bartrock**: Desapareceu durante vigília e foi substituído por ovelha com cheiro podre
 - **Descoberta da instalação**: Corredor subterrâneo com celas contendo criaturas modificadas
@@ -32,7 +37,7 @@ A campanha revelou uma das descobertas mais sombrias até agora:
 - **Ritual de purificação**: Orestan realizou ritual perigoso curando Uruk da possessão
 - **Descoberta de Mardus**: Cartas revelam responsável por entregar sujeitos de teste
 - **Informações sobre Conselho Arcano**: Letícia forneceu informações fragmentadas
-- **Despedida de Embergard**: Retornou à família após missão bem-sucedida
+- **Despedida de Emmergard**: Retornou à família após missão bem-sucedida
 - **Missão de resgate planejada**: Grupo planeja retornar para salvar outras vítimas
 
 ### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
@@ -40,7 +45,7 @@ A campanha atingiu novos níveis de combate estratégico e resolução de puzzle
 - **Batalha épica contra golems elementais** - Combate intenso contra três golems (gelo, pedra e fogo) com escudos elementais
 - **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas de um elemento enfraquece escudos nas salas opostas
 - **Coragem de Dustin** - Cruzou ponte de gelo duas vezes, ativando órbitas e sofrendo congelamento progressivo
-- **Defesa estratégica da Emmergade** - Tony protegeu eficientemente usando reações com escudo, sendo elogiado pelo mestre
+- **Defesa estratégica da Emmergard** - Tony protegeu eficientemente usando reações com escudo, sendo elogiado pelo mestre
 - **Fighting Spirit de Kaelion** - Ativou habilidade e derrotou o último golem de pedra, encerrando a batalha
 - **Críticos duplos de Tony** - Acertos poderosos arrancando pedaços dos golems enquanto mantinha contato com órbita
 - **Vitória final** - Todos os golems destruídos, grupo coletou órbitas vermelha e marrom como recompensas
@@ -126,9 +131,9 @@ A campanha tomou um rumo dramático com revelações chocantes:
 
 Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 
-# Índice da Campanha
+# 📋 Índice da Campanha
 
-## Plots Ativos
+## 📖 Plots Ativos
 
 ### Principais
 - **A Possessão de Bartrock** - Entidade maligna controlando o mago, desapareceu na Sessão 25
@@ -147,21 +152,21 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - **O Destino de Celeste** - Executada por Bartrock possuído na prisão
 - **A Maldição de Nightwolf** - **CURADO** na Sessão 20
 
-## Personagens
+## 👤 Personagens
 
-### NPCs Principais
+### 👹 NPCs Principais
 - [[NPCs/Rita|Rita]] - Líder da resistência (desaparecida)
 - [[NPCs/Celeste|Celeste]] - Misteriosa spellcaster (**MORTA** - executada por Bartrock possuído)
 - [[NPCs/Alberto|Alberto]] - Mercador influente (contratou grupo para missão em Londe)
 - [[NPCs/Jorge|Jorge]] - Jovem sobrevivente da nobreza (agora sob cuidados do Templo de Megarde)
 - [[NPCs/Leticia|Letícia]] - Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano (Sessão 25)
 - [[NPCs/Uruk|Uruk]] - Amigo de Orestan, **CURADO** de possessão no Santuário de Córdia (Sessão 25)
-- [[NPCs/Emmergard|Embergard]] - **SEPARADA** - Retornou à família na Sessão 25
+- [[NPCs/Emmergard|Emmergard]] - **SEPARADA** - Retornou à família na Sessão 25
 - [[NPCs/Mardus|Mardus]] - Responsável por entregar sujeitos de teste para experimentos (descoberto na Sessão 25)
 - **Entidade da Máscara** - Ser maligno que possui Bartrock (ex-mestre de Celeste)
 - [[NPCs/Thais Carla|Thaís Carla]] - Guardiã obesa e intimidadora da taverna em Rilonde
 
-### Jogadores
+### 👤 Jogadores
 - [[Players/Borin|Borin]] - Anão inventor (status desconhecido desde Sessão 19)
 - [[Players/LordBart|Bartrock]] - Mago elfo (**DESAPARECIDO** na Sessão 25, substituído por ovelha)
 - [[Players/Kaelion|Kaelion]] - Separado do grupo na Sessão 9
@@ -171,9 +176,9 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - [[Players/Orestan|Orestan]] - Guerreiro religioso, curou Uruk na Sessão 25
 - [[Players/Groih|Groih]] - Membro ativo do grupo
 
-## Locais
+## 🏰 Locais
 
-### Cidades Principais
+### 🏰 Cidades Principais
 - [[Locais/Alva Cidadela|Alva Cidadela]] - Cidade-fortaleza conquistada por Rita
 - [[Locais/Elriste|Elriste]] - Cidade dividida pela desigualdade (grupo fugiu após revolução)
 - [[Locais/Rilonde|Rilonde]] - Centro comercial e ponto de origem
@@ -190,7 +195,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - **Galpão de Alberto** - Centro de operações comerciais e negociações
 - **Taverna com Thaís Carla** - Local de hospedagem do grupo em Rilonde
 
-## Eventos Importantes
+## ⚔️ Eventos Importantes
 
 ### Sessões 1-5
 1. Fuga da taverna inicial
@@ -264,12 +269,12 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 1. **Bloco 1**: A Entrada e o Mistério - Bartrock desaparece, substituído por ovelha, descoberta da escada
 2. **Bloco 2**: As Celas e as Criaturas - Corredor com celas de criaturas modificadas, reencontro com Uruk
 3. **Bloco 3**: O Ritual de Purificação - Orestan cura Uruk com ritual perigoso, descoberta de cartas
-4. **Bloco 4**: Informações e Despedidas - Letícia fornece informações sobre Conselho Arcano, Embergard se despede
+4. **Bloco 4**: Informações e Despedidas - Letícia fornece informações sobre Conselho Arcano, Emmergard se despede
 
 ### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 1. **Bloco 1**: O Enigma dos Golems Elementais - Continuação da batalha, destruição do golem de gelo
 2. **Bloco 2**: Estratégias e Revelações - Dustin pega órbita azul, descoberta de proteções mágicas
-3. **Bloco 3**: Totens e Descobertas Misteriosas - Travessia da ponte de gelo, cura desesperada da Emmergade
+3. **Bloco 3**: Totens e Descobertas Misteriosas - Travessia da ponte de gelo, cura desesperada da Emmergard
 4. **Bloco 4**: Coragem e Congelamento - Dustin atravessa ponte duas vezes, ativa órbitas, sofre congelamento
 5. **Bloco 5**: O Fim da Batalha e Revelações do Puzzle - Vitória final, coleta de órbitas, compreensão completa do puzzle
 
@@ -282,11 +287,11 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 1. **Bloco 1**: O Enigma dos Golems Elementais - Continuação da batalha, destruição do golem de gelo
 2. **Bloco 2**: Estratégias e Revelações - Dustin pega órbita azul, descoberta de proteções mágicas
-3. **Bloco 3**: Totens e Descobertas Misteriosas - Travessia da ponte de gelo, cura desesperada da Emmergade
+3. **Bloco 3**: Totens e Descobertas Misteriosas - Travessia da ponte de gelo, cura desesperada da Emmergard
 4. **Bloco 4**: Coragem e Congelamento - Dustin atravessa ponte duas vezes, ativa órbitas, sofre congelamento
 5. **Bloco 5**: O Fim da Batalha e Revelações do Puzzle - Vitória final, coleta de órbitas, compreensão completa do puzzle
 
-## Mistérios Pendentes
+## 🔍 Mistérios Pendentes
 1. **RESOLVIDO**: Verdadeira natureza da transformação de Bartrock - Possessão por entidade maligna através de máscara
 2. Destino de Rita após seu desaparecimento
 3. Identidade do Cavaleiro Misterioso em Elriste
@@ -305,7 +310,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 16. **NOVO**: Consequências das marcas permanentes do ritual pagão
 17. **NOVO**: Missão do arquimago para investigar o demônio
 
-## Facções
+## 🏛️ Facções
 
 ### Ativas
 - Resistência de Rita
@@ -316,13 +321,13 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 - Nobreza da Alva Cidadela
 - Guarda da Alva Cidadela
 
-## Estado Atual da Campanha
+## 📊 Estado Atual da Campanha
 
 ### Localização
 O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistra. Após derrotar golems elementais e abrir porta com três órbitas mágicas, descobriram um corredor com celas contendo criaturas modificadas através de experimentos horrendos. Orestan curou Uruk, seu amigo de tribo, e o grupo planeja retornar para resgatar outras vítimas.
 
 ### Situação do Grupo (Pós-Sessão 25)
-- **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergade com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita
+- **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergard com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita
 - **Dustin**: **CORAGEM EXTREMA** - Atravessou ponte de gelo duas vezes sob ventos intensos, ativou órbitas, sofreu congelamento progressivo mas sobreviveu. Descobriu mecânica crucial do puzzle
 - **Nightwolf (Keren)**: **COMBATE EFETIVO** - Primeiro dano significativo no golem de pedra com espada flamejante, causou 12 de dano arrancando pedaços. Lançou Fireballs em área
 - **Bartrock**: **COORDENAÇÃO TÁTICA** - Coordenou ataque com Thaís Carla causando 32 pontos de dano total. Tentou Meteor Swarm bloqueado por proteção de gelo, revelando mecânica de defesas
@@ -330,7 +335,7 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 - **Groih**: **DANO MASSIVO** - Causou 12 de dano iniciando destruição do primeiro golem. Mudou estratégia para defesa (escudo e longsword), teve escudo arrancado pelo golem de fogo
 - **Boren**: **TELEPORTAÇÃO ESTRATÉGICA** - Usou Mist Step para cruzar ponte instantaneamente, evitando testes de acrobacia perigosos
 - **Orestan**: **EXPLORAÇÃO E ANÁLISE** - Explorou salas secundárias, tentou interagir com órbitas, coordenou com NightWolf sobre puzzle dos totens
-- **Embergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
+- **Emmergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano (Sessão 25)
 - **Uruk**: **CURADO** - Orestan realizou ritual de purificação perigoso curando-o da possessão (Sessão 25)

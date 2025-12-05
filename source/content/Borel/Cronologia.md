@@ -7,9 +7,9 @@ tags:
   - cronologia
 ---
 
-# Cronologia Completa da Campanha Borel
+# 🎲 Cronologia Completa da Campanha Borel
 
-## Por Sessão
+## 📅 Por Sessão
 
 ### Bloco 1: Início da Jornada (Sessões 1-5)
 
@@ -45,9 +45,9 @@ tags:
 - [[Sessoes/sessao 24_bloco01_resumo|Sessão 24]] - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 - [[Sessoes/sessao 25_bloco01_resumo|Sessão 25]] - O Legado de Rilonde: Os Horrores Subterrâneos
 
-## Por Evento
+## 📊 Por Evento
 
-### Transformações
+### 🔮 Transformações
 
 - **Sessão 16**: Nightwolf revela licantropia
 - **Sessão 18**: Dustin perde identidade no ritual da travessia
@@ -63,12 +63,12 @@ tags:
 - **Sessão 22**: Batalha contra minhocas gigantes
 - **Sessão 23-24**: Batalha contra golems elementais
 
-### Traições
+### ⚠️ Traições
 
 - **Sessão 9**: Kaelion trai o grupo avisando Rita
 - **Sessão 21**: Cerberus revela traição e prende o grupo
 
-### Mortes e Ressurreições
+### 💀 Mortes e Ressurreições
 
 - **Sessão 2**: Morte de Nikov e Lord Bart
 - **Sessão 21**: Ressurreição de Nightwolf
@@ -79,27 +79,85 @@ tags:
 - **Sessão 18**: Descoberta do ritual apocalíptico na floresta
 - **Sessão 25**: Descoberta dos experimentos horrendos
 
-## Timeline Visual
+## 📈 Timeline Visual Interativa
 
 ```mermaid
 timeline
-    title Campanha Borel - Principais Eventos
-    section Bloco 1
-        Sessão 1 : Negociações : Fuga da Taverna
-        Sessão 3 : Investigação : Descoberta dos Roubos
-        Sessão 5 : Confronto : Revelação sobre Celeste
-    section Bloco 2
-        Sessão 6 : Descoberta : Armazém 568
-        Sessão 8 : Revolução : Encontro com Rita
-        Sessão 11 : Explosão : Muralha Destruída
-        Sessão 14 : Vitória : Cerco ao Castelo
-    section Bloco 3
-        Sessão 16 : Transformação : Licantropia de Nightwolf
-        Sessão 18 : Ritual : Dustin Perde Identidade
-        Sessão 19 : Horror : Floresta dos Horrores
-        Sessão 21 : Ressurreição : Nightwolf Retorna
-        Sessão 25 : Descoberta : Experimentos Horrendos
+    title Campanha Borel - Linha do Tempo Completa
+    section Arco 1
+        Sessão 1 : Negociações Frustradas
+        Sessão 2 : Encontro na Cabana
+        Sessão 3 : Investigação e Descoberta dos Roubos
+        Sessão 4 : Ataque Noturno
+        Sessão 5 : Confronto Final
+    section Arco 2
+        Sessão 6 : Descoberta do Armazém 568
+        Sessão 7 : Carroça Misteriosa
+        Sessão 8 : Sussurros de Revolta
+        Sessão 9 : Traição de Kaelion
+        Sessão 10 : Batalha no Navio
+        Sessão 11 : Explosão da Muralha
+        Sessão 12 : Estratégias de Combate
+        Sessão 13 : Fogo da Revolta
+        Sessão 14 : Cerco Final
+        Sessão 15 : Fuga para Londe
+    section Arco 3
+        Sessão 16 : Licantropia de Nightwolf
+        Sessão 17 : Cura Descoberta
+        Sessão 18 : Dustin Perde Identidade
+        Sessão 19 : Floresta dos Horrores
+        Sessão 20 : Nightwolf Liberto
+        Sessão 21 : Ressurreição e Traição
+        Sessão 22 : Minhocas Gigantes
+        Sessão 23 : Cogumelos e Golems
+        Sessão 24 : Batalha Final dos Golems
+        Sessão 25 : Experimentos Horrendos
 ```
+
+## 📊 Timeline de Eventos por Tipo
+
+### 🔮 Transformações
+
+```mermaid
+gantt
+    title Transformações dos Personagens
+    dateFormat YYYY-MM-DD
+    section Nightwolf
+    Licantropia Descoberta    :milestone, 2024-01-01, 0d
+    Primeiro Controle         :milestone, 2024-01-15, 0d
+    Cura Completa             :milestone, 2024-02-01, 0d
+    Ressurreição              :milestone, 2024-02-10, 0d
+    section Dustin
+    Perda de Identidade       :milestone, 2024-01-15, 0d
+    section Bartrock
+    Possessão pela Máscara    :milestone, 2024-01-05, 0d
+    Transformação em Ovelha   :milestone, 2024-02-20, 0d
+```
+
+### Batalhas Épicas
+
+```mermaid
+graph LR
+    A[Sessão 2<br/>Cabana] --> B[Sessão 10<br/>Navio]
+    B --> C[Sessão 14<br/>Cerco]
+    C --> D[Sessão 19<br/>Floresta]
+    D --> E[Sessão 22<br/>Minhocas]
+    E --> F[Sessão 23-24<br/>Golems]
+    
+    style A fill:#ff6b6b
+    style B fill:#ff6b6b
+    style C fill:#4ecdc4
+    style D fill:#ff6b6b
+    style E fill:#ff6b6b
+    style F fill:#4ecdc4
+```
+
+### Descobertas Importantes
+
+- **Sessão 6**: Armazém 568 (laboratório secreto de Celeste)
+- **Sessão 18**: Ritual apocalíptico na floresta demoníaca
+- **Sessão 21**: Traição de Cerberus
+- **Sessão 25**: Instalação de experimentos horrendos
 
 ## Links Rápidos
 

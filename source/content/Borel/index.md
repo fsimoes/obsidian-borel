@@ -6,40 +6,40 @@ tags:
   - tipo/indice
 ---
 
-# Bem-vindo ao RPG Borel
+# 🎲 Bem-vindo ao RPG Borel
 
 Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas as informações sobre nossas aventuras, personagens e mundo.
 
-## Navegação Rápida
+## 🧭 Navegação Rápida
 
 - [[Resumo_Completo_Campanha|📖 Resumo Completo da Campanha]] - **Para novos jogadores!**
-- [[Locais/index|Locais]]
-- [[Players/|Conheça os Jogadores]]
-- [[NPCs/|NPCs]]
-- [[Plots/index|Tramas]]
-- [[Sessoes/|Notas das Sessões]]
-- [[Transcricoes/|Transcrições]]
-- [[Referencias/|Referências Visuais]]
+- [[Locais/index|🏰 Locais]]
+- [[Players/index|👤 Conheça os Jogadores]]
+- [[NPCs/index|👹 NPCs]]
+- [[Plots/index|📖 Tramas]]
+- [[Sessoes/index|🎲 Notas das Sessões]]
+- [[Transcricoes/|📝 Transcrições]]
+- [[Referencias/|🖼️ Referências Visuais]]
 
-## Atualizações Recentes
+## 📢 Atualizações Recentes
 
-### Sessão 25 - O Legado de Rilonde: Os Horrores Subterrâneos e a Purificação (RECENTE)
+### 🎲 Sessão 25 - O Legado de Rilonde: Os Horrores Subterrâneos e a Purificação (RECENTE)
 A campanha mergulhou em mistérios sombrios e momentos emocionais profundos:
-- **Transformação misteriosa de Bartrock** - Após o descanso, Bartrock desapareceu e foi substituído por uma ovelha com cheiro podre
-- **Descoberta das celas de experimentação** - Grupo encontrou humanoides horrendamente modificados com tentáculos costurados ao corpo
-- **Reencontro emocional com Uruk** - Orestan reconheceu seu amigo de tribo transformado em criatura monstruosa
-- **Ritual de purificação** - Orestan realizou ritual perigoso no santuário de Córdia, expulsando a possessão e curando Uruk completamente
-- **Fuga da caverna** - Grupo conseguiu escapar do local de horrores e retornar à cidade de Londres
-- **Despedida de Embergard** - A guerreira deixou o grupo para retornar à sua família, carregando seu marido Dudu embora
-- **Investigação do Conselho Arcano** - Grupo descobriu que o assunto dos teletransportes é extremamente tabu e perigoso
-- **Decisão heroica** - Orestan decidiu retornar à caverna para resgatar outras pessoas possuídas
+- **🔮 Transformação misteriosa de Bartrock** - Após o descanso, Bartrock desapareceu e foi substituído por uma ovelha com cheiro podre
+- **🔍 Descoberta das celas de experimentação** - Grupo encontrou humanoides horrendamente modificados com tentáculos costurados ao corpo
+- **👤 Reencontro emocional com Uruk** - Orestan reconheceu seu amigo de tribo transformado em criatura monstruosa
+- **🔮 Ritual de purificação** - Orestan realizou ritual perigoso no santuário de Córdia, expulsando a possessão e curando Uruk completamente
+- **🏰 Fuga da caverna** - Grupo conseguiu escapar do local de horrores e retornar à cidade de Londres
+- **👹 Despedida de Emmergard** - A guerreira deixou o grupo para retornar à sua família, carregando seu marido Dudu embora
+- **📖 Investigação do Conselho Arcano** - Grupo descobriu que o assunto dos teletransportes é extremamente tabu e perigoso
+- **⚔️ Decisão heroica** - Orestan decidiu retornar à caverna para resgatar outras pessoas possuídas
 
-### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
+### 🎲 Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 A campanha atingiu novos níveis de combate estratégico e resolução de puzzles:
-- **Batalha épica contra golems elementais** - Combate intenso contra três golems (gelo, pedra e fogo) com escudos elementais
+- **⚔️ Batalha épica contra golems elementais** - Combate intenso contra três golems (gelo, pedra e fogo) com escudos elementais
 - **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas de um elemento enfraquece escudos nas salas opostas
 - **Coragem de Dustin** - Cruzou ponte de gelo duas vezes, ativando órbitas e sofrendo congelamento progressivo
-- **Defesa estratégica da Emmergade** - Tony protegeu eficientemente usando reações com escudo, sendo elogiado pelo mestre
+- **Defesa estratégica da Emmergard** - Tony protegeu eficientemente usando reações com escudo, sendo elogiado pelo mestre
 - **Fighting Spirit de Kaelion** - Ativou habilidade e derrotou o último golem de pedra, encerrando a batalha
 - **Vitória final** - Todos os golems destruídos, grupo coletou órbitas vermelha e marrom como recompensas
 

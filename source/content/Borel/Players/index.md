@@ -7,7 +7,7 @@ tags:
   - tipo/personagem
 ---
 
-# Personagens dos Jogadores
+# 👤 Personagens dos Jogadores
 
 Explore as fichas, históricos e evoluções dos personagens dos jogadores nesta campanha.
 

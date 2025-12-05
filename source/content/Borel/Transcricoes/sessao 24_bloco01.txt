@@ -448,7 +448,7 @@ BLOCO 1 - [0:00:00 - 0:29:58]
 [0:18:20] - 5-FS_SIMOES - Destreza?
 [0:18:20] - 4-HUGONORTH - Destreza.
 [0:18:23] - 5-FS_SIMOES - Não tá.
-[0:18:25] - 4-HUGONORTH - Emmergade não passou.
+[0:18:25] - 4-HUGONORTH - Emmergard não passou.
 [0:18:27] - 4-HUGONORTH - 9 de dano.
 [0:18:27] - 5-FS_SIMOES - Ufa.
 [0:18:33] - 4-HUGONORTH - Pra quem não sabe.

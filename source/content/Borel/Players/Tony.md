@@ -191,8 +191,8 @@ Agora, após o desaparecimento de Rita e a queda de Alva Cidadela, Tony lidera o
 
 #### Sessão 24: O Legado de Rilonde - DEFESA ESTRATÉGICA ÉPICA E CRÍTICOS PODEROSOS
 - **Bloco 2**: Corrigiu informações sobre movimentação anterior na sessão
-- **Bloco 3**: **DEFESA PERFEITA** - Usou reações com escudo para proteger Emmergade eficientemente, sendo elogiado pelo mestre: "Senhor Tony, você é bom!"
-- **Bloco 3**: **PROTEÇÃO TÁTICA** - Moveu Emmergade usando Dash para posicioná-la estrategicamente, descobrindo que ponte de gelo é escorregadia
+- **Bloco 3**: **DEFESA PERFEITA** - Usou reações com escudo para proteger Emmergard eficientemente, sendo elogiado pelo mestre: "Senhor Tony, você é bom!"
+- **Bloco 3**: **PROTEÇÃO TÁTICA** - Moveu Emmergard usando Dash para posicioná-la estrategicamente, descobrindo que ponte de gelo é escorregadia
 - **Bloco 3**: Entrou em modo Dodge aumentando defesa significativamente
 - **Bloco 4**: **MULTITAREFA ÉPICA** - Manteve contato com órbita usando uma mão enquanto lutava com outra
 - **Bloco 4**: **CRÍTICO NA TESTA** - Arremessou javelin comum conseguindo acerto crítico (10 de dano), encravando lança na testa do golem de pedra de forma visualmente impressionante
