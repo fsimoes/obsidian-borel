@@ -188,3 +188,4 @@ graph TD
 - [[Plots/index|Ver Todos os Plots]]
 - [[Dashboard|Voltar ao Dashboard]]
 - [[Cronologia|Ver Cronologia]]
+
