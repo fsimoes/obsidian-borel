@@ -1,3 +1,30 @@
+---
+title: "Sessão 16 - Parte 3 - Negociações na Prisão"
+date: 2025-07-08
+sessao: 16
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/16
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Emmergard
+locais:
+  - Rilonde
+plots:
+  - A Maldicao de Nightwolf
+  - Viagem para Londe
+eventos:
+  - Negociação
+  - Ritual
+resumo: "Grupo chega a Rilonde, ritual de purificação falha novamente, visita Alberto que oferece trabalho em Londe, grupo visita prisão para ver Celeste e Lucian"
+description: "Chegada em Rilonde. Emmergard tenta ritual de purificação em Nightwolf mas falha novamente. Visita a Alberto que oferece trabalho em Londe relacionado a círculos de teletransporte. Grupo visita prisão para ver Celeste e Lucian."
+---
+
 # O Legado de Rilonde: Capítulo 16 – Parte 3 - Negociações na Prisão
 
 ## Introdução

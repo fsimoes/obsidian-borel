@@ -1,3 +1,30 @@
+---
+title: "Sessão 20 - Bloco 3 - A Invocação Demoníaca"
+date: 2025-08-12
+sessao: 20
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/20
+  - status/ativo
+  - evento/invocacao
+personagens:
+  - Bartrock
+  - Tony
+  - Dustin
+  - Orestan
+locais:
+  - Londe
+  - Universidade de Namarath
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Invocação
+  - Batalha
+resumo: "Portal se abre misteriosamente, demônio poderoso emerge, Bartrock é forçado a reverenciar demônio, demônio teleporta com Tobias, grupo descobre cristal vermelho mágico"
+description: "Portal se abre misteriosamente de onde emergem garras gigantescas puxando demônio poderoso. Bartrock é forçado a fazer reverência involuntária. Demônio identifica Bartrock como invocador e teleporta com Tobias. Grupo descobre cristal vermelho mágico."
+---
+
 # O Portal do Caos: Capítulo 20 – Parte 3 – A Invocação Demoníaca
 
 ## Introdução

@@ -1,3 +1,18 @@
+---
+title: "Thaís Carla"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/thais-carla
+  - status/ativo
+primeira-aparicao: "Sessão 17"
+ultima-aparicao: "Sessão 17"
+status: "Ativa - Guardiã intimidadora da taverna em Rilonde"
+plots-relacionados:
+  - Viagem para Londe
+---
+
 # Thaís Carla
 ![[TahisCarla.png]]
 ## Status: Ativa - Guardiã da Taverna

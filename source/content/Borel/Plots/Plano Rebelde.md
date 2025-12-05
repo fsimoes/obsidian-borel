@@ -1,3 +1,25 @@
+---
+title: "O Plano Rebelde"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/plano-rebelde
+  - status/resolvido
+status: "Concluído"
+urgencia: "N/A"
+inicio: "Sessão 10"
+resolucao: "Sessão 12"
+personagens:
+  - Rita
+  - Tony
+  - Dustin
+  - Borin
+locais:
+  - Elriste
+descricao: "Plano de Rita para derrubar muro de Elriste usando pólvora roubada. Grupo roubou navio com pólvora. Explosão da muralha executada com sucesso na Sessão 12."
+---
+
 # O Plano Rebelde
 
 ## Status: Em Andamento

@@ -1,3 +1,30 @@
+---
+title: "Sessão 20 - Bloco 5 - O Ritual do Circo"
+date: 2025-08-12
+sessao: 20
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/20
+  - status/ativo
+  - evento/ritual
+personagens:
+  - Bartrock
+  - Nightwolf
+  - Dustin
+  - Kaelion
+  - Borin
+locais:
+  - Londe
+plots:
+  - A Maldicao de Nightwolf
+eventos:
+  - Ritual
+  - Cura
+resumo: "Discussão acalorada sobre votação, Bartrock inicia ritual no circo, grupo tenta conter Nightwolf em estado alterado, ritual concluído com sucesso libertando Nightwolf da licantropia"
+description: "Discussão sobre votação para próximo passo. Bartrock inicia ritual no circo enquanto grupo tenta conter Nightwolf em estado alterado. Dustin tenta amarrar Nightwolf com óleo. Ritual concluído com sucesso libertando Nightwolf da condição de lobisomem."
+---
+
 # O Ritual do Circo: Capítulo 5 – Entre Magia e Desconfianças
 
 ## Introdução

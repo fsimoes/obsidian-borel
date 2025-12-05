@@ -1,3 +1,29 @@
+---
+title: "Sessão 24 - Bloco 5 - O Fim da Batalha e Revelações do Puzzle"
+date: 2025-09-16
+sessao: 24
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/24
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Groih
+  - Bartrock
+  - Kaelion
+  - Dustin
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+  - Vitória
+resumo: "Groih e Bartrock continuam combate, golem explode em cinzas deixando órbita vermelha, Dustin enfrenta efeitos severos de congelamento, Kaelion derrota último golem de pedra encerrando batalha"
+description: "Groih e Bartrock continuam combate. Golem explode em cinzas deixando órbita vermelha no chão. Dustin enfrenta efeitos severos de congelamento extremo. Kaelion finalmente derrota último golem de pedra encerrando batalha e revelando órbitas coletáveis."
+---
+
 # O Legado de Rilonde: Capítulo 24 – Bloco 5 – O Fim da Batalha e Revelações do Puzzle
 
 ## Introdução

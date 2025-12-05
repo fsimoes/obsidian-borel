@@ -1,3 +1,31 @@
+---
+title: "Sessão 7 - A Carroça Misteriosa"
+date: 2025-05-06
+sessao: 7
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/07
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Borin
+locais:
+  - Rilonde
+  - Elriste
+plots:
+  - Viagem para Londe
+eventos:
+  - Viagem
+  - Batalha
+resumo: "Borin se junta ao grupo, oferece missão de escolta para Elriste, grupo enfrenta emboscada de goblins e ogro, Bartrock devora braço do ogro"
+description: "Borin, anão inventor com guaxinim mecânico Trash, se junta ao grupo. Missão de escolta para Elriste resulta em emboscada de goblins e ogro. Bartrock devora braço do ogro, chocando o grupo."
+---
+
 # O Legado de Rilonde: Capítulo 7 – A Carroça Misteriosa
 
 ## Introdução

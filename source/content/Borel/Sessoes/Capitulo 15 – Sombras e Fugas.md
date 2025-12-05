@@ -1,3 +1,30 @@
+---
+title: "Sessão 15 - Sombras e Fugas"
+date: 2025-07-01
+sessao: 15
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/15
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Borin
+locais:
+  - Alva Cidadela
+plots:
+  - A Queda da Alva Cidadela
+eventos:
+  - Descoberta
+  - Fuga
+resumo: "Grupo explora cidadela conquistada, testemunha atrocidades, encontra Jorge traumatizado, descobre itens mágicos, Rita desaparece após artefato ser ativado"
+description: "Exploração da cidadela conquistada revela atrocidades dos rebeldes. Nightwolf encontra Jorge, menino traumatizado. Grupo descobre itens mágicos. Rita desaparece após Kaelion ativar artefato. Fuga planejada."
+---
+
 # A Queda da Alva Cidadela: Capítulo 15 – Sombras e Fugas
 
 ## Introdução

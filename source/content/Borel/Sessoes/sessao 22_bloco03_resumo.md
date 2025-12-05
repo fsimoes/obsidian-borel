@@ -1,3 +1,28 @@
+---
+title: "Sessão 22 - Bloco 3 - A Batalha das Minhocas Gigantes"
+date: 2025-09-02
+sessao: 22
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/22
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Kaelion
+  - Groih
+  - Orestan
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Tony executa ataque devastador eliminando quatro minhocas recém-nascidas, Kaelion resgata Emmergard de dentro de minhoca, Groih executa ataque crítico com espada flamejante"
+description: "Tony executa ataque devastador com javelin mágica eliminando quatro minhocas recém-nascidas de uma só vez. Kaelion resgata Emmergard de dentro de minhoca e a estabiliza. Groih executa ataque crítico com espada flamejante causando dano massivo."
+---
+
 # O Legado de Rilonde: Capítulo 22 – A Batalha das Minhocas Gigantes
 
 ## Introdução

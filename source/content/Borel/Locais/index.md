@@ -1,5 +1,10 @@
 ---
 title: Locais
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - tipo/local
 ---
 
 # Locais da Campanha

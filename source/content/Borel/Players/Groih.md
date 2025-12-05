@@ -1,3 +1,19 @@
+---
+title: "Groih"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/groih
+  - status/ativo
+classe: Guerreiro/Bárbaro
+primeira-aparicao: "Sessão 22"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - A Caverna dos Cogumelos
+status: "Membro misterioso com poderes sombrios involuntários que drenam força vital, ativo"
+---
+
 # Groih
 
 ## Perfil

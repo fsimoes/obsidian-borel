@@ -1,3 +1,31 @@
+---
+title: "Sessão 6 - Investigações e Revelações"
+date: 2025-04-29
+sessao: 6
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/06
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+locais:
+  - Rilonde
+  - Armazém 568
+plots:
+  - Misterio de Rilonde
+  - Armazem_568
+eventos:
+  - Investigação
+  - Descoberta
+resumo: "Grupo entrega prisioneiros a Alberto, investiga Armazém 568 descobrindo laboratório de experimentos, queima o local e recebe recompensa"
+description: "Entrega de Celeste e Lucian a Alberto. Investigação do Armazém 568 revela laboratório de experimentos com criatura misteriosa. Grupo queima o local e recebe recompensa em platina."
+---
+
 # A Máscara e o Armazém: Capítulo 6 – Investigações e Revelações
 
 ## Introdução

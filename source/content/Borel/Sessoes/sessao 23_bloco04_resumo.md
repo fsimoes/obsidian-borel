@@ -1,3 +1,28 @@
+---
+title: "Sessão 23 - Bloco 4 - A Dança dos Elementais"
+date: 2025-09-09
+sessao: 23
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/23
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Borin
+  - Bartrock
+  - Orestan
+  - Tony
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+resumo: "Batalha intensa contra três elementais, Borin usa ataques a distância, Bartrock usa Thunderstep, Tony realiza dois ataques críticos consecutivos com movimento acrobático épico bloqueado por escudo"
+description: "Batalha intensa contra três elementais poderosos. Borin usa ataques a distância tentando quebrar gelo. Bartrock usa Thunderstep. Tony realiza dois ataques críticos consecutivos culminando em movimento acrobático épico bloqueado por escudo de gelo."
+---
+
 # Entre Escudos e Elementos: Capítulo 23 – Bloco 4 – A Dança dos Elementais
 
 ## Introdução

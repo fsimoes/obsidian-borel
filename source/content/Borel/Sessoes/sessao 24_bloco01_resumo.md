@@ -1,3 +1,30 @@
+---
+title: "Sessão 24 - Bloco 1 - O Enigma dos Golems Elementais"
+date: 2025-09-16
+sessao: 24
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/24
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Dustin
+  - Orestan
+  - Groih
+  - Nightwolf
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+  - Puzzle
+resumo: "Grupo adentra sala com porta de três símbolos, explora salas secundárias tocando totens, três golems elementais são liberados na sala principal com escudos protetores"
+description: "Grupo encontra sala com porta contendo três símbolos coloridos. Explora salas secundárias através de pontes escuras, tocando totens diferentes. Isso libera três golems elementais (gelo, pedra, fogo) na sala principal, cada um com escudo de elemento diferente."
+---
+
 # O Legado de Rilonde: Capítulo 24 – Bloco 1 – O Enigma dos Golems Elementais
 
 ## Introdução

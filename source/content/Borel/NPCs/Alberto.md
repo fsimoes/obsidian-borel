@@ -1,3 +1,19 @@
+---
+title: "Alberto"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/alberto
+  - status/ativo
+primeira-aparicao: "Sessão 3"
+ultima-aparicao: "Sessão 17"
+status: "Ativo - Mercador influente, contratou grupo para Londe"
+plots-relacionados:
+  - Misterio de Rilonde
+  - Viagem para Londe
+---
+
 # Alberto Eder
 
 ![[Alberto.png]]

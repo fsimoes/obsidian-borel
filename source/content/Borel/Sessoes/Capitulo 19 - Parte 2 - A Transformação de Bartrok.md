@@ -1,3 +1,31 @@
+---
+title: "Sessão 19 - Parte 2 - A Transformação de Bartrok"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Bartrock
+  - Tony
+  - Orestan
+  - Nightwolf
+  - Dustin
+  - Borin
+locais:
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Transformação
+  - Batalha
+resumo: "Orestan se junta ao combate, Bartrock coloca máscara metálica transformando-se em 'Bartrok de Mask', lança Fireball devastadora desintegrando esqueletos"
+description: "Orestan finalmente se junta ao combate. Bartrock revela transformação dramática colocando máscara metálica e assumindo identidade como 'Bartrok de Mask'. Lança Fireball devastadora desintegrando esqueletos invocados."
+---
+
 # A Transformação de Bartrok: Capítulo 19 – Parte 2
 
 ## Introdução

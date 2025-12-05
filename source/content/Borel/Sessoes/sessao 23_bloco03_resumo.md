@@ -1,3 +1,31 @@
+---
+title: "Sessão 23 - Bloco 3 - Escudos Mágicos e Estratégias Desesperadas"
+date: 2025-09-09
+sessao: 23
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/23
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Nightwolf
+  - Orestan
+  - Tony
+  - Dustin
+  - Kaelion
+  - Groih
+  - Bartrock
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+resumo: "Combate continua contra golems elementais, grupo descobre que golems de gelo e fogo possuem escudos mágicos que protegem uns aos outros, quando golem de gelo cai escudos desaparecem"
+description: "Combate continua ferozmente. Golems de gelo e fogo possuem escudos mágicos que protegem uns aos outros dificultando ataques. Quando golem de gelo cai, escudos desaparecem revelando mecânica de defesa."
+---
+
 # O Enigma dos Totens: Capítulo 23 – Parte 3 – Escudos Mágicos e Estratégias Desesperadas
 
 ## Introdução

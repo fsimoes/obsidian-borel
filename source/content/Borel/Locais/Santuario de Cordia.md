@@ -1,3 +1,17 @@
+---
+title: "Santuário de Córdia"
+type: local
+tags:
+  - rpg/borel
+  - tipo/local
+  - local/santuario-cordia
+status: "Ativo"
+controlado-por: "Sacerdotes de Córdia"
+visitado-em:
+  - "Sessão 25"
+descricao: "Santuário sagrado em Londres dedicado a Córdia, deus da guerra. Local de rituais de purificação poderosos para expulsar possessões e entidades malignas."
+---
+
 # Santuário de Córdia
 
 ## Perfil

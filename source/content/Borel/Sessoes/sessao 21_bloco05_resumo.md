@@ -1,3 +1,29 @@
+---
+title: "Sessão 21 - Bloco 5 - A Batalha do Subterrâneo"
+date: 2025-08-26
+sessao: 21
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/21
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Nightwolf
+  - Borin
+  - Groih
+  - Tony
+  - Dustin
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Combate intenso contra criaturas que emergem do subsolo, Nightwolf inicia com ataques furtivos, Groih em situação crítica sofrendo dano ácido contínuo, combate ainda em andamento"
+description: "Combate intenso onde personagens enfrentam criaturas que se movem pelo subsolo. Nightwolf inicia com ataques furtivos. Groih encontra-se em situação crítica, blinded, restrained e sofrendo 4d6 de acid damage por turno."
+---
+
 # A Batalha do Subterrâneo: Capítulo 21 – Entre Ataques e Estratégias
 
 ## Introdução

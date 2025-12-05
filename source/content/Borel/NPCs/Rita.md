@@ -1,3 +1,20 @@
+---
+title: "Rita"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/rita
+  - status/desaparecida
+primeira-aparicao: "Sessão 8"
+ultima-aparicao: "Sessão 15"
+status: "Desaparecida após incidente com baú mágico"
+plots-relacionados:
+  - Resistencia Elriste
+  - A Queda da Alva Cidadela
+  - Plano Rebelde
+---
+
 # Rita "Dente de Bronze"
 
 ## Status: Desaparecida

@@ -1,3 +1,22 @@
+---
+title: "Conselho Arcano do Circo Vermelho"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/conselho-arcano
+  - status/ativo
+  - urgencia/media
+status: "Ativo - Mistério"
+urgencia: "Média"
+inicio: "Sessão 25"
+personagens:
+  - Letícia
+locais:
+  - Londe
+descricao: "Organização misteriosa mencionada na Sessão 25. Informações fragmentadas. Grupo suspeita que podem estar relacionados aos experimentos horrendos e ao Mardus."
+---
+
 # Conselho Arcano do Circo Vermelho
 
 ## Perfil

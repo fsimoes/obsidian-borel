@@ -1,3 +1,28 @@
+---
+title: "Sessão 24 - Bloco 4 - Coragem e Congelamento"
+date: 2025-09-16
+sessao: 24
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/24
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Dustin
+  - Kaelion
+  - Tony
+  - Orestan
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+resumo: "Dustin tenta voltar pela ponte perigosa de gelo, Kaelion causa dano significativo, Tony tenta manter contato com órbita, golems usam ataques em área devastadores causando dano em múltiplos"
+description: "Dustin tenta voltar pela ponte escorregadia de gelo sob ventos intensos. Kaelion finalmente consegue causar dano significativo nos golems. Golems começam a usar ataques em área devastadores causando dano em múltiplos personagens."
+---
+
 # O Legado de Rilonde: Capítulo 24 – Bloco 4 – Coragem e Congelamento
 
 ## Introdução

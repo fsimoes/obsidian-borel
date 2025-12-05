@@ -1,3 +1,33 @@
+---
+title: "Sessão 18 - Parte 4 - Chegada a Londe"
+date: 2025-07-22
+sessao: 18
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/18
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Nightwolf
+  - Tony
+  - Dustin
+  - Bartrock
+  - Borin
+  - Orestan
+  - Letícia
+locais:
+  - Londe
+plots:
+  - A Maldicao de Nightwolf
+  - Viagem para Londe
+eventos:
+  - Transformação
+  - Chegada
+resumo: "Nightwolf transforma-se em lobisomem mantendo controle, grupo chega a Londe, Letícia se despede, encontram mago bêbado com história sobre demônios"
+description: "Nightwolf transforma-se em lobisomem durante noite mas mantém controle sobre ações. Grupo chega a Londe, cidade mágica. Letícia se despede. Encontram mago bêbado Bartrok com história trágica sobre demônios."
+---
+
 # Chegada a Londe: Capítulo 18 – Parte 4 - Entre Lobisomens e Demônios
 
 ## Introdução

@@ -1,3 +1,18 @@
+---
+title: "Geraldinho"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/geraldinho
+  - status/ativo
+primeira-aparicao: "Sessão 8"
+ultima-aparicao: "Sessão 8"
+status: "Ativo - Guerreiro aliado sugerido por Kaelion"
+plots-relacionados:
+  - Resistencia Elriste
+---
+
 # Geraldinho
 
 ## Perfil

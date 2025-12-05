@@ -1,3 +1,29 @@
+---
+title: "Sessão 24 - Bloco 2 - Estratégias e Revelações"
+date: 2025-09-16
+sessao: 24
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/24
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Dustin
+  - Tony
+  - Orestan
+  - Groih
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+  - Puzzle
+resumo: "Combate continua contra golems de pedra e fogo, Dustin pega órbita azul e explora salas secundárias tentando entender padrão do puzzle, discussões estratégicas sobre regras de movimento"
+description: "Combate continua contra golems de pedra e fogo. Dustin observa totens apagados e pega órbita azul. Usa Zephyr Strike para aumentar velocidade. Discussões estratégicas sobre regras de movimento e dash."
+---
+
 # O Legado de Rilonde: Capítulo 24 – Bloco 2 – Estratégias e Revelações
 
 ## Introdução

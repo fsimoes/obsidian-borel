@@ -1,3 +1,18 @@
+---
+title: "Trash"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/trash
+  - status/ativo
+primeira-aparicao: "Sessão 7"
+ultima-aparicao: "Sessão 19"
+status: "Ativo - Guaxinim mecânico companheiro de Borin"
+plots-relacionados:
+  - Viagem para Londe
+---
+
 # Trash
 
 ## Perfil

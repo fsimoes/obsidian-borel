@@ -1,3 +1,26 @@
+---
+title: "Os Experimentos Horrendos"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/experimentos-horrendos
+  - status/ativo
+  - urgencia/alta
+status: "Ativo - Descoberto na Sessão 25"
+urgencia: "Alta"
+inicio: "Sessão 25"
+personagens:
+  - Orestan
+  - Uruk
+  - Dustin
+  - Tony
+locais:
+  - Londe
+  - Caverna Subterrânea
+descricao: "Instalação subterrânea onde pessoas são transformadas em criaturas modificadas e possuídas. Orestan purificou Uruk, seu amigo de tribo. Missão de resgate planejada."
+---
+
 # Os Experimentos Horrendos
 
 ## Perfil

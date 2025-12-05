@@ -1,3 +1,31 @@
+---
+title: "Sessão 25 - Bloco 1 - A Transformação e os Horrores Subterrâneos"
+date: 2025-09-30
+sessao: 25
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/25
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Tony
+  - Dustin
+  - Orestan
+  - Groih
+locais:
+  - Londe
+  - Caverna Subterrânea
+plots:
+  - Os Experimentos Horrendos
+  - A Transformacao de Dustin
+eventos:
+  - Transformação
+  - Descoberta
+resumo: "Após derrotar golems, grupo descansa e descobre que Bartrock desapareceu sendo substituído por ovelha, explora caverna encontrando celas com criaturas modificadas"
+description: "Após descanso, grupo descobre que Bartrock desapareceu e foi substituído por ovelha com cheiro podre. Exploração de caverna revela celas com humanoides horrendamente modificados com tentáculos costurados ao corpo."
+---
+
 # O Legado de Rilonde: Capítulo 25 – Bloco 1 – A Transformação e os Horrores Subterrâneos
 
 ## Introdução

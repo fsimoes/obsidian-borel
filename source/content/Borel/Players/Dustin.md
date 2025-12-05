@@ -1,3 +1,20 @@
+---
+title: "Dustin"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/dustin
+  - status/ativo
+  - evento/transformacao
+classe: Ranger/Ladino
+primeira-aparicao: "Sessão 2"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - A Transformacao de Dustin
+status: "Transformado no ritual da travessia na Sessão 18, perdeu memórias detalhadas mas ganhou poderes espirituais"
+---
+
 # Dustin
 
 ## Perfil

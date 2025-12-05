@@ -1,3 +1,21 @@
+---
+title: "Alva Cidadela"
+type: local
+tags:
+  - rpg/borel
+  - tipo/local
+  - local/alva-cidadela
+status: "Conquistada"
+controlado-por: "Resistência (Rita)"
+visitado-em:
+  - "Sessão 9"
+  - "Sessão 12"
+  - "Sessão 13"
+  - "Sessão 14"
+  - "Sessão 15"
+descricao: "Cidade-fortaleza imponente com grande muralha e castelo majestoso. Conquistada pela revolução liderada por Rita. Muralha destruída, castelo tomado."
+---
+
 # Alva Cidadela
 
 ## Status: Em Ruínas

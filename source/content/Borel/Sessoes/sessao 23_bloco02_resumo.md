@@ -1,3 +1,29 @@
+---
+title: "Sessão 23 - Bloco 2 - O Despertar da Criatura de Gelo"
+date: 2025-09-09
+sessao: 23
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/23
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Orestan
+  - Groih
+  - Dustin
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+  - Puzzle
+resumo: "Grupo explora três pontes levando a plataformas com totens, Tony toca primeira esfera causando ventania gelada, criatura colossal de gelo e cristal cai dramaticamente na sala principal"
+description: "Grupo explora três pontes diferentes levando a plataformas separadas, cada uma com totem e esfera. Quando Tony toca primeira esfera, mão fica congelada e ventania começa. Criatura colossal de gelo e cristal cai dramaticamente na sala principal."
+---
+
 # O Enigma dos Totens: Capítulo 23 – Parte 2 – O Despertar da Criatura de Gelo
 
 ## Introdução

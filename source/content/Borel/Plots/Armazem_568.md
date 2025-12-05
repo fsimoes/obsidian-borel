@@ -1,3 +1,25 @@
+---
+title: "O Mistério do Armazém 568"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/armazem-568
+  - status/resolvido
+status: "Resolvido - Armazém Destruído"
+urgencia: "N/A"
+inicio: "Sessão 6"
+resolucao: "Sessão 6"
+personagens:
+  - Celeste
+  - Tony
+  - Nightwolf
+  - Dustin
+locais:
+  - Rilonde
+descricao: "Armazém 568 revelou-se laboratório secreto de experimentos. Descoberto e destruído pelo grupo na Sessão 6. Proprietário era Celeste."
+---
+
 # O Mistério do Armazém 568
 
 ## Status: Resolvido (Armazém Destruído)

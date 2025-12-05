@@ -1,3 +1,22 @@
+---
+title: "Rilonde"
+type: local
+tags:
+  - rpg/borel
+  - tipo/local
+  - local/rilonde
+status: "Ativo"
+controlado-por: "Nobreza Comercial"
+visitado-em:
+  - "Sessão 3"
+  - "Sessão 4"
+  - "Sessão 5"
+  - "Sessão 6"
+  - "Sessão 16"
+  - "Sessão 17"
+descricao: "Próspera cidade comercial, centro de negócios onde mercadores ricos como Alberto Eder conseguem ascender ao status de nobreza. Ponto de origem da campanha."
+---
+
 # Rilonde
 
 ## Status: ✅ Ativo - Centro Comercial Próspero

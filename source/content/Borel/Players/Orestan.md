@@ -1,3 +1,19 @@
+---
+title: "Orestan"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/orestan
+  - status/ativo
+classe: Guerreiro Religioso
+primeira-aparicao: "Sessão 18"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - Os Experimentos Horrendos
+status: "Novo membro recrutado na Sessão 18, guerreiro religioso com conhecimento místico"
+---
+
 # Orestan
 ![[Orestan.png]]
 ## Perfil

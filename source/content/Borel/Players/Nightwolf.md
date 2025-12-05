@@ -1,3 +1,21 @@
+---
+title: "Nightwolf"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/nightwolf
+  - status/ativo
+  - evento/resurreicao
+classe: Ranger
+primeira-aparicao: "Sessão 1"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - A Maldicao de Nightwolf
+  - A Ressurreição de Nightwolf
+status: "Curado da licantropia na Sessão 18, ressuscitado na Sessão 21 com vida máxima reduzida pela metade"
+---
+
 # Nightwolf
 
 ## Perfil

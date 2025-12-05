@@ -1,11 +1,21 @@
+---
+title: "Resumo Completo da Campanha"
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - resumo
+  - novo-jogador
+---
+
 # 📖 **RESUMO COMPLETO - CAMPANHA BOREL** 
-## *Do Início até a Sessão 19 - Para Novo Jogador*
+## *Do Início até a Sessão 25 - Para Novo Jogador*
 
 ---
 
 ## 🎯 **RESUMO EXECUTIVO**
 
-Você está entrando em uma campanha épica que começou com uma briga de taverna e evoluiu para uma revolução que derrubou uma cidade-fortaleza inteira! O grupo agora está estabelecido em **Longe** (cidade dos magos), carregando segredos sombrios: um membro se revelou **lobisomem**, outro foi **possuído por uma entidade maligna**, e eles acabaram de descobrir uma possível cura para a licantropia. Após enfrentar **horror cósmico** e derrotar uma **criatura monstruosa** na Floresta dos Horrores, o grupo agora lida com **conflitos internos** e **mistérios apocalípticos**.
+Você está entrando em uma campanha épica que começou com uma briga de taverna e evoluiu para uma revolução que derrubou uma cidade-fortaleza inteira! O grupo agora está estabelecido em **Londe** (cidade dos magos), carregando segredos sombrios: um membro foi **curado da licantropia** mas **ressuscitado com vida reduzida**, outro foi **possuído por uma entidade maligna** e **desapareceu misteriosamente**, e eles acabaram de descobrir uma **instalação sinistra** onde pessoas são transformadas em criaturas modificadas através de experimentos horrendos. Após enfrentar **horror cósmico**, derrotar **golems elementais** e descobrir **experimentos terríveis**, o grupo agora planeja uma **missão de resgate** para salvar vítimas inocentes.
 
 ---
 
@@ -310,10 +320,87 @@ Durante a noite em Londe, o grupo foi despertado por um choro angustiante vindo 
 
 ---
 
-## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 24)**
+## ⚡ **ARCO 6.5: RESSURREIÇÃO E TRAIÇÃO (Sessões 20-22)**
+
+### Sessão 20 - O Legado de Rilonde
+- **Marcas permanentes** do ritual pagão descobertas nas mãos de todos
+- **Bartrock revelou cura** para Nightwolf e comunicou-se com máscara de xamã
+- **Debate épico** na escola de magia de Namarath sobre portais mágicos
+- **Invocação demoníaca massiva** - Bartrock invocou demônio gigante que levou Tobias
+- **Ritual de libertação bem-sucedido** - Nightwolf foi curado da licantropia
+
+### Sessão 21 - Ressurreição e Traição
+- **Ritual épico de ressurreição** - Bartrok trouxe Nightwolf de volta à vida
+- **Consequências severas** - Nightwolf ressuscitado com vida máxima reduzida pela metade
+- **Traição de Cerberus** - Antigo aliado se revelou trabalhando com o demônio
+- **Grupo preso em armadilha** subterrânea após seguir rastro de pó mágico
+- **Batalha contra minhocas gigantes** em ambiente subterrâneo perigoso
+
+### Sessão 22 - O Portão Selado
+- **Batalha épica contra minhocas gigantes** em caverna subterrânea
+- **Nightwolf retornou à ação** após ressurreição, demonstrando habilidades
+- **Resgate heroico de Emmergard** - Kaelion salvou a aliada de dentro de uma minhoca
+- **Ataque devastador de Tony** - Eliminou quatro minhocas recém-nascidas simultaneamente
+- **Descoberta de portão selado** - Mistério adicional na caverna
+
+---
+
+## 🎯 **ARCO 6.6: A CAVERNA DOS COGUMELOS (Sessões 23-24)**
+
+### Sessão 23 - A Caverna dos Cogumelos
+- **Descanso na pedra mágica** - Grupo recuperou forças após batalha
+- **Ataque involuntário de Groih** - Sombras drenaram força vital de quatro membros
+- **Descoberta dos totens e esferas** - Três plataformas com mecanismos mágicos
+- **Batalha épica contra criatura de cristal** - Criatura colossal apareceu
+- **Descoberta dos escudos mágicos** - Golems elementais protegiam-se mutuamente
+- **Batalha contra três elementais** - Gelo, fogo e pedra com escudos que se transferem
+
+### Sessão 24 - A Batalha Final dos Golems
+- **Batalha épica contra golems elementais** - Combate intenso com três golems
+- **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas enfraquece escudos
+- **Coragem de Dustin** - Cruzou ponte de gelo duas vezes, ativando órbitas
+- **Defesa estratégica da Emmergade** - Tony protegeu eficientemente usando reações
+- **Vitória final** - Todos os golems destruídos, grupo coletou órbitas como recompensas
+- **Compreensão completa do puzzle** - Coordenação entre duas salas simultaneamente
+
+---
+
+## 🔬 **ARCO 7: OS EXPERIMENTOS HORRENDOS (Sessão 25)**
+
+### A Descoberta Sinistra
+Após derrotar os golems elementais e abrir a porta com três órbitas mágicas, o grupo fez um descanso longo deixando Bartrock de vigia. Ao acordar, descobriram que **Bartrock havia desaparecido** e foi **substituído por uma ovelha com cheiro podre**. Explorando uma escada que levava para baixo, descobriram um corredor com celas de ambos os lados contendo **criaturas modificadas** através de experimentos horrendos.
+
+#### As Criaturas Modificadas
+- **Tentáculos costurados ao corpo**
+- **Partes de diferentes animais**
+- **Transformações grotescas**
+- **Criaturas encolhidas com medo**
+- **Uruk** - Amigo de Orestan transformado em criatura, solto no corredor
+
+#### O Ritual de Purificação
+- **Orestan encontrou Uruk**, seu amigo de tribo transformado
+- **Realizou ritual perigoso** de purificação curando-o da possessão
+- **Uruk recuperou consciência** e reconheceu Orestan
+- **Ritual quase matou Orestan** mas foi bem-sucedido
+
+#### Descobertas Importantes
+- **Cartas revelaram Mardus** - Responsável por entregar sujeitos de teste
+- **Letícia forneceu informações** sobre Conselho Arcano do Circo Vermelho
+- **Embergard se despediu** retornando à família
+- **Missão de resgate planejada** - Grupo planeja retornar para salvar outras vítimas
+
+### Mistérios Revelados
+- **Instalação subterrânea** conectada aos experimentos
+- **Pessoas sendo transformadas** em criaturas modificadas
+- **Possível conexão com Cerberus** e o demônio
+- **Conselho Arcano** pode estar envolvido
+
+---
+
+## 🌟 **SITUAÇÃO ATUAL (Pós-Sessão 25)**
 
 ### 📍 **Localização**
-O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes e golems elementais, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Compreenderam completamente o puzzle das órbitas elementais - tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação entre membros em diferentes salas. Todos os golems foram derrotados.
+O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistra. Após derrotar golems elementais e abrir porta com três órbitas mágicas, descobriram um corredor com celas contendo criaturas modificadas através de experimentos horrendos. Orestan curou Uruk, seu amigo de tribo, e o grupo planeja retornar para resgatar outras vítimas. **Bartrock desapareceu** durante vigília e foi substituído por ovelha com cheiro podre.
 
 ### 💰 **Recursos**
 - **40 platinas** da missão bem-sucedida
@@ -325,7 +412,7 @@ O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores 
 - **Órbita Vermelha** - Coletada após destruição do primeiro golem de pedra (Sessão 24)
 - **Órbita Marrom** - Coletada após destruição do último golem de pedra (Sessão 24)
 
-### 🎲 **Estado do Grupo Pós-Sessão 24: Vitória Triunfante e Coragem Extraordinária**
+### 🎲 **Estado do Grupo Pós-Sessão 25: Descoberta Sinistra e Missão de Resgate**
 - **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergade com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita. Multitarefa eficiente lutando enquanto mantém efeitos mágicos ativos
 - **Dustin**: **CORAGEM EXTREMA** - Atravessou ponte de gelo duas vezes sob ventos intensos, ativou órbitas, sofreu congelamento progressivo mas sobreviveu. Descobriu mecânica crucial do puzzle. Ajudou Kaelion a se recuperar do congelamento
 - **Nightwolf (Keren)**: **COMBATE EFETIVO** - Primeiro dano significativo no golem de pedra com espada flamejante, causou 12 de dano arrancando pedaços. Lançou Fireballs em área causando dano nos golems
@@ -334,26 +421,32 @@ O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores 
 - **Groih**: **DANO MASSIVO** - Causou 12 de dano iniciando destruição do primeiro golem. Mudou estratégia para defesa (escudo e longsword), teve escudo arrancado pelo golem de fogo
 - **Boren**: **TELEPORTAÇÃO ESTRATÉGICA** - Usou Mist Step para cruzar ponte instantaneamente, evitando testes de acrobacia perigosos
 - **Orestan**: **EXPLORAÇÃO E ANÁLISE** - Explorou salas secundárias, tentou interagir com órbitas, coordenou com NightWolf sobre puzzle dos totens
-- **Emmergade**: **CURA DESESPERADA** - Ferida gravemente (24 pontos de dano), pediu ajuda emocionalmente a Tony e usou Cure Wounds nível 5 curando completamente. Protegeu aliados com escudo de gelo mágico
+- **Embergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
+- **Uruk**: **CURADO** - Orestan realizou ritual de purificação perigoso curando-o da possessão (Sessão 25)
+- **Mardus**: **DESCOBERTO** - Responsável por entregar sujeitos de teste para experimentos (Sessão 25)
+- **Bartrock**: **DESAPARECIDO** - Desapareceu durante vigília e foi substituído por ovelha com cheiro podre (Sessão 25)
 
-### 🎯 **Situação Crítica Atual (Pós-Sessão 24)**
-1. **RESOLVIDO: BATALHA CONTRA ELEMENTAIS** - Todos os golems elementais foram derrotados. Mecânica do puzzle compreendida completamente
-2. **CONSEQUÊNCIAS DO CONGELAMENTO** - Dustin e Kaelion sofreram congelamento extremo, podem ter efeitos permanentes
-3. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital de quatro membros, criando desconfiança
-4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal, possível uso das órbitas coletadas
-5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna, efeitos de frio extremo
-6. **Órbitas Coletadas** - Duas órbitas (vermelha e marrom) coletadas, função ainda não completamente clara
-7. **Compreender Função das Órbitas** - Como usar órbitas coletadas para resolver puzzle da porta
-8. **Investigar Groih** - Entender natureza de seus poderes sombrios involuntários
+### 🎯 **Situação Crítica Atual (Pós-Sessão 25)**
+1. **CRÍTICO: Bartrock Desaparecido** - Desapareceu durante vigília e foi substituído por ovelha com cheiro podre, destino desconhecido
+2. **ALTA: Os Experimentos Horrendos** - Instalação subterrânea com criaturas modificadas, pessoas ainda sofrendo
+3. **ALTA: Missão de Resgate** - Planejada para retornar e salvar outras vítimas dos experimentos
+4. **Mardus Descoberto** - Responsável por entregar sujeitos de teste, alvo de investigação
+5. **Conselho Arcano** - Informações fragmentadas descobertas, possível ameaça maior
+6. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
+7. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+8. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+9. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital, criando desconfiança
 
 ---
 
 ## 🔮 **MISTÉRIOS PENDENTES**
 
-### 🔴 **CRÍTICOS (Pós-Sessão 21)**
-- **Como escapar da armadilha subterrânea?**
-- **Como resgatar Groin antes que morra?**
-- **Como derrotar as minhocas gigantes?**
+### 🔴 **CRÍTICOS (Pós-Sessão 25)**
+- **Onde está Bartrock e o que aconteceu com ele?**
+- **Como resgatar todas as vítimas dos experimentos?**
+- **Quem é Mardus e onde ele está?**
+- **Qual a conexão entre os experimentos e Cerberus?**
+- **O que o Conselho Arcano realmente quer?**
 - **Quando Cerberus se aliou ao demônio?**
 - **Quais são os planos de Cerberus e do demônio?**
 
@@ -380,9 +473,15 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-## 🔥 **APÓS A SESSÃO 24: A BATALHA FINAL DOS GOLEMS E VITÓRIA TRIUNFANTE!**
+## 🔥 **APÓS A SESSÃO 25: OS EXPERIMENTOS HORRENDOS E MISSÃO DE RESGATE!**
 
-**A Sessão 24 foi épica:** O grupo finalmente completou a batalha contra os golems elementais, demonstrando coragem extrema e resolução estratégica. Dustin atravessou duas vezes uma ponte de gelo escorregadia sob ventos intensos para ativar órbitas mágicas, sofrendo congelamento progressivo mas sobrevivendo. Tony demonstrou defesa estratégica perfeita protegendo Emmergade com reações de escudo, sendo elogiado pelo mestre, enquanto lutava com uma mão e mantinha contato com órbita com a outra. Kaelion superou congelamento extremo e derrotou o último golem de pedra usando Fighting Spirit, encerrando a batalha épica. O grupo descobriu completamente a mecânica do puzzle: tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação simultânea. Todos os golems foram destruídos e o grupo coletou órbitas vermelha e marrom como recompensas. Bartrock coordenou ataques com Thaís Carla causando dano massivo. Groih adaptou estratégia de ofensiva para defensiva. A Emmergade demonstrou conexão emocional profunda com Tony, pedindo ajuda desesperadamente antes de usar Cure Wounds nível 5 para se curar completamente após receber 24 pontos de dano.
+**A Sessão 25 foi chocante:** O grupo descobriu uma das descobertas mais sombrias da campanha - uma instalação subterrânea onde pessoas estão sendo transformadas em criaturas modificadas através de experimentos horrendos. Bartrock desapareceu misteriosamente durante vigília e foi substituído por uma ovelha com cheiro podre, deixando o grupo sem respostas. Orestan teve um reencontro emocional com Uruk, seu amigo de tribo transformado em criatura, e realizou um ritual perigoso de purificação que quase o matou mas curou Uruk com sucesso. O grupo descobriu cartas revelando Mardus como responsável por entregar sujeitos de teste. Letícia forneceu informações fragmentadas sobre o Conselho Arcano do Circo Vermelho. Embergard se despediu retornando à família após missão bem-sucedida. O grupo agora planeja uma missão de resgate para retornar e salvar outras vítimas dos experimentos.
+
+**A campanha Borel atingiu novos níveis de horror e heroísmo - onde a descoberta de atrocidades leva a missões de resgate!** 🎲⚔️
+
+## 🔥 **SESSÃO 24: A BATALHA FINAL DOS GOLEMS E VITÓRIA TRIUNFANTE!**
+
+**A Sessão 24 foi épica:** O grupo finalmente completou a batalha contra os golems elementais, demonstrando coragem extrema e resolução estratégica. Dustin atravessou duas vezes uma ponte de gelo escorregadia sob ventos intensos para ativar órbitas mágicas, sofrendo congelamento progressivo mas sobrevivendo. Tony demonstrou defesa estratégica perfeita protegendo Emmergade com reações de escudo, sendo elogiado pelo mestre, enquanto lutava com uma mão e mantinha contato com órbita com a outra. Kaelion superou congelamento extremo e derrotou o último golem de pedra usando Fighting Spirit, encerrando a batalha épica. O grupo descobriu completamente a mecânica do puzzle: tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação simultânea. Todos os golems foram destruídos e o grupo coletou órbitas vermelha e marrom como recompensas.
 
 **A campanha Borel atingiu novos níveis de heroísmo e resolução de puzzles - onde coragem e estratégia conquistam vitória!** 🎲⚔️
 
@@ -432,4 +531,4 @@ Esta é uma campanha que **equilibra drama épico com momentos hilarantes**. Exp
 
 ---
 
-*Este resumo cobre 24 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*
+*Este resumo cobre 25 sessões de pura aventura, drama, comédia e reviravoltas épicas. Prepare-se para mais!*

@@ -1,3 +1,32 @@
+---
+title: "Sessão 5 - Entre Rastros, Risadas e Revelações no Templo"
+date: 2025-04-22
+sessao: 5
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/05
+  - status/ativo
+personagens:
+  - Nightwolf
+  - Dustin
+  - Tony
+  - Kaelion
+  - Emmergard
+locais:
+  - Rilonde
+  - Templo de Chantaner
+plots:
+  - Misterio de Rilonde
+  - Ameaca dos Lobisomens
+eventos:
+  - Investigação
+  - Ritual
+  - Batalha
+resumo: "Grupo investiga rastros, Nightwolf recupera memórias no templo revelando que Celeste atacou Lucian, confronto na casa resulta em batalha contra lobos"
+description: "Investigação de rastros leva grupo ao Templo de Chantaner onde Nightwolf recupera memórias: Celeste lançou feitiço em Lucian e apagou memórias de Nightwolf. Confronto na casa de Lucian resulta em batalha contra lobos."
+---
+
 # O Legado de Rilonde: Capítulo 5 – Entre Rastros, Risadas e Revelações no Templo
 
 **Introdução**

@@ -1,3 +1,26 @@
+---
+title: "Sessão 17 - Parte 4 - Despedidas e Desafios"
+date: 2025-07-15
+sessao: 17
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/17
+  - status/ativo
+personagens:
+  - Bartrock
+  - Tony
+  - Nightwolf
+locais:
+  - Rilonde
+plots:
+  - Viagem para Londe
+eventos:
+  - Despedida
+resumo: "Bloco final breve, Bartrock desafia Tony para jogo de dados tentando recuperar dinheiro, Nightwolf anuncia meia-noite e se retira marcando fim da sessão"
+description: "Bloco final curto. Bartrock desafia Tony para jogo de dados pedindo 10 platinas emprestadas, tentando recuperar orgulho após humilhação com comerciante. Nightwolf anuncia meia-noite e se retira."
+---
+
  # O Legado de Rilonde: Capítulo 17 – Parte 4 - Despedidas e Desafios
 
 ## Introdução

@@ -1,5 +1,10 @@
 ---
 title: Sessões
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - tipo/sessao
 ---
 
 # Sessões - O Legado de Rilonde

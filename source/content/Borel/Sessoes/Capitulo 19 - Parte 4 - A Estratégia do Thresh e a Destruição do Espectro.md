@@ -1,3 +1,28 @@
+---
+title: "Sessão 19 - Parte 4 - A Estratégia do Thresh e a Destruição do Espectro"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Bartrock
+  - Borin
+  - Tony
+  - Orestan
+locais:
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Batalha
+resumo: "Bartrock usa Thunder Wave atordoando espectro, Borin desenvolve estratégia de fazer Thresh escalar criatura, Bartrock destrói espectro com Firebolt e meteoros"
+description: "Bartrock usa Thunder Wave contra espectro causando 17 de dano e atordoando. Borin desenvolve estratégia criativa de fazer Thresh escalar criatura principal. Bartrock destrói espectro com Firebolt e dois meteoros."
+---
+
 # A Estratégia do Thresh e a Destruição do Espectro: Capítulo 19 – Parte 4
 
 ## Introdução

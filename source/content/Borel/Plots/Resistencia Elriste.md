@@ -1,3 +1,25 @@
+---
+title: "A Resistência em Elriste"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/resistencia-elriste
+  - status/resolvido
+status: "Concluído/Em Consequências"
+urgencia: "N/A"
+inicio: "Sessão 8"
+resolucao: "Sessão 15"
+personagens:
+  - Rita
+  - Tony
+  - Dustin
+  - Nightwolf
+locais:
+  - Elriste
+descricao: "Movimento de resistência liderado por Rita contra elite opulenta da Alva Cidadela. Grupo ajudou interceptando carregamentos e participando da revolução."
+---
+
 # A Resistência em Elriste
 
 ## Status: Em Andamento

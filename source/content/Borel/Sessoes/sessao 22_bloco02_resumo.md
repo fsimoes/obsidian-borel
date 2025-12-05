@@ -1,3 +1,31 @@
+---
+title: "Sessão 22 - Bloco 2 - A Batalha das Minhocas Gigantes"
+date: 2025-09-02
+sessao: 22
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/22
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Nightwolf
+  - Groih
+  - Kaelion
+  - Tony
+  - Orestan
+  - Bartrock
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+  - Resgate
+resumo: "Duas minhocas gigantes emergem, uma devora Nightwolf que fica preso, grupo luta desesperadamente para salvar companheiro, Orestan lança Fireball afetando ambas minhocas"
+description: "Duas minhocas gigantes emergem do chão. Uma consegue devorar Nightwolf que fica preso em seu interior. Grupo luta desesperadamente para salvar companheiro. Orestan lança Fireball afetando ambas minhocas e alguns aliados."
+---
+
 # O Legado de Rilonde: Capítulo 22 – A Batalha das Minhocas Gigantes
 
 ## Introdução

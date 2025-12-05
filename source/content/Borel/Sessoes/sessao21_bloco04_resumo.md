@@ -1,3 +1,29 @@
+---
+title: "Sessão 21 - Bloco 4 - O Portal Mágico"
+date: 2025-08-26
+sessao: 21
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/21
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Bartrock
+  - Kaelion
+  - Tony
+  - Dustin
+  - Groih
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Bartrock investiga porta mágica, minhocas gigantes emergem do chão iniciando combate intenso, Groih é engolido por uma das minhocas, grupo trabalha em conjunto para derrotar ameaças"
+description: "Bartrock investiga porta mágica usando ferramentas enquanto grupo se organiza. Minhocas gigantes emergem do chão iniciando combate intenso. Groih é engolido por uma das minhocas causando tensão e urgência."
+---
+
 # O Portal Mágico: Capítulo 4 – A Batalha das Minhocas Gigantes
 
 ## Introdução

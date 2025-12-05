@@ -1,3 +1,31 @@
+---
+title: "Sessão 19 - Parte 1 - O Encontro na Floresta dos Horrores"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+  - Orestan
+locais:
+  - Londe
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Batalha
+resumo: "Grupo acorda na taverna, investiga choro na floresta, encontra criatura monstruosa que pode ser mãe transformada de Bartrock, inicia combate"
+description: "Após separação de Letícia, grupo é despertado por choro na floresta. Investigação revela criatura gigante e deteriorada que pode ser mãe de Bartrock transformada. Combate intenso inicia."
+---
+
 # O Encontro na Floresta dos Horrores: Capítulo 19 – Parte 1
 
 ## Introdução

@@ -1,3 +1,30 @@
+---
+title: "Sessão 13 - O Fogo da Revolta"
+date: 2025-06-17
+sessao: 13
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/13
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Borin
+locais:
+  - Alva Cidadela
+plots:
+  - A Queda da Alva Cidadela
+eventos:
+  - Batalha
+resumo: "Após descanso, grupo emerge em campo de batalha, rejeita sugestão de Rita de abandonar guerra, ataca quartel sul derrotando maga inimiga"
+description: "Após long rest, grupo emerge em campo de batalha caótico. Rejeitam sugestão de Rita de abandonar guerra. Atacam quartel sul, derrotam maga inimiga e encontram recursos."
+---
+
 # A Queda da Muralha: Capítulo 13 – O Fogo da Revolta
 
 ## Introdução

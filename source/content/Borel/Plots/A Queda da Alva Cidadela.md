@@ -1,3 +1,26 @@
+---
+title: "A Queda da Alva Cidadela"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/queda-alva-cidadela
+  - status/resolvido
+status: "Concluído"
+urgencia: "N/A"
+inicio: "Sessão 11"
+resolucao: "Sessão 15"
+personagens:
+  - Rita
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Borin
+locais:
+  - Alva Cidadela
+descricao: "Revolta liderada por Rita contra Alva Cidadela culminou em série de batalhas. Grupo participou desde explosão da muralha até tomada do castelo. Rita desapareceu misteriosamente."
+---
+
 # A Queda da Alva Cidadela
 
 ## Status: Concluído

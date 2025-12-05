@@ -1,3 +1,29 @@
+---
+title: "Sessão 23 - Bloco 1 - A Caverna dos Cogumelos"
+date: 2025-09-09
+sessao: 23
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/23
+  - status/ativo
+personagens:
+  - Orestan
+  - Bartrock
+  - Dustin
+  - Groih
+  - Nightwolf
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Caverna dos Cogumelos
+eventos:
+  - Descanso
+  - Ataque
+resumo: "Após batalha, grupo encontra pedra mágica para descanso, explora corredor com cogumelos luminescentes, Groih ataca involuntariamente grupo com sombras drenando força vital"
+description: "Após combate contra minhocas, grupo encontra pedra mágica permitindo descanso longo. Explora corredor com cogumelos luminescentes. Groih ataca involuntariamente quatro membros com sombras que drenam força vital, causando tensão e desconfiança."
+---
+
 # A Caverna dos Cogumelos: Capítulo 23 – Entre Descansos e Sombra Suspeita
 
 ## Introdução

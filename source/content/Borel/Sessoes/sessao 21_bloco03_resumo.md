@@ -1,3 +1,32 @@
+---
+title: "Sessão 21 - Bloco 3 - A Traição de Cerberus"
+date: 2025-08-26
+sessao: 21
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/21
+  - status/ativo
+  - evento/traicao
+personagens:
+  - Kaelion
+  - Tony
+  - Dustin
+  - Bartrock
+  - Orestan
+  - Cerberus
+locais:
+  - Londe
+  - Caverna Subterrânea
+plots:
+  - A Traicao de Cerberus
+eventos:
+  - Traição
+  - Armadilha
+resumo: "Grupo segue pó mágico através da cidade, encontra caverna com runas anãs invertidas, pronuncia palavra invertendo gravidade, Cerberus revela traição e aliança com demônio"
+description: "Grupo segue rastro de pó vermelho deixado pelo demônio através das ruas. Rastro leva a caverna com runas anãs escritas de cabeça para baixo. Ao pronunciar palavra, gravidade se inverte. Cerberus aparece revelando traição e aliança com demônio."
+---
+
 # A Traição de Cerberus: Capítulo 21 – Entre Pó Mágico e Portas Seladas
 
 ## Introdução

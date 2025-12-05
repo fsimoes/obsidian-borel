@@ -1,3 +1,27 @@
+---
+title: "A Fuga da Taverna"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/fuga-taverna
+  - status/resolvido
+status: "Concluído"
+urgencia: "N/A"
+inicio: "Sessão 1"
+resolucao: "Sessão 2"
+personagens:
+  - Nightwolf
+  - Tony
+  - Dustin
+  - Lord Bart
+  - Nikov
+locais:
+  - Taverna
+  - Cabana
+descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto. Refúgio em cabana resultou em batalha onde Nikov e Lord Bart morreram."
+---
+
 # A Fuga da Taverna
 
 ## Status: Concluído (Sessões 1-2)

@@ -1,3 +1,26 @@
+---
+title: "A Ameaça dos Lobisomens"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/ameaca-lobisomens
+  - status/resolvido
+status: "Resolvido"
+urgencia: "N/A"
+inicio: "Sessão 4"
+resolucao: "Sessão 6"
+personagens:
+  - Celeste
+  - Nightwolf
+  - Tony
+  - Kaelion
+  - Dustin
+locais:
+  - Rilonde
+descricao: "Ataques de lobisomens em Rilonde controlados por Celeste. Nightwolf foi atacado e recuperou memórias. Celeste foi capturada e laboratório destruído."
+---
+
 # A Ameaça dos Lobisomens
 
 ## Status: ⚠️ ATIVO - Ameaça Persistente

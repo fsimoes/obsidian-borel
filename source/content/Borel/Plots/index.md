@@ -1,5 +1,10 @@
 ---
 title: Plots
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - tipo/plot
 ---
 
 # Plots da Campanha

@@ -1,3 +1,31 @@
+---
+title: "Sessão 17 - Parte 2 - Negociações e Preparativos"
+date: 2025-07-15
+sessao: 17
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/17
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+  - Jorge
+  - Letícia
+locais:
+  - Rilonde
+plots:
+  - Viagem para Londe
+eventos:
+  - Negociação
+  - Preparação
+resumo: "Tony organiza refugiados, oferece opções a Jorge decidindo levá-lo ao Templo de Megarde, grupo prepara viagem para Londe comprando suprimentos e calculando distâncias"
+description: "Tony assume liderança organizando refugiados. Conversa com Jorge oferecendo opções, decide levá-lo ao Templo de Megarde. Grupo prepara viagem para Londe comprando suprimentos, calculando distâncias e organizando equipamentos."
+---
+
 # O Legado de Rilonde: Capítulo 17 – Parte 2 - Negociações e Preparativos
 
 ## Introdução

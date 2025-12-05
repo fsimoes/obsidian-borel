@@ -1,3 +1,33 @@
+---
+title: "Sessão 16 - Sombras do Passado"
+date: 2025-07-08
+sessao: 16
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/16
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+  - Letícia
+  - Jorge
+locais:
+  - Elriste
+  - Rilonde
+plots:
+  - A Maldicao de Nightwolf
+eventos:
+  - Transformação
+  - Revelação
+resumo: "Grupo foge de Elriste levando Letícia e Jorge, Nightwolf tem pesadelo revelando licantropia, transforma-se em lobisomem durante acampamento"
+description: "Fuga de Elriste após conquista da Alva Cidadela. Grupo leva Letícia e Jorge. Durante acampamento, Nightwolf tem pesadelo revelando licantropia e se transforma em lobisomem, forçando batalha contra próprio companheiro."
+---
+
 # O Legado de Rilonde: Capítulo 16 – Sombras do Passado
 
 ## Introdução

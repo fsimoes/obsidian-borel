@@ -1,3 +1,24 @@
+---
+title: "A Maldição de Nightwolf"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/licantropia
+  - status/resolvido
+status: "Resolvido - Curado na Sessão 18"
+urgencia: "N/A"
+inicio: "Sessão 16"
+resolucao: "Sessão 18"
+personagens:
+  - Nightwolf
+  - Bartrock
+locais:
+  - Rilonde
+  - Santuário
+descricao: "Nightwolf revelou-se lobisomem na Sessão 16. Bartrock descobriu magia de cura na Sessão 17. Nightwolf foi curado na Sessão 18 através de ritual no santuário."
+---
+
 # A Maldição de Nightwolf
 
 ## Status: **ATIVO** - Cura Descoberta (Sessão 17)

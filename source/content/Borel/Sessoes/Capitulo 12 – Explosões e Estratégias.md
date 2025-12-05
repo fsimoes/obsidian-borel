@@ -1,3 +1,31 @@
+---
+title: "Sessão 12 - Explosões e Estratégias"
+date: 2025-06-10
+sessao: 12
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/12
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Alva Cidadela
+plots:
+  - A Queda da Alva Cidadela
+  - Plano Rebelde
+eventos:
+  - Explosão
+  - Batalha
+resumo: "Grupo acende pólvora destruindo muralha da Alva Cidadela, rebeldes avançam, batalha intensa de oito turnos conquista dois pontos estratégicos"
+description: "Borin acende pólvora em túneis sob muralha, causando explosão que destrói seção da muralha. Rebeldes avançam e grupo enfrenta batalha intensa de oito turnos, conquistando dois pontos estratégicos."
+---
+
 # A Revolta da Alva Cidadela: Capítulo 12 – Explosões e Estratégias
 
 ## Introdução

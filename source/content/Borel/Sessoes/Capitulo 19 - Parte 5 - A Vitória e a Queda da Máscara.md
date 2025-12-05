@@ -1,3 +1,33 @@
+---
+title: "Sessão 19 - Parte 5 - A Vitória e a Queda da Máscara"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+  - evento/batalha
+  - evento/transformacao
+personagens:
+  - Borin
+  - Tony
+  - Nightwolf
+  - Kaelion
+  - Dustin
+  - Bartrock
+locais:
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Batalha
+  - Vitória
+  - Transformação
+resumo: "Thresh escala criatura causando explosão devastadora, grupo derrota criatura, Bartrock tenta canibalismo sob influência da máscara, máscara se recusa e cai"
+description: "Thresh escala criatura principal causando explosão crítica que destrói parte inferior. Grupo coordena ataques finais derrotando criatura. Bartrock tenta canibalismo sob influência da máscara, mas máscara se recusa e cai."
+---
+
 # A Vitória e a Queda da Máscara: Capítulo 19 – Parte 5
 
 ## Introdução

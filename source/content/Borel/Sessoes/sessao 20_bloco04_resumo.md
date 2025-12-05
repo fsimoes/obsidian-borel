@@ -1,3 +1,29 @@
+---
+title: "Sessão 20 - Bloco 4 - O Encontro com o Arquimago"
+date: 2025-08-12
+sessao: 20
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/20
+  - status/ativo
+personagens:
+  - Tony
+  - Dustin
+  - Bartrock
+  - Orestan
+locais:
+  - Londe
+  - Universidade de Namarath
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Negociação
+  - Descoberta
+resumo: "Grupo encontra arquimago que oferece recompensa generosa para investigar demônio, recebe pó mágico para rastreamento, Bartrock revela necessidade de ritual de transformação"
+description: "Grupo encontra arquimago em sala da universidade onde mestre está sendo atendido. Arquimago oferece recompensa generosa para informações sobre demônio. Grupo recebe pó mágico para rastreamento. Bartrock revela necessidade de ritual."
+---
+
 # O Encontro com o Arquimago: Capítulo 20 – Bloco 4 – Entre Cristais e Negociações
 
 ## Introdução

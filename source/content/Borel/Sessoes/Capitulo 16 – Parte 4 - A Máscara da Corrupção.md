@@ -1,3 +1,31 @@
+---
+title: "Sessão 16 - Parte 4 - A Máscara da Corrupção"
+date: 2025-07-08
+sessao: 16
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/16
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Celeste
+locais:
+  - Rilonde
+  - Prisão
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Transformação
+  - Morte
+resumo: "Máscara misteriosa emerge da mochila de Tony, Nightwolf e Dustin testam sofrendo dano psíquico, Bartrock coloca máscara que se funde e entidade maligna assume controle, mata Celeste"
+description: "Máscara misteriosa emerge da mochila de Tony. Nightwolf e Dustin testam máscara sofrendo dano psíquico. Bartrock coloca máscara que se funde permanentemente. Entidade maligna assume controle e mata Celeste com Fireball."
+---
+
 # O Legado de Rilonde: Capítulo 16 – Parte 4 - A Máscara da Corrupção
 
 ## Introdução

@@ -1,3 +1,26 @@
+---
+title: "A Revolta de Alva Cidadela"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/revolta-alva
+  - status/resolvido
+status: "Concluído"
+urgencia: "N/A"
+inicio: "Sessão 11"
+resolucao: "Sessão 15"
+personagens:
+  - Rita
+  - Tony
+  - Dustin
+  - Nightwolf
+  - Borin
+locais:
+  - Alva Cidadela
+descricao: "Revolta liderada por Rita contra Alva Cidadela. Grupo participou desde explosão da muralha até tomada do castelo. Rita desapareceu misteriosamente."
+---
+
 # A Revolta de Alva Cidadela
 
 ## Status: Em Andamento

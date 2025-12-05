@@ -1,3 +1,30 @@
+---
+title: "Sessão 25 - Bloco 3 - A Fuga e o Ritual de Purificação"
+date: 2025-09-30
+sessao: 25
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/25
+  - status/ativo
+  - evento/ritual
+personagens:
+  - Groih
+  - Kaelion
+  - Orestan
+  - Uruk
+locais:
+  - Caverna Subterrânea
+  - Santuário de Córdia
+plots:
+  - Os Experimentos Horrendos
+eventos:
+  - Fuga
+  - Ritual
+resumo: "Grupo tenta abrir porta trancada, Groih quebra trinco com chute poderoso, grupo foge e retorna a Londres em dois dias, chegada ao santuário de Córdia para ritual de purificação"
+description: "Grupo tenta abrir porta trancada. Groih quebra trinco com chute poderoso usando duas pernas. Porta se abre para corredor que sobe. Grupo foge e retorna a Londres em dois dias. Chegada ao santuário de Córdia para ritual de purificação de Uruk."
+---
+
 # O Legado de Rilonde: Capítulo 25 – Bloco 3 – A Fuga e o Ritual de Purificação
 
 ## Introdução

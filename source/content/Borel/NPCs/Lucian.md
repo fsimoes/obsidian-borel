@@ -1,3 +1,18 @@
+---
+title: "Lucian"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/lucian
+  - status/capturado
+primeira-aparicao: "Sessão 3"
+ultima-aparicao: "Sessão 16"
+status: "Capturado - Braço direito de Alberto, envolvido em conspiração"
+plots-relacionados:
+  - Misterio de Rilonde
+---
+
 # Lucian
 
 ## Status: Capturado

@@ -1,3 +1,29 @@
+---
+title: "Sessão 25 - Bloco 4 - Despedidas e Novos Rumos"
+date: 2025-09-30
+sessao: 25
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/25
+  - status/ativo
+personagens:
+  - Embergard
+  - Dustin
+  - Orestan
+  - Letícia
+locais:
+  - Londe
+plots:
+  - Os Experimentos Horrendos
+  - Conselho Arcano do Circo Vermelho
+eventos:
+  - Despedida
+  - Investigação
+resumo: "Embergard se despede do grupo retornando à família, grupo encontra Letícia na universidade, descobre informações fragmentadas sobre Conselho Arcano do Circo Vermelho, Orestan decide retornar à caverna"
+description: "Embergard se despede do grupo na taverna retornando à sua família e marido. Grupo encontra Letícia caminhando com amigas na universidade. Letícia fornece informações fragmentadas sobre Conselho Arcano do Circo Vermelho. Orestan decide retornar à caverna para resgatar outras pessoas possuídas."
+---
+
 # O Legado de Rilonde: Capítulo 25 – Bloco 4 – Despedidas e Novos Rumos
 
 ## Introdução

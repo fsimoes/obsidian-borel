@@ -1,3 +1,18 @@
+---
+title: "Uruk"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/uruk
+  - status/recuperado
+primeira-aparicao: "Sessão 25"
+ultima-aparicao: "Sessão 25"
+status: "Recuperado - Curado de possessão no Santuário de Córdia"
+plots-relacionados:
+  - Os Experimentos Horrendos
+---
+
 # Uruk
 
 ## Perfil

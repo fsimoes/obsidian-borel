@@ -1,3 +1,24 @@
+---
+title: "A Possessão de Bartrock"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/possessao-bartrock
+  - status/ativo
+  - urgencia/critica
+status: "Ativo - Máscara Perdida (Sessão 19), Bartrock afirma ter encontrado"
+urgencia: "Crítica"
+inicio: "Sessão 16"
+personagens:
+  - Bartrock
+  - Tony
+locais:
+  - Floresta dos Horrores
+  - Londe
+descricao: "Bartrock foi possuído por entidade maligna através de máscara metálica. A máscara se recusou a participar de canibalismo e caiu. Bartrock afirma ter encontrado a máscara novamente, mas o grupo duvida."
+---
+
 # A Possessão de Bartrock
 
 ## Status: **ATIVO** (Iniciado na Sessão 16)

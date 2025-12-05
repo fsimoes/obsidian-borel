@@ -1,3 +1,20 @@
+---
+title: "Bartrock"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/bartrock
+  - status/ativo
+  - evento/transformacao
+classe: Mago/Bruxo
+primeira-aparicao: "Sessão 1"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - A Possessao de Bartrock
+status: "Possuído por entidade maligna através de máscara desde Sessão 16. Transformado em ovelha na Sessão 25."
+---
+
 # Lorde Bart/Bartrock
 
 ## Perfil

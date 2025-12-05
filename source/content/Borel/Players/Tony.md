@@ -1,3 +1,20 @@
+---
+title: "Tony"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/tony
+  - status/ativo
+classe: Fighter/Paladino
+primeira-aparicao: "Sessão 2"
+ultima-aparicao: "Sessão 25"
+plots-relacionados:
+  - A Queda da Alva Cidadela
+  - Resistencia Elriste
+status: "Líder do grupo, ativo"
+---
+
 # Tony Tigger
 
 ## Perfil

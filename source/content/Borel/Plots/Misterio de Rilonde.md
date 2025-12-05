@@ -1,3 +1,27 @@
+---
+title: "O Mistério de Rilonde"
+type: plot
+tags:
+  - rpg/borel
+  - tipo/plot
+  - plot/misterio-rilonde
+  - status/resolvido
+status: "Resolvido"
+urgencia: "N/A"
+inicio: "Sessão 3"
+resolucao: "Sessão 6"
+personagens:
+  - Alberto
+  - Lucian
+  - Celeste
+  - Tony
+  - Nightwolf
+  - Dustin
+locais:
+  - Rilonde
+descricao: "Investigação de roubos em carroças de Alberto revelou conspiração envolvendo Lucian e Celeste. Laboratório secreto (Armazém 568) foi descoberto e destruído."
+---
+
 # O Mistério de Rilonde
 
 ## Status: ✅ RESOLVIDO

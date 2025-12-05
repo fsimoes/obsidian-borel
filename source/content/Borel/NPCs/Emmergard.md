@@ -1,3 +1,18 @@
+---
+title: "Emmergard"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/emmergard
+  - status/inativa
+primeira-aparicao: "Sessão 3"
+ultima-aparicao: "Sessão 25"
+status: "Separada - Deixou grupo na Sessão 25 para retornar à família"
+plots-relacionados:
+  - A Queda da Alva Cidadela
+---
+
 # Emmergard
 
 ## Perfil

@@ -1,3 +1,32 @@
+---
+title: "Sessão 2 - Um Encontro na Cabana"
+date: 2025-03-24
+sessao: 2
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/02
+  - status/ativo
+  - evento/batalha
+  - evento/morte
+personagens:
+  - Nightwolf
+  - Dustin
+  - Lord Bart
+  - Tony
+  - Nikov
+locais:
+  - Cabana
+plots:
+  - Fuga da Taverna
+eventos:
+  - Batalha
+  - Morte
+  - Fuga
+resumo: "Grupo foge de guardas após briga na taverna, encontra refúgio em cabana onde batalha épica resulta em mortes de Nikov e Lord Bart"
+description: "Após fuga da taverna, grupo encontra refúgio em cabana com Nikov e Tony. Batalha caótica contra guardas, lobos e maga resulta em mortes de Nikov e Lord Bart. Tony e Nightwolf sobrevivem."
+---
+
 # O Legado de Rilonde: Um Encontro na cabana: Captitulo 2
 
   

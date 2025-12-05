@@ -1,3 +1,31 @@
+---
+title: "Sessão 18 - Parte 3 - O Renascimento do Desconhecido"
+date: 2025-07-22
+sessao: 18
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/18
+  - status/ativo
+  - evento/transformacao
+personagens:
+  - Dustin
+  - Tony
+  - Nightwolf
+  - Bartrock
+  - Borin
+  - Orestan
+locais:
+  - Santuário
+plots:
+  - A Transformacao de Dustin
+eventos:
+  - Transformação
+  - Renascimento
+resumo: "Dustin completa ritual da travessia, renasce transformado perdendo memórias detalhadas, Orestan se junta ao grupo, viagem de 16 dias para Londe"
+description: "Dustin completa ritual enfrentando medos e memórias traumáticas. Renasce transformado com memórias fragmentadas mas nova perspectiva. Orestan se junta ao grupo. Viagem de 16 dias para Londe."
+---
+
 # O Renascimento do Desconhecido: Capítulo 18 – Parte 3 - Entre Memórias Perdidas e Novos Caminhos
 
 ## Introdução

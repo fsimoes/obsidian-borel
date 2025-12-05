@@ -1,3 +1,18 @@
+---
+title: "Morgana"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/morgana
+  - status/ativo
+primeira-aparicao: "Sessão 3"
+ultima-aparicao: "Sessão 6"
+status: "Ativa - Funcionária de Alberto responsável pelos despachos"
+plots-relacionados:
+  - Misterio de Rilonde
+---
+
 # Morgana
 
 ## Status: Ativa - Funcionária de Alberto

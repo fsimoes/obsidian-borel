@@ -1,3 +1,18 @@
+---
+title: "Ivan"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/ivan
+  - status/derrotado
+primeira-aparicao: "Sessão 11"
+ultima-aparicao: "Sessão 14"
+status: "Derrotado - Ex-chefe da guarda da Alva Cidadela"
+plots-relacionados:
+  - A Queda da Alva Cidadela
+---
+
 # Ivan
 
 ## Perfil

@@ -1,3 +1,19 @@
+---
+title: "Londe"
+type: local
+tags:
+  - rpg/borel
+  - tipo/local
+  - local/londe
+status: "Ativo"
+controlado-por: "Conselho Arcano"
+visitado-em:
+  - "Sessão 18"
+  - "Sessão 20"
+  - "Sessão 25"
+descricao: "Cidade mágica conhecida como cidade dos magos, centro de aprendizado arcano com universidade e círculos de teletransporte. Arquitetura mágica com edifícios flutuantes."
+---
+
 # Londe - A Cidade dos Magos
 
 ## Descrição Geral

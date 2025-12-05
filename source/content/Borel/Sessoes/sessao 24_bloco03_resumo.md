@@ -1,3 +1,29 @@
+---
+title: "Sessão 24 - Bloco 3 - Totens e Descobertas Misteriosas"
+date: 2025-09-16
+sessao: 24
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/24
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Dustin
+  - Bartrock
+  - Orestan
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha Final dos Golems Elementais
+eventos:
+  - Batalha
+  - Puzzle
+resumo: "Emmergade usa escudo defensivamente sendo elogiada, Tony protege usando reações, Bartrock toca totem específico causando tremor no chão sugerindo algo grandioso prestes a acontecer"
+description: "Emmergade usa escudo defensivamente para bloquear ataques sendo elogiada pelo mestre. Tony demonstra ser excelente aliado usando reações com escudo. Bartrock toca totem específico causando tremor no chão."
+---
+
 # O Legado de Rilonde: Capítulo 24 – Bloco 3 – Totens e Descobertas Misteriosas
 
 ## Introdução

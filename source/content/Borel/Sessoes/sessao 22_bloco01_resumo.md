@@ -1,3 +1,30 @@
+---
+title: "Sessão 22 - Bloco 1 - A Batalha das Minhocas Gigantes"
+date: 2025-09-02
+sessao: 22
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/22
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Dustin
+  - Tony
+  - Kaelion
+  - Nightwolf
+  - Bartrock
+  - Orestan
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Grupo segue pó mágico chegando a caverna, enfrenta batalha intensa contra minhocas gigantes que tentam engolir aventureiros, combate coordenado com magias e estratégias"
+description: "Seguindo pó mágico, grupo chega a caverna com portão fechado. Enfrenta batalha intensa contra minhocas gigantes (worms) em área subterrânea. Criaturas tentam engolir aventureiros. Combate coordenado com magias e estratégias táticas."
+---
+
 # O Portão Selado: Capítulo 22 – Entre Minhocas e Estratégias
 
 ## Introdução

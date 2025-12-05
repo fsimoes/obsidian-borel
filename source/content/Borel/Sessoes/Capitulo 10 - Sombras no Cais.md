@@ -1,3 +1,32 @@
+---
+title: "Sessão 10 - Sombras no Cais"
+date: 2025-05-27
+sessao: 10
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/10
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Elriste
+  - Porto do Sul
+plots:
+  - Resistencia Elriste
+  - Plano Rebelde
+eventos:
+  - Batalha
+  - Negociação
+resumo: "Grupo negocia segunda chance com Rita, rouba navio com pólvora enfrentando marujos e criaturas aquáticas, descobre plano de explodir muralha"
+description: "Após expulsão, Dustin negocia segunda chance com Rita. Missão de roubar navio com pólvora resulta em batalha contra marujos e criaturas aquáticas. Revelação do plano de explodir muralha da cidade."
+---
+
 # "O Legado de Rilonde: Capítulo 10 – Sombras no Cais"
 
 ## Introdução

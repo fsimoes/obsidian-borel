@@ -1,3 +1,19 @@
+---
+title: "Borin"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/borin
+  - status/ativo
+classe: Anão Inventor
+primeira-aparicao: "Sessão 7"
+ultima-aparicao: "Sessão 19"
+plots-relacionados:
+  - Viagem para Londe
+status: "Ativo, inventor com guaxinim mecânico Trash"
+---
+
 # Borin
 
 ## Descrição Física

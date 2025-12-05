@@ -1,3 +1,18 @@
+---
+title: "Tobias"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/tobias
+  - status/capturado
+primeira-aparicao: "Sessão 20"
+ultima-aparicao: "Sessão 20"
+status: "Capturado - Levado pelo demônio invocado por Bartrock"
+plots-relacionados:
+  - A Possessao de Bartrock
+---
+
 # Tobias
 
 ## Perfil

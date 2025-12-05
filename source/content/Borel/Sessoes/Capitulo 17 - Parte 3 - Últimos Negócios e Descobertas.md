@@ -1,3 +1,27 @@
+---
+title: "Sessão 17 - Parte 3 - Últimos Negócios e Descobertas"
+date: 2025-07-15
+sessao: 17
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/17
+  - status/ativo
+personagens:
+  - Tony
+  - Kaelion
+  - Bartrock
+locais:
+  - Rilonde
+plots:
+  - Viagem para Londe
+eventos:
+  - Negociação
+  - Compras
+resumo: "Tony negocia com Alberto melhorando acordo de 30 para 40 platinas, Kaelion busca katana especial, Bartrock tem encontro peculiar com comerciante de itens mágicos"
+description: "Negociações intensas entre Tony e Alberto. Tony revela informações sobre Rita e eventos em Elriste, melhorando acordo de 30 para 40 platinas. Kaelion busca katana especial. Bartrock encontra comerciante de itens mágicos."
+---
+
 # O Legado de Rilonde: Capítulo 17 – Parte 3 - Últimos Negócios e Descobertas
 
 ## Introdução

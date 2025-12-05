@@ -1,3 +1,29 @@
+---
+title: "Sessão 18 - Parte 1 - Nas Estradas para o Santuário"
+date: 2025-07-22
+sessao: 18
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/18
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Rilonde
+  - Santuário
+plots:
+  - A Maldicao de Nightwolf
+eventos:
+  - Viagem
+resumo: "Grupo parte para santuário, Tony adquire cavalo Cenouro, distribui 420 moedas de ouro para cada membro, viagem de uma semana até santuário"
+description: "Preparativos para viagem ao santuário. Tony adquire cavalo Cenouro com ferraduras mágicas. Distribuição de 420 moedas de ouro por membro da negociação com Converto. Viagem de uma semana."
+---
+
 # Nas Estradas para o Santuário: Capítulo 18 – Parte 1 - Entre Dinheiro e Desconfianças
 
 ## Introdução

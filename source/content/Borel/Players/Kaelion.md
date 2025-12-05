@@ -1,3 +1,21 @@
+---
+title: "Kaelion"
+type: personagem
+tags:
+  - rpg/borel
+  - tipo/personagem
+  - personagem/kaelion
+  - status/inativo
+  - evento/traicao
+classe: Mago/Artífice
+primeira-aparicao: "Sessão 3"
+ultima-aparicao: "Sessão 9"
+plots-relacionados:
+  - A Traicao de Cerberus
+  - Resistencia Elriste
+status: "Separado do grupo na Sessão 9 após trair avisando Rita sobre plano de fornecer informações aos guardas"
+---
+
 # Kaelion
 
 ## Status: Membro Ativo do Grupo

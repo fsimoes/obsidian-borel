@@ -1,3 +1,33 @@
+---
+title: "Sessão 9 - O Preço da Lealdade"
+date: 2025-05-20
+sessao: 9
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/09
+  - status/ativo
+  - evento/traicao
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Borin
+locais:
+  - Elriste
+  - Alva Cidadela
+plots:
+  - Resistencia Elriste
+  - A Traicao de Cerberus
+eventos:
+  - Traição
+  - Negociação
+resumo: "Grupo entrega item à Baronesa, esquece pagamento, negocia com guardas, Kaelion trai grupo avisando Rita, grupo é atacado e Kaelion foge"
+description: "Entrega à Baronesa Helena na Alva Cidadela. Grupo esquece pagamento, negocia com guardas oferecendo informações sobre rebeldes. Kaelion trai grupo avisando Rita, resultando em ataque e sua fuga."
+---
+
 # O Legado de Rilonde: Capítulo 9 – O Preço da Lealdade
 
 ## Introdução

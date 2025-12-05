@@ -1,3 +1,30 @@
+---
+title: "Sessão 14 - O Cerco Final"
+date: 2025-06-24
+sessao: 14
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/14
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Alva Cidadela
+plots:
+  - A Queda da Alva Cidadela
+eventos:
+  - Batalha
+  - Vitória
+resumo: "Grupo cerca castelo de Alva Cidadela, testemunha execuções brutais, combate intenso no pátio derrota guardas e arquimago, castelo é capturado"
+description: "Cerco ao castelo de Alva Cidadela. Grupo testemunha execuções brutais de prisioneiros. Combate intenso no pátio derrota guardas e arquimago Ivan. Castelo é capturado pelos rebeldes."
+---
+
 # A Revolta de Alva Cidadela: Capítulo 14 – O Cerco Final
 
 ## Introdução

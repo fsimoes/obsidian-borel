@@ -1,3 +1,28 @@
+---
+title: "Sessão 1 - Negociações Frustradas"
+date: 2025-03-17
+sessao: 1
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/01
+  - status/ativo
+personagens:
+  - Bart
+  - Nightwolf
+  - Dustin
+  - Tony
+locais:
+  - Taverna
+plots:
+  - Fuga da Taverna
+eventos:
+  - Negociação
+  - Confronto
+resumo: "Ao finalizar um trabalho, um grupo de aventureiros se encontram em uma taverna para entregar o que foi pedido. Mas nem tudo sai como planejado"
+description: "Primeira sessão da campanha. Grupo de aventureiros se encontra em taverna para entregar trabalho concluído, mas negociações não saem como planejado, resultando em fuga."
+---
+
 # O Legado de Rilonde: Negociacoes frustradas : Capitulo 1
 
   

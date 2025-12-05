@@ -1,3 +1,29 @@
+---
+title: "Sessão 17 - Entre Cordas e Confissões"
+date: 2025-07-15
+sessao: 17
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/17
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Rilonde
+plots:
+  - A Maldicao de Nightwolf
+eventos:
+  - Preparação
+  - Negociação
+resumo: "Grupo em Rilonde, Nightwolf amarrado para prevenir transformações, Bartrock revela magia de cura para licantropia, grupo prepara viagem para Londe"
+description: "Em Rilonde, Nightwolf é amarrado todas as noites para prevenir transformações. Bartrock revela magia de cura para licantropia. Grupo negocia com Alberto e prepara viagem para Londe em busca da cura."
+---
+
 # O Legado de Rilonde: Capítulo 17 – Entre Cordas e Confissões
 
 ## Introdução

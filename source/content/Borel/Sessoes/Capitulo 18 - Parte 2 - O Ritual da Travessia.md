@@ -1,3 +1,31 @@
+---
+title: "Sessão 18 - Parte 2 - O Ritual da Travessia"
+date: 2025-07-22
+sessao: 18
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/18
+  - status/ativo
+  - evento/ritual
+personagens:
+  - Dustin
+  - Tony
+  - Nightwolf
+  - Bartrock
+  - Borin
+  - Orestan
+locais:
+  - Santuário
+plots:
+  - A Transformacao de Dustin
+eventos:
+  - Ritual
+  - Transformação
+resumo: "Grupo chega ao santuário, conhece Eco guardião, Dustin decide entrar na caverna para ritual da travessia, enfrenta sussurros e dano psíquico"
+description: "Chegada ao santuário com caverna orgânica. Encontro com Eco, guardião do local. Dustin aceita desafio do ritual da travessia, entrando sozinho na caverna e enfrentando pressão para renunciar ao nome."
+---
+
 # O Ritual da Travessia: Capítulo 18 – Parte 2 - Entre a Curiosidade e o Desconhecido
 
 ## Introdução

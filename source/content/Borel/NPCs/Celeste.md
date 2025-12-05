@@ -1,3 +1,20 @@
+---
+title: "Celeste"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/celeste
+  - status/morta
+primeira-aparicao: "Sessão 4"
+ultima-aparicao: "Sessão 16"
+status: "Morta - Executada por Bartrock possuído na Sessão 16"
+plots-relacionados:
+  - Misterio de Rilonde
+  - Ameaca dos Lobisomens
+  - A Possessao de Bartrock
+---
+
 # Celeste
 
 ## Status: **MORTA** (Executada na Sessão 16)

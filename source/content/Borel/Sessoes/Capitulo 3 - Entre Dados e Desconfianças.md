@@ -1,3 +1,29 @@
+---
+title: "Sessão 3 - Entre Dados e Desconfianças"
+date: 2025-04-07
+sessao: 3
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/03
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+locais:
+  - Rilonde
+plots:
+  - Misterio de Rilonde
+eventos:
+  - Investigação
+  - Negociação
+resumo: "Grupo chega a Rilonde, é contratado por Alberto Eder para investigar roubos em carroças, encontra Bartrock transformado e descobre criatura misteriosa"
+description: "Aventureiros chegam a Rilonde e são contratados por Alberto Eder para investigar roubos. Reencontram Bartrock transformado, descobrem criatura misteriosa em carroça e enfrentam trapaceiro em jogo de dados."
+---
+
 # O Legado de Rilonde: Capítulo 3 – Entre Dados e Desconfianças
 
   

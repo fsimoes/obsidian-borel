@@ -1,3 +1,18 @@
+---
+title: "Jorge"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/jorge
+  - status/ativo
+primeira-aparicao: "Sessão 15"
+ultima-aparicao: "Sessão 17"
+status: "Protegido - No Templo de Megarde em Rilonde"
+plots-relacionados:
+  - A Queda da Alva Cidadela
+---
+
 # Jorge
 ![[Jorge.png]]
 ## Descrição

@@ -1,3 +1,30 @@
+---
+title: "Sessão 16 - Parte 2 - A Batalha Contra a Fera Interior"
+date: 2025-07-08
+sessao: 16
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/16
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Nightwolf
+  - Dustin
+  - Tony
+  - Bartrock
+  - Letícia
+locais:
+  - Estrada para Rilonde
+plots:
+  - A Maldicao de Nightwolf
+eventos:
+  - Batalha
+  - Transformação
+resumo: "Combate intenso contra Nightwolf transformado em lobisomem, grupo consegue nocauteá-lo fazendo retornar à forma humana, decidem amarrá-lo durante noites"
+description: "Batalha desesperadora contra Nightwolf transformado em lobisomem. Grupo enfrenta difícil decisão de lutar contra aliado. Tony desfere golpe final nocauteando lobisomem que retorna à forma humana."
+---
+
 # O Legado de Rilonde: Capítulo 16 – Parte 2 - A Batalha Contra a Fera Interior
 
 ## Introdução

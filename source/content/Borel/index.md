@@ -1,5 +1,9 @@
 ---
 title: Borel - Campanha de RPG
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
 ---
 
 # Bem-vindo ao RPG Borel

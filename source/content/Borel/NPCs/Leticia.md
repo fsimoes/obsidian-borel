@@ -1,3 +1,19 @@
+---
+title: "Letícia"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/leticia
+  - status/ativo
+primeira-aparicao: "Sessão 15"
+ultima-aparicao: "Sessão 25"
+status: "Ativa - Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano"
+plots-relacionados:
+  - A Queda da Alva Cidadela
+  - Conselho Arcano do Circo Vermelho
+---
+
 # Letícia
 
 ## Status: Sob Proteção do Grupo

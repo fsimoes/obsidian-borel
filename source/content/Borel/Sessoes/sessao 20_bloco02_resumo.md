@@ -1,3 +1,29 @@
+---
+title: "Sessão 20 - Bloco 2 - O Grande Debate dos Portais"
+date: 2025-08-12
+sessao: 20
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/20
+  - status/ativo
+personagens:
+  - Kaelion
+  - Tony
+  - Dustin
+  - Bartrock
+  - Orestan
+locais:
+  - Londe
+  - Universidade de Namarath
+plots:
+  - Conselho Arcano do Circo Vermelho
+eventos:
+  - Debate
+resumo: "Grupo participa de debate sobre implementação de portais mágicos na escola de magia de Namarath, grupo é oposição enquanto Tobias demonstra segurança dos portais"
+description: "Grupo chega à escola de magia de Namarath para participar de debate sobre portais mágicos. Liderados por Kaelion, participam como oposição. Tobias demonstra segurança dos portais através de apresentação prática."
+---
+
 # O Grande Debate dos Portais: Capítulo 20 – Entre Magia e Desconfianças
 
 ## Introdução

@@ -1,3 +1,30 @@
+---
+title: "Sessão 18 - Parte 5 - A Floresta dos Horrores"
+date: 2025-07-22
+sessao: 18
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/18
+  - status/ativo
+  - evento/ritual
+personagens:
+  - Tony
+  - Dustin
+  - Bartrock
+  - Orestan
+locais:
+  - Londe
+  - Floresta
+plots:
+  - O Ritual Apocalíptico
+eventos:
+  - Descoberta
+  - Ritual
+resumo: "Grupo investiga floresta, encontra clareira com pilares, esqueletos e ovo pulsante demoníaco, profecia sobre entidades malignas, Bartrock vomita criatura demoníaca"
+description: "Investigação na floresta revela clareira profana com cinco pilares de pedra, esqueletos humanos e ovo pulsante contendo criatura demoníaca. Profecia sobre entidades malignas. Bartrock vomita criatura demoníaca. Ovo destruído."
+---
+
 # A Floresta dos Horrores: Capítulo 18 – Parte 5 - Entre Demônios e Ovos Pulsantes
 
 ## Introdução

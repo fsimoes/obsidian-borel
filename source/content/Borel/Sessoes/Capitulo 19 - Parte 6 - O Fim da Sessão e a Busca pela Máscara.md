@@ -1,3 +1,25 @@
+---
+title: "Sessão 19 - Parte 6 - O Fim da Sessão e a Busca pela Máscara"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+personagens:
+  - Bartrock
+  - Tony
+locais:
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Conflito
+resumo: "Discussão tensa entre Bartrock e Tony sobre comportamento, Bartrock afirma ter encontrado máscara, grupo decide fazer long rest e retornar à taverna"
+description: "Discussão acalorada entre Bartrock e Tony sobre comportamento do mago. Bartrock afirma ter encontrado máscara após teste de Investigation. Grupo decide fazer long rest e retornar à taverna. Distribuição de 11.500 XP."
+---
+
 # O Fim da Sessão e a Busca pela Máscara: Capítulo 19 – Parte 6
 
 ## Introdução

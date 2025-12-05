@@ -1,3 +1,29 @@
+---
+title: "Sessão 11 - Sombras e Pólvora"
+date: 2025-06-03
+sessao: 11
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/11
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Borin
+locais:
+  - Elriste
+plots:
+  - Plano Rebelde
+eventos:
+  - Planejamento
+  - Puzzle
+resumo: "Grupo planeja explosão da muralha, enfrenta golem de ferro resolvendo puzzle arcano, negocia com guardas fornecendo pista falsa, recebe flauta mágica"
+description: "Planejamento da explosão da muralha da Alva Cidadela. Grupo enfrenta golem de ferro guardião, resolve puzzle arcano para desativá-lo. Negocia com guardas fornecendo pista falsa. Dustin recebe flauta mágica."
+---
+
 # A Revolta Ascensão da Alva Cidadela: Capítulo 11 – Sombras e Pólvora
 
 ## Introdução

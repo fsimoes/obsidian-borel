@@ -1,5 +1,10 @@
 ---
 title: NPCs
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - tipo/npc
 ---
 
 # Personagens Não Jogadores

@@ -1,3 +1,18 @@
+---
+title: "Mardus"
+type: npc
+tags:
+  - rpg/borel
+  - tipo/npc
+  - npc/mardus
+  - status/ativo
+primeira-aparicao: "Sessão 25"
+ultima-aparicao: "Sessão 25"
+status: "Ativo - Responsável por entregar sujeitos de teste para experimentos"
+plots-relacionados:
+  - Os Experimentos Horrendos
+---
+
 # Mardus
 
 ## Perfil

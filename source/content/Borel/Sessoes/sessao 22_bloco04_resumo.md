@@ -1,3 +1,32 @@
+---
+title: "Sessão 22 - Bloco 4 - A Batalha das Minhocas Gigantes"
+date: 2025-09-02
+sessao: 22
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/22
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Tony
+  - Dustin
+  - Kaelion
+  - Bartrock
+  - Nightwolf
+  - Borin
+  - Orestan
+  - Groih
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Batalha intensa contra múltiplas minhocas simultaneamente, Nightwolf engolido exigindo ação rápida, ataques coordenados e uso estratégico de magias, vitória do grupo após luta épica"
+description: "Batalha intensa contra múltiplas minhocas gigantes simultaneamente. Nightwolf é engolido por uma das minhocas exigindo ação rápida dos companheiros. Ataques coordenados e uso estratégico de magias culminam na vitória do grupo."
+---
+
 # O Legado de Rilonde: Capítulo 22 – Parte 4 – A Batalha das Minhocas Gigantes
 
 ## Introdução

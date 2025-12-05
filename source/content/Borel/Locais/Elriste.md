@@ -1,3 +1,25 @@
+---
+title: "Elriste"
+type: local
+tags:
+  - rpg/borel
+  - tipo/local
+  - local/elriste
+status: "Em Revolução"
+controlado-por: "Resistência (Rita)"
+visitado-em:
+  - "Sessão 7"
+  - "Sessão 8"
+  - "Sessão 9"
+  - "Sessão 10"
+  - "Sessão 11"
+  - "Sessão 12"
+  - "Sessão 13"
+  - "Sessão 14"
+  - "Sessão 15"
+descricao: "Cidade dividida por muralha separando elite opulenta (Alva Cidadela) da população empobrecida. Berço da revolução liderada por Rita."
+---
+
 # Elriste
 
 ## Status: Dividida

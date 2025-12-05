@@ -1,5 +1,10 @@
 ---
 title: Players
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - tipo/personagem
 ---
 
 # Personagens dos Jogadores

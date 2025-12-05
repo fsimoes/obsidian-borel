@@ -1,3 +1,29 @@
+---
+title: "Sessão 21 - Bloco 2 - O Ritual da Ressurreição"
+date: 2025-08-26
+sessao: 21
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/21
+  - status/ativo
+  - evento/resurreicao
+personagens:
+  - Bartrock
+  - Nightwolf
+  - Tony
+  - Dustin
+locais:
+  - Londe
+plots:
+  - A Ressurreição de Nightwolf
+eventos:
+  - Ritual
+  - Ressurreição
+resumo: "Bartrock realiza ritual sombrio de ressurreição cortando-se e pingando sangue, garrafa mágica quebra trazendo Nightwolf de volta com vida máxima reduzida pela metade"
+description: "Bartrock explica comunicação mental através da máscara. Realiza ritual de ressurreição cortando-se causando 15 de dano e pingando sangue ao redor de Nightwolf. Garrafa mágica quebra trazendo Nightwolf de volta com vida máxima dividida pela metade."
+---
+
 # O Ritual da Ressurreição: Capítulo 21 – Parte 2 – Entre Sangue e Mistérios
 
 ## Introdução

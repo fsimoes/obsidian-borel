@@ -1,5 +1,10 @@
 ---
 title: RPG Borel
+type: indice
+tags:
+  - rpg/borel
+  - tipo/indice
+  - pagina-principal
 ---
 
 # Bem-vindo ao RPG Borel
@@ -19,7 +24,18 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 ## Atualizações Recentes
 
-### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais (RECENTE)
+### Sessão 25 - Os Experimentos Horrendos (RECENTE)
+A campanha revelou uma das descobertas mais sombrias até agora:
+- **Transformação de Bartrock**: Desapareceu durante vigília e foi substituído por ovelha com cheiro podre
+- **Descoberta da instalação**: Corredor subterrâneo com celas contendo criaturas modificadas
+- **Reencontro emocional**: Orestan encontrou Uruk, amigo de tribo transformado em criatura
+- **Ritual de purificação**: Orestan realizou ritual perigoso curando Uruk da possessão
+- **Descoberta de Mardus**: Cartas revelam responsável por entregar sujeitos de teste
+- **Informações sobre Conselho Arcano**: Letícia forneceu informações fragmentadas
+- **Despedida de Embergard**: Retornou à família após missão bem-sucedida
+- **Missão de resgate planejada**: Grupo planeja retornar para salvar outras vítimas
+
+### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 A campanha atingiu novos níveis de combate estratégico e resolução de puzzles com eventos épicos:
 - **Batalha épica contra golems elementais** - Combate intenso contra três golems (gelo, pedra e fogo) com escudos elementais
 - **Descoberta do puzzle das órbitas** - Mecânica revelada: tocar órbitas de um elemento enfraquece escudos nas salas opostas
@@ -115,47 +131,54 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ## Plots Ativos
 
 ### Principais
-- **A Maldição de Nightwolf** - Licantropia descoberta, possível cura revelada por Bartrock
-- **A Possessão de Bartrock** - Entidade maligna controlando o mago através de máscara fundida
-- **Viagem para Londe** - Missão contratada por Alberto (40 platinas) relacionada a círculos de teletransporte
-- **Proteção dos Refugiados** - Jorge no Templo de Megarde, Letícia trabalhando com Alberto
-- **Consequências da Revolução** - Repercussões da queda da Alva Cidadela
+- **A Possessão de Bartrock** - Entidade maligna controlando o mago, desapareceu na Sessão 25
+- **Os Experimentos Horrendos** - Instalação subterrânea com criaturas modificadas (descoberta na Sessão 25)
+- **A Traição de Cerberus** - Antigo aliado trabalhando com demônio
+- **Conselho Arcano do Circo Vermelho** - Informações fragmentadas descobertas na Sessão 25
+- **A Transformação de Dustin** - Perdeu identidade após ritual da travessia
+- **A Ressurreição de Nightwolf** - Ressuscitado com vida máxima reduzida
+- **O Ritual Apocalíptico** - Profecia sobre entidades malignas por vir
 
 ### Resolvidos
-- [[A Queda da Alva Cidadela|A Queda da Alva Cidadela]] - Revolução completada, Rita desaparecida
-- [[Resistencia Elriste|A Resistência em Elriste]] - Movimento bem-sucedido
-- [[LordBart|A Transformação de LordBart]] - **RESOLVIDO**: Possessão por entidade maligna
-- [[Armazem_568|O Mistério do Armazém 568]] - Laboratório secreto de Celeste em Rilonde
-- [[Plano Rebelde|O Plano de Rita]] - Plano para derrubar o muro de Elriste
+- [[Plots/A Queda da Alva Cidadela|A Queda da Alva Cidadela]] - Revolução completada, Rita desaparecida
+- [[Plots/Resistencia Elriste|A Resistência em Elriste]] - Movimento bem-sucedido
+- [[Plots/Armazem_568|O Mistério do Armazém 568]] - Laboratório secreto de Celeste em Rilonde
+- [[Plots/Plano Rebelde|O Plano de Rita]] - Plano para derrubar o muro de Elriste
 - **O Destino de Celeste** - Executada por Bartrock possuído na prisão
+- **A Maldição de Nightwolf** - **CURADO** na Sessão 20
 
 ## Personagens
 
 ### NPCs Principais
-- [[Rita]] - Líder da resistência (desaparecida)
-- [[Celeste]] - Misteriosa spellcaster (**MORTA** - executada por Bartrock possuído)
-- [[Alberto]] - Mercador influente (contratou grupo para missão em Longe)
-- [[Jorge]] - Jovem sobrevivente da nobreza (agora sob cuidados do Templo de Megarde)
-- [[Letícia]] - Ex-serviçal da Baronesa (trabalhando como administradora para Alberto)
+- [[NPCs/Rita|Rita]] - Líder da resistência (desaparecida)
+- [[NPCs/Celeste|Celeste]] - Misteriosa spellcaster (**MORTA** - executada por Bartrock possuído)
+- [[NPCs/Alberto|Alberto]] - Mercador influente (contratou grupo para missão em Londe)
+- [[NPCs/Jorge|Jorge]] - Jovem sobrevivente da nobreza (agora sob cuidados do Templo de Megarde)
+- [[NPCs/Leticia|Letícia]] - Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano (Sessão 25)
+- [[NPCs/Uruk|Uruk]] - Amigo de Orestan, **CURADO** de possessão no Santuário de Córdia (Sessão 25)
+- [[NPCs/Emmergard|Embergard]] - **SEPARADA** - Retornou à família na Sessão 25
+- [[NPCs/Mardus|Mardus]] - Responsável por entregar sujeitos de teste para experimentos (descoberto na Sessão 25)
 - **Entidade da Máscara** - Ser maligno que possui Bartrock (ex-mestre de Celeste)
-- **Thaís Carla** - Guardiã obesa e intimidadora da taverna em Rilonde
+- [[NPCs/Thais Carla|Thaís Carla]] - Guardiã obesa e intimidadora da taverna em Rilonde
 
 ### Jogadores
-- [[Borin]] - Anão inventor
-- [[LordBart]] - Mago elfo (**POSSUÍDO** por entidade maligna via máscara)
-- [[Kaelion]] - Membro do grupo
-- [[Dustin]] - Ranger/Clérigo (**TRANSFORMADO** após ritual da travessia)
-- [[Nightwolf]] - **CURADO** da licantropia na Sessão 20
-- [[Tony]] - Líder do grupo e negociador
-- [[Orestan]] - **NOVO MEMBRO** - Guerreiro religioso recrutado no santuário
+- [[Players/Borin|Borin]] - Anão inventor (status desconhecido desde Sessão 19)
+- [[Players/LordBart|Bartrock]] - Mago elfo (**DESAPARECIDO** na Sessão 25, substituído por ovelha)
+- [[Players/Kaelion|Kaelion]] - Separado do grupo na Sessão 9
+- [[Players/Dustin|Dustin]] - Ranger/Clérigo (**TRANSFORMADO** após ritual da travessia)
+- [[Players/Nightwolf|Nightwolf]] - **CURADO** da licantropia na Sessão 20, ressuscitado na Sessão 21
+- [[Players/Tony|Tony]] - Líder do grupo e negociador
+- [[Players/Orestan|Orestan]] - Guerreiro religioso, curou Uruk na Sessão 25
+- [[Players/Groih|Groih]] - Membro ativo do grupo
 
 ## Locais
 
 ### Cidades Principais
-- [[Alva Cidadela]] - Cidade-fortaleza conquistada por Rita
-- [[Elriste]] - Cidade dividida pela desigualdade (grupo fugiu após revolução)
-- [[Rilonde]] - Centro comercial e ponto de origem (local atual do grupo)
-- **Londe** - Cidade da magia com universidade e círculos de teletransporte
+- [[Locais/Alva Cidadela|Alva Cidadela]] - Cidade-fortaleza conquistada por Rita
+- [[Locais/Elriste|Elriste]] - Cidade dividida pela desigualdade (grupo fugiu após revolução)
+- [[Locais/Rilonde|Rilonde]] - Centro comercial e ponto de origem
+- [[Locais/Londe|Londe]] - Cidade da magia com universidade e círculos de teletransporte (**local atual do grupo**)
+- [[Locais/Santuario de Cordia|Santuário de Córdia]] - Local onde Orestan curou Uruk (Sessão 25)
 
 ### Pontos de Interesse
 - [[Armazem_568|Armazém 568]] - Antigo laboratório secreto em Rilonde
@@ -237,6 +260,12 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 4. **Bloco 4**: A Batalha das Minhocas Gigantes - Resgate de Emmergard e eliminação das criaturas
 5. **Bloco 5**: Entre Dados e Desconfianças - Bartrock demonstra força excepcional
 
+### Sessão 25 - Os Experimentos Horrendos
+1. **Bloco 1**: A Entrada e o Mistério - Bartrock desaparece, substituído por ovelha, descoberta da escada
+2. **Bloco 2**: As Celas e as Criaturas - Corredor com celas de criaturas modificadas, reencontro com Uruk
+3. **Bloco 3**: O Ritual de Purificação - Orestan cura Uruk com ritual perigoso, descoberta de cartas
+4. **Bloco 4**: Informações e Despedidas - Letícia fornece informações sobre Conselho Arcano, Embergard se despede
+
 ### Sessão 24 - O Legado de Rilonde: A Batalha Final dos Golems Elementais
 1. **Bloco 1**: O Enigma dos Golems Elementais - Continuação da batalha, destruição do golem de gelo
 2. **Bloco 2**: Estratégias e Revelações - Dustin pega órbita azul, descoberta de proteções mágicas
@@ -290,9 +319,9 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 ## Estado Atual da Campanha
 
 ### Localização
-O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores de cogumelos luminescentes. Após derrotar minhocas mutantes e golems elementais, descobriram uma sala com três pontes que levam a plataformas com totens mágicos. Compreenderam completamente o puzzle das órbitas elementais - tocar órbitas de um elemento enfraquece escudos nas salas opostas, exigindo coordenação entre membros em diferentes salas.
+O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistra. Após derrotar golems elementais e abrir porta com três órbitas mágicas, descobriram um corredor com celas contendo criaturas modificadas através de experimentos horrendos. Orestan curou Uruk, seu amigo de tribo, e o grupo planeja retornar para resgatar outras vítimas.
 
-### Situação do Grupo (Pós-Sessão 24)
+### Situação do Grupo (Pós-Sessão 25)
 - **Tony**: **DEFESA ESTRATÉGICA ÉPICA** - Protegeu Emmergade com reações de escudo, elogiado pelo mestre. Críticos duplos arrancando pedaços dos golems enquanto mantinha contato com órbita
 - **Dustin**: **CORAGEM EXTREMA** - Atravessou ponte de gelo duas vezes sob ventos intensos, ativou órbitas, sofreu congelamento progressivo mas sobreviveu. Descobriu mecânica crucial do puzzle
 - **Nightwolf (Keren)**: **COMBATE EFETIVO** - Primeiro dano significativo no golem de pedra com espada flamejante, causou 12 de dano arrancando pedaços. Lançou Fireballs em área
@@ -301,11 +330,13 @@ O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores 
 - **Groih**: **DANO MASSIVO** - Causou 12 de dano iniciando destruição do primeiro golem. Mudou estratégia para defesa (escudo e longsword), teve escudo arrancado pelo golem de fogo
 - **Boren**: **TELEPORTAÇÃO ESTRATÉGICA** - Usou Mist Step para cruzar ponte instantaneamente, evitando testes de acrobacia perigosos
 - **Orestan**: **EXPLORAÇÃO E ANÁLISE** - Explorou salas secundárias, tentou interagir com órbitas, coordenou com NightWolf sobre puzzle dos totens
-- **Emmergade**: **CURA DESESPERADA** - Ferida gravemente (24 pontos de dano), pediu ajuda emocionalmente a Tony e usou Cure Wounds nível 5 curando completamente. Protegeu aliados com escudo de gelo mágico
+- **Embergard**: **SEPARADA** - Retornou à família na Sessão 25 após missão bem-sucedida
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
-- **Letícia**: Seguiu caminho independente em Longe
+- **Letícia**: Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano (Sessão 25)
+- **Uruk**: **CURADO** - Orestan realizou ritual de purificação perigoso curando-o da possessão (Sessão 25)
 - **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
 - **Cerberus**: **TRAIDOR** - Revelou aliança com demônio, prendeu grupo em armadilha
+- **Mardus**: **DESCOBERTO** - Responsável por entregar sujeitos de teste para experimentos (Sessão 25)
 
 ### Recursos Disponíveis
 - **40 platinas**: Pagamento por missão bem-sucedida
@@ -322,25 +353,24 @@ O grupo está **EXPLORANDO** uma caverna subterrânea misteriosa com corredores 
 - **Órbita Vermelha**: Coletada após destruição do primeiro golem de pedra (Sessão 24)
 - **Órbita Marrom**: Coletada após destruição do último golem de pedra (Sessão 24)
 
-### Ameaças Críticas (Pós-Sessão 24)
-1. **RESOLVIDO: BATALHA CONTRA ELEMENTAIS** - Todos os golems elementais foram derrotados. Mecânica do puzzle compreendida completamente
-2. **CONSEQUÊNCIAS DO CONGELAMENTO** - Dustin e Kaelion sofreram congelamento extremo, podem ter efeitos permanentes
-3. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital de quatro membros, criando desconfiança
-4. **Porta com Três Cavidades** - Puzzle ou mecanismo descoberto na sala principal, possível uso das órbitas coletadas
-5. **Ambiente Mágico Perigoso** - Calma ensurdecedora e pressão de medo na caverna, efeitos de frio extremo
+### Ameaças Críticas (Pós-Sessão 25)
+1. **CRÍTICO: Bartrock Desaparecido** - Desapareceu durante vigília e foi substituído por ovelha com cheiro podre
+2. **ALTA: Os Experimentos Horrendos** - Instalação subterrânea com criaturas modificadas, pessoas ainda sofrendo
+3. **ALTA: Missão de Resgate** - Planejada para retornar e salvar outras vítimas dos experimentos
+4. **Mardus Descoberto** - Responsável por entregar sujeitos de teste, alvo de investigação
+5. **Conselho Arcano** - Informações fragmentadas descobertas, possível ameaça maior
 6. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
-7. **Bartrock Demoníaco** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
-8. **Dustin Perdido** - Identidade comprometida por transformação espiritual
-9. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
-10. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
+7. **Dustin Perdido** - Identidade comprometida por transformação espiritual
+8. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+9. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
+10. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital, criando desconfiança
 
 ### Situação Urgente
-- **COMPREENDER FUNÇÃO DAS ÓRBITAS** - Duas órbitas coletadas (vermelha e marrom), função ainda não completamente clara
-- **RESOLVER PUZZLE DA PORTA** - Três cavidades circulares podem ser chave para progresso, possível uso das órbitas
+- **CRÍTICO: Encontrar Bartrock** - Desapareceu e foi substituído por ovelha, destino desconhecido
+- **ALTA: Missão de Resgate** - Planejar retorno à instalação para salvar outras vítimas dos experimentos
+- **INVESTIGAR MARDUS** - Descobrir localização e conexões do responsável pelos experimentos
+- **CONSELHO ARCANO** - Investigar informações fragmentadas fornecidas por Letícia
 - **INVESTIGAR GROIH** - Entender natureza de seus poderes sombrios involuntários
-- **EXPLORAR CONTINUAÇÃO DA CAVERNA** - Com golems derrotados, o que há além?
-- **SOBREVIVER AO AMBIENTE** - Caverna com atmosfera de medo e calma ensurdecedora, efeitos de frio extremo
-- **Monitorar Bartrock** - Possessão ativa, demonstrou força excepcional mas grupo desconfia
-- **Investigar cristal** - Compreender propriedades do cristal misterioso
-- **Resolver conflito interno** - Decidir como lidar com Bartrok e suas ações
-- **Efeitos do congelamento** - Monitorar consequências físicas do frio extremo em Dustin e Kaelion 
+- **Tobias Capturado** - Descobrir destino após ser levado pelo demônio
+- **Traição de Cerberus** - Entender extensão da aliança com demônio
+- **Dustin Perdido** - Ajudar a recuperar identidade após transformação espiritual 

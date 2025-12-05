@@ -1,3 +1,30 @@
+---
+title: "Sessão 4 - Noite na Cidade"
+date: 2025-04-15
+sessao: 4
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/04
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Emmergard
+locais:
+  - Rilonde
+plots:
+  - Misterio de Rilonde
+eventos:
+  - Investigação
+  - Ataque
+resumo: "Grupo compra equipamentos, desconfia de Emmergard, Nightwolf é atacado por criatura misteriosa e perde memórias"
+description: "Noite em Rilonde onde grupo compra equipamentos, revela-se desconfiança sobre Emmergard e passado de Dustin. Nightwolf é atacado por criatura misteriosa e perde memórias após magia."
+---
+
 # O Legado de Rilonde: Capítulo 4 – Noite na Cidade
 
   

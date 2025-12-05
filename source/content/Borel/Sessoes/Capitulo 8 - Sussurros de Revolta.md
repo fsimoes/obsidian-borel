@@ -1,3 +1,30 @@
+---
+title: "Sessão 8 - Sussurros de Revolta"
+date: 2025-05-13
+sessao: 8
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/08
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Kaelion
+  - Borin
+locais:
+  - Elriste
+plots:
+  - Resistencia Elriste
+eventos:
+  - Encontro
+  - Negociação
+resumo: "Grupo retorna a Elriste, encontra Rita líder da resistência, descobre desigualdade social e aceita ajudar interceptando carregamento, recebe itens mágicos"
+description: "Retorno a Elriste revela cidade dividida. Encontro com Rita, líder da resistência contra elite. Grupo aceita ajudar interceptando carregamento e recebe itens mágicos como recompensa."
+---
+
 # O Legado de Rilonde: Capítulo 8 – Sussurros de Revolta
 
 ## Introdução

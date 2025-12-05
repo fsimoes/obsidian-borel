@@ -1,3 +1,30 @@
+---
+title: "Sessão 19 - Parte 3 - O Espectro e a Resistência"
+date: 2025-08-05
+sessao: 19
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/19
+  - status/ativo
+  - evento/batalha
+personagens:
+  - Orestan
+  - Bartrock
+  - Borin
+  - Tony
+  - Nightwolf
+  - Dustin
+locais:
+  - Floresta dos Horrores
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Batalha
+resumo: "Criatura revela resistências múltiplas, espectro ataca Orestan com dano necrótico, zumbi reanimado se junta à batalha, grupo adapta estratégias"
+description: "Criatura monstruosa revela resistências a frio, fogo, elétrico e danos não mágicos. Espectro aparece atacando Orestan com dano necrótico. Zumbi reanimado se junta à batalha. Grupo adapta estratégias."
+---
+
 # O Espectro e a Resistência: Capítulo 19 – Parte 3
 
 ## Introdução

@@ -1,3 +1,27 @@
+---
+title: "Sessão 25 - Bloco 2 - O Reencontro com Uruk e os Horrores da Transformação"
+date: 2025-09-30
+sessao: 25
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/25
+  - status/ativo
+personagens:
+  - Orestan
+  - Dustin
+  - Uruk
+locais:
+  - Caverna Subterrânea
+plots:
+  - Os Experimentos Horrendos
+eventos:
+  - Descoberta
+  - Reencontro
+resumo: "Criatura solta joga coisas dentro das celas, criatura agarra pé de Dustin, Orestan descobre que criatura deformada é Uruk, amigo de sua tribo que acreditava estar morto"
+description: "Criatura solta no corredor joga coisas dentro das celas. Criatura de cela agarra pé de Dustin. Orestan se aproxima e descobre que criatura deformada que se recusa a dar nome é na verdade Uruk, amigo de sua tribo."
+---
+
 # O Legado de Rilonde: Capítulo 25 – Bloco 2 – O Reencontro com Uruk e os Horrores da Transformação
 
 ## Introdução

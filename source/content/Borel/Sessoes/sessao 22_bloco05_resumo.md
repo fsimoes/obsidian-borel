@@ -1,3 +1,24 @@
+---
+title: "Sessão 22 - Bloco 5 - Entre Dados e Desconfianças"
+date: 2025-09-02
+sessao: 22
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/22
+  - status/ativo
+personagens:
+  - Bartrock
+locais:
+  - Caverna Subterrânea
+plots:
+  - A Batalha das Minhocas
+eventos:
+  - Batalha
+resumo: "Bartrock demonstra habilidade excepcional em combate quase derrotando todos os inimigos, momento interrompido por discussões sobre o jogo e compartilhamento de conteúdo"
+description: "Bartrock demonstra habilidade excepcional em combate quase derrotando todos os inimigos presentes. Momento interrompido por discussões sobre o jogo e compartilhamento de conteúdo entre jogadores."
+---
+
 # O Balde na Boca: Capítulo 22 – Parte 5 – Entre Dados e Desconfianças
 
 ## Introdução

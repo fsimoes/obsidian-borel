@@ -1,3 +1,28 @@
+---
+title: "Sessão 20 - Bloco 1 - Marcas do Ritual"
+date: 2025-08-12
+sessao: 20
+tags:
+  - rpg/borel
+  - tipo/sessao
+  - sessao/20
+  - status/ativo
+personagens:
+  - Tony
+  - Nightwolf
+  - Dustin
+  - Bartrock
+  - Orestan
+locais:
+  - Londe
+plots:
+  - A Possessao de Bartrock
+eventos:
+  - Transformação
+resumo: "Grupo retorna à estalagem, descobre marcas permanentes do ritual pagão nas mãos, Orestan se junta ao grupo, Bartrock descobre cura para Nightwolf"
+description: "Retorno à estalagem após batalha. Descoberta de marcas permanentes do ritual pagão nas mãos. Orestan se junta ao grupo. Bartrock descobre magia de cura para Nightwolf e aprende magia para sabotar portais."
+---
+
 # O Legado de Rilonde: Capítulo 20 – Marcas do Ritual
 
 ## Introdução
