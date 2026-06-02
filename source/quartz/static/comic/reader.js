@@ -23,6 +23,22 @@ function chapterFolder(chapter) {
   return chapter.id + "/"
 }
 
+function chapterBounds(chapter) {
+  const start = chapter.startPage || 1
+  return { start, end: start + chapter.pageCount - 1 }
+}
+
+function chapterIndex(config, id) {
+  return config.chapters.findIndex((c) => c.id === id)
+}
+
+function adjacentChapter(config, id, delta) {
+  const i = chapterIndex(config, id)
+  if (i < 0) return null
+  const j = i + delta
+  return j >= 0 && j < config.chapters.length ? config.chapters[j] : null
+}
+
 function getQuery() {
   const params = new URLSearchParams(location.search)
   return {
@@ -101,6 +117,82 @@ function findChapter(config, id) {
   return config.chapters.find((c) => c.id === id) || config.chapters[0]
 }
 
+function goToPage(config, chapter, page) {
+  const { start, end } = chapterBounds(chapter)
+  if (page < start || page > end) return
+  renderReader(config, chapter, page)
+}
+
+function goNext(config, chapter, page) {
+  const { end } = chapterBounds(chapter)
+  if (page < end) {
+    goToPage(config, chapter, page + 1)
+    return
+  }
+  const next = adjacentChapter(config, chapter.id, 1)
+  if (next) goToPage(config, next, next.startPage || 1)
+}
+
+function goPrev(config, chapter, page) {
+  const { start } = chapterBounds(chapter)
+  if (page > start) {
+    goToPage(config, chapter, page - 1)
+    return
+  }
+  const prev = adjacentChapter(config, chapter.id, -1)
+  if (prev) {
+    const { end } = chapterBounds(prev)
+    goToPage(config, prev, end)
+  }
+}
+
+function updateNavButtons(config, chapter, page) {
+  const { start, end } = chapterBounds(chapter)
+  const prevCh = adjacentChapter(config, chapter.id, -1)
+  const nextCh = adjacentChapter(config, chapter.id, 1)
+  const onLastPage = page >= end
+  const onFirstPage = page <= start
+
+  const btnPrev = $("btn-prev")
+  const btnNext = $("btn-next")
+  const endNav = $("chapter-end-nav")
+  const btnNextChapter = $("btn-next-chapter")
+
+  if (onFirstPage && !prevCh) {
+    btnPrev.disabled = true
+    btnPrev.textContent = "← Anterior"
+    btnPrev.title = "Página anterior"
+  } else if (onFirstPage && prevCh) {
+    btnPrev.disabled = false
+    btnPrev.textContent = "← Cap. anterior"
+    btnPrev.title = `Última página: ${prevCh.title}`
+  } else {
+    btnPrev.disabled = false
+    btnPrev.textContent = "← Anterior"
+    btnPrev.title = "Página anterior"
+  }
+
+  if (onLastPage && nextCh) {
+    btnNext.disabled = false
+    btnNext.textContent = "Próximo capítulo →"
+    btnNext.title = `Começar: ${nextCh.title}`
+    btnNext.classList.add("primary")
+    endNav.classList.remove("hidden")
+    btnNextChapter.textContent = `Continuar: ${nextCh.title} →`
+    btnNextChapter.onclick = () => goToPage(config, nextCh, nextCh.startPage || 1)
+  } else if (onLastPage && !nextCh) {
+    btnNext.disabled = true
+    btnNext.textContent = "Fim"
+    btnNext.title = "Último capítulo publicado"
+    endNav.classList.add("hidden")
+  } else {
+    btnNext.disabled = false
+    btnNext.textContent = "Próxima →"
+    btnNext.title = "Próxima página"
+    endNav.classList.add("hidden")
+  }
+}
+
 function renderReader(config, chapter, page) {
   $("view-home").classList.add("hidden")
   $("view-reader").classList.remove("hidden")
@@ -121,13 +213,11 @@ function renderReader(config, chapter, page) {
     goToPage(config, next, next.startPage || 1)
   }
 
-  const start = chapter.startPage || 1
-  const end = start + chapter.pageCount - 1
+  const { start, end } = chapterBounds(chapter)
   page = Math.min(Math.max(page, start), end)
 
   $("page-indicator").textContent = `Página ${page - start + 1} de ${chapter.pageCount}`
-  $("btn-prev").disabled = page <= start
-  $("btn-next").disabled = page >= end
+  updateNavButtons(config, chapter, page)
 
   const img = $("page-image")
   const ph = $("page-placeholder")
@@ -160,19 +250,12 @@ function renderReader(config, chapter, page) {
   }
   tryLoad(0)
 
-  $("btn-prev").onclick = () => goToPage(config, chapter, page - 1)
-  $("btn-next").onclick = () => goToPage(config, chapter, page + 1)
+  $("btn-prev").onclick = () => goPrev(config, chapter, page)
+  $("btn-next").onclick = () => goNext(config, chapter, page)
   $("btn-first").onclick = () => goToPage(config, chapter, start)
   $("btn-last").onclick = () => goToPage(config, chapter, end)
 
   setQuery(chapter.id, page)
-}
-
-function goToPage(config, chapter, page) {
-  const start = chapter.startPage || 1
-  const end = start + chapter.pageCount - 1
-  if (page < start || page > end) return
-  renderReader(config, chapter, page)
 }
 
 function bindKeys(config) {
@@ -183,15 +266,15 @@ function bindKeys(config) {
     const page = q.page
     if (e.key === "ArrowLeft" || e.key === "a") {
       e.preventDefault()
-      goToPage(config, chapter, page - 1)
+      goPrev(config, chapter, page)
     } else if (e.key === "ArrowRight" || e.key === "d") {
       e.preventDefault()
-      goToPage(config, chapter, page + 1)
+      goNext(config, chapter, page)
     } else if (e.key === "Home") {
       goToPage(config, chapter, chapter.startPage || 1)
     } else if (e.key === "End") {
-      const start = chapter.startPage || 1
-      goToPage(config, chapter, start + chapter.pageCount - 1)
+      const { end } = chapterBounds(chapter)
+      goToPage(config, chapter, end)
     }
   })
 }

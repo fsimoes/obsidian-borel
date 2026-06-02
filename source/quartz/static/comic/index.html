@@ -57,16 +57,19 @@
           <img id="page-image" class="hidden" alt="" />
           <div id="page-placeholder" class="placeholder hidden"></div>
         </div>
-        <div class="reader-controls">
-          <button type="button" class="btn" id="btn-first" title="Primeira página">⏮</button>
-          <button type="button" class="btn" id="btn-prev" title="Anterior">← Anterior</button>
-          <button type="button" class="btn primary" id="btn-next" title="Próxima">Próxima →</button>
-          <button type="button" class="btn" id="btn-last" title="Última página">⏭</button>
+        <div id="chapter-end-nav" class="chapter-end-nav hidden">
+          <button type="button" class="btn primary" id="btn-next-chapter"></button>
         </div>
-        <p class="hint">Atalhos: ← → · A / D · Home / End</p>
+        <div class="reader-controls">
+          <button type="button" class="btn" id="btn-first" title="Primeira página do capítulo">⏮</button>
+          <button type="button" class="btn" id="btn-prev" title="Página anterior">← Anterior</button>
+          <button type="button" class="btn primary" id="btn-next" title="Próxima página">Próxima →</button>
+          <button type="button" class="btn" id="btn-last" title="Última página do capítulo">⏭</button>
+        </div>
+        <p class="hint">Atalhos: ← → · A / D · Home / End · no fim do cap., → abre o próximo</p>
       </main>
     </div>
 
-    <script src="reader.js" type="module"></script>
+    <script src="reader.js?v=3" type="module"></script>
   </body>
 </html>
