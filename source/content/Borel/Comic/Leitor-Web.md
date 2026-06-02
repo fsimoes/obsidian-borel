@@ -13,8 +13,9 @@ Quadrinho publicado **fora** das notas Obsidian, em HTML estático:
 - **URL no site:** [`/comic/`](/comic/) (após deploy ou `npm run serve:site` em `source/`)
 - **Fonte no repo:** `source/quartz/static/comic/` (sobrevive a cada `quartz build`)
 - **URL curta:** `/comic/` — cópia após build (`npm run copy:comic`; o CI faz isso no deploy)
-- **Cap. 1 (imagens):** `source/quartz/static/comic/cap-01-sessao-01/001.webp` … `020.webp`  
-  Novas exportações PNG: `cd source && npm run comic:webp` (converte e remove os PNG).
+- **Cap. 0 (elenco):** `cap-00-elenco/` — gerado dos retratos: `npm run comic:cap00`
+- **Cap. 1 (imagens):** `cap-01-sessao-01/001.webp` … `020.webp`  
+  Novas exportações PNG: `npm run comic:webp` (converte e remove os PNG).
 
 ## Compartilhar com a mesa
 

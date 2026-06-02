@@ -20,6 +20,7 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "copy:comic": "node ./scripts/copy-comic-public.mjs",
     "comic:webp": "node ./scripts/convert-comic-to-webp.mjs --remove-png",
+    "comic:cap00": "node ./scripts/generate-cap-00-elenco.mjs",
     "build:site": "npx quartz build && npm run copy:comic",
     "serve:site": "npm run build:site && npx quartz build --serve"
   },

@@ -7,6 +7,16 @@
   },
   "chapters": [
     {
+      "id": "cap-00-elenco",
+      "title": "Cap. 0 — Elenco",
+      "session": 0,
+      "pageCount": 10,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "retratos",
+      "status": "ready"
+    },
+    {
       "id": "cap-01-sessao-01",
       "title": "Cap. 1 — Negociações Frustradas",
       "session": 1,

@@ -13,7 +13,7 @@ Quadrinho digital **só para a mesa**: páginas numeradas em site privado (sem P
 
 **Entrega:** imagens em `source/quartz/static/comic/cap-XX/001.webp` … + leitor em `/comic/` (cópia pós-build) ou `/static/comic/`.
 
-**Fase atual:** **gerar 20 páginas** Cap. 1 → [[02_Chapters/cap-01-negociacoes-frustradas/production|production.md]] + [[02_Chapters/cap-01-negociacoes-frustradas/panels|panels.md]]
+**Leitor:** [[Leitor-Web|/comic/]] · **Cap. 0** [[02_Chapters/cap-00-elenco/README|Elenco]] (10 pág.) · **Cap. 1** [[02_Chapters/cap-01-negociacoes-frustradas/README|piloto]] (20 pág.)
 
 ---
 
