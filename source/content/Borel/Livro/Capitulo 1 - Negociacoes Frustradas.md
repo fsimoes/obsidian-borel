@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1 - Negociações Frustradas"
+title: Capítulo 1 - Negociações Frustradas
 type: capitulo
 tags:
   - rpg/borel
@@ -7,25 +7,28 @@ tags:
   - tipo/narrativa
   - capitulo/01
   - parte/1
+  - comic/piloto
 sessao_original: 1
 personagens:
   - Bart
   - Nightwolf
   - Dustin
-  - Tony
+npcs:
+  - Tobias Peso Morto
 locais:
   - Taverna
 plots:
   - Fuga da Taverna
+fidelity: reconstructed
 ---
 
 # Capítulo 1: Negociações Frustradas
 
+> **Canon mesa:** na taverna estão só **Bart, Nightwolf e Dustin**. **Tony Tigger** aparece pela primeira vez no [[Capitulo 2 - Um Encontro na Cabana|Capítulo 2]]. Quem enfrenta Bart na briga é o NPC **Tobias Peso Morto** — não confundir nomes.
+
 A taverna *O Cálice Dourado* estava repleta naquela noite, como sempre estava quando o sol se punha sobre a cidade. O ar pesado misturava o cheiro de cerveja barata, fumaça de cachimbos e o suor de homens e mulheres que buscavam esquecer, por algumas horas, as dificuldades do dia a dia. Nas mesas de madeira gasta, conversas sussurradas competiam com risadas altas e o som constante de moedas batendo contra madeira.
 
-No canto mais escuro do salão, um grupo de aventureiros se reunia. Eram rostos cansados, mas com olhos ainda alertas. Havia completado um trabalho naquela semana — algo sobre escolta de mercadorias, ou talvez recuperação de um artefato perdido. Os detalhes já começavam a se confundir na memória, mas o que importava era que estava feito, e agora era hora de receber o pagamento.
-
-**Tony Tiger** ajustou o cinto onde pendia sua espada, olhando ao redor com desconfiança característica. Seus olhos escaneavam cada rosto, cada movimento suspeito. Ele não confiava em ninguém, especialmente em lugares como aquele. Mas o dinheiro era necessário, e o contato havia marcado o encontro ali.
+No canto mais escuro do salão, **três** aventureiros se reuniam. Eram rostos cansados, mas com olhos ainda alertas. Havia completado um trabalho naquela semana — algo sobre escolta de mercadorias, ou talvez recuperação de um artefato perdido. Os detalhes já começavam a se confundir na memória, mas o que importava era que estava feito, e agora era hora de receber o pagamento.
 
 **Nightwolf** permanecia em silêncio, encostado na parede, quase invisível na penumbra. Suas mãos nunca se afastavam muito de seu arco, e seus olhos, aguçados como os de um predador, observavam tudo. Ele não gostava de lugares fechados, de multidões. Preferia a solidão da floresta, onde podia ouvir cada som, sentir cada brisa. Mas ali estava, como sempre estava, quando o grupo precisava.
 
@@ -33,17 +36,17 @@ No canto mais escuro do salão, um grupo de aventureiros se reunia. Eram rostos 
 
 E então havia **Lord Bart**, ou simplesmente **Bart**, como alguns o chamavam. O mago elfo estava visivelmente agitado, seus dedos tamborilando nervosamente na mesa enquanto esperava. Havia algo em seus olhos que preocupava os outros — uma intensidade estranha, como se estivesse à beira de algo grande, ou talvez à beira de um abismo.
 
-O contato chegou tarde, como sempre faziam. Um homem de meia-idade, vestido com roupas que tentavam parecer mais caras do que realmente eram, sentou-se à mesa sem cerimônia.
+O contato chegou tarde, como sempre faziam. Um homem de meia-idade, vestido com roupas que tentavam parecer mais caras do que realmente eram, sentou-se à mesa sem cerimônia. Atrás dele, perto da barra, um halfling de cachecol azul-petróleo observava a mesa com um sorriso maroto — **Tobias Peso Morto**, conhecido na cidade por meter-se em brigas que não eram suas.
 
-"Então", disse ele, olhando para o grupo com desdém, "vocês completaram o trabalho?"
+"Então", disse o contato, olhando para o grupo com desdém, "vocês completaram o trabalho?"
 
-"Completamos", respondeu Tony, mantendo a voz neutra. "E agora queremos nosso pagamento."
+"Completamos", respondeu Dustin, mantendo a voz neutra. "E agora queremos nosso pagamento."
 
 O homem sorriu, um sorriso que não chegava aos olhos. "Sobre isso... houve algumas complicações. O cliente não ficou completamente satisfeito. Há algumas... questões que precisam ser resolvidas antes do pagamento final."
 
 Dustin trocou um olhar com Nightwolf. Eles conheciam aquele jogo. Sempre havia "complicações", sempre havia "questões". Era a forma mais antiga de trapaça do mundo.
 
-"Que tipo de questões?", perguntou Tony, e sua mão se moveu discretamente em direção à empunhadura de sua espada.
+"Que tipo de questões?", perguntou Dustin, e sua mão deslizou em direção ao cabo de uma adaga.
 
 "Bem, vocês não entregaram exatamente o que foi prometido, não é? Havia algumas... expectativas que não foram atendidas."
 
@@ -53,57 +56,55 @@ O contato se recuou ligeiramente, mas manteve o sorriso falso. "Não é engano, 
 
 Foi então que tudo desandou.
 
-Bart, em um movimento rápido demais para ser natural, puxou sua varinha. Mas não foi para lançar um feitiço de defesa ou ilusão. Não. Foi para atacar. Um raio de energia mágica saiu de sua varinha, atingindo não o contato, mas alguém atrás dele — um guarda que estava observando discretamente a conversa.
+**Tobias Peso Morto** — que até então parecia parte do mesmo arranjo sujo do trabalho — não hesitou. Apontou para o trio e denunciou-os em voz alta o suficiente para os uniformes ouvirem: traiu tudo o que tinham combinado naquela mesa.
 
-O salão inteiro parou. Por um momento, houve apenas silêncio. E então o caos se instalou.
+Guardas surgiram das sombras. Entre eles, a **líder** — uma mulher de postura rígida e olhar de quem já vira demais — separou-se do grupo e foi direto a Bart.
 
-"Bart, o que você fez?", gritou Tony, mas já era tarde demais.
+"O que vocês fizeram?", perguntou. "Responda."
 
-Guarda após guarda começou a aparecer, saindo das sombras, das portas laterais. O contato se levantou rapidamente, seu sorriso agora verdadeiro e cruel.
+Bart a encarou em silêncio. Não disse uma palavra.
 
-"Peguem eles!", ordenou. "Todos eles!"
+"A última vez que pergunto", disse a líder. "Onde estava quando—"
 
-Nightwolf já estava em movimento, uma flecha nocauteada em seu arco antes que qualquer um pudesse reagir. Dustin puxou suas adagas, e Tony desembainhou sua espada com um rugido de frustração.
+"Não devo satisfações a ti nem a estes vermes", cortou Bart, e a voz saiu mais alta do que a taverna merecia, afiada de propósito, provocando o uniforme como se a sala fosse dele.
 
-"Por que você fez isso?", Tony gritou para Bart enquanto bloqueava um golpe de espada.
+A líder não puxou a espada. Levantou a mão aberta e deu um **tapa seco na cara** do mago — o som ecoou entre as mesas. O rosto de Bart virou de lado; por um instante, até Dustin ficou sem ar.
 
-Bart não respondeu. Seus olhos estavam fixos em algo que apenas ele podia ver, e sua varinha continuava lançando feitiços — alguns contra os guardas, outros contra alvos que pareciam aleatórios. Havia algo errado com ele, algo muito errado.
+"Bart!", exclamou Dustin.
 
-A batalha foi rápida e brutal. O grupo lutou como uma unidade, movendo-se em sincronia quase perfeita. Nightwolf eliminou guardas à distância com precisão mortal, enquanto Tony e Dustin mantinham os inimigos à distância com golpes rápidos e precisos. Bart... Bart estava em outro lugar, lutando uma batalha que apenas ele podia ver.
+O salão explodiu. O contato sorriu de verdade pela primeira vez na noite.
 
-Mas eram muitos. Muitos guardas, e mais chegando a cada momento.
+"Peguem eles!", alguém gritou. Guarda após guarda fechou o círculo.
 
-"Temos que sair daqui!", gritou Dustin, bloqueando um golpe que teria cortado sua cabeça.
+Na briga que se seguiu, Tobias **passou para o lado dos guardas** — mesmo cachecol esfarrapado, mesma espada curta — e veio para cima de **Lord Bart** como se sempre tivesse sido deles. Nightwolf já tinha uma flecha no arco; Dustin puxou as adagas contra o cerco de lanças.
 
-"Por onde?", respondeu Tony, chutando um guarda que tentava agarrá-lo.
+"Traidor!", alguém gritou — ou talvez Dustin, ou talvez apenas o eco da taverna.
 
-Nightwolf apontou para uma porta lateral. "Por ali. Mas precisamos ser rápidos."
+Bart não respondeu com palavras. Seus olhos estavam fixos em Tobias e em algo que só ele via; a varinha cuspiu magia errática, ora nos guardas, ora perto demais dos aliados.
 
-O grupo se moveu como um único organismo, cortando um caminho através dos guardas. Bart os seguiu, mas parecia estar em transe, seus feitiços ainda saindo de forma errática. Um deles quase atingiu Tony, que teve que se desviar no último momento.
+Entre o barulho, Tobias fechou a distância. O halfling era baixo — mal chegava ao peito do elfo —, mas estava do lado de quem mandava na sala. Com uma mão só, **agarrou a gola** do gibão de Bart, braço esticado para cima, e **puxou o mago para baixo** até os olhos quase se encontrarem. Bart tropeçou, ofegante; a varinha escorregou. Por um instante, o nobre alto parecia menor que o traidor de rua.
 
-"Bart, controle-se!", gritou Nightwolf, mas o mago não parecia ouvir.
+O momento passou. Tobias recuou para a linha dos guardas; Bart cambaleou — olhos revirando — e **desabou** no chão da taverna.
 
-Eles chegaram à porta, mas ela estava trancada. Dustin rapidamente examinou a fechadura enquanto Tony e Nightwolf mantinham os guardas afastados.
+"Temos que sair daqui!", gritou Dustin, bloqueando uma lança.
 
-"Preciso de um minuto!", disse Dustin, suas mãos trabalhando rapidamente.
+"Por ali!", respondeu Nightwolf, derrubando um homem com o cabo do arco e apontando para uma porta lateral.
 
-"Não temos um minuto!", respondeu Tony, bloqueando outro golpe.
+Dustin arrombou a fechadura com mãos trêmulas enquanto Nightwolf mantinha os guardas afastados com o arco. Entre os dois, ergueram Bart pelos braços e ombros — o mago elfo inconsciente, pesado, cabeça caída para trás.
 
-Foi então que Bart, em um momento de lucidez aparente, apontou sua varinha para a porta e sussurrou algo. A fechadura explodiu, e a porta se abriu violentamente.
+"Vamos!", disse Dustin, ofegante.
 
-"Vamos!", gritou Bart, e o grupo se lançou para fora, para a noite escura da cidade.
+Empurraram a porta e saíram para a noite. Nas ruas estreitas, não era mais um trio correndo: eram **dois** que corriam, e um terceiro **carregado** entre eles, ouvindo os gritos dos guardas atrás. A cidade acordava, portas se abrindo, curiosos nas janelas.
 
-Eles correram pelas ruas estreitas, ouvindo os gritos dos guardas atrás deles. A cidade estava acordando, portas se abrindo, pessoas saindo para ver o que estava acontecendo.
+"Para onde?", perguntou Dustin, quase sem fôlego.
 
-"Para onde vamos?", perguntou Dustin, ofegante.
+"Longe daqui", respondeu Nightwolf. "Longe de tudo isso — antes que ele acorde e lance outro feitiço."
 
-"Longe daqui", respondeu Tony. "Longe de tudo isso."
+Deixaram para trás a taverna, o contato traiçoeiro, Tobias e o pagamento que nunca veio. Carregavam também a prova de que Bart tinha ido longe demais — e que agora dependia deles para sobreviver.
 
-Eles continuaram correndo, deixando para trás a taverna, o contato traiçoeiro, e as promessas de pagamento que nunca viriam. Mas também deixaram para trás algo mais — a confiança que tinham em Bart, que agora parecia ter enlouquecido completamente.
+A noite os engoliu: dois aventureiros em fuga e um mago adormecido nos braços, sabendo que nada seria como antes.
 
-A noite os engoliu, e eles desapareceram nas sombras da cidade, sabendo que nada seria como antes. A jornada havia começado, mas não da forma que qualquer um deles esperava.
-
-E no fundo de suas mentes, uma pergunta ecoava: *O que havia acontecido com Bart? E o que mais estava por vir?*
+E no fundo de suas mentes, uma pergunta ecoava: *O que havia acontecido com Bart? E quem mais estava por vir?*
 
 ---
 
@@ -111,29 +112,40 @@ E no fundo de suas mentes, uma pergunta ecoava: *O que havia acontecido com Bart
 
 ---
 
-## 📝 Notas do Capítulo
+## Notas do Capítulo
 
-**Sessão Original**: Sessão 1 - Negociações Frustradas  
-**Data**: 17 de março de 2025  
-**Jogadores**: Bart, Biel, Felipe, Hugo, Rapha
+**Quadrinho:** fonte narrativa do **capítulo piloto** — [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/README|Comic cap-01]] (~20 pág., só Sessão 1).
 
-**Eventos Principais**:
-- Encontro na taverna para receber pagamento
+**Sessão original:** Sessão 1 — Negociações Frustradas  
+**Data:** 17 de março de 2025  
+**Jogadores:** Bart, Biel, Felipe, Hugo, Rapha
+
+**Elenco (canon):**
+
+| Personagem | S1 |
+|------------|-----|
+| Lord Bart (Bartrock pré-res) | PC |
+| Nightwolf | PC |
+| Dustin | PC |
+| Tobias Peso Morto | NPC — **trai** o trio, denuncia aos guardas; ataca Lord Bart (gola) |
+| Tony Tigger | **Ausente** — [[Capitulo 2 - Um Encontro na Cabana|Cap. 2]] |
+
+**Eventos principais:**
+
+- Encontro na taverna para receber pagamento (três PCs)
 - Traição do contato e tentativa de renegociação
-- Ataque inesperado de Bart contra um guarda
-- Fuga desesperada do grupo
+- **Tobias trai o grupo** — denuncia aos guardas
+- **Líder da guarda** (ela) questiona Bart; tapa de mão aberta na cara (após resposta agressiva)
+- Tobias **junta-se aos guardas** e ataca Lord Bart — **gola** (halfling × elfo alto)
+- Bart **cai**; Nightwolf e Dustin **carregam-no** na fuga
+- Fuga pela cidade (dois correm, Bart nos ombros)
 
-**Personagens Apresentados**:
-- **Tony Tiger**: Líder do grupo, desconfiado e pragmático
-- **Nightwolf**: Ranger silencioso e letal
-- **Dustin**: Ladino astuto e perceptivo
-- **Lord Bart**: Mago elfo com comportamento errático e perigoso
+**Temas introduzidos:**
 
-**Temas Introduzidos**:
 - Traição e desconfiança
 - Comportamento misterioso de Bart
-- O início de uma jornada forçada
+- Início da jornada forçada — ainda sem o futuro líder Tony
 
 ---
 
-**Próximo Capítulo**: [[Capitulo 2 - Um Encontro na Cabana|Capítulo 2 - Um Encontro na Cabana]]
+**Próximo capítulo:** [[Capitulo 2 - Um Encontro na Cabana|Capítulo 2 — Um Encontro na Cabana]] (Tony e Nikov)

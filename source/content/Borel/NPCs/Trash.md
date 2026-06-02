@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trash"
 type: npc
 tags:
@@ -15,6 +15,8 @@ plots-relacionados:
 
 # Trash
 
+**Quadrinho (canon visual):** [[../Comic/01_Cast_Model_Sheets/PC_Trash|model sheet]] · solo `Referencias/pcs/trash-eq-inicial.png` · duo com Borin `Referencias/pcs/borin-trash-eq-inicial.png`
+
 ## Perfil
 - **Posição**: Guaxinim Mecânico de Borin
 - **Status**: Ativo
@@ -26,7 +28,7 @@ plots-relacionados:
   - Possível "primo" de outro construto
 
 ## História
-Trash é um guaxinim mecânico que serve como companheiro fiel de [[Borin]]. Sua origem exata é misteriosa, mas sua presença tem sido fundamental em várias situações, tanto em combate quanto em momentos de exploração.
+Trash é um guaxinim mecânico que serve como companheiro fiel de [[PC_Borin]]. Sua origem exata é misteriosa, mas sua presença tem sido fundamental em várias situações, tanto em combate quanto em momentos de exploração.
 
 ### Características Únicas
 
@@ -45,8 +47,8 @@ Trash é um guaxinim mecânico que serve como companheiro fiel de [[Borin]]. Sua
 - Instintos protetores
 
 ## Relacionamentos
-- [[Borin]]: Dono e companheiro inseparável
-- [[Nightwolf]]: Suspeita que seja "primo" de seu construto
+- [[PC_Borin]]: Dono e companheiro inseparável
+- [[PC_Nightwolf]]: Suspeita que seja "primo" de seu construto
 - **Outros Construtos**: Possível conexão com outros seres mecânicos
 - **Grupo**: Aceito como membro auxiliar da equipe
 

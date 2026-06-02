@@ -65,12 +65,11 @@ jobs:
           npx quartz build
         working-directory: ./source
 
-      - name: Copy raw HTML folder
+      - name: Copy static extras (raw HTML + comic at /comic/)
         run: |
-          ls -la
-          cp -r raw_html/* public/ || true
-          echo "Contents of public directory:"
-          ls -la public/
+          cp -r raw_html/* public/ 2>/dev/null || true
+          cp -r public/static/comic public/comic
+          ls -la public/comic/
         working-directory: ./source
 
       - name: Setup GitHub Pages

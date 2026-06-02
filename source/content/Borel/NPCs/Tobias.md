@@ -1,89 +1,61 @@
----
-title: "Tobias"
+﻿---
+title: "Tobias Peso Morto"
 type: npc
 tags:
   - rpg/borel
   - tipo/npc
-  - npc/tobias
-  - status/capturado
-primeira-aparicao: "Sessão 20"
-ultima-aparicao: "Sessão 20"
-status: "Capturado - Levado pelo demônio invocado por Bartrock"
+  - npc/tobias-peso-morto
+  - status/sessao-01
+primeira-aparicao: "Sessão 1"
+ultima-aparicao: "Sessão 1"
+status: "Antagonista na taverna — destino após sessão 1 não documentado no vault"
 plots-relacionados:
-  - A Possessao de Bartrock
+  - Fuga da Taverna
 ---
 
-# Tobias
+# Tobias Peso Morto
+
+> **Única aparição:** Sessão 1. **Antagonista de [[../Players/LordBart|Lord Bart]]** na briga da taverna.  
+> Não é [[PC_Tony|Tony Tigger]]. Não é o mago da sessão 20 (ver [[Mago_Portais_Namarath|mago dos portais]]).
 
 ## Perfil
-- **Status**: **CAPTURADO PELO DEMÔNIO** (Sessão 20)
-- **Classe**: Mago
-- **Afiliação**: Escola de Magia de Namarath
-- **Habilidades Notáveis**: 
-  - Demonstração de portais mágicos
-  - Conhecimento sobre segurança de portais
-  - Magia de transporte/teletransporte
 
-## História
-Tobias era um mago proponente dos portais mágicos na escola de magia de Namarath. Durante o debate sobre a implementação de portais entre cidades, ele demonstrou a segurança dos portais através de uma apresentação prática. No entanto, durante sua demonstração, Bartrock invocou um demônio gigante que o identificou como o responsável pela invocação e o levou consigo.
+| Campo | Valor |
+|-------|--------|
+| **Nome** | Tobias — apelido/epíteto de mesa: **Peso Morto** |
+| **Raça / classe (mesa)** | Halfling · Fighter 3 (D&D Beyond) |
+| **Sessão** | 1 apenas |
+| **Papel** | **Traidor** — denuncia o grupo aos guardas; na briga **junta-se aos guardas** e ataca Lord Bart (gola) |
+| **Arte cena** | ![[Tobias Ataca Lord Bart.png]] |
+| **Retrato quadrinho** | `Referencias/npcs/tobias-peso-morto-eq-inicial.png` |
 
-## Eventos da Sessão 20
+## História (canon mesa)
 
-### Bloco 2: O Grande Debate dos Portais
-- **Apresentação**: Demonstrou segurança dos portais através de círculos mágicos
-- **Confronto**: Foi questionado pelo grupo sobre a segurança dos portais
-- **Demonstração**: Ativou um portal instável durante sua apresentação
-- **Resultado**: Portal se tornou instável e perigoso
+Na **Fuga da Taverna** (*O Cálice Dourado*): Tobias estava no arranjo do trabalho com o trio, mas **traiu o grupo** — **denunciou-os** aos guardas. A **líder da guarda** questionou Lord Bart; ele recusou responder e respondeu com agressividade verbal — ela deu um **tapa de mão aberta na cara** dele (**não** foi Bart quem agrediu o guarda primeiro). Na briga, Tobias **passou para o lado dos guardas**, atacou o mago e **segurou Lord Bart pela gola**. Arte: `Tobias Ataca Lord Bart.png`.
 
-### Bloco 3: A Invocação Demoníaca
-- **Invocação**: Bartrock invocou demônio gigante durante a demonstração
-- **Identificação**: Demônio identificou Bartrock como o verdadeiro invocador
-- **Captura**: Foi levado pelo demônio como "culpado" pela invocação
-- **Destino**: Desapareceu com o demônio, destino desconhecido
-
-## Características Notáveis
-
-### Aparência
-- Mago da escola de magia
-- Vestido com robes acadêmicos
-- Presença formal e acadêmica
-
-### Personalidade
-- Confiante em suas teorias
-- Focado em provar a segurança dos portais
-- Acadêmico e demonstrativo
-- Persistente em suas crenças
-
-### Habilidades
-- Magia de portal/teletransporte
-- Demonstrações mágicas
-- Conhecimento acadêmico sobre magia
-- Criação de círculos mágicos
-
-## Estado Atual
-Tobias foi capturado pelo demônio invocado por Bartrock durante a Sessão 20. Seu destino é desconhecido, mas o grupo tem uma missão do arquimago para investigar o demônio e possivelmente resgatá-lo.
-
-## Mistérios Pendentes
-- **Destino atual** - Onde está e o que está acontecendo com ele?
-- **Sobrevivência** - Ainda está vivo nas mãos do demônio?
-- **Propósito** - Por que o demônio o levou especificamente?
-- **Resgate** - Como o grupo pode salvá-lo?
-- **Conhecimento** - Que informações ele pode ter sobre o demônio?
+Motivação e desfecho após a sessão 1 não estão detalhados no vault (ver [[../Plots/Fuga da Taverna|plot]]).
 
 ## Relacionamentos
-- **Grupo**: Conheceu durante o debate, não tinha relação prévia
-- **Bartrock**: Foi "culpado" pela invocação demoníaca de Bartrock
-- **Arquimago**: Colega da escola de magia que ofereceu missão de resgate
-- **Demônio**: Capturado e levado por entidade desconhecida
 
-## Contribuições para a Trama
-1. **Demonstração dos portais** - Mostrou os perigos da tecnologia mágica
-2. **Vítima da invocação** - Tornou-se refém do demônio de Bartrock
-3. **Motivação para missão** - Sua captura levou à missão do arquimago
-4. **Conhecimento potencial** - Pode ter informações valiosas sobre o demônio
+| Personagem | Relação |
+|------------|---------|
+| [[../Players/LordBart\|Lord Bart]] | **Traidor** — denuncia o grupo; com os guardas, ataca e **segura pela gola** (S1) |
+| Nightwolf, Dustin | PCs **traídos** por Tobias (S1) |
+| Tony | **Não presente** na S1 — entra na [[../Sessoes/Capitulo 2 - Um Encontro na cabana\|Sessão 2]] |
 
-## Próximos Passos
-- Investigação sobre seu destino
-- Possível resgate pelo grupo
-- Revelação de informações sobre o demônio
-- Desenvolvimento de sua história pessoal
+## Nome “Peso Morto”
+
+Eco de mesa ligado ao *Cassino do Peixe Morto* (sessão 9, transcrição: *“peso morto…”*). Tratar **Tobias Peso Morto** como nome/apelido deste NPC, não sobrenome do mago de Namarath.
+
+## Quadrinho
+
+- **Model sheet:** [[../Comic/01_Cast_Model_Sheets/NPC_Tobias_Peso_Morto|Tobias Peso Morto]] (NPC, sessão 1)
+- **Ref:** `Referencias/npcs/tobias-peso-morto-eq-inicial.png` (retrato mesa)
+- **Cena:** `Tobias Ataca Lord Bart.png` (arte legado cap. 1)
+- **Tony** do quadrinho: [[../Comic/01_Cast_Model_Sheets/PC_Tony|Tony Tigger]] — personagem diferente
+
+## Links
+
+- [[../Sessoes/Capitulo 1 - Negociacoes frustradas|Capítulo 1 (sessão)]]
+- [[../Livro/Capitulo 1 - Negociacoes Frustradas|Capítulo 1 (livro)]]
+- [[Mago_Portais_Namarath]] — homônimo errado na sessão 20

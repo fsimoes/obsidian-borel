@@ -127,7 +127,9 @@ A sessão se concentra no debate sobre a implementação de portais mágicos ent
 
 ## NPCs Notáveis
 
-### Tobias
+### Mago dos portais (transcrição: “Tobias”)
+
+> Canon: [[../NPCs/Mago_Portais_Namarath|Mago_Portais_Namarath]] — **não** é [[../NPCs/Tobias|Tobias Peso Morto]] (sessão 1).
 - **Descrição**: Mago proponente dos portais, demonstra segurança através de apresentação prática
 - **Papel**: Antagonista principal do debate, defende a implementação dos portais
 - **Características**: Confiante, demonstrativo, focado em provar a segurança dos portais

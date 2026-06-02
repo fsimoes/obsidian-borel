@@ -14,13 +14,14 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 
 - [[Resumo_Completo_Campanha|📖 Resumo Completo da Campanha]] - **Para novos jogadores!**
 - [[Livro/index|📚 Livro de Aventura]] - **Narrativa épica das sessões como capítulos!**
+- [[Comic/index|🖼️ Quadrinho (comic)]] - **Bake-off de IAs e produção visual** · [[Comic/Leitor-Web|Leitor web `/comic/`]]
 - [[Locais/index|🏰 Locais]]
 - [[Players/index|👤 Conheça os Jogadores]]
 - [[NPCs/index|👹 NPCs]]
 - [[Plots/index|📖 Tramas]]
 - [[Sessoes/index|🎲 Notas das Sessões]]
 - [[Transcricoes/|📝 Transcrições]]
-- [[Referencias/|🖼️ Referências Visuais]]
+- [[Referencias/README|🖼️ Referências Visuais]] · [[Comic/00_Style_Bible|Style Bible do quadrinho]]
 
 ## 📢 Atualizações Recentes
 
@@ -73,7 +74,7 @@ A campanha entrou em um novo arco na universidade de magia:
 - **Marcas permanentes do ritual pagão** - Grupo descobriu que suas mãos estão permanentemente manchadas com resquícios mágicos
 - **Chegada de Orestan (Aristar)** - Novo companheiro se juntou ao grupo na estalagem
 - **Debate sobre portais mágicos** - Grupo participou como oposição na universidade de Namarath
-- **Invocação demoníaca por Bartrock** - Demônio poderoso foi invocado, derrotando arquimagos e levando Tobias
+- **Invocação demoníaca por Bartrock** - Demônio levou o mago dos portais ([[NPCs/Mago_Portais_Namarath]]) — não confundir com [[NPCs/Tobias|Tobias Peso Morto]] (sessão 1)
 - **Descoberta do cristal vermelho** - Artefato mágico conectado a lendas antigas sobre pedras dos anões
 - **Missão de investigação** - Arquimago ofereceu recompensa para investigar o demônio invocado
 
@@ -248,7 +249,7 @@ A campanha iniciou a investigação dos roubos em Rilonde:
 
 ### Sessão 2 - Um Encontro na Cabana
 A campanha testou a sobrevivência do grupo após uma fuga desesperada:
-- **Fuga da taverna** - Grupo fugiu após briga onde Lord Bart provocou confronto com guardas
+- **Fuga da taverna** - Tobias denunciou o grupo; líder da guarda deu tapa em Lord Bart; Tobias atacou (gola); fuga com Bart carregado
 - **Refúgio na cabana** - Encontraram Nikov (samurai) e Tony Tigger que os ajudaram
 - **Mentira dos explosivos** - Nikov tentou enganar guardas sobre explosivos no porão
 - **Emboscada no porão** - Nightwolf, Dustin e Lord Bart atacaram guardas quando alçapão foi aberto

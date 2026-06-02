@@ -1,0 +1,266 @@
+:root {
+  --bg: #0f0f0f;
+  --surface: #1a1a1a;
+  --border: #2e2e2e;
+  --text: #e8e8e8;
+  --muted: #9a9a9a;
+  --accent: #c9a961;
+  --accent-dim: #8b4513;
+  --danger: #c45c5c;
+  --radius: 8px;
+  --font: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.5;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.wrap {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 3rem;
+}
+
+header.site-header {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+header.site-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+header.site-header p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.nav-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.nav-top a.btn,
+button.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+button.btn:hover,
+.nav-top a.btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+button.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+button.btn.primary {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.chapter-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.chapter-list li {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 0.75rem;
+  background: var(--surface);
+}
+
+.chapter-list a {
+  display: block;
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.chapter-list a:hover {
+  border-color: var(--accent);
+}
+
+.chapter-list .meta {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 0.35rem;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  background: var(--border);
+  color: var(--muted);
+  margin-left: 0.35rem;
+}
+
+.badge.ready {
+  background: rgba(201, 169, 97, 0.2);
+  color: var(--accent);
+}
+
+/* Reader */
+.reader-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.reader-bar label {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.reader-bar select {
+  font: inherit;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.35rem 0.5rem;
+  max-width: min(100%, 280px);
+}
+
+.page-indicator {
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.viewer {
+  position: relative;
+  min-height: 200px;
+  background: #000;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.viewer img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.viewer .placeholder {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: var(--muted);
+}
+
+.viewer .placeholder strong {
+  display: block;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.reader-controls {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.hint {
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Gate */
+.gate {
+  max-width: 360px;
+  margin: 4rem auto;
+  padding: 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.gate h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.gate input {
+  width: 100%;
+  font: inherit;
+  padding: 0.5rem 0.65rem;
+  margin: 0.75rem 0;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+}
+
+.gate .error {
+  color: var(--danger);
+  font-size: 0.85rem;
+  min-height: 1.25rem;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media (min-width: 720px) {
+  .wrap {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}

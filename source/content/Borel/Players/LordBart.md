@@ -15,10 +15,13 @@ plots-relacionados:
 status: "Possuído por entidade maligna através de máscara desde Sessão 16. Transformado em ovelha na Sessão 25."
 ---
 
-# Lorde Bart/Bartrock
+# Bartrock
+
+> **Nomes:** jogador **Bart** = **Bartrock** (sempre o mesmo personagem). **Lord Bart** = Bartrock **antes da ressurreição** (S1–2, variante `noble`). Após a morte na cabana e o retorno (S3+), só **Bartrock** (`ressuscitado` → `possessed`). Ficheiro `LordBart.md` = legado do vault.
 
 ## Perfil
-- **Jogador**: Bart
+- **Jogador**: Bart (= Bartrock)
+- **Raça**: Elfo
 - **Classe**: Mago/Bruxo
 - **Status**: **POSSUÍDO POR ENTIDADE MALIGNA** (Sessão 16)
 - **Condição Anterior**: Transformado (após Sessão 2)
@@ -33,7 +36,7 @@ status: "Possuído por entidade maligna através de máscara desde Sessão 16. T
   - Estilo impulsivo e caótico (agora controlado por entidade)
 
 ## História
-Lorde Bart teve uma participação dramática que evoluiu de forma inesperada. Sua jornada começou com ações impulsivas que definiram o início da aventura, e após sua aparente morte, retornou como Bartrock, uma versão mais sombria e misteriosa de si mesmo. Ao longo do tempo, sua transformação física e mental continuou a intrigar e surpreender seus companheiros.
+Como **Lord Bart** (pré-res), abriu a campanha com ações impulsivas na taverna e na cabana. Após a morte na cabana (S2) e a **ressurreição** (S3), deixa o título *Lord Bart* e segue só como **Bartrock** — visual e tom mais sombrios (`ressuscitado`), depois possessão (S16+). Ao longo do tempo, sua transformação física e mental continuou a intrigar e surpreender seus companheiros.
 
 Sua trajetória foi marcada por momentos de intenso contraste: da nobreza à bestialidade, do caos ao controle estratégico. A aquisição da máscara mágica e seu comportamento cada vez mais enigmático adicionaram camadas de mistério à sua personalidade. Momentos marcantes como devorar o braço do ogro como uma cobra demonstraram sua natureza dual, enquanto suas habilidades mágicas continuaram a se desenvolver de formas inesperadas.
 
@@ -45,19 +48,20 @@ Agora, em meio à fuga para Londe, Bartrock continua a equilibrar sua natureza n
 
 ### Momentos Marcantes
 
-#### Sessão 1: O Início
-- Provocou uma briga na taverna
-- Causou a morte de dois guardas
-- Iniciou a perseguição que levaria o grupo à cabana
+#### Sessão 1–2: Era **Lord Bart** (pré-ressurreição)
+- **Líder da guarda** questionou-o; recusou responder; resposta agressiva → **tapa na cara** (mão aberta) — **não** agrediu o guarda primeiro
+- **Tobias** denunciou o grupo, juntou-se aos guardas, **segurou-o pela gola** (cena HQ)
+- **Cai** e **sai carregado** na fuga
+- Cabana (S2): emboscada, salto pela janela, **morte** — fim da era Lord Bart
 
-#### Sessão 2: A Batalha Final
-- Chegou à cabana desacordado (10 HP)
+#### Sessão 3+: **Bartrock** (pós-res)
+- Ressurreição na Enguia Roxa; visual `ressuscitado` / `normal`
 - Participou da emboscada no porão
 - Acertou um guarda com firebolt (2 de dano)
 - Tentou uma manobra ousada pulando pela janela
 - Aparentemente morreu na queda
 
-#### Sessão 3: O Retorno como Bartrock
+#### Sessão 3: Ressurreição — de Lord Bart a Bartrock
 - Reapareceu na taverna "A Enguia Roxa"
 - Demonstrou uma aparência e comportamento alterados
 - Observou o grupo de forma misteriosa

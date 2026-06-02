@@ -80,7 +80,7 @@ Não houve combate tradicional nesta sessão, mas houve confronto de poderes ent
 
 ## Desenvolvimento dos Personagens
 - **Bartrok**: Revela-se como alguém capaz de invocar demônios, mostrando um lado sombrio até então oculto
-- **Tobias**: É levado pelo demônio, colocando-o em perigo extremo
+- **Mago dos portais** (transcrição “Tobias”): Levado pelo demônio — ver [[../NPCs/Mago_Portais_Namarath]]
 - **Tony**: Demonstra liderança tentando proteger o grupo
 - **Orestan**: Conecta-se com a lenda do cristal, mostrando conhecimento ancestral
 

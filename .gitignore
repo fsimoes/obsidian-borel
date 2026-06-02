@@ -5,5 +5,9 @@ source/build/*
 source/public/*
 source/docs/*
 source/quartz/*
+!source/quartz/static/
+source/quartz/static/*
+!source/quartz/static/comic/
+!source/quartz/static/comic/**
 source/quartz.lock
 source/quartz.lock

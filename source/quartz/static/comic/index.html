@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>O Legado de Rilonde — Quadrinho</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="comic.css" />
+  </head>
+  <body>
+    <div id="gate" class="wrap gate hidden">
+      <h2>Acesso à mesa</h2>
+      <p style="color: var(--muted); margin: 0 0 0.5rem; font-size: 0.9rem">
+        Material privado da campanha. Peça a senha ao mestre.
+      </p>
+      <form id="gate-form">
+        <label for="gate-password">Senha</label>
+        <input id="gate-password" type="password" autocomplete="current-password" />
+        <p id="gate-error" class="error" aria-live="polite"></p>
+        <button type="submit" class="btn primary" style="width: 100%">Entrar</button>
+      </form>
+    </div>
+
+    <div id="app" class="wrap">
+      <header class="site-header">
+        <h1 id="site-title">…</h1>
+        <p id="site-subtitle">…</p>
+        <nav class="nav-top">
+          <a class="btn" href="../">← Voltar ao site da campanha</a>
+          <a class="btn" href="#" id="btn-home">Capítulos</a>
+        </nav>
+      </header>
+
+      <main id="view-home">
+        <p style="color: var(--muted); margin-top: 0">
+          Leitor web para o quadrinho gerado na mesa. Use setas ← → ou os botões para virar página.
+        </p>
+        <ul id="chapter-list" class="chapter-list"></ul>
+      </main>
+
+      <main id="view-reader" class="hidden">
+        <div class="reader-bar">
+          <div>
+            <label for="chapter-select">Capítulo</label>
+            <select id="chapter-select"></select>
+          </div>
+          <span id="page-indicator" class="page-indicator"></span>
+        </div>
+        <div class="viewer">
+          <img id="page-image" class="hidden" alt="" />
+          <div id="page-placeholder" class="placeholder hidden"></div>
+        </div>
+        <div class="reader-controls">
+          <button type="button" class="btn" id="btn-first" title="Primeira página">⏮</button>
+          <button type="button" class="btn" id="btn-prev" title="Anterior">← Anterior</button>
+          <button type="button" class="btn primary" id="btn-next" title="Próxima">Próxima →</button>
+          <button type="button" class="btn" id="btn-last" title="Última página">⏭</button>
+        </div>
+        <p class="hint">Atalhos: ← → · A / D · Home / End</p>
+      </main>
+    </div>
+
+    <script src="reader.js" type="module"></script>
+  </body>
+</html>

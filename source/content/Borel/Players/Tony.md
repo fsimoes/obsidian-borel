@@ -18,6 +18,9 @@ status: "Líder do grupo, ativo"
 # Tony Tigger
 
 ## Perfil
+
+> **Sessão 1:** Tony **não** participou da taverna. Quem aparece na briga do Cap. 1 é o NPC [[../NPCs/Tobias|Tobias Peso Morto]]. Tony entra na [[../Sessoes/Capitulo 2 - Um Encontro na cabana|Sessão 2]] (cabana com Nikov).
+
 - **Jogador**: FS_SIMOES
 - **Classe**: Fighter/Paladino
 - **Habilidades Notáveis**: 

@@ -12,10 +12,12 @@ inicio: "Sessão 1"
 resolucao: "Sessão 2"
 personagens:
   - Nightwolf
-  - Tony
   - Dustin
-  - Lord Bart
+  - Bartrock
   - Nikov
+  - Tony
+npcs:
+  - Tobias
 locais:
   - Taverna
   - Cabana
@@ -24,19 +26,25 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 
 # A Fuga da Taverna
 
+## Quadrinho
+
+- **Capítulo piloto (jun/2026):** Sessão 1 — **Lord Bart** (pré-res) carregado na fuga — [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/README|Comic cap-01]]
+- Sessão 2 (cabana, Tony, mortes) = **Cap. 2** do quadrinho, número seguinte
+
 ## Status: Concluído (Sessões 1-2)
 
 ## Personagens Envolvidos
-### Sobreviventes
+### Sobreviventes (fim do arco — Sessão 2)
 - [[Nightwolf|Nightwolf]]
-- [[Tony|Tony Tiger]]
+- [[Tony|Tony Tiger]] (entra na **Sessão 2**)
 - [[Dustin|Dustin]]
 
-### Falecidos
-- [[LordBart|Lord Bart]] (Morto, depois retornou como Bartrock)
+### Falecidos (temporário)
+- [[LordBart|Lord Bart]] — morte na cabana (S2); **ressurreição** S3 como **Bartrock** (pós-res; jogador Bart)
 - Nikov (Samurai, morto defendendo o grupo)
 
 ### Antagonistas
+- [[../NPCs/Tobias|Tobias Peso Morto]] — confronto com **Bartrock** na taverna (sessão 1)
 - Beastmaster (Controladora de lobos)
 - Guardas da cidade
 - Lobos controlados
@@ -49,13 +57,15 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 ## Sequência de Eventos
 
 ### Sessão 1
-1. Grupo se encontra na taverna
-2. Lord Bart provoca uma briga
-3. Confronto resulta em mortes de guardas
-4. Fuga inicial da taverna
+1. **Lord Bart**, Nightwolf e Dustin na taverna (+ **Tobias** no arranjo) — **sem Tony**
+2. Contato trai / renegocia pagamento
+3. **Tobias trai o grupo** — denuncia aos guardas
+4. **Líder da guarda** (**ela**) questiona Lord Bart — recusa responder → resposta agressiva → **tapa na cara** (mão aberta)
+5. Briga; Tobias **aliado aos guardas**, ataca Lord Bart — **gola** (piloto HQ)
+6. Lord Bart **cai**; Nightwolf e Dustin **carregam-no**; fuga
 
 ### Sessão 2
-1. Grupo carrega Lord Bart desacordado até uma cabana
+1. Grupo **ainda carrega Lord Bart** rumo à cabana → morte → **ressurreição** (S3) = **Bartrock**
 2. Encontro com Nikov e Tony Tiger
 3. Guardas e Beastmaster encontram o grupo
 4. Tentativa falha de blefar sobre explosivos

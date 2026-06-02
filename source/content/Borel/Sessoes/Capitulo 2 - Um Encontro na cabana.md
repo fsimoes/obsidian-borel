@@ -23,7 +23,7 @@ eventos:
   - Batalha
   - Morte
   - Fuga
-resumo: "Grupo foge de guardas após briga na taverna, encontra refúgio em cabana onde batalha épica resulta em mortes de Nikov e Lord Bart"
+resumo: "Após a fuga da taverna (Bart já carregado desde a S1), refúgio na cabana com Tony e Nikov; batalha com mortes de Nikov e Lord Bart"
 description: "Após fuga da taverna, grupo encontra refúgio em cabana com Nikov e Tony. Batalha caótica contra guardas, lobos e maga resulta em mortes de Nikov e Lord Bart. Tony e Nightwolf sobrevivem."
 ---
 
@@ -149,7 +149,7 @@ Arquivos e mídia: f6e35233-366e-42a1-ab3f-ee70106e3ec3.jpg, WhatsApp_Image_2025
 
 Intro: "Vocês se encontram em uma cabana rústica, o cheiro de madeira úmida e fumaça pairando no ar. Lá fora, a noite é cortada por uivos distantes e o som de botas pesadas se aproximando. Após uma fuga desesperada da vila, arrastando o desacordado Lorde Bart, vocês cruzam o limiar desta morada, buscando refúgio. Mas o destino, meus amigos, é um narrador cruel. Dois estranhos – Nikov, o samurai de armadura prateada, e Tony Tigger, o guerreiro de javelina – os recebem, e o que parecia ser um momento de trégua logo se torna um campo de batalha. Preparem-se, pois o fio da vida de cada um de vocês será testado esta noite!"
 
-Sumario: A sessão começou com o grupo fugindo de guardas após uma confusão na taverna, onde Lorde Bart provocou uma briga que terminou com dois guardas mortos. Eles se esconderam em uma cabana, encontrando Nikov e Tony, que relutantemente decidiram ajudá-los. A tensão aumentou quando guardas, acompanhados de lobos e uma misteriosa maga, chegaram à cabana. O grupo tentou enganar os perseguidores com uma história improvisada sobre explosivos no porão, mas a mentira foi descoberta. Uma batalha caótica se seguiu, com lobos atacando, flechas voando e Lorde Bart pulando uma janela em uma tentativa desastrosa de flanquear os inimigos – apenas para ser abatido por um guarda do lado de fora. Dustin caiu sob as presas dos lobos, enquanto Nightwolf foi estabilizado por Tony. No fim, os sobreviventes – Tony, Nikov e Nightwolf – derrotaram os inimigos, saquearam os corpos e decidiram seguir para Reload, lamentando as perdas.
+Sumario: A sessão começou com o grupo fugindo da taverna (S1: denúncia de Tobias, tapa da líder da guarda em Lord Bart, gola, Bart carregado). Eles se esconderam em uma cabana, encontrando Nikov e Tony, que relutantemente decidiram ajudá-los. A tensão aumentou quando guardas, acompanhados de lobos e uma misteriosa maga, chegaram à cabana. O grupo tentou enganar os perseguidores com uma história improvisada sobre explosivos no porão, mas a mentira foi descoberta. Uma batalha caótica se seguiu, com lobos atacando, flechas voando e Lorde Bart pulando uma janela em uma tentativa desastrosa de flanquear os inimigos – apenas para ser abatido por um guarda do lado de fora. Dustin caiu sob as presas dos lobos, enquanto Nightwolf foi estabilizado por Tony. No fim, os sobreviventes – Tony, Nikov e Nightwolf – derrotaram os inimigos, saquearam os corpos e decidiram seguir para Reload, lamentando as perdas.
 
   
 
@@ -167,7 +167,7 @@ Coisas Engraçadas que Aconteceram
 
 • A Mentira Explosiva: A história absurda de explosivos no porão, com Nikov improvisando sobre um "soldado de guerra aposentado", arrancou gargalhadas – especialmente quando quase funcionou.
 
-• Tony Tigger, o Confuso: Tony confundiu nomes (chamando-se de Tobias) e chutou uma mesa em pânico, quase matando a maga por acidente, o que rendeu um "Você quer matar todo mundo?" hilário do mestre.
+• Tony Tigger, o Confuso: Tony confundiu nomes (chamando-se de Tobias) e chutou uma mesa em pânico — **não** é o NPC [[../NPCs/Tobias|Tobias Peso Morto]] da sessão 1.
 
 • O Anel de Nikov: Após a morte de Nikov, o grupo brincou sobre o anel de família, com Tony prometendo "guardá-lo bem" – ou usá-lo de vez em quando.
 

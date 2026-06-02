@@ -19,6 +19,7 @@ Bem-vindo à casa digital da nossa campanha de RPG! Aqui você encontrará todas
 - [[NPCs/index|👹 NPCs]]
 - [[Plots/index|📖 Tramas]]
 - [[Sessoes/index|🎲 Notas das Sessões]]
+- [[Comic/index|🖼️ Quadrinho (comic)]]
 - [[Cenas/index|🎭 Cenas Memoráveis]]
 - [[Dashboard|📊 Dashboard]]
 - [[Cronologia|📅 Cronologia]]
@@ -90,7 +91,7 @@ A campanha alcançou novos patamares de magia e mistério com eventos transforma
 - **Marcas permanentes do ritual pagão** descobertas nas mãos de todos os membros
 - **Bartrock revelou cura para Nightwolf** e comunicou-se com máscara de xamã
 - **Debate épico na escola de magia** de Namarath sobre portais mágicos
-- **Invocação demoníaca massiva** - Bartrock invocou demônio gigante que levou Tobias
+- **Invocação demoníaca massiva** - Bartrock invocou demônio gigante que levou o [[NPCs/Mago_Portais_Namarath|mago dos portais]] (transcrição: “Tobias”)
 - **Descoberta de cristal misterioso** com propriedades mágicas especiais
 - **Ritual de libertação bem-sucedido** - Nightwolf foi curado da licantropia
 - **Nova missão do arquimago** para investigar o demônio invocado
@@ -304,7 +305,7 @@ Confira todas as notas de sessão na seção [[Sessoes/|Sessões]].
 10. **NOVO**: Identidade da criatura monstruosa (possivelmente mãe de Bartrok)
 11. **NOVO**: Propriedades da máscara metálica e sua influência sobre Bartrok
 12. **NOVO**: Consequências do canibalismo de Bartrok e perda da máscara
-13. **NOVO**: Destino de Tobias levado pelo demônio
+13. **NOVO**: Destino do mago dos portais levado pelo demônio (não [[NPCs/Tobias|Tobias Peso Morto]], sessão 1)
 14. **NOVO**: Propriedades do cristal misterioso descoberto
 15. **NOVO**: Identidade do demônio invocado por Bartrock
 16. **NOVO**: Consequências das marcas permanentes do ritual pagão
@@ -339,7 +340,7 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 - **Jorge**: Seguro no Templo de Megarde sob cuidados religiosos
 - **Letícia**: Estudante da universidade de Londres, forneceu informações sobre Conselho Arcano (Sessão 25)
 - **Uruk**: **CURADO** - Orestan realizou ritual de purificação perigoso curando-o da possessão (Sessão 25)
-- **Tobias**: **LEVADO PELO DEMÔNIO** - Destino desconhecido após invocação de Bartrock
+- **Mago dos portais (Namarath)**: **LEVADO PELO DEMÔNIO** — ver [[NPCs/Mago_Portais_Namarath]]
 - **Cerberus**: **TRAIDOR** - Revelou aliança com demônio, prendeu grupo em armadilha
 - **Mardus**: **DESCOBERTO** - Responsável por entregar sujeitos de teste para experimentos (Sessão 25)
 
@@ -364,9 +365,9 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 3. **ALTA: Missão de Resgate** - Planejada para retornar e salvar outras vítimas dos experimentos
 4. **Mardus Descoberto** - Responsável por entregar sujeitos de teste, alvo de investigação
 5. **Conselho Arcano** - Informações fragmentadas descobertas, possível ameaça maior
-6. **Demônio Invocado** - Bartrock invocou demônio gigante que levou Tobias
+6. **Demônio Invocado** - Bartrock invocou demônio gigante que levou o mago dos portais
 7. **Dustin Perdido** - Identidade comprometida por transformação espiritual
-8. **Tobias Capturado** - Levado pelo demônio, destino desconhecido
+8. **Mago dos portais capturado** - Levado pelo demônio, destino desconhecido
 9. **Traição de Cerberus** - Antigo aliado trabalhando com demônio
 10. **Groih Misterioso** - Ataque involuntário com sombras drenou força vital, criando desconfiança
 
@@ -376,6 +377,6 @@ O grupo está em **LONDE** após descobrir uma instalação subterrânea sinistr
 - **INVESTIGAR MARDUS** - Descobrir localização e conexões do responsável pelos experimentos
 - **CONSELHO ARCANO** - Investigar informações fragmentadas fornecidas por Letícia
 - **INVESTIGAR GROIH** - Entender natureza de seus poderes sombrios involuntários
-- **Tobias Capturado** - Descobrir destino após ser levado pelo demônio
+- **Mago dos portais** - Descobrir destino após ser levado pelo demônio
 - **Traição de Cerberus** - Entender extensão da aliança com demônio
 - **Dustin Perdido** - Ajudar a recuperar identidade após transformação espiritual 

@@ -24,7 +24,8 @@ Listagem dos principais NPCs encontrados na campanha.
 - [[Morgana]] - NPC menor
 - [[Rita]] - Líder revolucionária (desaparecida)
 - [[Thais Carla]] - Guardiã intimidadora da taverna
-- [[Tobias]] - Mago da escola de magia (capturado pelo demônio)
+- [[Tobias]] - **Tobias Peso Morto** — antagonista de Lord Bart, **só sessão 1** (`Tobias Ataca Lord Bart.png`)
+- [[Mago_Portais_Namarath]] - Proponente dos portais, sessão 20 (capturado pelo demônio; transcrição chama “Tobias” por engano)
 - [[Trash]] - NPC menor
 - [[Uruk]] - Amigo de Orestan, curado de possessão no Santuário de Córdia (Sessão 25)
 - **Criatura Monstruosa** - Possivelmente mãe de Bartrok (derrotada)

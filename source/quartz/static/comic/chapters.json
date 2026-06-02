@@ -1,0 +1,20 @@
+{
+  "title": "O Legado de Rilonde",
+  "subtitle": "Quadrinho da mesa — material privado",
+  "access": {
+    "passwordEnabled": false,
+    "password": ""
+  },
+  "chapters": [
+    {
+      "id": "cap-01-sessao-01",
+      "title": "Cap. 1 — Negociações Frustradas",
+      "session": 1,
+      "pageCount": 20,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "alta",
+      "status": "ready"
+    }
+  ]
+}
