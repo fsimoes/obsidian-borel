@@ -1,4 +1,6 @@
-const CONFIG_URL = "chapters.json"
+/** Bump when chapters.json changes so browsers refetch the catalog. */
+const CATALOG_VERSION = "2"
+const CONFIG_URL = `chapters.json?v=${CATALOG_VERSION}`
 const STORAGE_KEY = "borel-comic-access"
 
 /** @type {{ title: string, subtitle: string, access: { passwordEnabled: boolean, password: string }, chapters: Array<{ id: string, title: string, session: number, pageCount: number, startPage: number, cover: string | null, status: string }> }} */
@@ -60,7 +62,7 @@ function showGate(config) {
 }
 
 async function loadCatalog() {
-  const res = await fetch(CONFIG_URL)
+  const res = await fetch(CONFIG_URL, { cache: "no-store" })
   if (!res.ok) throw new Error("Não foi possível carregar chapters.json")
   return res.json()
 }

@@ -20,7 +20,9 @@ Quadrinho publicado **fora** das notas Obsidian, em HTML estático:
 ## Compartilhar com a mesa
 
 1. Garantir que o GitHub Pages está ativo (workflow `ci.yaml` na branch `main`).
-2. Enviar o link completo, por exemplo: `https://<usuario>.github.io/<repo>/comic/`
+2. Enviar o link completo, por exemplo: `https://fsimoes.github.io/obsidian-borel/comic/`
+3. **Cap. 0 direto:** `https://fsimoes.github.io/obsidian-borel/comic/?cap=cap-00-elenco&p=1`  
+   Se só aparecer o Cap. 1 na lista, faça **Ctrl+F5** (cache antigo do `chapters.json`).
 3. (Opcional) Ativar senha em `quartz/static/comic/chapters.json` (`passwordEnabled: true`).
 
 O vault completo pode continuar público ou privado no GitHub; o leitor usa `noindex` mas **não** substitui repositório privado se quiser sigilo total.
