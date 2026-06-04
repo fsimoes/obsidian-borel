@@ -25,6 +25,16 @@
       "cover": null,
       "fidelity": "reconstructed",
       "status": "ready"
+    },
+    {
+      "id": "cap-02-sessao-02",
+      "title": "Cap. 2 — Um Encontro na Cabana",
+      "session": 2,
+      "pageCount": 10,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "reconstructed",
+      "status": "roteiro"
     }
   ]
 }

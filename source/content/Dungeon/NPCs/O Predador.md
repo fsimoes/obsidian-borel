@@ -1,5 +1,7 @@
 # O Predador
 
+![[Concepts/monstro-01-o-predador.png]]
+
 **Regra fixa:** a criatura que mata o [[Instrutor]] na **sessão 3** é o **boss final da sessão 10**. Uma entidade, um arco.
 
 ## Identidade canônica (proposta)

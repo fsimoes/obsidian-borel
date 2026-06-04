@@ -20,7 +20,7 @@ Cópia das **`001.webp`–`010.webp`** publicadas no leitor.
 | 003 | Cobrança + Tobias |
 | 004 | Denúncia |
 | 005 | Interrogatório |
-| 006 | Tapa |
+| 006 | Caos na taverna (sem tapa) |
 | 007 | Briga + gola |
 | 008 | Queda + saída |
 | 009 | Carregado |

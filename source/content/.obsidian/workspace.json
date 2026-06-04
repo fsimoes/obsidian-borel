@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb56ba0937f5e7a",
-        "type": "tabs",
-        "dimension": 36.11111111111111,
-        "children": [
-          {
-            "id": "80487098c3fa32c5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Borel/Referencias/Players/Bartrok_2.png"
-              },
-              "icon": "lucide-image",
-              "title": "Bartrok_2"
-            }
-          }
-        ]
-      },
-      {
         "id": "c4fc05e1d29c7148",
         "type": "tabs",
-        "dimension": 63.888888888888886,
         "children": [
           {
-            "id": "ce9d6e659ef0f968",
+            "id": "6ece6df1229afa87",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Borel/Referencias/Players/Orestan.png"
+                "file": "Dungeon/Index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Orestan"
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -187,53 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce9d6e659ef0f968",
+  "active": "6ece6df1229afa87",
   "lastOpenFiles": [
-    "Borel/index.md",
-    "Borel/Players/Orestan.md",
-    "Borel/Referencias/Players/Orestan.png",
-    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827191657.png",
-    "Borel/Sessoes/Capitulo 18 - Parte 2 - O Ritual da Travessia.md",
-    "Borel/Referencias/Cenas/Sessao18",
-    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192357.png",
-    "Borel/Sessoes/Capitulo 18 - Parte 3 - O Renascimento do Desconhecido.md",
-    "Borel/Sessoes/Capitulo 18 - Parte 5 - A Floresta dos Horrores.md",
-    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192128.png",
-    "Borel/Sessoes/Capitulo 18 - Parte 4 - Chegada a Londe.md",
-    "Borel/Referencias/Cenas/Sessao18/Pasted image 20250827192118.png",
-    "Borel/Sessoes/Capitulo 18 - Parte 1 - Nas Estradas para o Santuario.md",
-    "Borel/Cenas/12_Cenas_Sessao_18.md",
-    "Borel/Referencias/Players/Bartrok_2.png",
-    "Borel/Referencias/Players/Bartrok_1.png",
-    "Borel/Referencias/Cenas/Sessao17/Pasted image 20250821235312.png",
-    "Borel/Resumo_Completo_Campanha.md",
-    "Borel/Referencias/Players/Tony.png",
-    "Borel/Referencias/Players/Borin_1.png",
-    "Borel/NPCs/Prompts_para_Imagens_NPCs.md",
-    "Borel/Players/Prompts_Detalhados_Personagens.md",
-    "Borel/Players/Prompts_para_Imagens_Players.md",
-    "Borel/Players/Orestan_Prompts_Detalhados.md",
-    "Borel/Cenas/Cenas_Comicas.md",
-    "Borel/Cenas/Cenas_Epicas.md",
-    "Borel/Cenas/index.md",
-    "Borel/Cenas",
-    "Borel/Players/Tony.md",
-    "Borel/NPCs/Thais Carla.md",
-    "Borel/Players/Borin.md",
-    "Borel/Players/Dustin.md",
-    "Borel/Players/Kaelion.md",
-    "Borel/Players/LordBart.md",
-    "Borel/Players/Nightwolf.md",
-    "Borel/Referencias/Cenas/Sessao17",
-    "Borel/Sessoes/Capitulo 17 - Entre Cordas e Confissões.md",
-    "Borel/Sessoes/Capitulo 16 – Sombras do Passado.md",
-    "Borel/Referencias/Cenas/Sessao16",
-    "Borel/Referencias/Cenas/random",
-    "Borel/Sessoes/Prompts_Cenas_Sessao_17_Detalhados.md",
-    "Arena/Loja",
-    "Arena/Referencias",
-    "Arena/Plots",
-    "Arena/Players",
-    "Arena/NPCs"
+    "Dungeon/NPCs/Tokens/_tokens-contact-sheet.png",
+    "Dungeon/NPCs/Tokens dos Monstros.md",
+    "Dungeon/NPCs/Tokens/token-05-executor-alavanca.png",
+    "Dungeon/NPCs/Tokens/token-08-sentinela-raizes.png",
+    "Dungeon/NPCs/Tokens/token-05-catador-ferrugem.png",
+    "Dungeon/NPCs/Tokens/token-09-arauto-micotico.png",
+    "Dungeon/NPCs/Tokens/token-01-o-predador.png",
+    "Dungeon/NPCs/Tokens/token-02-avaliador-falho.png",
+    "Dungeon/NPCs/Tokens/token-03-carcereiro-chamine.png",
+    "Dungeon/NPCs/Tokens/token-04-guardiao-prismatico.png",
+    "Dungeon/NPCs/Tokens/token-04-segredista-vidro.png",
+    "Dungeon/NPCs/Tokens/token-06-juramentado-praca.png",
+    "Dungeon/NPCs/Tokens",
+    "Dungeon/NPCs/Monstros das Faccoes.md",
+    "Dungeon/NPCs/Concepts",
+    "Dungeon/Plots/Primeiro Dive.md",
+    "Dungeon/NPCs/O Predador.md",
+    "Dungeon/NPCs/Instrutor.md",
+    "Dungeon/NPCs/Faccoes dos Andares.md",
+    "Dungeon/Mapas/Estrutura de Quadrantes.md",
+    "Dungeon/Mapas/Concept Art dos Andares.md",
+    "Dungeon/Locais/Antecamara da Guilda.md",
+    "Dungeon/Mapas/Concepts",
+    "Dungeon/Index.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/pages",
+    "Dungeon/Locais/Stratum Novato.md",
+    "Dungeon/Locais/Mapa Mestre do Complexo.md",
+    "Dungeon/Locais/Fenda do Tremor.md",
+    "Dungeon/NPCs",
+    "Dungeon/Plots",
+    "Dungeon/Locais",
+    "Dungeon/Mapas",
+    "Dungeon/Transcricao",
+    "Dungeon/Sessoes",
+    "Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-tirinha.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/refs/README.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/prompt-all-pages.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/production.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/style.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/dialogues.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/panels.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/script.md",
+    "Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/README.md",
+    "Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/pages/README.md",
+    "Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/refs/README.md",
+    "Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-one-shot.md"
   ]
 }

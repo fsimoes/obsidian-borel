@@ -22,18 +22,20 @@ Fonte única da verdade topológica para a campanha **Primeiro Dive** (10 sessõ
 
 Os PJs podem ter caído até perto do andar 10, mas não sabem disso de imediato. Os andares existem como escala ficcional; nem todos precisam virar uma sessão completa.
 
-| Andar | Tamanho | Bioma / identidade | Boss local | Facções | Referência visual |
-|-------|---------|--------------------|------------|---------|-------------------|
-| 10 | Imenso | Deserto de obsidiana / catedrais de basalto | Opcional; colosso mineral ou criatura abissal seca | Nenhuma ou presença fragmentada | ![[../Mapas/Concepts/andar-10-deserto-obsidiana.png\|120]] |
-| 9 | Muito grande | Fungos gigantes / névoa viva | Opcional; colônia-mãe ou predador micótico | Nenhuma ou bandos dispersos | ![[../Mapas/Concepts/andar-09-fungos-gigantes.png\|120]] |
-| 8 | Grande | Floresta de raízes / árvores brancas | Opcional; guardião das raízes | Primeiras facções frágeis | ![[../Mapas/Concepts/andar-08-floresta-raizes.png\|120]] |
-| 7 | Grande | Ossuário / cânions de pedra | Opcional; devorador de ossos | Bandos territoriais | ![[../Mapas/Concepts/andar-07-ossuario-canions.png\|120]] |
-| 6 | Médio | Cidade soterrada / mercado morto | Opcional; chefe local ou morto antigo | **Conflito de facções começa forte** | ![[../Mapas/Concepts/andar-06-cidade-soterrada.png\|120]] |
-| 5 | Médio | Máquinas antigas / elevadores quebrados | Opcional; construto ou operador corrompido | Facções disputam tecnologia/rotas | ![[../Mapas/Concepts/andar-05-maquinas-elevadores.png\|120]] |
-| 4 | Médio-pequeno | Cristais / magia instável | Opcional; criatura arcana | Facções disputam energia/refúgio | ![[../Mapas/Concepts/andar-04-cristais-magia.png\|120]] |
-| 3 | Pequeno | Túneis estreitos / prisão natural | Opcional; carcereiro ou monstro entrincheirado | Facções pressionadas, pouca comida | ![[../Mapas/Concepts/andar-03-tuneis-prisao.png\|120]] |
-| 2 | Pequeno | Stratum antigo / protótipo da prova | Opcional; avaliador antigo ou guardião falho | Restos da influência da guilda | ![[../Mapas/Concepts/andar-02-stratum-antigo.png\|120]] |
-| 1 | Muito pequeno | Área de treino corrompida | **Predador S10** | Quase nenhuma; cerco final | ![[../Mapas/Concepts/andar-01-treino-corrompido.png\|120]] |
+Cada quadrante é um mapa jogável. Detalhes: [[../Mapas/Estrutura de Quadrantes]].
+
+| Andar | Tamanho | Grade | Bioma / identidade | Boss local | Facções | Referência visual |
+|-------|---------|-------|--------------------|------------|---------|-------------------|
+| 10 | Imenso | 5 × 4 | Deserto de obsidiana / catedrais de basalto | Opcional; colosso mineral ou criatura abissal seca | Nenhuma ou presença fragmentada | ![[../Mapas/Concepts/andar-10-deserto-obsidiana.png\|120]] |
+| 9 | Muito grande | 4 × 4 | Fungos gigantes / névoa viva | Opcional; colônia-mãe ou predador micótico | Nenhuma ou bandos dispersos | ![[../Mapas/Concepts/andar-09-fungos-gigantes.png\|120]] |
+| 8 | Grande | 4 × 3 | Floresta de raízes / árvores brancas | Opcional; guardião das raízes | Primeiras facções frágeis | ![[../Mapas/Concepts/andar-08-floresta-raizes.png\|120]] |
+| 7 | Grande | 4 × 3 | Ossuário / cânions de pedra | Opcional; devorador de ossos | Bandos territoriais | ![[../Mapas/Concepts/andar-07-ossuario-canions.png\|120]] |
+| 6 | Médio | 3 × 3 | Cidade soterrada / mercado morto | Opcional; chefe local ou morto antigo | **Conflito de facções começa forte** | ![[../Mapas/Concepts/andar-06-cidade-soterrada.png\|120]] |
+| 5 | Médio | 3 × 3 | Máquinas antigas / elevadores quebrados | Opcional; construto ou operador corrompido | Facções disputam tecnologia/rotas | ![[../Mapas/Concepts/andar-05-maquinas-elevadores.png\|120]] |
+| 4 | Médio-pequeno | 3 × 2 | Cristais / magia instável | Opcional; criatura arcana | Facções disputam energia/refúgio | ![[../Mapas/Concepts/andar-04-cristais-magia.png\|120]] |
+| 3 | Pequeno | 2 × 2 | Túneis estreitos / prisão natural | Opcional; carcereiro ou monstro entrincheirado | Facções pressionadas, pouca comida | ![[../Mapas/Concepts/andar-03-tuneis-prisao.png\|120]] |
+| 2 | Pequeno | 2 × 2 | Stratum antigo / protótipo da prova | Opcional; avaliador antigo ou guardião falho | Restos da influência da guilda | ![[../Mapas/Concepts/andar-02-stratum-antigo.png\|120]] |
+| 1 | Muito pequeno | 1 × 1 | Área de treino corrompida | **Predador S10** | Quase nenhuma; cerco final | ![[../Mapas/Concepts/andar-01-treino-corrompido.png\|120]] |
 
 ### Bosses locais
 
@@ -45,6 +47,8 @@ Os PJs podem ter caído até perto do andar 10, mas não sabem disso de imediato
 ### Facções
 
 Das camadas médias para cima, as facções ficam mais organizadas porque há menos espaço e mais disputa por rotas. Elas devem oferecer escolhas, não só combates: passagem, abrigo, traição, informação, guias, cobrança de pedágio ou pedidos de ajuda.
+
+Detalhes: [[../NPCs/Faccoes dos Andares]].
 
 ---
 

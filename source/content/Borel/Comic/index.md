@@ -164,7 +164,7 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 
 ## Fase 2 — Capítulo piloto (produção)
 
-**Piloto escolhido:** [[02_Chapters/cap-01-negociacoes-frustradas/README|Cap. 1]] (S1) — **tapa** (líder da guarda) + **gola** (Tobias) + Bart **carregado**.
+**Piloto escolhido:** [[02_Chapters/cap-01-negociacoes-frustradas/README|Cap. 1]] (S1) — denúncia + caos/gola (Tobias) + Bart **carregado** *(tapa só no Livro/mesa)*.
 
 - [x] Escolher cap piloto — **Cap. 1** (jun/2026)
 - [x] Pasta + beats: [[02_Chapters/cap-01-negociacoes-frustradas/script|cap-01/script.md]]
@@ -201,7 +201,7 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 | Cap | Sessão | Abordagem arte/roteiro |
 |-----|--------|------------------------|
 | **1** | **1** | **PILOTO** · [[02_Chapters/cap-01-negociacoes-frustradas/README\|cap-01]] · **Lord Bart** `noble` (pré-res; carregado), Nightwolf, Dustin · Tobias · sem Tony |
-| 2 | 2 | Livro + gap-fill · Tier A conforme cena |
+| **2** | **2** | [[02_Chapters/cap-02-um-encontro-na-cabana/README\|cap-02]] · cabana, Tony, Nikov, mortes Bart+Nikov |
 | 3–9 | 3–9 | Capítulo + Transcrições |
 
 - [ ] Publicar caps 1–9 no site (uma pasta + linha no `chapters.json` por capítulo)

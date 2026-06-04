@@ -12,14 +12,16 @@ approved: "2026-06-02"
 
 # Estilo Cap. 1 — webcomic cel-shade (**aprovado jun/2026**)
 
-**Mesa aprovou** o visual dos testes **C (tapa)** e **Dustin (“Traidor!”)** — webcomic fantasy com contorno preto, cel-shading e luz quente de taverna. **Não** é tirinha ultra-flat (`referencia-tirinha-rpg.png` ficou como tentativa antiga).
+**Mesa aprovou** o visual do teste **Dustin (“Traidor!”)** — webcomic fantasy com contorno preto, cel-shading e luz quente de taverna. **Não** é tirinha ultra-flat (`referencia-tirinha-rpg.png` ficou como tentativa antiga).
 
-Refs de estilo (anexar **sempre** na geração do Cap. 1):
+O painel do **tapa** saiu do HQ publicado (arte fraca); o **tapa continua no canon** da mesa/Livro — a P06 do quadrinho é só **caos na taverna**.
+
+Refs de estilo (anexar **as duas** no Cap. 1 e Cap. 2+):
 
 | Ref | Arquivo | Uso |
 |-----|---------|-----|
-| Tapa | [[../../../Referencias/style/cap-01-estilo-aprovado-tapa.png\|cap-01-estilo-aprovado-tapa.png]] | Linha, sombra, balão SFX |
-| Dustin | [[../../../Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png\|cap-01-estilo-aprovado-dustin-traidor.png]] | Close-up, emoção, balão de fala |
+| Dustin | [[../../../Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png\|cap-01-estilo-aprovado-dustin-traidor.png]] | Linha, cel-shade, balões, emoção |
+| Gola | [[../../../Referencias/style/cap-01-estilo-aprovado-gola.png\|cap-01-estilo-aprovado-gola.png]] | Composição de ação, altura Tobias×Bart, luz de taverna; painel de baixo = urgência («Temos que sair daqui — agora!») |
 
 Personagens: fonte em `Referencias/` · **cópia para ChatGPT:** [[refs/README|refs/]] nesta pasta do capítulo.
 
@@ -38,7 +40,7 @@ Personagens: fonte em `Referencias/` · **cópia para ChatGPT:** [[refs/README|r
 
 ## Prefixo (ChatGPT) — obrigatório Cap. 1
 
-Colar no **início** de cada mensagem (com as 2 refs de estilo + 4 refs de personagem):
+Colar no **início** de cada mensagem (com **2 refs de estilo** + 4 refs de personagem):
 
 ```
 Generate an image. Fantasy RPG webcomic style — Borel Cap. 1 approved look (Jun 2026): clean bold black line art, professional cel-shading, warm candlelit medieval tavern palette (wood browns, amber, deep blues), expressive faces, modern western comic panel with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font. Match the attached approved style reference images for line weight, shading, and colors only — do not copy their exact poses or composition. Use character reference images for faces and outfits.
@@ -69,7 +71,7 @@ Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, ultra-fl
 
 Testes A/B (tirinha flat + `referencia-tirinha-rpg.png`) **não** foram aprovados. Manter só para comparação.
 
-**Reteste traição (2 painéis)** — anexar: 4 refs de personagem + **tapa** + **dustin-traidor** + prefixo acima.
+**Reteste traição (2 painéis)** — anexar: 4 refs de personagem + **dustin-traidor** + prefixo acima.
 
 ```
 ONE image, TWO horizontal panels, black gutter, ~1400px wide.

@@ -28,8 +28,8 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 
 ## Quadrinho
 
-- **Capítulo piloto (jun/2026):** Sessão 1 — **Lord Bart** (pré-res) carregado na fuga — [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/README|Comic cap-01]]
-- Sessão 2 (cabana, Tony, mortes) = **Cap. 2** do quadrinho, número seguinte
+- **Cap. 1 (publicado):** Sessão 1 — [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/README|Comic cap-01]]
+- **Cap. 2 (roteiro):** Sessão 2 — [[../Comic/02_Chapters/cap-02-um-encontro-na-cabana/README|Comic cap-02]]
 
 ## Status: Concluído (Sessões 1-2)
 
@@ -52,7 +52,7 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 ## Locais
 - Taverna inicial
 - Cabana na floresta
-- Estrada para Reload
+- Fuga para a floresta — longe de **Rilonde**
 
 ## Sequência de Eventos
 
@@ -64,16 +64,17 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 5. Briga; Tobias **aliado aos guardas**, ataca Lord Bart — **gola** (piloto HQ)
 6. Lord Bart **cai**; Nightwolf e Dustin **carregam-no**; fuga
 
-### Sessão 2
-1. Grupo **ainda carrega Lord Bart** rumo à cabana → morte → **ressurreição** (S3) = **Bartrock**
-2. Encontro com Nikov e Tony Tiger
-3. Guardas e Beastmaster encontram o grupo
-4. Tentativa falha de blefar sobre explosivos
-5. Emboscada no porão
-6. Morte de Lord Bart após pular pela janela
-7. Batalha contra lobos e guardas
-8. Morte de Nikov
-9. Fuga dos sobreviventes para Reload
+### Sessão 2 (Livro + HQ alinhados, jun/2026)
+1. Fuga na **floresta** — Dustin, Nightwolf, **Lord Bart acordado** (ferido)
+2. **Cabana:** Tony e Nikov descansam; trio convence e entra
+3. Trio no **porão**; Tony distrai; guardas investigam
+4. **Dustin** ameaça **bomba** → guardas fogem da casa
+5. Retorno: Tony e Nikov seguram a **porta**
+6. Tony vs **4 cães** · Nikov vs **3 guardas** · trio ataca à distância
+7. **Fireball de Bart mata Nikov** (fogo amigo)
+8. Bart foge pelos **fundos** → guarda mata Bart
+9. Sobrevivem Tony, Dustin, Nightwolf; corpos na **cama de casal**; **Dustin** fica com katana
+10. Rumo à estrada, longe de **Rilonde** · Bart ressurge como Bartrock (S3)
 
 ## Consequências
 - Formação do grupo atual
@@ -95,4 +96,4 @@ descricao: "Grupo fugiu de taverna após briga onde Lord Bart provocou confronto
 - A morte heroica de Nikov
 
 ## Desfecho
-O grupo conseguiu escapar, mas com perdas significativas. A morte de Lord Bart e Nikov marcou profundamente os sobreviventes, que seguiram para Reload para recomeçar. Este evento estabeleceu as bases para as futuras aventuras do grupo e revelou a presença de forças sobrenaturais na região. 
+O grupo conseguiu escapar, mas com perdas significativas. A morte de Lord Bart e Nikov marcou profundamente os sobreviventes, que deixaram **Rilonde** para trás e seguiram pela estrada. Este evento estabeleceu as bases para as futuras aventuras do grupo e revelou a presença de forças sobrenaturais na região. 

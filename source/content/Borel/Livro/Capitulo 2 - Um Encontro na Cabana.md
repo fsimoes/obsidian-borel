@@ -16,87 +16,117 @@ personagens:
   - Nikov
 locais:
   - Cabana
+  - Floresta
+  - Rilonde
 plots:
   - Fuga da Taverna
 ---
 
 # Capítulo 2: Um Encontro na Cabana
 
-A noite havia engolido completamente a cidade quando os três aventureiros finalmente pararam para descansar. Seus pulmões queimavam, suas pernas doíam, e o peso de Lord Bart desacordado nos braços de Dustin e Nightwolf parecia aumentar a cada passo. As ruas estreitas de Rilonde se transformaram em um labirinto de sombras, e os gritos dos guardas ecoavam atrás deles, cada vez mais distantes, mas nunca completamente silenciosos.
+**Rilonde** ficou para trás entre as árvores — luzes da cidade ainda visíveis no horizonte, guardas na trilha. Dustin e Nightwolf haviam arrastado Lord Bart pelas ruas e pelos becos até a taverna deixar de ser um borrão de tochas; em algum momento da corrida, o mago acordara — cambaleante, murmurando insultos que ninguém pedira para ouvir, mas de pé o suficiente para correr quando a perna respondia. A ferida da briga ainda marcava o rosto dele. O sangue secava no gibão. A varinha estava na mão como se nunca tivesse largado o poder.
 
-"Precisamos... de um lugar... para nos esconder", ofegou Dustin, seus braços tremendo sob o peso do mago.
+A floresta engolia o som dos guardas. Não os silenciava.
 
-Nightwolf, sempre vigilante mesmo na exaustão, apontou para uma estrutura escura à frente. "Ali. Uma cabana. Parece abandonada."
+"Eles ainda vêm", disse Nightwolf, flecha já na corda enquanto corriam entre troncos úmidos.
 
-Na verdade, não estava completamente abandonada. Quando se aproximaram, uma luz fraca brilhou através de uma janela quebrada, e o som de vozes sussurrantes chegou aos seus ouvidos. Mas não tinham escolha. A perseguição estava muito próxima.
+Dustin ofegava. "Cabana… ali na frente. Dá pra se esconder."
 
-Tony, que havia se juntado a eles durante a fuga, bateu na porta com os nós dos dedos. "Olá? Alguém está aí?"
+Era uma construção baixa de madeira escura, meio enterrada na encosta, com fumaça ténue saindo da chaminé — não abandonada. Luz fraca na janela. Quando bateram à porta, o silêncio lá dentro durou um segundo a mais do que o conforto permitia.
 
-A porta se abriu lentamente, revelando dois homens. Um deles, vestido com uma armadura prateada que brilhava mesmo na penumbra, empunhava duas espadas com a confiança de um guerreiro experiente. O outro, mais jovem, carregava uma javelina e tinha olhos que avaliavam rapidamente a situação.
+A madeira rangeu. Dois homens os encararam da soleira.
 
-"Quem são vocês?", perguntou o samurai, sua voz carregada de cautela.
+O primeiro vestia armadura prateada e tinha o porte de quem já vira demasiadas portas abertas à noite: samurai, duas espadas no cinto, olhar severo. Nikov. O segundo era mais largo de ombros, escudo pesado encostado na parede, javelina à mão — Tony Tigger, avaliando os três como quem pesa se vale a pena arriscar a própria pele.
 
-"Fugitivos", respondeu Tony, sem rodeios. "Precisamos de ajuda. Temos um ferido."
+"Quem são vocês?", perguntou Nikov.
 
-O samurai — Nikov, como se apresentaria depois — trocou um olhar com seu companheiro, Tony Tigger. Por um momento, parecia que iriam fechar a porta. Mas então Nikov suspirou e fez um gesto para dentro.
+"Fugitivos", respondeu Dustin, sem tempo para diplomacia. "Guardas atrás de nós. Precisamos de abrigo. Agora."
 
-"Entrem. Mas saibam que não estamos sozinhos aqui."
+Tony e Nikov trocaram um olhar. Por um instante, pareceu que a porta ia fechar outra vez. Então Nikov deu um passo para o lado.
 
-A cabana era pequena e rústica, com o cheiro de madeira úmida e fumaça de uma lareira que mal aquecia o ambiente. Eles colocaram Lord Bart em um canto, e Dustin imediatamente começou a verificar suas feridas.
+"…Entrem. Rápido."
 
-"Ele está vivo", disse Dustin, aliviado. "Mas precisa de descanso."
+A cabana cheirava a lenha húmida e cinza fria. Colocaram Lord Bart perto da lareira; Dustin revistou o ferimento com mãos que ainda tremiam um pouco da corrida.
 
-Foi então que ouviram. Botas pesadas se aproximando. Muitas botas. E algo mais — uivos distantes que faziam o sangue gelar nas veias.
+"Ele aguenta", murmurou. "Por enquanto."
 
-"Guardas", sussurrou Nightwolf, já com uma flecha nocauteada em seu arco.
+Tony apontou um alçapão no chão da sala. "Se vierem, é por aí que vocês descem."
 
-Nikov se moveu rapidamente, apontando para um alçapão no chão. "Porão. Agora. E não façam barulho."
+Não tardaram.
 
-Os três aventureiros desceram para a escuridão úmida do porão, enquanto Nikov e Tony Tigger permaneceram acima, preparando-se para o que viria.
+Botas na trilha. Vozes de comando. A capitã dos guardas — a mesma autoridade dura da taverna, ou outra igualmente impaciente — batia na porta com o punho da espada.
 
-A voz de uma mulher cortou o ar lá fora. "Abram a porta! Estamos procurando fugitivos!"
+"Revistem a cabana!"
 
-"Fugitivos?", respondeu Nikov, sua voz calma e controlada. "Não vimos ninguém. Esta é uma cabana pacífica."
+Tony ficou na sala, tentando ganhar segundos com palavras que ninguém acreditava de verdade.
 
-"Temos informações de que três homens entraram aqui. Um deles é um mago elfo."
+"Calma! Não há ninguém—"
 
-Tony Tigger, com uma criatividade desesperada, gritou: "Cuidado! O porão está cheio de explosivos! Um movimento errado e todos nós voamos pelos ares!"
+Os guardas entraram mesmo assim. Investigavam. Abriam armários. Puxavam mantas. A capitã seguia o som da madeira oca debaixo dos pés.
 
-Por um momento, houve silêncio. A capitã dos guardas hesitou — o blefe havia funcionado, pelo menos parcialmente. Mas então ela ordenou: "Abram o alçapão. Agora."
+O alçapão levantou-se. A luz da tocha desceu ao porão.
 
-O alçapão se abriu, e a luz de uma tocha iluminou o porão. Foi tudo que Nightwolf, Dustin e Lord Bart precisavam. Três projéteis voaram simultaneamente: duas flechas de Nightwolf e Dustin, e um raio de fogo de Lord Bart. O primeiro guarda caiu antes mesmo de entender o que havia acontecido.
+Dustin ergueu as mãos, o rosto iluminado de baixo para cima, e disse a única coisa que ainda tinha força para inventar:
 
-O caos se instalou.
+"Tem uma bomba aqui embaixo!"
 
-Lord Bart, em um momento de ousadia que beirava a loucura, pulou pela janela do porão, tentando flanquear os inimigos. Foi uma decisão que custaria caro. Um guarda do lado de fora estava esperando, e sua lança encontrou a perna do mago com precisão mortal. Lord Bart caiu, gritando de dor, e não se levantou novamente.
+Por um segundo, ninguém respirou. Depois, a casa inteira pareceu exalar de uma só vez — guardas empurrando uns aos outros, capitã recuando, botas batendo no assoalho, porta da frente escancarada. Correram para fora como se o chão fosse fogo. Ouviu-se gritaria no escuro da floresta, afastando-se.
 
-Dentro da cabana, a batalha se intensificou. Lobos — grandes, ferozes, com olhos que brilhavam com inteligência maligna — entraram pela porta, controlados por uma mulher vestida com peles de animais. A Beastmaster, como seria conhecida depois.
+Silêncio.
 
-Nightwolf lutou com ferocidade, sua espada curta cortando o ar em arcos letais. Um de seus golpes encontrou o flanco de um lobo, causando um ferimento profundo. Mas os lobos eram muitos, e suas presas encontraram a carne do ranger. Nightwolf caiu, o mundo escurecendo ao seu redor.
+Nada explodiu.
 
-Dustin, vendo seu companheiro cair, sentiu algo dentro de si se romper. Não era apenas raiva — era algo mais profundo, algo primitivo. Ele abriu a boca e gritou.
+Quando os passos voltaram — mais cautelosos, mais furiosos —, a capitã cuspiu a palavra que todos esperavam:
 
-Mas não foi um grito comum. Foi um grito amplificado por magia, um som que fez as paredes da cabana tremerem e fez os lobos recuarem, uivando de medo. A Beastmaster, surpresa, perdeu o controle sobre suas criaturas, e os lobos a arrastaram para longe, fugindo do poder daquele grito.
+"Era blefe. Entrem!"
 
-Tony Tigger, lutando do lado de fora, viu a oportunidade. Com uma intimidação sangrenta que fez até os guardas mais corajosos hesitarem, ele forçou a retirada dos perseguidores restantes.
+Tony e Nikov lançaram-se à porta. Ombro contra madeira, escudo travando o batente, corpo inteiro virando muro.
 
-Quando a poeira baixou, a cabana estava em silêncio, exceto pelos gemidos dos feridos. Nikov jazia no chão, sua armadura prateada manchada de vermelho. Lord Bart não se movia mais, sua respiração havia parado completamente.
+"Não passam!"
 
-Tony correu para Nightwolf, suas mãos trabalhando rapidamente para estancar o sangramento. "Ele vai sobreviver", disse, mais para si mesmo do que para os outros.
+Então o ataque veio por outro lado.
 
-Dustin, exausto e ferido, desceu ao lado de Tony. "E os outros?"
+Quatro cães — grandes, musculosos, treinados para derrubar homens — atiraram-se a Tony. Ele grunhiu sob o peso, manteve o escudo erguido, a javelina buscando flancos entre rosnados. Três guardas cercaram Nikov; o samurai encontrou o ritmo da espada, um, dois, o metal cantando na sala apertada.
 
-Tony balançou a cabeça, e Dustin entendeu. Nikov e Lord Bart estavam mortos.
+No porão e nas frestas, Dustin, Nightwolf e Lord Bart atacavam à distância. Flechas cortaram o ar. Adagas voaram onde havia ângulo. Lord Bart, ainda trémulo de adrenalina, lançava raios de fogo pelas frestas e pela janela baixa do porão — acertando o que via, errando o que a pressa mandava.
 
-Eles saquearam os corpos com uma eficiência triste — não por ganância, mas por necessidade. A katana de Nikov, um anel de família, algumas moedas. Itens que poderiam significar a diferença entre vida e morte nas estradas à frente.
+Por um momento, parecia que iam segurar.
 
-"Para onde vamos agora?", perguntou Dustin, ajudando Tony a carregar Nightwolf.
+Foi então que a bola de fogo saiu errada.
 
-"Reload", respondeu Tony, olhando para o horizonte. "É a cidade mais próxima. Talvez lá encontremos respostas. Ou pelo menos, um lugar seguro."
+Não foi o guarda. Não foi o cão. O feitiço de Lord Bart — talvez mal mirado, talvez mal contido, talvez apenas o destino de quem sempre confundia ousadia com precisão — abriu-se no peito de Nikov como uma flor de brasa. O samurai nem teve tempo de cair de pé. A armadura prateada escureceu num instante. Tony gritou o nome dele como quem perde mais do que um aliado: perde a última parede entre si e o abismo.
 
-Eles deixaram a cabana para trás, carregando não apenas seus pertences, mas também o peso das vidas perdidas. A noite os engoliu novamente, mas desta vez, não havia perseguição. Apenas o silêncio da estrada e a promessa incerta do amanhã.
+"Nikov!"
 
-No fundo de suas mentes, uma pergunta ecoava: *Quantos mais teriam que morrer antes que encontrassem paz?*
+O caos redobrou.
+
+Lord Bart olhou para as próprias mãos, para o corpo no chão, para a porta ainda empurrada por Tony sozinho contra cães e homens. O pânico tomou o lugar do orgulho. Ferido, ofegante, o mago correu para os fundos da casa — corredor estreito, porta dos fundos, noite lá fora como promessa de salvação.
+
+Havia um guarda no quintal.
+
+A lança não precisou de discurso. Lord Bart tombou antes de lançar outro feitiço. Não se levantou.
+
+Quando o barulho cessou, restavam três em pé na cabana manchada de fumaça e sangue: Tony, Dustin e Nightwolf. Tony ainda tremia com o escudo baixo; Nightwolf segurava o braço onde um cão tinha chegado perto demais; Dustin estava de pé, olhando para o porão como se ainda ouvisse a própria voz gritando *bomba*.
+
+Subiram devagar.
+
+Arrastaram os corpos para o quarto pequeno no fundo do corredor e deitaram-nos na mesma cama de casal. Puxaram as cobertas até aos ombros — um gesto quase doméstico, obsceno na sua normalidade. Vistos de cima, lado a lado sob o tecido, Lord Bart e Nikov pareciam finalmente dormir: o jovem mago com a teimosia morta no rosto, o samurai com a honra intacta mesmo quando a armadura já não protegia nada.
+
+Tony ficou um momento na soleira, sem entrar no quadro da cama. Dustin não. Nightwolf olhou para o chão.
+
+Não choraram em voz alta. Aventureiros aprendem cedo a economizar lágrimas.
+
+Mais tarde, no corredor, repartiram o que os mortos não precisavam: moedas, cordas, um anel simples no dedo de Nikov, o grimório que Bart deixara escorregar. Tony pegou o que coube ao seu ofício; Nightwolf, o que aliviava a viagem. Dustin ficou com a katana do samurai — pesada, equilibrada, silenciosa no coldre como uma culpa que se carrega de propósito.
+
+"Fico com a katana", disse, e ninguém discutiu.
+
+Quando a madrugada esbranquiçou entre as árvores, deixaram a cabana. Dois corpos ficaram na cama. Três sombras seguiram a estrada que Tony jurou conhecer.
+
+"Longe de Rilonde", disse Nightwolf, a voz rouca.
+
+Eles assentiram. Não havia outra resposta que a noite aceitasse.
+
+A floresta ficou para trás. A pergunta, não: *quem sobreviveria à próxima porta que batessem — e o que Lord Bart, morto na lama, ainda lhes faria pagar?*
 
 ---
 
@@ -104,34 +134,43 @@ No fundo de suas mentes, uma pergunta ecoava: *Quantos mais teriam que morrer an
 
 ---
 
-## 📝 Notas do Capítulo
+## Notas do Capítulo
 
-**Sessão Original**: Sessão 2 - Um Encontro na Cabana  
-**Data**: 24 de março de 2025  
-**Jogadores**: Bart, Biel, Felipe, Gustavo, Hugo, Rapha
+**Quadrinho:** [[../Comic/02_Chapters/cap-02-um-encontro-na-cabana/README|Comic cap-02]] (10 páginas, canon alinhado a este texto).
 
-**Eventos Principais**:
-- Fuga desesperada da taverna após briga
-- Refúgio na cabana com Nikov e Tony Tigger
-- Mentira sobre explosivos no porão
-- Emboscada mortal quando alçapão foi aberto
-- Morte trágica de Lord Bart ao pular pela janela
-- Batalha épica contra lobos controlados por Beastmaster
-- Grito mágico de Dustin que salvou o grupo
-- Morte de Nikov em combate
-- Fuga para Reload
+**Sessão original:** Sessão 2 — Um Encontro na Cabana  
+**Data:** 24 de março de 2025  
+**Jogadores:** Bart, Biel, Felipe, Gustavo, Hugo, Rapha
 
-**Personagens Apresentados**:
-- **Nikov**: Samurai honrado que ajudou o grupo, mas caiu em combate
-- **Tony Tigger**: Guerreiro que se juntou ao grupo na cabana
-- **Beastmaster**: Misteriosa controladora de lobos
+**Canon narrativo (mesa, jun/2026):**
 
-**Temas Introduzidos**:
-- Perda e luto
-- Sacrifício por companheiros
-- A dura realidade da vida de aventureiro
-- Lealdade testada em momentos extremos
+| Evento | Detalhe |
+|--------|---------|
+| Fuga | Dustin, Nightwolf e **Lord Bart acordado** (ferido) na **floresta** |
+| Cabana | **Tony** e **Nikov** já lá, **descansando**; trio **convence** e entra |
+| Esconderijo | Trio no **porão**; Tony tenta **distrair**; guardas **investigam** |
+| Bomba | **Dustin** ameaça bomba no porão → guardas **fogem da casa** |
+| Retorno | Tony e Nikov **seguram a porta** |
+| Combate | Tony vs **4 cães** · Nikov vs **3 guardas** · trio ataca **à distância** |
+| Fogo amigo | **Fireball de Bart mata Nikov** |
+| Bart | Fogem pelos **fundos** → **guarda** mata Bart |
+| Sobreviventes | **Tony, Dustin, Nightwolf** |
+| Epílogo | Corpos na **cama de casal**; loot repartido; **Dustin** com katana de Nikov |
+
+**Personagens:**
+
+| Personagem | Cap. 2 |
+|------------|--------|
+| Nikov | Samurai na cabana; morre por **fogo amigo** de Bart |
+| Tony Tigger | Hospedeiro lutador; sobrevive |
+| Beastmaster / lobos | **Não** nesta versão (substituídos por cães da guarda) |
+
+**Temas:**
+
+- Fogo amigo e culpa
+- Blefe que só adia o inevitável
+- Primeira grande perda do grupo (Bart e Nikov)
 
 ---
 
-**Próximo Capítulo**: [[Capitulo 3 - Entre Dados e Desconfianças]]
+**Próximo capítulo:** [[Capitulo 3 - Entre Dados e Desconfianças]]

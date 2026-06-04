@@ -1,5 +1,5 @@
 /** Bump when chapters.json changes so browsers refetch the catalog. */
-const CATALOG_VERSION = "4"
+const CATALOG_VERSION = "5"
 const CONFIG_URL = `chapters.json?v=${CATALOG_VERSION}`
 const STORAGE_KEY = "borel-comic-access"
 
@@ -86,6 +86,7 @@ async function loadCatalog() {
 function statusLabel(status) {
   const map = {
     "arte-em-producao": "Arte em produção",
+    roteiro: "Roteiro",
     ready: "Pronto",
     draft: "Rascunho",
   }

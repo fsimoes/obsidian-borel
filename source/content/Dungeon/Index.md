@@ -52,6 +52,9 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 
 - [[NPCs/Instrutor]] — mentor; morre na sessão 3
 - [[NPCs/O Predador]] — antagonista único; boss sessão 10
+- [[NPCs/Faccoes dos Andares]] — facções, monstros e política por bioma
+- [[NPCs/Monstros das Faccoes]] — bestiário visual das facções
+- [[NPCs/Tokens dos Monstros]] — tokens circulares para mapa/VTT
 
 ### Jogadores (7 slots)
 

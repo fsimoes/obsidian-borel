@@ -2,6 +2,8 @@
 
 Série visual da pirâmide invertida: do fundo imenso e selvagem até a área de treino corrompida perto da superfície.
 
+Estrutura jogável: [[Estrutura de Quadrantes]].
+
 ## Andar 10 — Deserto de obsidiana
 
 ![[Concepts/andar-10-deserto-obsidiana.png]]

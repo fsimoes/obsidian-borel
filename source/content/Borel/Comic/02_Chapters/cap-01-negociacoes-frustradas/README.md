@@ -46,7 +46,7 @@ target_pages: "10"
 ## Cenas obrigatórias
 
 1. **Tobias trai o grupo** — denuncia aos guardas.
-2. **Líder da guarda** (**ela**) questiona Lord Bart → recusa → resposta agressiva → **tapa de mão aberta na cara** (Lord Bart **não** agride o guarda primeiro).
+2. **Líder da guarda** (**ela**) questiona Lord Bart → recusa → resposta agressiva → **mesa/Livro:** tapa na cara · **HQ P06:** caos na taverna (sem painel do tapa).
 3. Tobias **com os guardas** ataca Lord Bart — **gola** (halfling × elfo). [[script|script]].
 4. **Lord Bart carregado** na fuga.
 

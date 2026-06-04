@@ -20,8 +20,8 @@ status: ready
 
 | # | Ficheiro |
 |---|----------|
-| 1 | `refs/01-estilo-tapa.png` |
-| 2 | `refs/02-estilo-dustin-traidor.png` |
+| 1 | `refs/01-estilo-dustin-traidor.png` |
+| 2 | `refs/02-estilo-gola.png` |
 | 3 | `refs/03-lord-bart-noble.png` |
 | 4 | `refs/04-nightwolf.png` |
 | 5 | `refs/05-dustin.png` |
@@ -43,7 +43,7 @@ status: ready
 | 1 | Trio cobra pagamento no *Cálice Dourado* (Rilonde, noite). |
 | 2 | **Tobias trai** — **denuncia o trio** aos guardas (ele é o traidor). |
 | 3 | Capitã interroga Lord Bart → silêncio → insulto verbal. |
-| 4 | Tapa **mão aberta** — Bart **não** ataca o guarda antes. |
+| 4 | **HQ:** caos na taverna (sem painel do tapa). **Mesa:** tapa entre insulto e briga. |
 | 5 | Tobias com guardas — **gola** (halfling baixo × elfo alto). |
 | 6 | Bart cai; Nightwolf + Dustin **carregam** e fogem. |
 
@@ -59,7 +59,7 @@ BEGIN PROMPT
 Generate an image. Fantasy RPG webcomic style — Borel Cap. 1 approved look (Jun 2026): clean bold black line art, professional cel-shading, warm candlelit medieval tavern palette (wood browns, amber, deep blues), expressive faces, modern western comic panel with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font.
 
 I attached 6 images:
-(1–2) APPROVED STYLE REFERENCES — match line weight, cel-shading, and colors only; do not copy poses.
+(1–2) APPROVED STYLE REFERENCES (Dustin "Traidor!" + gola/action page) — match line weight, cel-shading, and colors only; do not copy exact poses.
 (3) Lord Bart — young tall slim elven noble mage, messy dark hair, pointed ears, fine dark coat, wand, NO demon mask.
 (4) Nightwolf — ranger/archer with bow.
 (5) Dustin — rogue with DUAL DAGGERS on belt, NOT a longsword.
@@ -74,7 +74,7 @@ OUTPUT: Exactly 10 vertical images PAGE 001–PAGE 010. Each PAGE = one image (~
 Portuguese dialogue EXACTLY as quoted — colloquial Brazilian Portuguese, legible in bubbles.
 
 STORY ORDER:
-Payment dispute → Tobias DENOUNCES trio to guards (traitor; Dustin: "Traidor!") → captain questions Bart → Bart insults (words only) → OPEN PALM slap (Bart did NOT attack guard first) → brawl → Tobias on guards' side, collar grab (halfling arm UP, height difference clear) → Bart falls → Nightwolf and Dustin carry Bart and flee.
+Payment dispute → Tobias DENOUNCES trio to guards (traitor; Dustin: "Traidor!") → captain questions Bart → Bart insults (words only) → tavern CHAOS erupts (NO dedicated slap panel; guards rush, tables overturn) → brawl → Tobias on guards' side, collar grab (halfling arm UP, height difference clear) → Bart falls → Nightwolf and Dustin carry Bart and flee.
 
 --- PAGE 001 ---
 ONE full-page splash. Night tavern facade Golden Cup, warm windows, cobblestone. Title IN ART: "Negociações Frustradas". No speech.
@@ -96,7 +96,7 @@ D: female captain advances, no speech.
 2×2. A: captain vs Bart — "Fala! Cadê o cocheiro?" B: Bart silent close-up. C: Bart words only NO magic at guard — "Como você ousa falar comigo, verme?" D: captain open hand raised — "Então eu te mostro, verme!"
 
 --- PAGE 006 ---
-LARGE top (~60%): captain OPEN PALM slap Bart, head turned, SFX "TAP!" Bart did NOT attack guard first. Bottom left: tavern chaos. Bottom right: Bart hand on cheek.
+LARGE top (~60%): tavern chaos — guards surge forward, tables tipping, patrons scrambling. NO slap panel, NO open-palm strike on Bart's face. Bottom left: Nightwolf drawing bow, Dustin dual daggers. Bottom right: Bart stumbling back, shocked, wand still in hand — not attacking guard with magic.
 
 --- PAGE 007 ---
 Top: Nightwolf arrow. Top right: Dustin dual daggers vs spear — "Temos que sair daqui — agora!" LARGE bottom: Tobias on GUARDS' side, arm stretched UP gripping Bart's collar, halfling short elf tall, teal scarf. No speech.
@@ -112,7 +112,7 @@ Three panels. Lit windows chase. Running feet cobblestones. WIDE silhouette carr
 
 Generate all 10 pages. Consistent faces and approved webcomic style throughout.
 
-AVOID: photorealistic, dark painterly novel, ultra-flat strip, chibi, 3D, watermark, English, misspelled Portuguese, gibberish, tiny illegible text, Bart magic at guard before slap, demon mask, Tobias tall as elf, Dustin longsword, wrong elf characters, Tobias as scam victim.
+AVOID: photorealistic, dark painterly novel, ultra-flat strip, chibi, 3D, watermark, English, misspelled Portuguese, gibberish, tiny illegible text, open palm slap panel, SFX "TAP!" on Bart's face, Bart magic at guard before brawl, demon mask, Tobias tall as elf, Dustin longsword, wrong elf characters, Tobias as scam victim.
 
 END PROMPT
 ```
@@ -123,11 +123,11 @@ END PROMPT
 
 Anexar as **mesmas 6 imagens** + prefixo de [[style-tirinha|style-tirinha.md]].
 
-**PAGE 004:** `PAGE 004 only, 2×2. Match approved style refs. Tobias (ref 6) denounces Lord Bart + Nightwolf (refs 3–4) to guards — "São eles! Prendam o trio!" Dustin (ref 5) dual daggers — "Traidor!" Contact "Peguem eles!" Tobias is traitor NOT victim.`
+**PAGE 004:** `PAGE 004 only, 2×2. Match approved style refs (1–2). Tobias (ref 6) denounces Lord Bart + Nightwolf (refs 3–4) to guards — "São eles! Prendam o trio!" Dustin (ref 5) dual daggers — "Traidor!" Contact "Peguem eles!" Tobias is traitor NOT victim.`
 
-**PAGE 006:** `PAGE 006 only. Match approved slap style ref. LARGE top: female captain open palm slap Lord Bart (ref 3), SFX "TAP!" Bart never attacked guard first. Bottom: chaos; Bart cheek.`
+**PAGE 006:** `PAGE 006 only. Match approved style refs (1–2). LARGE top: tavern chaos, guards advancing, NO slap on Bart's face. Bottom: Nightwolf bow, Dustin daggers; Bart stumbling back.`
 
-**PAGE 007:** `PAGE 007 only. Approved style. Top: Nightwolf arrow, Dustin dual daggers "Temos que sair daqui — agora!" LARGE bottom: Tobias (ref 6) traitor with guards, collar on Bart (ref 3), halfling arm UP, height difference.`
+**PAGE 007:** `PAGE 007 only. Match gola style ref (2). Top: Nightwolf arrow, Dustin dual daggers "Temos que sair daqui — agora!" LARGE bottom: Tobias (ref 6) traitor with guards, collar on Bart (ref 3), halfling arm UP, height difference.`
 
 **PAGE 009:** `PAGE 009 only. Nightwolf and Dustin carry unconscious Bart — "Segura ele — vamo!" Alley, torches. Approved style.`
 
@@ -137,7 +137,7 @@ Anexar as **mesmas 6 imagens** + prefixo de [[style-tirinha|style-tirinha.md]].
 
 - [ ] Estilo igual refs `cap-01-estilo-aprovado-*.png`
 - [ ] 10 ficheiros; apagar `011–020` v1
-- [ ] P04 traição · P06 tapa · P07 gola · P09 carregado
+- [ ] P04 traição · P06 caos (sem tapa) · P07 gola · P09 carregado
 - [ ] Dustin com **adagas**, não espada
 - [ ] Falas = [[dialogues|dialogues.md]]
 - [ ] `npm run build:site` ou `copy:comic`

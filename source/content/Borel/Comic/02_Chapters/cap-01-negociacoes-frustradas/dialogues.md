@@ -47,7 +47,7 @@ Português **coloquial BR** (você/vocês). Usar **exatamente** nos balões.
 ## Regras
 
 - ~8 palavras por balão.
-- Lord Bart **não** agride o guarda antes do tapa (pág. 06).
-- Ordem: denúncia → interrogatório → insulto → tapa → gola → fuga.
+- Lord Bart **não** agride o guarda antes da briga (pág. 06–07).
+- Ordem HQ: denúncia → interrogatório → insulto → **caos (P06)** → gola → fuga. *(Mesa/Livro: tapa entre insulto e caos.)*
 
 Prompt: [[prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]]

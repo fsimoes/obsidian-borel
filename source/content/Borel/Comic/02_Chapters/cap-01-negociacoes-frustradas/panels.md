@@ -16,7 +16,7 @@ chatgpt_thread: "Cap. 1 — 10 páginas multi-painel"
 
 > **Formato ChatGPT:** 10 imagens (`001.webp`–`010.webp`), **vários painéis por página** (grelha 2×2 ou 1 grande + 2 pequenos).  
 > Estilo: [[style-tirinha|style-tirinha.md]] (aprovado) · Falas: [[dialogues|dialogues.md]] · Prompt: [[prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]]  
-> **Ordem:** denúncia → interrogatório → tapa → Tobias/gola → fuga carregado.
+> **Ordem HQ:** denúncia → interrogatório → **caos** (sem painel do tapa) → Tobias/gola → fuga carregado. **Mesa/Livro:** tapa entre insulto e briga.
 
 Legenda: `[ ]` pendente · `[x]` mesa OK
 
@@ -84,15 +84,17 @@ Legenda: `[ ]` pendente · `[x]` mesa OK
 
 ---
 
-## Página 06 — Tapa + caos (**obrigatória**)
+## Página 06 — Caos na taverna (**obrigatória**)
 
-**Arquivo:** `006.webp` · **Layout:** 1 painel grande (tapa) + 2 pequenos em baixo · **Refs:** Lord Bart, capitã
+**Arquivo:** `006.webp` · **Layout:** 1 painel grande + 2 pequenos em baixo · **Refs:** Lord Bart, capitã, guardas
+
+> **HQ:** sem desenhar o tapa (cena cortada). Transição: capitã avança após P05 → briga explode.
 
 | ID | Cena | Fala |
 |----|------|------|
-| 06-a | **GRANDE:** tapa mão aberta no rosto de Lord Bart | SFX: **TAP!** |
-| 06-b | Taverna em caos | — |
-| 06-c | Bart mão no rosto | — |
+| 06-a | **GRANDE:** guardas avançam; mesas tombam; taverna em caos | SFX: **CRASH!** ou **—** |
+| 06-b | Nightwolf puxa arco; Dustin saca adagas | — |
+| 06-c | Bart recua / tropeça (sem slap panel) | — |
 
 ---
 
@@ -143,7 +145,7 @@ Legenda: `[ ]` pendente · `[x]` mesa OK
 | 10-b | Pés na calçada (urgência) | — |
 | 10-c | Silhueta trio + cidade; taverna brilha atrás | Nightwolf: **Temos que despistar a guarda.** |
 
-**Fim Cap. 1** → [[../../../Sessoes/Capitulo 2 - Um Encontro na cabana|Sessão 2]].
+**Fim Cap. 1** → [[../cap-02-um-encontro-na-cabana/README|Cap. 2 — Um Encontro na Cabana]].
 
 ---
 
@@ -153,7 +155,7 @@ Legenda: `[ ]` pendente · `[x]` mesa OK
 |---------|--------|
 | **Páginas (imagens)** | **10** |
 | **Painéis totais** | ~34 |
-| **Obrigatórias** | P04 denúncia · P06 tapa · P07 gola · P09 carregado |
+| **Obrigatórias** | P04 denúncia · P06 caos · P07 gola · P09 carregado |
 | **Refs** | Lord Bart, Nightwolf, Dustin, Tobias |
 
 > Site: substituir `cap-01-sessao-01/001–010.webp`. Apagar `011–020.webp` antigos se existirem.

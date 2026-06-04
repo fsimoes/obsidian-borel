@@ -39,7 +39,9 @@ fidelity: reconstructed
 
 ---
 
-## Cena obrigatória — tapa (`canon` mesa)
+## Cena — tapa (`canon` mesa · **omitida no HQ**)
+
+> **Quadrinho publicado:** P06 = caos na taverna, **sem** painel do tapa (arte de teste rejeitada). Livro/sessão mantêm o tapa.
 
 > **Líder da guarda** esbofeteia **Lord Bart** — mão aberta no rosto. **Não** desenhar Bart atacando o guarda com magia/espada antes disto.
 
@@ -49,7 +51,7 @@ fidelity: reconstructed
 | **Ação** | **Mão aberta** em movimento de **tapa/slap** no rosto dele | Rosto **virado** pelo impacto; choque/humilhação; pode ter acabado de falar (agressivo) |
 | **Evitar** | Punho fechado, espada desembainhada como primeiro golpe | Lord Bart lançando feitiço letal no guarda *antes* do tapa |
 
-**Prompt tapa:** usar estilo aprovado em [[style-tirinha|style-tirinha.md]] + ref `Referencias/style/cap-01-estilo-aprovado-tapa.png` (substitui rascunho graphic novel abaixo).
+**HQ:** não gerar painel do tapa — ver [[panels#Página 06 — Caos na taverna|panels P06]].
 
 <details><summary>Rascunho antigo (graphic novel — não usar)</summary>
 
@@ -68,7 +70,7 @@ European fantasy graphic novel, tavern tense scene. Female city guard captain ..
 | **Composição** | Braço **para cima**, punho na **gola**; **lado dos guardas** | Inclinado/puxado; marca do tapa opcional na face; varinha caída |
 | **Evitar** | Tobias neutro / Bart agressor do guarda | Mesma altura de olhos sem esforço |
 
-**Painéis sugeridos:** (A) denúncia Tobias; (B) tapa da líder; (C) gola — `Tobias Ataca Lord Bart.png`.
+**Painéis sugeridos (HQ):** (A) denúncia Tobias; (B) caos P06; (C) gola — `Tobias Ataca Lord Bart.png`.
 
 **Prompt gola:** mesmo estilo [[style-tirinha|style-tirinha]] + refs Tobias + Lord Bart; painel 07 em [[prompt-all-pages-tirinha|prompt 10p]].
 

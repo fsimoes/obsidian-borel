@@ -19,15 +19,15 @@ Documento **fonte da verdade** para gerar arte no ChatGPT. Baseado no [[AI_Tool_
 
 ## Cap. 1 — estilo aprovado (jun/2026)
 
-A mesa aprovou o visual **webcomic cel-shade** (testes tapa + Dustin *Traidor!*) para o piloto de 10 páginas.
+A mesa aprovou o visual **webcomic cel-shade** (teste Dustin *Traidor!*; painel do tapa **não** entrou no HQ publicado).
 
 | Item | Onde |
 |------|------|
 | Guia completo + prefixo/Avoid | [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style-tirinha.md]] |
 | Prompt 10 páginas | [[02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]] |
-| Refs de estilo | `Referencias/style/cap-01-estilo-aprovado-tapa.png`, `cap-01-estilo-aprovado-dustin-traidor.png` |
+| Refs de estilo | `cap-01-estilo-aprovado-dustin-traidor.png`, `cap-01-estilo-aprovado-gola.png` |
 
-**Regra:** ao gerar Cap. 1, anexar **2 refs de estilo + 4 refs de personagem** (ver prompt). Não usar o prefixo graphic novel abaixo neste capítulo.
+**Regra:** ao gerar Cap. 1+, anexar **2 refs de estilo + refs de personagem** (ver prompt). Não usar o prefixo graphic novel abaixo neste capítulo.
 
 Outros capítulos / retratos novos: continuam com **T2** (graphic novel) até a mesa aprovar outro registro.
 

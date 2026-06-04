@@ -22,8 +22,9 @@ Referencias/
 
 | Arquivo | Uso |
 |---------|-----|
-| `style/cap-01-estilo-aprovado-tapa.png` | Ref de linha/cor — cena do tapa |
-| `style/cap-01-estilo-aprovado-dustin-traidor.png` | Ref de close-up e balões |
+| `style/cap-01-estilo-aprovado-dustin-traidor.png` | Close-up, emoção, balões («Traidor!») |
+| `style/cap-01-estilo-aprovado-gola.png` | Ação, escala halfling×elfo, taverna; painel inferior = fuga/urgência |
+| `style/cap-01-estilo-aprovado-tapa.png` | **Arquivo legado** — não usar (cena do tapa saiu do HQ) |
 | `style/referencia-tirinha-rpg.png` | **Arquivo** — tentativa flat não aprovada; não usar no Cap. 1 |
 
 Ver [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]].
