@@ -4,15 +4,15 @@ Cada **quadrante** é um mapa jogável de RPG: uma área com encontros, rotas, t
 
 ## Escala
 
-| Tamanho do andar | Grade | Total de quadrantes | Uso |
-|------------------|-------|---------------------|-----|
-| Muito pequeno | 1 × 1 | 1 | Final, entrada, boss, área compacta |
-| Pequeno | 2 × 2 | 4 | Andar curto, pressão alta, poucas escolhas |
-| Médio-pequeno | 3 × 2 | 6 | Exploração contida, uma facção forte |
-| Médio | 3 × 3 | 9 | Facções, rotas alternativas, boss opcional |
-| Grande | 4 × 3 | 12 | Bioma amplo, conflito territorial |
-| Muito grande | 4 × 4 | 16 | Região extensa, travessia e sobrevivência |
-| Imenso | 5 × 4 | 20 | Andar-mundo, desorientação e escala absurda |
+| Tamanho do andar | Grade | Total de quadrantes | Uso                                         |
+| ---------------- | ----- | ------------------- | ------------------------------------------- |
+| Muito pequeno    | 1 × 1 | 1                   | Final, entrada, boss, área compacta         |
+| Pequeno          | 2 × 2 | 4                   | Andar curto, pressão alta, poucas escolhas  |
+| Médio-pequeno    | 3 × 2 | 6                   | Exploração contida, uma facção forte        |
+| Médio            | 3 × 3 | 9                   | Facções, rotas alternativas, boss opcional  |
+| Grande           | 4 × 3 | 12                  | Bioma amplo, conflito territorial           |
+| Muito grande     | 4 × 4 | 16                  | Região extensa, travessia e sobrevivência   |
+| Imenso           | 5 × 4 | 20                  | Andar-mundo, desorientação e escala absurda |
 
 ## Regra de conteúdo por quadrante
 
