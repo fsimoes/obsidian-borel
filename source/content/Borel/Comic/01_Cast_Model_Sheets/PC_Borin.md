@@ -1,4 +1,4 @@
-﻿---
+---
 title: Borin — visual (quadrinho)
 type: comic
 tags:

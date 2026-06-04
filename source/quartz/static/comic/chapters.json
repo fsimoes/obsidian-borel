@@ -20,10 +20,10 @@
       "id": "cap-01-sessao-01",
       "title": "Cap. 1 — Negociações Frustradas",
       "session": 1,
-      "pageCount": 20,
+      "pageCount": 10,
       "startPage": 1,
       "cover": null,
-      "fidelity": "alta",
+      "fidelity": "reconstructed",
       "status": "ready"
     }
   ]

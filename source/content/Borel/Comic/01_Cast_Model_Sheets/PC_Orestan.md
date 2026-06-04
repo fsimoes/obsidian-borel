@@ -1,4 +1,4 @@
-﻿---
+---
 title: Orestan — visual (quadrinho)
 type: comic
 tags:

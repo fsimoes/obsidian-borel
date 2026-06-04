@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trash — visual (quadrinho)
 type: comic
 tags:

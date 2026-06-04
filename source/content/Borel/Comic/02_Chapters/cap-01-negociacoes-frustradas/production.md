@@ -13,7 +13,23 @@ status: ativo
 
 **Pré-requisito:** [[script|script.md]] (beats) ✓ · [[panels|panels.md]] (painéis) → gerar imagens.
 
-## Fase atual: gerar páginas (ChatGPT)
+## Fase atual: Cap. 1 v2 — **publicado** (2026-06-04)
+
+- [x] 10 páginas geradas (ChatGPT) → [[pages/README|pages/]]
+- [x] `quartz/static/comic/cap-01-sessao-01/001.webp`–`010.webp`
+- [x] `chapters.json` → `status: ready` · `reader.js` catalog v4
+- [x] `npm run comic:webp` + `npm run copy:comic`
+
+**Revisão opcional:** P07 gola / Nightwolf vs ref — ver [[pages/README#Revisão mesa (opcional)|notas]].
+
+### Regenerar uma página
+
+1. [[refs/README|refs/]] + prompt em [[prompt-all-pages-tirinha#Prompts de recuperação|recuperação]].
+2. Substituir `NNN.png` em `cap-01-sessao-01/` → `npm run comic:webp` → `npm run copy:comic`.
+
+**v1 (20p)** removida do leitor (`011–020` apagados).
+
+## Fase anterior: gerar páginas v1 (ChatGPT)
 
 ### Setup (uma vez)
 

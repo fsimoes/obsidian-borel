@@ -1,4 +1,4 @@
-﻿---
+---
 title: Prompts retrato — ChatGPT (copiar tudo)
 type: comic
 tags:

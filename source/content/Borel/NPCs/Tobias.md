@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tobias Peso Morto"
 type: npc
 tags:

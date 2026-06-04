@@ -1,4 +1,4 @@
-﻿---
+---
 title: NPCs Tier A — visual (quadrinho)
 type: comic
 tags:

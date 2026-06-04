@@ -8,13 +8,15 @@ tags:
   - comic/piloto
 sessao: 1
 fidelity: reconstructed
-status: roteiro
-target_pages: "~20"
+status: ready
+target_pages: "10"
 ---
 
 # Capítulo piloto — Sessão 1
 
 **Decisão da mesa (jun/2026):** piloto = Sessão 1 — fuga da taverna, sem Tony. PC mago = **Lord Bart** (Bartrock **pré-ressurreição**, variante `noble`), **carregado** no final.
+
+**v2 webcomic (no ar jun/2026):** [[pages/README|páginas exportadas]] · [[style-tirinha|estilo]] · [[dialogues|diálogos]] · leitor `/comic/` cap-01.
 
 ## Escopo
 
@@ -60,4 +62,4 @@ Guardas / taverneiros = figuras genéricas ([[../../00_Style_Bible|Style Bible]]
 | 4. Site | [[../../index#Fase 3 — Site (leitor web)|Fase 3]] | depois |
 
 - Style: [[../../00_Style_Bible|00_Style_Bible]]
-- Imagens: `source/quartz/static/comic/cap-01-sessao-01/001.webp` … `020.webp` → [[../../Leitor-Web|leitor `/comic/`]]
+- Imagens: `cap-01-sessao-01/001.webp`–`010.webp` (vários painéis por imagem) → [[../../Leitor-Web|leitor `/comic/`]]

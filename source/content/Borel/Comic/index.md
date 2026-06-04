@@ -168,11 +168,12 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 
 - [x] Escolher cap piloto — **Cap. 1** (jun/2026)
 - [x] Pasta + beats: [[02_Chapters/cap-01-negociacoes-frustradas/script|cap-01/script.md]]
-- [x] Painéis 20 pág.: [[02_Chapters/cap-01-negociacoes-frustradas/panels|cap-01/panels.md]]
-- [x] Guia produção: [[02_Chapters/cap-01-negociacoes-frustradas/production|cap-01/production.md]]
-- [x] Gerar páginas 001–020 (ChatGPT, jun/2026)
-- [x] Exportar para `quartz/static/comic/cap-01-sessao-01/` (`001.webp` … `020.webp`)
-- [ ] Revisão rápida da mesa
+- [x] Painéis (v2 **10 pág.** multi-painel): [[02_Chapters/cap-01-negociacoes-frustradas/panels|cap-01/panels.md]]
+- [x] Estilo Cap. 1 aprovado (webcomic): [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style]] · refs em `Referencias/style/cap-01-estilo-aprovado-*.png`
+- [x] Guia produção + prompt 10p: [[02_Chapters/cap-01-negociacoes-frustradas/production|production]] · [[02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-tirinha|prompt]]
+- [x] v1 graphic novel 001–020 (substituir)
+- [x] Gerar **001–010** no ChatGPT (2026-06-04)
+- [ ] Revisão rápida da mesa (P07 gola / Nightwolf opcional)
 
 **Regra:** nenhuma página final sem link para model sheet de quem aparece no painel.
 
@@ -182,8 +183,8 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 
 - [x] Leitor: `source/quartz/static/comic/` → `/static/comic/` no build; `/comic/` com `npm run copy:comic` ou CI
 - [x] `chapters.json` + `index.html` + `reader.js`
-- [x] Pasta piloto `quartz/static/comic/cap-01-sessao-01/` (colocar `001.webp`–`020.webp`)
-- [x] Imagens do Cap. 1 no ar (`001.webp`–`020.webp`)
+- [x] Pasta piloto `cap-01-sessao-01/` (**10** imagens após v2)
+- [x] Cap. 1 v2 webcomic no ar (`001.webp`–`010.webp`)
 - [ ] Deploy GitHub Pages — enviar link da mesa (`https://…/comic/`)
 - [ ] (Opcional) Senha: `chapters.json` → `access.passwordEnabled: true` e `password`
 

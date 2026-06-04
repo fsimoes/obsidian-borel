@@ -3,7 +3,7 @@
 Colocar aqui as páginas exportadas do ChatGPT (publicadas em cada `quartz build` em `/static/comic/` e `/comic/` após `copy:comic`):
 
 - `000-cover.webp` — opcional
-- `001.webp` … `020.webp` (Cap. 1, jun/2026 — gerar com `npm run comic:webp`)
+- `001.webp` … `010.webp` — **10 páginas**, cada uma com vários painéis (ver `panels.md`)
 
 Roteiro: `source/content/Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/panels.md`
 

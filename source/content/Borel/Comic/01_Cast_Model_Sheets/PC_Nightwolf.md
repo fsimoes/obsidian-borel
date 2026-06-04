@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nightwolf — visual (quadrinho)
 type: comic
 tags:

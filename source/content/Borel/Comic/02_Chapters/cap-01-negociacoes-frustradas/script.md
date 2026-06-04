@@ -7,11 +7,11 @@ tags:
   - comic/cap-01
   - comic/piloto
 status: complete
-target_pages: "~20"
+target_pages: "10"
 fidelity: reconstructed
 ---
 
-# Roteiro — Negociações Frustradas (~20 páginas)
+# Roteiro — Negociações Frustradas (**10 páginas**, multi-painel)
 
 > **Status:** beats ✓ · painéis em [[panels|panels.md]] · gerar imagens via [[production|production.md]].  
 > **Badge site:** `reconstructed` (Livro + [[../../../Sessoes/Capitulo 1 - Negociacoes frustradas|mesa]]).
@@ -49,11 +49,14 @@ fidelity: reconstructed
 | **Ação** | **Mão aberta** em movimento de **tapa/slap** no rosto dele | Rosto **virado** pelo impacto; choque/humilhação; pode ter acabado de falar (agressivo) |
 | **Evitar** | Punho fechado, espada desembainhada como primeiro golpe | Lord Bart lançando feitiço letal no guarda *antes* do tapa |
 
-**Prompt tapa (inglês, rascunho LOCKED):**
+**Prompt tapa:** usar estilo aprovado em [[style-tirinha|style-tirinha.md]] + ref `Referencias/style/cap-01-estilo-aprovado-tapa.png` (substitui rascunho graphic novel abaixo).
+
+<details><summary>Rascunho antigo (graphic novel — não usar)</summary>
 
 ```
-European fantasy graphic novel, tavern tense scene. Female city guard captain woman in armor questioning then slapping Lord Bart with open palm strike to face, young tall slim elven mage Lord Bart head turned from slap cheek red mark shocked humiliated expression, Lord Bart refused to answer then spoke aggressively, messy black hair pointed elf ears dark noble coat no mask, guard leader stern angry, other guards and tavern background, cinematic lighting, clear silhouettes, no text.
+European fantasy graphic novel, tavern tense scene. Female city guard captain ...
 ```
+</details>
 
 ---
 
@@ -67,11 +70,14 @@ European fantasy graphic novel, tavern tense scene. Female city guard captain wo
 
 **Painéis sugeridos:** (A) denúncia Tobias; (B) tapa da líder; (C) gola — `Tobias Ataca Lord Bart.png`.
 
-**Prompt gola (inglês, LOCKED):**
+**Prompt gola:** mesmo estilo [[style-tirinha|style-tirinha]] + refs Tobias + Lord Bart; painel 07 em [[prompt-all-pages-tirinha|prompt 10p]].
+
+<details><summary>Rascunho antigo (graphic novel)</summary>
 
 ```
-European fantasy graphic novel, tavern brawl. Tobias Peso Morto, short halfling fighter about 4 feet tall, traitor fighting on the guards side not with the heroes, one arm fully stretched upward gripping the collar of Lord Bart, young tall slim elven mage about 6 feet tall long pointed ears, Lord Bart bent forward choked pulled down toward halfling, city guards or armored men visible in background brawl, height difference very clear, halfling looking up at elf face, teal tattered scarf brown leather jerkin, Lord Bart fine dark noble clothing without mask shocked betrayed expression, cinematic lighting, clear silhouettes, no text.
+European fantasy graphic novel, tavern brawl. Tobias Peso Morto ...
 ```
+</details>
 
 ---
 

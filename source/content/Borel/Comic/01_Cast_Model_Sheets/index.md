@@ -1,4 +1,4 @@
-﻿---
+---
 title: Model sheets — elenco
 type: comic
 tags:

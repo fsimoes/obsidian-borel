@@ -7,13 +7,29 @@ tags:
   - comic/style-bible
 tool: chatgpt-image
 lettering: ai
-version: "2026-06-01"
+version: "2026-06-02"
 status: ativo
 ---
 
 # Style Bible — O Legado de Rilonde (quadrinho)
 
 Documento **fonte da verdade** para gerar arte no ChatGPT. Baseado no [[AI_Tool_Comparison/03_Decisao|bake-off ChatGPT T1–T5]].
+
+---
+
+## Cap. 1 — estilo aprovado (jun/2026)
+
+A mesa aprovou o visual **webcomic cel-shade** (testes tapa + Dustin *Traidor!*) para o piloto de 10 páginas.
+
+| Item | Onde |
+|------|------|
+| Guia completo + prefixo/Avoid | [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style-tirinha.md]] |
+| Prompt 10 páginas | [[02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]] |
+| Refs de estilo | `Referencias/style/cap-01-estilo-aprovado-tapa.png`, `cap-01-estilo-aprovado-dustin-traidor.png` |
+
+**Regra:** ao gerar Cap. 1, anexar **2 refs de estilo + 4 refs de personagem** (ver prompt). Não usar o prefixo graphic novel abaixo neste capítulo.
+
+Outros capítulos / retratos novos: continuam com **T2** (graphic novel) até a mesa aprovar outro registro.
 
 ---
 
@@ -31,14 +47,15 @@ Documento **fonte da verdade** para gerar arte no ChatGPT. Baseado no [[AI_Tool_
 
 ## Direção visual (o que a mesa aprovou)
 
-O bake-off mostrou **dois registros** aceitáveis no mesmo projeto:
+O bake-off mostrou registros aceitáveis; o projeto usa **dois looks** conforme o capítulo:
 
-| Tipo | Referência | Descrição |
-|------|------------|-----------|
-| **Ambiente** | [[AI_Tool_Comparison/results/chatgpt-image/T1-taverna.png\|T1]] | Mais “graphic novel”, hachura, taverna quente |
-| **Personagens** | [[AI_Tool_Comparison/results/chatgpt-image/T2-tony-retrato.png\|T2]], [[AI_Tool_Comparison/results/chatgpt-image/T2b-nightwolf-retrato.png\|T2b]] | Ilustração digital cinematográfica, detalhada, fundo cinza em retratos |
+| Tipo | Referência | Descrição | Quando |
+|------|------------|-----------|--------|
+| **Cap. 1 webcomic** | `Referencias/style/cap-01-estilo-aprovado-*.png` | Cel-shade, contorno preto, taverna quente, balões legíveis | **Cap. 1** (10 pág. multi-painel) |
+| **Ambiente** | [[AI_Tool_Comparison/results/chatgpt-image/T1-taverna.png\|T1]] | Graphic novel, hachura, taverna quente | Cenários sem elenco fixo |
+| **Personagens** | [[AI_Tool_Comparison/results/chatgpt-image/T2-tony-retrato.png\|T2]], [[AI_Tool_Comparison/results/chatgpt-image/T2b-nightwolf-retrato.png\|T2b]] | Ilustração digital cinematográfica, retratos | Retratos `eq-*`, caps futuros |
 
-**Regra prática:** não lutar contra o ChatGPT — personagens e cenas com diálogo seguem o look **T2/T3/T4/T5** (pintura fantasy). Fundos podem puxar um pouco mais para **T1** quando for só cenário.
+**Regra prática:** Cap. 1 → prefixo em [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style-tirinha]]. Demais caps → **T2** até nova aprovação da mesa.
 
 ### Paleta e mood
 

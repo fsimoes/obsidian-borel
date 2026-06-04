@@ -11,7 +11,7 @@ tags:
 | ID | Sessão | Status | Roteiro | Entrega web |
 |----|--------|--------|---------|-------------|
 | **cap-00** | 0 | **publicado** | [[cap-00-elenco/script\|script]] | [[../Leitor-Web\|/comic/]] · 10 páginas (retratos) |
-| **cap-01** | 1 | **publicado** | [[cap-01-negociacoes-frustradas/panels\|panels]] · [[cap-01-negociacoes-frustradas/production\|production]] | [[../Leitor-Web\|/comic/]] · 20 páginas |
+| **cap-01** | 1 | **ready** | [[cap-01-negociacoes-frustradas/pages\|pages]] · [[cap-01-negociacoes-frustradas/panels\|panels]] | [[../Leitor-Web\|/comic/]] · **10 páginas** |
 | cap-02 | 2 | planejado | — | — |
 | cap-03…09 | 3–9 | Vol. 1 | — | — |
 

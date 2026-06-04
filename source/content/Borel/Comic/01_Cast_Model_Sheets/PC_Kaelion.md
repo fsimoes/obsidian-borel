@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kaelion — visual (quadrinho)
 type: comic
 tags:

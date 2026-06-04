@@ -1,4 +1,4 @@
-﻿---
+---
 title: Referências visuais
 type: comic
 tags:
@@ -15,8 +15,18 @@ Referencias/
   pcs/       # jogadores — <nome>-<eq-id>.webp (ex.: tony-eq-inicial.webp)
   pcs/archive/   # loadouts antigos (opcional)
   npcs/      # NPCs — mesmo padrão eq-*
-  style-test/
+  style/     # estilo aprovado por capítulo (anexar no ChatGPT)
 ```
+
+## Estilo Cap. 1 (aprovado jun/2026)
+
+| Arquivo | Uso |
+|---------|-----|
+| `style/cap-01-estilo-aprovado-tapa.png` | Ref de linha/cor — cena do tapa |
+| `style/cap-01-estilo-aprovado-dustin-traidor.png` | Ref de close-up e balões |
+| `style/referencia-tirinha-rpg.png` | **Arquivo** — tentativa flat não aprovada; não usar no Cap. 1 |
+
+Ver [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]].
 
 **Equipamento muda na campanha:** cada loadout = uma ref + prompt. Ver [[../Comic/01_Cast_Model_Sheets/00_Equipamento_Evolucao|evolução de equipamento]].
 

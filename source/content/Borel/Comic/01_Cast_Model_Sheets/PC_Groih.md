@@ -1,4 +1,4 @@
-﻿---
+---
 title: Groih — visual (quadrinho)
 type: comic
 tags:

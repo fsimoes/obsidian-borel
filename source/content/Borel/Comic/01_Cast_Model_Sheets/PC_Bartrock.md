@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bartrock — visual (quadrinho)
 type: comic
 tags:

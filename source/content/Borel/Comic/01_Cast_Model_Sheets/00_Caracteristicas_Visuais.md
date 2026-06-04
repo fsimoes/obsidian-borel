@@ -1,4 +1,4 @@
-﻿---
+---
 title: Índice — Características visuais (cast)
 type: comic
 tags:
@@ -15,7 +15,7 @@ tags:
 
 **Equipamento muda com o RPG:** [[00_Equipamento_Evolucao|00_Equipamento_Evolucao]].
 
-Style Bible: [[../00_Style_Bible|00_Style_Bible]]
+Style Bible: [[../00_Style_Bible|00_Style_Bible]] · Cap. 1 (webcomic aprovado): [[../02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]]
 
 ## PCs (8)
 

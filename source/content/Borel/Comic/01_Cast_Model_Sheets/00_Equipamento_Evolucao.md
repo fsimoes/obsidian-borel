@@ -1,4 +1,4 @@
-﻿---
+---
 title: Equipamento — evolução com a campanha
 type: comic
 tags:

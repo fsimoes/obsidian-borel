@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dustin — visual (quadrinho)
 type: comic
 tags:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tony Tigger — visual (quadrinho)
 type: comic
 tags:
