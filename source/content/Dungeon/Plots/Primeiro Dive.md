@@ -19,7 +19,7 @@
 
 ## Descrição geral
 
-Campanha dungeon crawl **fechada em 10 sessões**: turma de cadetes da guilda na primeira descida oficial (nível 5), que na verdade é a **prova de conclusão** para se tornarem exploradores reconhecidos. O instrutor nível 10 está avaliando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|Instrutor]]; na fuga, o grupo cai por um poço/fenda profunda e acorda sem saber **quantos andares** desceu. A saga vira uma subida pelas camadas do complexo até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
+Campanha dungeon crawl **fechada em 10 sessões**: sete aventureiros atrelados à guilda fazem a primeira descida oficial como grupo (nível 5), o **exame de Bronze** para receber a primeira licença plena de aventureiro. O avaliador é um aventureiro **Prata** de nível efetivo ~10, observando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|avaliador]]; na fuga, o grupo fica encurralado entre a criatura e um portal antigo instável. A decisão brutal é imediata: atravessar o portal sem saber para onde ele leva, ou enfrentar o monstro ali. Se atravessarem, despertam em um corredor pós-portal que leva ao [[../Locais/Level 1|Level 1]], sem saber o que essa numeração significa dentro do complexo. A saga vira uma subida pelas camadas da dungeon até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
 
 Tom: leve (S1–2) → brutal (S4+). O que era uma avaliação controlada vira sobrevivência real; a pergunta deixa de ser "vamos passar na prova?" e vira "quanto falta para subir?".
 
@@ -69,9 +69,9 @@ Tipos de conflito úteis:
 
 | Sessão | Tom | Foco | Mapa | Nível | Meta |
 |--------|-----|------|------|-------|------|
-| **1** | Leve | Briefing da prova; 1º combate; conhecer instrutor | AN, SN parcial | 5 | Avaliação começou |
+| **1** | Leve | Briefing do exame de Bronze; 1º combate; conhecer avaliador | AN, SN parcial | 5 | Avaliação começou |
 | **2** | Leve | Objetivos da prova; **tremor no fim** | SN completo | 5 | Prova sai do controle |
-| **3** | Choque | Fenda; **morte instrutor**; perseguição; queda | RP → andar desconhecido | **6** | Sem mapa confiável |
+| **3** | Choque | Fenda; **morte do avaliador**; perseguição; escolha do portal | RP → corredor do Level 1 | **6** | Sem mapa confiável |
 | **4** | Tenso | Acordar abaixo; medir recursos; 1º santuário | PR-3 ou mais fundo | 6 | Descobrir que precisam subir |
 | **5** | Brutal | Primeiro marco de subida; facção; recursos escassos | PR-2 | **7** | Prova era só a casca |
 | **6** | Brutal | Subida sob perseguição; atalhos e poços | PR-2→PR-1 | 7 | Superfície ainda distante |
@@ -82,10 +82,10 @@ Tipos de conflito úteis:
 
 ### Fases
 
-- **A (S1–2):** prova controlada; instrutor vivo; encontros fáceis.
+- **A (S1–2):** prova controlada; avaliador vivo; encontros fáceis.
 - **B (fim S2):** tremor.
-- **C (S3):** predador; morte instrutor; fuga; queda; nível 6.
-- **D (S4–8):** andar desconhecido; subida; níveis 7–8.
+- **C (S3):** predador; morte do avaliador; fuga; portal; nível 6.
+- **D (S4–8):** Level 1 e camadas seguintes; subida; níveis 7–8.
 - **E (S9–10):** corrida vertical; boss final; escape.
 
 ### Notas de DM
@@ -98,23 +98,27 @@ Tipos de conflito úteis:
 
 ## Como lançar os PJs abaixo
 
-O [[../NPCs/Instrutor|Instrutor]] está avaliando a turma e está **certo** sobre os limites do mapa de prova. A descida real não precisa ser uma escolha racional dos PJs; pode acontecer durante a fuga do Predador:
+O [[../NPCs/Instrutor|avaliador Prata]] está avaliando a turma e está **certo** sobre os limites do mapa de prova. A descida real não precisa ser uma escolha racional dos PJs; pode acontecer durante a fuga do Predador:
 
 - O Predador surge atrás deles e força uma corrida por SN-07/RP-01.
-- Uma ponte, piso falso ou borda do poço cede sob peso e pânico.
-- Um PJ escorrega; outros tentam salvar; o conjunto despenca.
-- O instrutor segura a linha por tempo suficiente para eles sobreviverem, mas morre.
-- A queda tem trechos de impacto, raízes, ruínas, poeira e inconsciência; eles não sabem quantos andares caíram.
+- A ruptura revela uma câmara antiga com um **portal vertical** aceso por dentro, como vidro negro cheio de luz fria.
+- O caminho de volta desmorona ou é bloqueado pelo corpo do Predador.
+- O avaliador segura a criatura por tempo suficiente para eles chegarem ao portal, mas morre.
+- O grupo fica encurralado: **entrar no portal** ou **enfrentar o Predador** ali mesmo.
+- Enquanto decidem e atravessam, o Predador continua atacando quem ainda ficou deste lado.
+- A cada PJ que atravessa, o portal fica mais transparente; os que ficam para trás veem a passagem enfraquecer enquanto o Predador se aproxima. Quando o último PJ passa, o portal é destruído atrás dele.
+- Se entrarem, a travessia parece uma queda sem chão: impacto de luz, raízes, ruínas, poeira e inconsciência. Eles não sabem se foram transportados, derrubados ou engolidos por um mecanismo antigo. Quando acordam, estão em um corredor que leva ao [[../Locais/Level 1|Level 1]].
+- Se escolherem lutar, o Predador deve deixar claro em 1 rodada que ficar é quase suicida; ainda assim, sobreviver ao confronto e atravessar depois preserva a agência.
 
-O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, a saída conhecida está acima e a pergunta central é como subir.
+O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, a saída conhecida está acima e a pergunta central é o que significa estar no **Level 1** de uma dungeon que a guilda não mapeou.
 
 ---
 
-## O Instrutor
+## O Avaliador Prata
 
-Detalhes: [[../NPCs/Instrutor]]. Morre na sessão 3; era avaliador da prova e tinha razão sobre recuar.
+Detalhes: [[../NPCs/Instrutor]]. Morre na sessão 3; era o avaliador Prata do exame de Bronze e tinha razão sobre recuar.
 
-**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; instrutor segura a criatura e/ou a corda da fuga; um ataque letal; o grupo cai por um poço/fenda e acorda em um andar desconhecido.
+**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; o avaliador segura a criatura diante de um portal antigo; um ataque letal; o grupo precisa escolher entre atravessar o portal ou enfrentar o monstro enquanto a criatura continua atacando. A cada PJ que passa, o portal fica mais transparente; quando o último atravessa, ele se destrói. A travessia joga todos em um corredor pós-portal que leva ao [[../Locais/Level 1|Level 1]].
 
 ---
 
@@ -124,7 +128,7 @@ Detalhes: [[../NPCs/O Predador]]. **Mesma criatura** na S3 e boss S10.
 
 | Batida | Sessão | Comportamento |
 |--------|--------|----------------|
-| Introdução | 3 | Mata instrutor; recua |
+| Introdução | 3 | Mata o avaliador; recua |
 | Perseguição | 4–6 | Sinais, quase-encontros |
 | Confronto | 7 | Combate completo; **foge** |
 | Boss final | 10 | Morte na rota final de subida |
@@ -137,7 +141,7 @@ Detalhes: [[../NPCs/O Predador]]. **Mesma criatura** na S3 e boss S10.
 |-------|------|-----|------|-------|
 | Combate | Fácil | 1 ataque | Médio/difícil | Boss S10 |
 | Descanso | Long rest OK | Raro | Santuários | Antes da fuga |
-| NPCs | Instrutor | — | Facções, diários | — |
+| NPCs | Avaliador Prata | — | Facções, diários | — |
 | Ameaça | Local | Predador | Mesmo | Mesmo na saída |
 | Esperança | Formatura | Perdida | Subir um andar | Escapar |
 
@@ -145,13 +149,13 @@ Detalhes: [[../NPCs/O Predador]]. **Mesma criatura** na S3 e boss S10.
 
 ## Segredos de DM
 
-- A prova de conclusão era real, mas limitada: avaliar cadetes no stratum, não jogá-los no complexo inteiro.
-- Caverna omitida de propósito ou por ignorância — guilda subestima profundezas (TBD conspiração).
+- O exame de Bronze era real, mas limitado: avaliar aventureiros registrados no stratum, não jogá-los no complexo inteiro.
+- A guilda não sabia da dungeon abaixo. Ela certificou o Stratum Novato como área isolada porque seus mapas, vistorias e tradição nunca revelaram o Level 1.
 - Stratum novato: **camada de treino** sobre ruínas antigas.
-- Saída A fica acima deles após a queda; vitória = encontrar uma rota de subida até uma saída real.
+- Saída A fica acima deles após o portal; vitória = encontrar uma rota de subida até uma saída real.
 - Profundezas: aberração / civilização perdida / dungeon vivo (TBD lore).
 - **Predador** marcou a turma (tremor, selo, cheiro) — TBD motivação.
-- **Canônico:** instrutor + boss = mesma criatura.
+- **Canônico:** a criatura que mata o avaliador é o boss final.
 
 ---
 
@@ -184,14 +188,14 @@ Usar DMG encounter building + treasure tables; calibrar para limiares equivalent
 - PHB: death saves, stabilizar, corpos para *revivify* / *raise dead*.
 - Kit guilda (S1–2): pode incluir diamante 300 gp ou pergaminho — perdido após S3.
 - Facção PR-2: componentes raros.
-- **Não** reviver instrutor.
+- **Não** reviver o avaliador.
 - Novo PJ: nível do grupo (DMG); ganchos: 2ª turma, sobrevivente, refugiado, rival, substituição burocrática.
 
 ---
 
 ## Cartografia (§10)
 
-[[../Locais/Mapa Mestre do Complexo]] — grafo completo em camadas verticais, poço de queda, rotas de subida e saídas.
+[[../Locais/Mapa Mestre do Complexo]] — grafo completo em camadas verticais, portal/queda aparente, rotas de subida e saídas.
 
 ---
 
@@ -209,14 +213,14 @@ Usar DMG encounter building + treasure tables; calibrar para limiares equivalent
 - Milestone (DMG 261) ou XP (PHB 15).
 - Descanso PHB 186.
 - Morte/res: PHB + componentes.
-- Instrutor: Veteran + classe (não concede níveis).
+- Avaliador Prata: Veteran + classe (não concede níveis).
 - Boss: [[../NPCs/O Predador]] (MM).
 
 ---
 
 ## Epílogo (pós-S10)
 
-Uma cena na superfície: guilda recebe sobreviventes ou falha em acreditar; corpo do instrutor nunca recuperado; rumor do Predador. Detalhar quando a campanha terminar.
+Uma cena na superfície: guilda recebe sobreviventes ou falha em acreditar; corpo do avaliador nunca recuperado; rumor do Predador. Detalhar quando a campanha terminar.
 
 ---
 

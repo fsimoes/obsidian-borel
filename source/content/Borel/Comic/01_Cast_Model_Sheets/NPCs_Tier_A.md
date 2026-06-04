@@ -205,9 +205,9 @@ Tobias Peso Morto, young halfling fighter, spiky messy brown hair freckles stubb
 | Tobias Peso Morto (S1) | sim | [[../../Referencias/npcs/tobias-peso-morto-eq-inicial.png\|jogadores + DM ✓]] |
 | Thaís Carla | sim | pendente |
 | Morgana | sim | pendente |
-| Lucian | sim | pendente |
+| Lucian | sim | [[../../Referencias/Npcs/lucian-eq-inicial.png\|gerado Cap. 3]] |
 | Rita | sim | pendente |
-| Alberto | sim | pendente |
+| Alberto | sim | [[../../Referencias/Npcs/Alberto.png\|gerado]] |
 | Celeste | sim | pendente |
 | Ivan | sim | pendente |
 | Jorge | sim | pendente |

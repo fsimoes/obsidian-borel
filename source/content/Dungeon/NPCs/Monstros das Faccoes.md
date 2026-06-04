@@ -249,7 +249,7 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 - Reflexo falso: cria duplicata ilusória em cristal.
 - Troca indecente: dá informação real por segredo perigoso.
 
-**Barganha:** mostra atalho por refração se receber uma confissão, nome verdadeiro ou memória do instrutor.
+**Barganha:** mostra atalho por refração se receber uma confissão, nome verdadeiro ou memória do avaliador.
 
 ---
 
@@ -307,7 +307,7 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 
 **Facção:** [[Faccoes dos Andares#Andar 2 — Stratum antigo|A Banca Antiga]]
 
-**Papel:** examinador antigo, armadura inteligente e espelho trágico do instrutor.
+**Papel:** examinador antigo, armadura inteligente e espelho trágico do avaliador Prata.
 
 **Base 5e sugerida:** helmed horror, animated armor superior, veteran undead ou knight retematizado.
 
@@ -331,7 +331,7 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 
 **Facção:** nenhuma; ameaça de arco.
 
-**Papel:** caçador recorrente, assassino do instrutor e boss final.
+**Papel:** caçador recorrente, assassino do avaliador Prata e boss final.
 
 **Base 5e sugerida:** [[Cloaker]] com HP máximo, terreno favorável e lacaios leves, ou criatura customizada baseada em emboscada.
 
@@ -342,7 +342,7 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 **Poderes de cena:**
 
 - Manto de sombra: apaga contorno e confunde distância.
-- Marca da turma: prioriza quem carrega selo, sangue ou lembrança do instrutor.
+- Marca da turma: prioriza quem carrega selo, sangue ou lembrança do avaliador.
 - Bloqueio final: fica entre os PJs e a superfície.
 
 **Barganha:** nenhuma confiável. Pode ser distraído, ferido, enganado ou atrasado, mas o arco pede confronto final ou fuga sob risco extremo.

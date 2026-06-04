@@ -224,7 +224,7 @@ Coletores de segredo que espionam todos os viajantes.
 
 - Querem memórias, nomes verdadeiros e culpa.
 - Trocam informação por confissão.
-- Sabem pistas sobre o instrutor e a guilda.
+- Sabem pistas sobre o avaliador e a guilda.
 
 ### Guardiões Prismáticos
 
@@ -281,7 +281,7 @@ Restos de guardiões, armaduras e ecos de avaliadores que ainda executam uma pro
 
 **Monstros típicos:** animated armor, helmed horror, mimics, shadows, specters, veterans undead, armadilhas animadas.
 
-**Boss opcional:** Avaliador Falho, armadura inteligente ou instrutor morto-vivo de uma prova antiga.
+**Boss opcional:** Avaliador Falho, armadura inteligente ou avaliador morto-vivo de uma prova antiga.
 
 **Política:**
 

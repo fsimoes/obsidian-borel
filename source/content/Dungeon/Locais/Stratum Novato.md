@@ -2,9 +2,9 @@
 
 ## Descrição geral
 
-Camada **certificada pela guilda** para primeira descida e usada como **prova de conclusão** dos cadetes. Corredores baixos, alvenaria recente misturada a pedra antiga. O mapa que o instrutor entrega cobre **SN-01 a SN-06**; SN-07 abre só após o tremor (sessão 2).
+Camada **certificada pela guilda** para primeira descida oficial e usada como **exame de Bronze** dos aventureiros registrados. Corredores baixos, alvenaria recente misturada a pedra antiga. O mapa que o avaliador Prata entrega cobre a [[Dungeon da Avaliacao|Dungeon da Avaliacao]], uma prova compacta de **4 quadrantes**; SN-07 abre só após o tremor (sessão 2).
 
-O stratum é, em segredo de DM, uma **fachada de treino** sobre ruínas reais — ver mural em SN-06.
+O stratum é, em segredo de DM, uma **fachada de treino** sobre ruínas reais — ver marcas e pistas em [[Dungeon da Avaliacao]].
 
 ## Referência visual
 
@@ -18,27 +18,27 @@ Protótipo antigo da prova sob o stratum:
 
 ## Salas (mapa guilda)
 
+Versão de mesa recomendada: [[Dungeon da Avaliacao]].
+
 | Código | Nome | Conteúdo |
 |--------|------|----------|
-| SN-01 | Portão de treino | Entrada a partir da [[Antecamara da Guilda]] |
-| SN-02 | Corredor de luz fria | 1º combate fácil (goblins ou ratos gigantes) |
-| SN-03 | Sala das marcas | Armadilha DC 12; marcas de garras **antigas** sob reboco |
-| SN-04 | Câmara do selo | Objetivo: recuperar selo de bronze; hobgoblin + goblins |
-| SN-05 | Bifurcação | Objetivo: mapear; duas rotas (uma falsa leva a armadilha leve) |
-| SN-06 | Recesso do mural | Lore: figuras antigas olhando *para baixo*; diário rasgado |
+| SN-Q1 | Portão e luz fria | Entrada; 1º combate fácil; rota oficial da guilda |
+| SN-Q2 | Sala das marcas | Armadilhas DC 12-13; marcas de garras **antigas** sob reboco |
+| SN-Q3 | Galeria do selo | Puzzle das três virtudes; selo de bronze; baú |
+| SN-Q4 | Arena do avaliador | Boss Large de treino; conclusão da prova |
 | SN-07 | Antecâmara da fenda | **Tremor (S2):** abre para [[Fenda do Tremor]] |
 
 ## Funcionamento (sessões 1–2)
 
 - **Tom:** tranquilo; vitória clara.
-- **Instrutor:** presente como avaliador; pode neutralizar 1 ameaça menor sem resolver a sala inteira.
+- **Avaliador Prata:** presente como juiz da prova; pode neutralizar 1 ameaça menor sem resolver a sala inteira.
 - **Encontros (7 PJs, lvl 5):** fáceis/médios (DMG); budget ×1.5 para todos terem ação.
 - **Nível:** permanece **5** ao fim da sessão 2.
 
 ## Objetivos da prova
 
-1. Recuperar o selo em SN-04.
-2. Mapear bifurcação SN-05.
+1. Recuperar o selo em SN-Q3.
+2. Mapear os 4 quadrantes da [[Dungeon da Avaliacao]].
 3. Demonstrar disciplina, cooperação e leitura de risco.
 4. Retornar ao patamar AN-03 para debrief e avaliação final (antes do tremor).
 
@@ -49,8 +49,8 @@ Protótipo antigo da prova sob o stratum:
 
 ## Mistérios
 
-- Garras antigas em SN-03 — predador já passou aqui?
-- Mural SN-06 — quem construiu o stratum e por quê?
+- Garras antigas em SN-Q2 — predador já passou aqui?
+- Diário e símbolos antigos em SN-Q3 — quem construiu o stratum e por quê?
 
 ## Ligações
 

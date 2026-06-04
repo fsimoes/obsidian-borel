@@ -6,6 +6,46 @@ Tokens circulares para uso em mapas/VTT. Bestiário completo: [[Monstros das Fac
 
 ![[Tokens/_tokens-contact-sheet.png]]
 
+## Dungeon da Avaliacao
+
+### Goblin da Prova
+
+![[Tokens/token-goblin-prova.png]]
+
+### Guardiao de Treino
+
+![[Tokens/token-guardiao-treino.png]]
+
+### Avaliador de Bronze
+
+![[Tokens/token-avaliador-bronze.png]]
+
+### Previa da avaliacao
+
+![[Tokens/_tokens-avaliacao-contact-sheet.png]]
+
+## Armadilhas e objetos da avaliacao
+
+### Placa de Pressao
+
+![[Tokens/token-armadilha-placa-pressao.png]]
+
+### Lamina Revelada
+
+![[Tokens/token-armadilha-lamina-revelada.png]]
+
+### Grade Caida
+
+![[Tokens/token-armadilha-grade-caida.png]]
+
+### Bau / Alavanca
+
+![[Tokens/token-objeto-bau-alavanca.png]]
+
+### Previa das armadilhas
+
+![[Tokens/_tokens-armadilhas-contact-sheet.png]]
+
 ## Andar 10
 
 ### Vigia de Obsidiana

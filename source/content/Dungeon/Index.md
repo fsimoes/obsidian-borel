@@ -4,13 +4,13 @@ title: Primeiro Dive
 
 # Dungeon — Primeiro Dive
 
-Turma de sete cadetes (nível 5) na **primeira descida** oficial da guilda: a prova de conclusão que deveria confirmar se estão prontos para se formar como exploradores reconhecidos. O instrutor veterano não está só guiando: está **avaliando** conduta, tomada de decisão e sobrevivência em equipe. O subsolo é maior e mais cruel que o mapa de treino. Em **dez sessões**, a morte do instrutor, a fuga de um **único predador**, uma queda por um poço sem noção de quantos andares foram vencidos e a subida até uma **saída real** fecham o arco.
+Sete aventureiros atrelados à guilda (nível 5) descem para o **exame de Bronze**: a avaliação oficial que deve confirmar se estão prontos para receber a primeira licença plena da Guilda da Lanterna de Bronze. O avaliador é um aventureiro **Prata**; ele não está só guiando, está julgando conduta, tomada de decisão e sobrevivência em equipe. O subsolo é maior e mais cruel que o mapa de treino. Em **dez sessões**, a morte do avaliador, a fuga de um **único predador**, uma queda por um poço sem noção de quantos andares foram vencidos e a subida até uma **saída real** fecham o arco.
 
 **Sistema:** D&D 5e (RAW). **Mesa:** 7 jogadores. **Níveis:** 5 → 8 (milestone recomendado).
 
 ## Navegação rápida
 
-- [[Sessoes/|Sessões]]
+- [[Sessoes/Index|Sessões]]
 - [[Locais/|Locais]]
 - [[Mapas/|Mapas (visuais)]]
 - [[NPCs/|Personagens]]
@@ -42,19 +42,24 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 ## Locais
 
 - [[Locais/Mapa Mestre do Complexo]] — topologia DM, saídas A/B/C
+- [[Locais/Guilda da Lanterna de Bronze]] — lore da instituição, hierarquia, segredos e ganchos
 - [[Locais/Antecamara da Guilda]]
 - [[Locais/Stratum Novato]]
+- [[Locais/Dungeon da Avaliacao]] — prova da guilda em 4 quadrantes
 - [[Locais/Fenda do Tremor]]
+- [[Mapas/Mapas da Avaliacao Roll20]] — battlemaps da prova para Roll20
 
 ## Personagens
 
 ### NPCs
 
-- [[NPCs/Instrutor]] — mentor; morre na sessão 3
+- [[NPCs/Instrutor]] — avaliador Prata; morre na sessão 3
+- [[NPCs/Atendente da Guilda]] — recepção, registro e rosto humano da guilda
 - [[NPCs/O Predador]] — antagonista único; boss sessão 10
 - [[NPCs/Faccoes dos Andares]] — facções, monstros e política por bioma
 - [[NPCs/Monstros das Faccoes]] — bestiário visual das facções
 - [[NPCs/Tokens dos Monstros]] — tokens circulares para mapa/VTT
+- [[NPCs/Tokens dos Aliados]] — tokens da guilda e aventureiros genéricos
 
 ### Jogadores (7 slots)
 
@@ -63,7 +68,7 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 
 ## Temas
 
-- Prova de conclusão vs realidade
+- Exame de Bronze vs realidade
 - Mapa incompleto vs verdade do complexo
 - Avaliação interrompida por catástrofe
 - Pirâmide invertida — andares maiores e mais selvagens no fundo
@@ -81,9 +86,9 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 
 ## Cronologia
 
-1. Briefing da prova de conclusão e descida no stratum novato (S1–2)
+1. Briefing do exame de Bronze e descida no stratum novato (S1–2)
 2. Tremor abre a fenda (fim S2)
-3. Predador mata o instrutor; fuga desesperada; queda por poço/fenda (S3)
+3. Predador mata o avaliador Prata; fuga desesperada; queda por poço/fenda (S3)
 4. Grupo acorda em um andar desconhecido, sem saber quantos níveis caiu (S4)
 5. Subida por camadas/biomas do complexo; bosses opcionais e facções moldam a rota (S4–8)
 6. Abertura/alcance da rota de saída acima; Predador bloqueia (S9)
@@ -102,4 +107,5 @@ No site publicado, as páginas em `/Dungeon/` podem exigir senha (overlay no nav
 
 ## Sessões registradas
 
-*(Capítulos em `Sessoes/` após cada mesa.)*
+- [[Sessoes/Primeiro Dive - Capitulo 1 - Briefing e primeiro passo]]
+- [[Sessoes/Primeiro Dive - Capitulo 2 - Selo e tremor]]

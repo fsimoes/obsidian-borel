@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+  <defs>
+    <filter id="paperNoise" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="5" seed="17"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.16"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+    <filter id="inkRough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="8" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.4"/>
+    </filter>
+    <style>
+      .paper { fill: #d8c49b; }
+      .edge { fill: none; stroke: #5a3d25; stroke-width: 8; opacity: .78; }
+      .inner { fill: none; stroke: #7d5834; stroke-width: 3; opacity: .72; }
+      .grid { stroke: #8d6a42; stroke-width: 2; opacity: .22; }
+      .room { fill: #efe0ba; stroke: #392516; stroke-width: 7; filter: url(#inkRough); }
+      .room2 { fill: #e8d5aa; stroke: #392516; stroke-width: 7; filter: url(#inkRough); }
+      .passage { fill: none; stroke: #392516; stroke-width: 32; stroke-linecap: round; stroke-linejoin: round; filter: url(#inkRough); }
+      .passageLight { fill: none; stroke: #d7c295; stroke-width: 17; stroke-linecap: round; stroke-linejoin: round; }
+      .seal { fill: none; stroke: #6f2f1e; stroke-width: 5; opacity: .8; }
+      .sealFill { fill: #9d3d29; opacity: .13; }
+      .label { font-family: Georgia, 'Times New Roman', serif; fill: #2b1b10; font-size: 34px; font-weight: 700; letter-spacing: .5px; }
+      .small { font-family: Georgia, 'Times New Roman', serif; fill: #2b1b10; font-size: 25px; font-weight: 600; }
+      .tiny { font-family: Georgia, 'Times New Roman', serif; fill: #3d2717; font-size: 22px; }
+      .micro { font-family: Georgia, 'Times New Roman', serif; fill: #3d2717; font-size: 18px; }
+      .red { fill: #6f2f1e; }
+      .blueInk { fill: #213448; }
+      .note { font-family: Georgia, 'Times New Roman', serif; fill: #3b2818; font-size: 24px; font-style: italic; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="1100" fill="#2a2118"/>
+  <path class="paper" filter="url(#paperNoise)" d="M86 70 C135 42 236 78 314 58 C432 28 506 76 640 58 C791 37 900 60 1025 52 C1146 44 1242 28 1324 70 C1402 110 1500 65 1528 122 C1564 195 1516 284 1538 372 C1562 472 1514 553 1532 660 C1550 769 1506 834 1522 948 C1532 1026 1447 1042 1354 1028 C1215 1008 1118 1045 994 1030 C844 1010 731 1048 605 1026 C461 1001 350 1044 248 1018 C154 994 74 1024 68 934 C61 822 91 746 70 647 C48 543 91 458 66 366 C44 283 84 205 70 132 C66 105 67 86 86 70 Z"/>
+  <path class="edge" d="M100 92 C174 72 233 95 320 76 C443 50 516 92 644 76 C790 58 920 78 1046 70 C1164 62 1246 50 1324 88 C1397 124 1470 88 1492 142 C1520 211 1478 284 1500 374 C1524 470 1478 552 1498 657 C1517 762 1477 843 1488 928 C1496 991 1427 1000 1346 988 C1212 970 1110 1004 986 990 C843 974 729 1010 608 988 C468 964 359 1005 260 980 C174 960 110 980 104 920 C92 812 124 738 104 642 C84 541 122 458 100 370 C78 282 116 204 102 136 C99 118 92 105 100 92 Z"/>
+  <rect x="142" y="122" width="1316" height="842" rx="8" class="inner"/>
+
+  <g opacity=".52">
+    <path class="grid" d="M250 160 V908 M370 160 V908 M490 160 V908 M610 160 V908 M730 160 V908 M850 160 V908 M970 160 V908 M1090 160 V908 M1210 160 V908 M1330 160 V908"/>
+    <path class="grid" d="M180 240 H1420 M180 340 H1420 M180 440 H1420 M180 540 H1420 M180 640 H1420 M180 740 H1420 M180 840 H1420"/>
+  </g>
+
+  <text x="800" y="166" text-anchor="middle" class="label">GUILDA DA LANTERNA DE BRONZE</text>
+  <text x="800" y="205" text-anchor="middle" class="small">MAPA CERTIFICADO - STRATUM NOVATO</text>
+  <text x="800" y="237" text-anchor="middle" class="tiny">Area autorizada para exame de Bronze - grupo de sete aventureiros</text>
+
+  <g id="map" transform="translate(0 5)">
+    <path class="passage" d="M390 780 L390 640 L560 640"/>
+    <path class="passage" d="M680 640 L800 640 L800 500 L935 500"/>
+    <path class="passage" d="M1065 500 L1210 500 L1210 650"/>
+    <path class="passageLight" d="M390 780 L390 640 L560 640"/>
+    <path class="passageLight" d="M680 640 L800 640 L800 500 L935 500"/>
+    <path class="passageLight" d="M1065 500 L1210 500 L1210 650"/>
+
+    <rect x="290" y="760" width="200" height="110" rx="6" class="room2"/>
+    <text x="390" y="817" text-anchor="middle" class="small">AN-01</text>
+    <text x="390" y="847" text-anchor="middle" class="micro">Salao de briefing</text>
+
+    <rect x="290" y="540" width="200" height="130" rx="6" class="room"/>
+    <text x="390" y="608" text-anchor="middle" class="small">AN-03</text>
+    <text x="390" y="638" text-anchor="middle" class="micro">Elevador oficial</text>
+
+    <rect x="540" y="560" width="170" height="160" rx="6" class="room"/>
+    <text x="625" y="631" text-anchor="middle" class="small">SN-Q1</text>
+    <text x="625" y="662" text-anchor="middle" class="micro">Portao e luz fria</text>
+
+    <rect x="930" y="420" width="180" height="160" rx="6" class="room"/>
+    <text x="1020" y="492" text-anchor="middle" class="small">SN-Q2</text>
+    <text x="1020" y="522" text-anchor="middle" class="micro">Sala das marcas</text>
+
+    <rect x="1110" y="640" width="210" height="150" rx="6" class="room"/>
+    <text x="1215" y="707" text-anchor="middle" class="small">SN-Q3</text>
+    <text x="1215" y="737" text-anchor="middle" class="micro">Galeria do selo</text>
+
+    <rect x="835" y="735" width="230" height="150" rx="6" class="room2"/>
+    <text x="950" y="803" text-anchor="middle" class="small">SN-Q4</text>
+    <text x="950" y="833" text-anchor="middle" class="micro">Arena do avaliador</text>
+
+    <path class="passage" d="M1110 715 L1065 810"/>
+    <path class="passageLight" d="M1110 715 L1065 810"/>
+
+  </g>
+
+  <g transform="translate(198 283)">
+    <text x="0" y="0" class="small">LEGENDA</text>
+    <line x1="0" y1="35" x2="86" y2="35" stroke="#392516" stroke-width="16" stroke-linecap="round"/>
+    <line x1="0" y1="35" x2="86" y2="35" stroke="#d7c295" stroke-width="8" stroke-linecap="round"/>
+    <text x="108" y="43" class="tiny">rota certificada</text>
+    <rect x="0" y="70" width="78" height="48" rx="4" fill="#efe0ba" stroke="#392516" stroke-width="5"/>
+    <text x="108" y="103" class="tiny">sala avaliada</text>
+  </g>
+
+  <g transform="translate(1070 258)">
+    <text x="0" y="0" class="small">OBJETIVOS</text>
+    <text x="0" y="38" class="micro">1. Entrar pelo portao de treino.</text>
+    <text x="0" y="70" class="micro">2. Registrar condicoes das salas.</text>
+    <text x="0" y="102" class="micro">3. Recuperar o selo de bronze.</text>
+    <text x="0" y="134" class="micro">4. Retornar para avaliacao.</text>
+  </g>
+
+  <g transform="translate(193 930)">
+    <text x="0" y="0" class="note">Nota de cartografia: areas alem deste mapa nao foram certificadas. Recuar, relatar, aguardar autorizacao.</text>
+  </g>
+
+  <g transform="translate(1235 862) rotate(-8)">
+    <circle cx="90" cy="65" r="75" class="sealFill"/>
+    <circle cx="90" cy="65" r="70" class="seal"/>
+    <circle cx="90" cy="65" r="48" class="seal"/>
+    <path d="M90 22 L106 58 L145 60 L113 83 L124 122 L90 99 L56 122 L67 83 L35 60 L74 58 Z" fill="none" stroke="#6f2f1e" stroke-width="4"/>
+    <text x="90" y="157" text-anchor="middle" class="micro red">VALIDADO</text>
+  </g>
+
+  <text x="800" y="1005" text-anchor="middle" class="micro">Documento interno - nao copiar - mapa parcial entregue no briefing AN-01</text>
+</svg>
