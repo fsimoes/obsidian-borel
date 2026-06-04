@@ -7,7 +7,7 @@ tags:
   - comic/cap-02
 sessao: 2
 fidelity: mesa
-status: roteiro
+status: ready
 target_pages: "10"
 ---
 

@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-02
-status: roteiro
+status: ready
 ---
 
 # Produção — Cap. 2
@@ -19,8 +19,8 @@ Ver [[README#Canon mesa (jun/2026)|README]] — **Dustin** faz blefe da bomba; *
 - [x] Roteiro / painéis / diálogos alinhados à mesa
 - [x] Retrato **Nikov**
 - [x] Refs `refs/01–07` (estilo Dustin + **gola** + 4 PCs + Nikov)
-- [ ] Gerar `001.webp`–`010.webp`
-- [ ] `chapters.json` → `ready`
+- [x] Gerar `001.webp`–`010.webp`
+- [x] `chapters.json` → `ready` · `reader.js` catalog v6
 
 ## Nikov
 

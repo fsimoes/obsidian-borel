@@ -1,7 +1,7 @@
 # Cap. 2 — Sessão 2 — imagens
 
-Colocar `001.webp`–`010.webp` após gerar no ChatGPT.
+**Publicado** — `001.webp`–`010.webp` (jun/2026).
 
 Roteiro: `source/content/Borel/Comic/02_Chapters/cap-02-um-encontro-na-cabana/panels.md`
 
-Não publicar no `chapters.json` até a mesa aprovar as 10 páginas.
+Regenerar uma página: substituir PNG em `pages/`, copiar para esta pasta, `npm run comic:webp -- quartz/static/comic/cap-02-sessao-02`.
