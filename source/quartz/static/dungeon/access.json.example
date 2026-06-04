@@ -1,0 +1,8 @@
+{
+  "title": "Primeiro Dive",
+  "subtitle": "Copie para access.json e defina a senha da mesa.",
+  "access": {
+    "passwordEnabled": true,
+    "password": "sua-senha-aqui"
+  }
+}

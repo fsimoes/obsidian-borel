@@ -474,10 +474,22 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
  * @param index index to fill
  * @param data data to fill index with
  */
+function isDungeonSlug(slug: string) {
+  const normalized = slug.replace(/\\/g, "/").toLowerCase()
+  return normalized.includes("dungeon/")
+}
+
+function hasDungeonSearchAccess() {
+  return sessionStorage.getItem("borel-dungeon-access") === "ok"
+}
+
 async function fillDocument(data: { [key: FullSlug]: ContentDetails }) {
   let id = 0
   const promises: Array<Promise<unknown>> = []
   for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+    if (isDungeonSlug(slug) && !hasDungeonSearchAccess()) {
+      continue
+    }
     promises.push(
       index.addAsync(id++, {
         id,

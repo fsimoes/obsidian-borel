@@ -9,5 +9,7 @@ source/quartz/*
 source/quartz/static/*
 !source/quartz/static/comic/
 !source/quartz/static/comic/**
+!source/quartz/static/dungeon/
+!source/quartz/static/dungeon/**
 source/quartz.lock
 source/quartz.lock

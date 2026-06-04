@@ -96,6 +96,10 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 - Encontros: DMG com party de **7** (budget ×1.5–1.75)
 - Sem house rules do [[../Arena/index|Festival do Sangue]]
 
+## Site Quartz (senha)
+
+No site publicado, as páginas em `/Dungeon/` podem exigir senha (overlay no navegador). Configuração: `source/quartz/static/dungeon/access.json` — ver README na mesma pasta. Isto **não** protege o vault Obsidian local; é só para visitantes do site.
+
 ## Sessões registradas
 
 *(Capítulos em `Sessoes/` após cada mesa.)*
