@@ -1,0 +1,98 @@
+---
+title: Primeiro Dive
+---
+
+# Dungeon — Primeiro Dive
+
+Turma de sete cadetes (nível 5) na **primeira descida** oficial da guilda: a prova de conclusão que deveria confirmar se estão prontos para se formar como exploradores reconhecidos. O instrutor veterano não está só guiando: está **avaliando** conduta, tomada de decisão e sobrevivência em equipe. O subsolo é maior e mais cruel que o mapa de treino. Em **dez sessões**, a morte do instrutor, a fuga de um **único predador**, uma queda por um poço sem noção de quantos andares foram vencidos e a subida até uma **saída real** fecham o arco.
+
+**Sistema:** D&D 5e (RAW). **Mesa:** 7 jogadores. **Níveis:** 5 → 8 (milestone recomendado).
+
+## Navegação rápida
+
+- [[Sessoes/|Sessões]]
+- [[Locais/|Locais]]
+- [[Mapas/|Mapas (visuais)]]
+- [[NPCs/|Personagens]]
+- [[Players/|Jogadores]]
+- [[Plots/|Tramas]]
+- [[Transcricao/|Transcrição]]
+
+## Calendário (10 sessões)
+
+| # | Tom | Título provisório |
+|---|-----|-------------------|
+| 1 | Leve | Briefing e primeiro passo |
+| 2 | Leve | Selo e tremor |
+| 3 | Choque | O predador e a queda |
+| 4 | Tenso | O andar desconhecido |
+| 5 | Brutal | Subida — primeiro marco |
+| 6 | Brutal | Subida sob perseguição |
+| 7 | Brutal | O segundo encontro |
+| 8 | Desespero | Perto da superfície |
+| 9 | Corrida | A saída acima |
+| 10 | Clímax | O Véu e a fuga |
+
+Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
+
+## Tramas
+
+- [[Plots/Primeiro Dive]] — visão geral, regras, milestones, morte de PJ
+
+## Locais
+
+- [[Locais/Mapa Mestre do Complexo]] — topologia DM, saídas A/B/C
+- [[Locais/Antecamara da Guilda]]
+- [[Locais/Stratum Novato]]
+- [[Locais/Fenda do Tremor]]
+
+## Personagens
+
+### NPCs
+
+- [[NPCs/Instrutor]] — mentor; morre na sessão 3
+- [[NPCs/O Predador]] — antagonista único; boss sessão 10
+
+### Jogadores (7 slots)
+
+- *(a preencher)* — ver [[Players/]]
+- Política de morte/substituição: [[Plots/Primeiro Dive#Morte de personagens]]
+
+## Temas
+
+- Prova de conclusão vs realidade
+- Mapa incompleto vs verdade do complexo
+- Avaliação interrompida por catástrofe
+- Pirâmide invertida — andares maiores e mais selvagens no fundo
+- Bosses locais opcionais, nunca chaves obrigatórias
+- Facções de monstros em conflito a partir dos andares médios
+- Predação — **o mesmo monstro do início**
+- Subida — a saída existe, mas está muitos andares acima
+
+## Mistérios (para os jogadores)
+
+- O que é o Predador e por que marcou **esta** turma?
+- Quantos andares eles caíram?
+- A guilda sabia que a prova ficava sobre algo muito maior?
+- Qual rota sobe de volta para a superfície? (o DM conhece as saídas no [[Locais/Mapa Mestre do Complexo]])
+
+## Cronologia
+
+1. Briefing da prova de conclusão e descida no stratum novato (S1–2)
+2. Tremor abre a fenda (fim S2)
+3. Predador mata o instrutor; fuga desesperada; queda por poço/fenda (S3)
+4. Grupo acorda em um andar desconhecido, sem saber quantos níveis caiu (S4)
+5. Subida por camadas/biomas do complexo; bosses opcionais e facções moldam a rota (S4–8)
+6. Abertura/alcance da rota de saída acima; Predador bloqueia (S9)
+7. Boss final = Predador da S3; escape pela superfície (S10)
+
+## Regras de mesa (resumo)
+
+- PHB/DMG/MM; milestone **ou** XP (sessão zero)
+- Descanso longo: PHB; santuários = ficção
+- Encontros: DMG com party de **7** (budget ×1.5–1.75)
+- Sem house rules do [[../Arena/index|Festival do Sangue]]
+
+## Sessões registradas
+
+*(Capítulos em `Sessoes/` após cada mesa.)*
