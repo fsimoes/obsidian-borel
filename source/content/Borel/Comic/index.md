@@ -13,7 +13,7 @@ Quadrinho digital **só para a mesa**: páginas numeradas em site privado (sem P
 
 **Entrega:** imagens em `source/quartz/static/comic/cap-XX/001.webp` … + leitor em `/comic/` (cópia pós-build) ou `/static/comic/`.
 
-**Leitor:** [[Leitor-Web|/comic/]] · **Cap. 0** [[02_Chapters/cap-00-elenco/README|Elenco]] (10 pág.) · **Cap. 1** [[02_Chapters/cap-01-negociacoes-frustradas/README|piloto]] (20 pág.)
+**Leitor:** [[Leitor-Web|/comic/]] · **Cap. 0** [[02_Chapters/cap-00-elenco/README|Elenco]] (10 pág.) · **Cap. 1** [[02_Chapters/cap-01-negociacoes-frustradas/README|piloto]] · **Cap. 2** [[02_Chapters/cap-02-um-encontro-na-cabana/README|cabana]] · **Cap. 3** [[02_Chapters/cap-03-entre-dados-e-desconfiancas/README|Rilonde]]
 
 ---
 
@@ -202,7 +202,8 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 |-----|--------|------------------------|
 | **1** | **1** | **PILOTO** · [[02_Chapters/cap-01-negociacoes-frustradas/README\|cap-01]] · **Lord Bart** `noble` (pré-res; carregado), Nightwolf, Dustin · Tobias · sem Tony |
 | **2** | **2** | [[02_Chapters/cap-02-um-encontro-na-cabana/README\|cap-02]] · cabana, Tony, Nikov, mortes Bart+Nikov |
-| 3–9 | 3–9 | Capítulo + Transcrições |
+| **3** | **3** | [[02_Chapters/cap-03-entre-dados-e-desconfiancas/README\|cap-03]] · Rilonde, Alberto, baú, Bartrock, dados |
+| 4–9 | 4–9 | Capítulo + Transcrições |
 
 - [ ] Publicar caps 1–9 no site (uma pasta + linha no `chapters.json` por capítulo)
 

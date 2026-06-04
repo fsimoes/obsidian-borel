@@ -35,6 +35,16 @@
       "cover": null,
       "fidelity": "mesa",
       "status": "ready"
+    },
+    {
+      "id": "cap-03-sessao-03",
+      "title": "Cap. 3 — Entre Dados e Desconfianças",
+      "session": 3,
+      "pageCount": 20,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "mesa",
+      "status": "ready"
     }
   ]
 }

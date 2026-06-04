@@ -1,0 +1,35 @@
+---
+title: "Produção - Cap. 3"
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-03
+status: ready
+---
+
+# Produção - Cap. 3
+
+## Canon mesa documentado
+
+Ver [[README#Canon mesa (jun/2026)|README]].
+
+## Checklist
+
+- [x] Roteiro / painéis / diálogos (20 páginas)
+- [x] Refs e concepts NPCs
+- [x] `001.webp`–`020.webp` em [[pages/README|pages]]
+- [x] Leitor: `cap-03-sessao-03/` · `chapters.json` → `ready` · catalog v7
+
+## Regra de produção
+
+Ver [[panels#Regra de elenco|elenco por página]] — uma página = um foco dramático.
+
+## Cenas difíceis (referência)
+
+| Pág. | Nota |
+|------|------|
+| 13 | Baú — olhos vivos, sem corpo completo |
+| 16–20 | Nightwolf = elfo drow masculino, arco |
+| 17 | Bartrock pós-ressurreição, sem máscara |
+| 19 | Flecha sem gore explícito |
