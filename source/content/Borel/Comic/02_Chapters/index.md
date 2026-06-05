@@ -15,7 +15,8 @@ tags:
 | **cap-02** | 2 | **ready** | [[cap-02-um-encontro-na-cabana/README\|cap-02]] Â· [[cap-02-um-encontro-na-cabana/pages\|pages]] | `cap-02-sessao-02/` |
 | **cap-03** | 3 | **ready** | [[cap-03-entre-dados-e-desconfiancas/README\|cap-03]] Â· [[cap-03-entre-dados-e-desconfiancas/pages\|pages]] | `cap-03-sessao-03/` |
 | **cap-04** | 4 | **ready** | [[cap-04-noite-na-cidade/README\|cap-04]] · [[cap-04-noite-na-cidade/pages\|pages]] · [[cap-04-noite-na-cidade/review\|review]] | 16 páginas geradas; lettering leve da pág. 05 aceito |
-| cap-05...09 | 5-9 | Vol. 1 | - | - |
+| **cap-05** | 5 | **ready** | [[cap-05-entre-rastros-risadas-e-revelacoes/README\|cap-05]] · [[cap-05-entre-rastros-risadas-e-revelacoes/pages\|pages]] | `cap-05-sessao-05/` |
+| cap-06...09 | 6-9 | Vol. 1 | - | - |
 
 Ãndice geral: [[../index|Comic/index]].
 

@@ -105,6 +105,7 @@ Emmergard representa um ponto de virada na narrativa, onde as ações brutais de
 - Demonstrou a complexidade das lealdades durante a revolução
 
 ## Características Pessoais
+- **Visual canonico para o quadrinho**: mulher loira, de aparencia germanica/alema, forte e compacta, com roupa pratica de guerreira/mercenaria; nao usar cabelo ruivo, castanho ou preto.
 - Resiliente face à adversidade
 - Leal aos aliados
 - Corajosa durante o cerco

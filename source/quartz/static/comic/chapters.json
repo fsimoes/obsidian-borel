@@ -55,6 +55,16 @@
       "cover": null,
       "fidelity": "mesa",
       "status": "ready"
+    },
+    {
+      "id": "cap-05-sessao-05",
+      "title": "Cap. 5 — Entre Rastros, Risadas e Revelações",
+      "session": 5,
+      "pageCount": 20,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
     }
   ]
 }
