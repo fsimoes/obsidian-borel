@@ -17,7 +17,7 @@ Status atual: `ready`.
 
 Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem aprovada em `review.md`. Paginas finais geradas e revisadas.
 
-- [x] Leitor: `cap-05-sessao-05/` · `chapters.json` → `ready` · catalog v8
+- [x] Leitor: `cap-05-sessao-05/` · `chapters.json` → `ready` · catalog v9 (correcao ordem pags. 006/007)
 
 ## Fila de Geracao
 

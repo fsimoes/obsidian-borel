@@ -102,6 +102,10 @@ Executada em 2026-06-04 apos geracao de `pages/001.webp` a `pages/020.webp`.
 - Paginas regeneradas por correcao canonica: `002`, `006`, `007`, `010`, `013`, `014`.
 - PNGs regenerados foram convertidos para WebP finais mantendo nomes sequenciais.
 
+## Correcao de ordem (2026-06-05)
+
+As artes de **galpao** e **taverna** tinham sido salvas com numeros trocados (`006` = taverna, `007` = galpao). Arquivos renomeados para alinhar com `panels.md` e `script.md` (006 galpao, 007 Amagard). Leitor: `cap-05-sessao-05/` sincronizado; catalog **v9**.
+
 ## Validacao Tecnica Final
 
 - Arquivos WebP em `pages/`: 20.
