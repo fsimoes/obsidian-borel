@@ -25,7 +25,7 @@ target_pages: 16
 
 | NPC | Papel na cena | Fonte | Aparência / equipamento | Atitude | Refs visuais | Nova ref? | Notas |
 |---|---|---|---|---|---|---|---|
-| Emmergard | Chega como ajuda enviada por Alberto, fica na carroça | Sessão 4; transcrição 0:16-0:17; `NPCs/Emmergard.md`; correção do DM/usuário: ruiva, guerreira forte, mais arredondada e amigável | Guerreira/taberneira ruiva, corpo arredondado e forte, tronco compacto, braços de trabalho, roupa funcional, maça/martelo, avental ou couro; evitar leitura voluptuosa | Direta, prática, difícil de ler | `refs/emmergard-eq-inicial.png` | Não | Importante para este e capítulos futuros; cabelo ruivo, silhueta arredondada/forte e ar amigável são obrigatórios. |
+| Emmergard | Chega como ajuda enviada por Alberto, fica na carroça | Sessão 4; transcrição 0:16-0:17; `NPCs/Emmergard.md`; correção canon do usuário: guerreira loira de aparência germânica/alemã | Guerreira/taberneira loira, forte e compacta, ombros largos, braços musculosos, roupa funcional verde/couro, capa vinho, maça pesada; evitar leitura voluptuosa | Direta, prática, difícil de ler | `refs/emmergard-eq-inicial.png` | Não | Importante para este e capítulos futuros; cabelo loiro, aparência germânica, silhueta forte/compacta e ar amigável são obrigatórios. |
 | Alberto Eder | Citado como empregador; pode aparecer em recapitulação/mapa | Sessões 3-4; `NPCs/Alberto.md` | Comerciante rico, roupas burguesas | Ausente, influência por contrato | `Referencias/Npcs/Alberto.png` | Não | Não precisa aparecer em página final salvo recap. |
 
 ## NPCs Neutros / Suspeitos

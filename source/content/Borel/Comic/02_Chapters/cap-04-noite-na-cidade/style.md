@@ -30,7 +30,7 @@ Usar o Style Bible geral: European fantasy graphic novel, detailed digital illus
 - Bartrock: `Referencias/pcs/bartrock-normal-eq-inicial.png`.
 - Lucian: `Referencias/Npcs/lucian-eq-inicial.png`.
 - Alberto: `Referencias/Npcs/Alberto.png` se aparecer.
-- Emmergard: `refs/emmergard-eq-inicial.png`, guerreira/taberneira ruiva, forte, arredondada e amigável; cabelo ruivo e silhueta compacta/arredondada obrigatórios, sem leitura voluptuosa.
+- Emmergard: `refs/emmergard-eq-inicial.png`, guerreira/taberneira loira de aparência germânica/alemã, forte, compacta e amigável; cabelo loiro, maça pesada e silhueta forte/compacta obrigatórios, sem leitura voluptuosa.
 - Criatura lupina: `needs-ref`, usar `enemy-concepts.md`.
 - Celeste: silhueta apenas, sem rosto completo.
 

@@ -30,7 +30,7 @@ status: ready-for-image-generation
 
 | Arquivo | Uso |
 |---|---|
-| `emmergard-eq-inicial.png` | Emmergard ruiva, forte, arredondada, compacta e amigável em páginas 02, 05, 11, 15, 16 |
+| `emmergard-eq-inicial.png` | Emmergard/Amagard loira, aparência germânica/alemã, forte, compacta e amigável em páginas 02, 11, 15, 16 |
 | `criatura-lupina-celeste.png` | Criatura lupina em páginas 08-13 |
 
 ## Não Usar

@@ -58,7 +58,7 @@ Data: 2026-06-04.
 - Nightwolf recebeu regra explícita contra forma licantropo neste capítulo.
 - Bartrock recebeu regra explícita para variante `normal`/`ressuscitado`.
 - Falas ruidosas da transcrição foram condensadas e marcadas como adaptação.
-- Emmergard foi corrigida para cabelo ruivo, ar mais amigável e corpo mais arredondado/compacto, menos voluptuoso, sem pin-up/glamour. A versão ajustada foi salva em `refs/emmergard-eq-inicial.png`.
+- Emmergard foi corrigida definitivamente para a referência aprovada pelo usuário: guerreira/taberneira loira de aparência germânica/alemã, forte, compacta, amigável, com maça pesada. A versão ajustada foi salva em `refs/emmergard-eq-inicial.png`.
 
 ## Aprovação
 
@@ -73,7 +73,7 @@ Executada em 2026-06-04 após geração de `pages/001.webp` a `pages/016.webp`.
 | Página | Status | Achados | Ação |
 |---|---|---|---|
 | 001 | OK | Abertura de Rilonde, título, grupo e mapa corretos. | Nenhuma. |
-| 002 | OK | Emmergard ruiva, forte, arredondada/compacta e amigável; falas corretas. | Nenhuma. |
+| 002 | OK | Regenerada: Emmergard loira/germânica, forte, compacta e amigável; falas corretas. | Substituída. |
 | 003 | OK | Mercado/forja, escudo com leão e falas de Tony corretas. | Nenhuma. |
 | 004 | OK | Katana antiga e memória visual de Kaelion corretas. | Nenhuma. |
 | 005 | OK | Cena e ordem corretas; Nightwolf humanoide. Lettering perdeu diacríticos em `carroça`/`começa`, aceito como ajuste leve. | Nenhuma. |
@@ -82,18 +82,18 @@ Executada em 2026-06-04 após geração de `pages/001.webp` a `pages/016.webp`.
 | 008 | OK | Criatura distinta de Nightwolf, sem arco/capa/aljava. | Nenhuma. |
 | 009 | OK | Telha falsa, queda e criatura no telhado corretas. | Nenhuma. |
 | 010 | OK | Flecha de sinal e reação de Dustin/Bartrock corretas. | Nenhuma. |
-| 011 | OK | Tony escolhe sair; Bartrock/Emmergard ficam na carroça; Emmergard consistente. | Nenhuma. |
+| 011 | OK | Regenerada: Tony escolhe sair; Bartrock/Emmergard ficam na carroça; Emmergard loira/germânica consistente. | Substituída. |
 | 012 | OK | Garras, sangue moderado, luz roxa e feiticeira em silhueta corretos. | Nenhuma. |
 | 013 | OK | Memória embaralhada e aura roxa corretas; sem revelação indevida. | Nenhuma. |
 | 014 | OK | Regenerada; Dustin claramente fala "O que aconteceu aqui?". | Substituída por versão corrigida. |
-| 015 | OK | Retorno à carroça intacta, grupo e Emmergard consistentes. | Nenhuma. |
-| 016 | OK | Detect Magic, aura roxa e gancho final corretos. | Nenhuma. |
+| 015 | OK | Regenerada: retorno à carroça intacta, grupo e Emmergard loira/germânica consistentes. | Substituída. |
+| 016 | OK | Regenerada: Detect Magic, aura roxa, gancho final e Emmergard loira/germânica corretos. | Substituída. |
 
 ## Validação Técnica Final
 
 - Arquivos em `pages/`: 16.
 - Sequência: `001.webp` a `016.webp`.
 - Formato: WebP.
-- Regenerações feitas: página 14.
+- Regenerações feitas: páginas 14, 002, 011, 015 e 016 (Emmergard loira/germânica em 002, 011, 015, 016).
 - Pendência final: nenhuma bloqueante; diacríticos ausentes na página 05 aceitos como ajuste leve.
 - Status final: `ready`.

@@ -81,5 +81,14 @@ Executado em 2026-06-04.
 
 | Ref | Caminho | Revisão |
 |---|---|---|
-| Emmergard | `refs/emmergard-eq-inicial.png` | OK após correções: guerreira/taberneira ruiva, forte, mais arredondada/compacta, maça, roupa fechada funcional, paleta couro/vinho/verde, expressão amigável, sem texto. Versões anteriores de cabelo escuro, magra, sisuda e/ou voluptuosa foram substituídas. |
+| Emmergard | `refs/emmergard-eq-inicial.png` | OK após correção canon: guerreira/taberneira loira de aparência germânica/alemã, forte, compacta, maça pesada, roupa funcional verde/couro/vinho, expressão amigável, sem texto. Versões anteriores ruivas foram substituídas. |
 | Criatura lupina | `refs/criatura-lupina-celeste.png` | OK: lobo humanoide grande, braços longos, olhos vermelhos, sem itens de Nightwolf. |
+
+## Atualização Canon Emmergard
+
+Executada em 2026-06-05 após referência aprovada pelo usuário:
+
+- Ref `refs/emmergard-eq-inicial.png` substituída pela versão loira/germânica.
+- Páginas regeneradas para remover Emmergard ruiva: `002.webp`, `011.webp`, `015.webp`, `016.webp`.
+- Cap. 5 já seguia essa referência; Cap. 4 agora foi alinhado.
+- Leitor: `cap-04-sessao-04/` sincronizado; catalog **v10**.
