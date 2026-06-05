@@ -45,6 +45,16 @@
       "cover": null,
       "fidelity": "mesa",
       "status": "ready"
+    },
+    {
+      "id": "cap-04-sessao-04",
+      "title": "Cap. 4 — Noite na Cidade",
+      "session": 4,
+      "pageCount": 16,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "mesa",
+      "status": "ready"
     }
   ]
 }
