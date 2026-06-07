@@ -62,4 +62,4 @@ Inimigos: Celeste, Lucian como opositor humano, lobos/criaturas lupinas controla
 
 ## Status
 
-`ready`: 20 paginas finais foram geradas e salvas em `pages/001.webp` a `pages/020.webp`. Revisao pos-imagem aprovada com ajuste canonico aplicado: Emmergard/Amagard foi corrigida para loira/germanica, e as paginas 002, 006, 007, 010, 013 e 014 foram regeneradas.
+`ready`: capa `pages/000-cover.webp` e 20 paginas finais foram geradas e salvas em `pages/001.webp` a `pages/020.webp`. Revisao pos-imagem aprovada com ajuste canonico aplicado: Emmergard/Amagard foi corrigida para loira/germanica, e as paginas 002, 006, 007, 010, 013 e 014 foram regeneradas.

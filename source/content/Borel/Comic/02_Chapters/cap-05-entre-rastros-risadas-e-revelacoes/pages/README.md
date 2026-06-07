@@ -11,7 +11,7 @@ target_pages: 20
 
 # Pages - Cap. 5
 
-Gerado: `001.webp` a `020.webp`, uma imagem final por pagina, conforme `../panels.md`.
+Gerado: `000-cover.webp` como capa e `001.webp` a `020.webp`, uma imagem final por pagina, conforme `../panels.md`.
 
 Status atual: `ready`.
 

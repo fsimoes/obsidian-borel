@@ -1,5 +1,5 @@
-/** Bump when chapters.json changes so browsers refetch the catalog. */
-const CATALOG_VERSION = "10"
+﻿/** Bump when chapters.json changes so browsers refetch the catalog. */
+const CATALOG_VERSION = "12"
 const CONFIG_URL = `chapters.json?v=${CATALOG_VERSION}`
 const STORAGE_KEY = "borel-comic-access"
 
@@ -25,7 +25,25 @@ function chapterFolder(chapter) {
 
 function chapterBounds(chapter) {
   const start = chapter.startPage || 1
-  return { start, end: start + chapter.pageCount - 1 }
+  const extraCover = chapter.cover ? 1 : 0
+  return { start, end: start + chapter.pageCount + extraCover - 1 }
+}
+
+function displayPageNumber(chapter, page) {
+  const start = chapter.startPage || 1
+  if (chapter.cover && page === start) return 0
+  return chapter.cover ? page - 1 : page
+}
+
+function displayPageCount(chapter) {
+  return chapter.pageCount + (chapter.cover ? 1 : 0)
+}
+
+function displayPageLabel(chapter, page) {
+  const start = chapter.startPage || 1
+  if (chapter.cover && page === start) return "Capa"
+  const displayNum = displayPageNumber(chapter, page)
+  return `Página ${displayNum} de ${chapter.pageCount}`
 }
 
 function chapterIndex(config, id) {
@@ -79,13 +97,13 @@ function showGate(config) {
 
 async function loadCatalog() {
   const res = await fetch(CONFIG_URL, { cache: "no-store" })
-  if (!res.ok) throw new Error("Não foi possível carregar chapters.json")
+  if (!res.ok) throw new Error("NÃ£o foi possÃ­vel carregar chapters.json")
   return res.json()
 }
 
 function statusLabel(status) {
   const map = {
-    "arte-em-producao": "Arte em produção",
+    "arte-em-producao": "Arte em produÃ§Ã£o",
     roteiro: "Roteiro",
     ready: "Pronto",
     draft: "Rascunho",
@@ -96,7 +114,7 @@ function statusLabel(status) {
 function renderHome(config) {
   $("view-home").classList.remove("hidden")
   $("view-reader").classList.add("hidden")
-  document.title = config.title + " — Quadrinho"
+  document.title = config.title + " â€” Quadrinho"
   $("site-title").textContent = config.title
   $("site-subtitle").textContent = config.subtitle
 
@@ -107,8 +125,9 @@ function renderHome(config) {
     const a = document.createElement("a")
     a.href = `?cap=${encodeURIComponent(ch.id)}&p=${ch.startPage || 1}`
     const badgeClass = ch.status === "ready" ? "badge ready" : "badge"
+    const imageCount = displayPageCount(ch)
     a.innerHTML = `<strong>${ch.title}</strong><span class="${badgeClass}">${statusLabel(ch.status)}</span>
-      <div class="meta">Sessão ${ch.session} · ${ch.pageCount} páginas</div>`
+      <div class="meta">SessÃ£o ${ch.session} Â· ${imageCount} imagens</div>`
     li.appendChild(a)
     ul.appendChild(li)
   }
@@ -161,35 +180,35 @@ function updateNavButtons(config, chapter, page) {
 
   if (onFirstPage && !prevCh) {
     btnPrev.disabled = true
-    btnPrev.textContent = "← Anterior"
-    btnPrev.title = "Página anterior"
+    btnPrev.textContent = "â† Anterior"
+    btnPrev.title = "PÃ¡gina anterior"
   } else if (onFirstPage && prevCh) {
     btnPrev.disabled = false
-    btnPrev.textContent = "← Cap. anterior"
-    btnPrev.title = `Última página: ${prevCh.title}`
+    btnPrev.textContent = "â† Cap. anterior"
+    btnPrev.title = `Ãšltima pÃ¡gina: ${prevCh.title}`
   } else {
     btnPrev.disabled = false
-    btnPrev.textContent = "← Anterior"
-    btnPrev.title = "Página anterior"
+    btnPrev.textContent = "â† Anterior"
+    btnPrev.title = "PÃ¡gina anterior"
   }
 
   if (onLastPage && nextCh) {
     btnNext.disabled = false
-    btnNext.textContent = "Próximo capítulo →"
-    btnNext.title = `Começar: ${nextCh.title}`
+    btnNext.textContent = "PrÃ³ximo capÃ­tulo â†’"
+    btnNext.title = `ComeÃ§ar: ${nextCh.title}`
     btnNext.classList.add("primary")
     endNav.classList.remove("hidden")
-    btnNextChapter.textContent = `Continuar: ${nextCh.title} →`
+    btnNextChapter.textContent = `Continuar: ${nextCh.title} â†’`
     btnNextChapter.onclick = () => goToPage(config, nextCh, nextCh.startPage || 1)
   } else if (onLastPage && !nextCh) {
     btnNext.disabled = true
     btnNext.textContent = "Fim"
-    btnNext.title = "Último capítulo publicado"
+    btnNext.title = "Ãšltimo capÃ­tulo publicado"
     endNav.classList.add("hidden")
   } else {
     btnNext.disabled = false
-    btnNext.textContent = "Próxima →"
-    btnNext.title = "Próxima página"
+    btnNext.textContent = "PrÃ³xima â†’"
+    btnNext.title = "PrÃ³xima pÃ¡gina"
     endNav.classList.add("hidden")
   }
 }
@@ -197,7 +216,7 @@ function updateNavButtons(config, chapter, page) {
 function renderReader(config, chapter, page) {
   $("view-home").classList.add("hidden")
   $("view-reader").classList.remove("hidden")
-  document.title = `${chapter.title} — p. ${page}`
+  document.title = `${chapter.title} â€” p. ${page}`
 
   const select = $("chapter-select")
   select.innerHTML = ""
@@ -217,21 +236,22 @@ function renderReader(config, chapter, page) {
   const { start, end } = chapterBounds(chapter)
   page = Math.min(Math.max(page, start), end)
 
-  $("page-indicator").textContent = `Página ${page - start + 1} de ${chapter.pageCount}`
+  $("page-indicator").textContent = displayPageLabel(chapter, page)
   updateNavButtons(config, chapter, page)
 
   const img = $("page-image")
   const ph = $("page-placeholder")
   const folder = chapterFolder(chapter)
-  const candidates = pageCandidates(page)
+  const displayNum = displayPageNumber(chapter, page)
+  const candidates = displayNum === 0 ? [chapter.cover] : pageCandidates(displayNum)
   img.classList.add("hidden")
   ph.classList.add("hidden")
   img.removeAttribute("src")
-  img.alt = `${chapter.title}, página ${page}`
+  img.alt = displayNum === 0 ? `${chapter.title}, capa` : `${chapter.title}, pÃ¡gina ${displayNum}`
 
   function showMissing() {
     ph.classList.remove("hidden")
-    ph.innerHTML = `<strong>Página ${page - start + 1} ainda não publicada</strong>
+    ph.innerHTML = `<strong>${displayPageLabel(chapter, page)} ainda nÃ£o publicada</strong>
       Coloque <code>${candidates.join("</code>, <code>")}</code> em <code>quartz/static/comic/${chapter.id}/</code> e rode o build de novo.`
   }
 
@@ -315,3 +335,5 @@ async function main() {
 }
 
 main()
+
+

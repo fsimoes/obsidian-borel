@@ -101,6 +101,7 @@ Executada em 2026-06-04 apos geracao de `pages/001.webp` a `pages/020.webp`.
 - Nova ref local: `refs/emmergard-eq-inicial.png`, corrigida para loira/germanica.
 - Paginas regeneradas por correcao canonica: `002`, `006`, `007`, `010`, `013`, `014`.
 - PNGs regenerados foram convertidos para WebP finais mantendo nomes sequenciais.
+- Capa adicionada: `pages/000-cover.webp`.
 
 ## Correcao de ordem (2026-06-05)
 
@@ -108,7 +109,7 @@ As artes de **galpao** e **taverna** tinham sido salvas com numeros trocados (`0
 
 ## Validacao Tecnica Final
 
-- Arquivos WebP em `pages/`: 20.
+- Arquivos WebP em `pages/`: 21 no total, sendo `000-cover.webp` + 20 paginas sequenciais.
 - Sequencia: `001.webp` a `020.webp`.
 - Formato final: WebP.
 - PNG intermediario: removido antes do commit; entrega final em WebP.

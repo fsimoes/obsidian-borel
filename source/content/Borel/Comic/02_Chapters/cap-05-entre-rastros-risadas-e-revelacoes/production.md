@@ -22,7 +22,7 @@ Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem apro
 ## Fila de Geracao
 
 1. Refs criadas/copidas para `refs/`: concluido.
-2. Paginas finais `pages/001.webp` a `pages/020.webp`: concluido.
+2. Capa `pages/000-cover.webp` e paginas finais `pages/001.webp` a `pages/020.webp`: concluido.
 3. Revisao pos-imagem: concluida.
 4. Regeneracoes feitas por correcao canonica de Emmergard loira: paginas 002, 006, 007, 010, 013 e 014.
 
@@ -43,7 +43,7 @@ Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem apro
 
 ## Validacao Tecnica Final
 
-- `pages/` contem exatamente 20 WebP finais.
+- `pages/` contem a capa `000-cover.webp` e exatamente 20 WebP finais de pagina.
 - Nomes: `001.webp` a `020.webp`.
 - PNGs intermediarios removidos antes do commit; entrega final em WebP.
 - Folha de contato: `pages/_review_contact_sheet.jpg`.

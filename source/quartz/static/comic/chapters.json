@@ -1,70 +1,90 @@
-{
-  "title": "O Legado de Rilonde",
-  "subtitle": "Quadrinho da mesa — material privado",
-  "access": {
-    "passwordEnabled": false,
-    "password": ""
-  },
-  "chapters": [
-    {
-      "id": "cap-00-elenco",
-      "title": "Cap. 0 — Elenco",
-      "session": 0,
-      "pageCount": 10,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "retratos",
-      "status": "ready"
-    },
-    {
-      "id": "cap-01-sessao-01",
-      "title": "Cap. 1 — Negociações Frustradas",
-      "session": 1,
-      "pageCount": 10,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "reconstructed",
-      "status": "ready"
-    },
-    {
-      "id": "cap-02-sessao-02",
-      "title": "Cap. 2 — Um Encontro na Cabana",
-      "session": 2,
-      "pageCount": 10,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "mesa",
-      "status": "ready"
-    },
-    {
-      "id": "cap-03-sessao-03",
-      "title": "Cap. 3 — Entre Dados e Desconfianças",
-      "session": 3,
-      "pageCount": 20,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "mesa",
-      "status": "ready"
-    },
-    {
-      "id": "cap-04-sessao-04",
-      "title": "Cap. 4 — Noite na Cidade",
-      "session": 4,
-      "pageCount": 16,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "mesa",
-      "status": "ready"
-    },
-    {
-      "id": "cap-05-sessao-05",
-      "title": "Cap. 5 — Entre Rastros, Risadas e Revelações",
-      "session": 5,
-      "pageCount": 20,
-      "startPage": 1,
-      "cover": null,
-      "fidelity": "documented",
-      "status": "ready"
-    }
-  ]
+﻿{
+    "title":  "O Legado de Rilonde",
+    "subtitle":  "Quadrinho da mesa â€” material privado",
+    "access":  {
+                   "passwordEnabled":  false,
+                   "password":  ""
+               },
+    "chapters":  [
+                     {
+                         "id":  "cap-00-elenco",
+                         "title":  "Cap. 0 â€” Elenco",
+                         "session":  0,
+                         "pageCount":  10,
+                         "startPage":  1,
+                         "cover":  null,
+                         "fidelity":  "retratos",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-01-sessao-01",
+                         "title":  "Cap. 1 â€” NegociaÃ§Ãµes Frustradas",
+                         "session":  1,
+                         "pageCount":  10,
+                         "startPage":  1,
+                         "cover":  null,
+                         "fidelity":  "reconstructed",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-02-sessao-02",
+                         "title":  "Cap. 2 â€” Um Encontro na Cabana",
+                         "session":  2,
+                         "pageCount":  10,
+                         "startPage":  1,
+                         "cover":  null,
+                         "fidelity":  "mesa",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-03-sessao-03",
+                         "title":  "Cap. 3 â€” Entre Dados e DesconfianÃ§as",
+                         "session":  3,
+                         "pageCount":  20,
+                         "startPage":  1,
+                         "cover":  null,
+                         "fidelity":  "mesa",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-04-sessao-04",
+                         "title":  "Cap. 4 â€” Noite na Cidade",
+                         "session":  4,
+                         "pageCount":  16,
+                         "startPage":  1,
+                         "cover":  null,
+                         "fidelity":  "mesa",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-05-sessao-05",
+                         "title":  "Cap. 5 â€” Entre Rastros, Risadas e RevelaÃ§Ãµes",
+                         "session":  5,
+                         "pageCount":  20,
+                         "startPage":  1,
+                         "cover":  "000-cover.webp",
+                         "fidelity":  "documented",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-06-sessao-06",
+                         "title":  "Cap. 6 â€” InvestigaÃ§Ãµes e RevelaÃ§Ãµes",
+                         "session":  6,
+                         "pageCount":  16,
+                         "startPage":  1,
+                         "cover":  "000-cover.webp",
+                         "fidelity":  "documented",
+                         "status":  "ready"
+                     },
+                     {
+                         "id":  "cap-07-sessao-07",
+                         "title":  "Cap. 7 — A Carroca Misteriosa",
+                         "session":  7,
+                         "pageCount":  18,
+                         "startPage":  1,
+                         "cover":  "000-cover.webp",
+                         "fidelity":  "documented",
+                         "status":  "ready"
+                     }
+                 ]
 }
