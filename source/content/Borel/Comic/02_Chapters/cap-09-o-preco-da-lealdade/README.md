@@ -7,7 +7,7 @@ tags:
   - comic/cap-09
 sessao: 9
 fidelity: documented
-status: ready-for-image-generation
+status: pages-generated
 target_pages: 16
 ---
 
@@ -55,4 +55,4 @@ Inimigos: sem monstros; Rita/Kaelion sao antagonismo dramatico final.
 
 ## Status
 
-`ready-for-image-generation`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e paginas finais ainda nao foram geradas; leitor web nao atualizado.
+`pages-generated`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e paginas finais geradas em `pages/`; leitor web ainda nao atualizado.

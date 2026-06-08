@@ -13,23 +13,22 @@ Status: `preimage-approved`.
 
 | Checagem | Resultado |
 |---|---|
-| Fidelidade a Sessoes | Segue Sessao 10: segunda chance, navio de polvora, batalha, tocha, Porto do Sul e dilema civil. |
-| Falas de Transcricoes | `dialogues.md` usa timestamps de `Transcricoes/sessao 10.txt`; condensacoes estao marcadas. |
-| Continuidade | Continua ruptura do Cap. 9 e mantem Rita desconfiada. |
-| Target pages | 18 paginas justificadas em `concept.md` e `README.md`. |
+| Fidelidade a Sessões | Segue Sessão 10: segunda chance, navio de pólvora, batalha, tocha, Porto do Sul e dilema civil. |
+| Falas de Transcrições | `dialogues.md` usa timestamps de `Transcricoes/sessao 10.txt`; condensações estão marcadas. |
+| Continuidade | Continua ruptura do Cap. 9 e mantém Rita desconfiada. |
+| Target pages | 18 páginas justificadas em `concept.md` e `README.md`. |
 | NPCs | Rita, Cavaleiro Misterioso, Homem da Tocha e Emmergard registrados. |
 | Inimigos | Marujos, homens-sapo e Axolotl Anciao definidos em `enemy-concepts.md`. |
-| Baloes | Falas curtas, portugues, sem texto ingles planejado. |
-| Prompts | `prompt-all-pages.md` combina estilo, conceito, personagens, paginas e falas. |
-| Arquivos faltantes | Nenhum arquivo textual obrigatorio faltante. Imagens ainda nao geradas. |
+| Baloes | Falas curtas, português, sem texto inglês planejado. |
+| Prompts | `prompt-all-pages.md` combina estilo, conceito, personagens, páginas e falas. |
+| Arquivos faltantes | Nenhum arquivo textual obrigatório faltante. Imagens ainda não geradas. |
 
 ## Correcoes antes da imagem
 
-- Mantido Kaelion fora de cena fisica, apenas lembranca, para respeitar fuga no Cap. 9.
+- Mantido Kaelion fora de cena física, apenas lembranca, para respeitar fuga no Cap. 9.
 - Final concentra a pergunta de Tony e a evasiva de Rita sem resolver o dilema.
-- Marujos e criaturas separados para evitar monstros genericos nos prompts.
+- Marujos e criaturas separados para evitar monstros genéricos nós prompts.
 
 ## Pos-imagem
 
-Ainda nao executado. Quando houver imagens, revisar pagina por pagina contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.
-
+Ainda não executado. Quando houver imagens, revisar página por página contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.

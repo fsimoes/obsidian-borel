@@ -11,7 +11,7 @@ status: draft
 - Silhueta: humanos de porte variado, roupas de convés, facas, bestas leves, cintos com corda.
 - Materiais: tecido encharcado, couro, metal gasto, madeira escura.
 - Cores: azul noite, marrom, cinza, lanternas âmbar.
-- Ameaca visual: numeros e posicionamento alto no conves.
+- Ameaça visual: números e posicionamento alto no convés.
 - Permitido: figurantes sem rosto detalhado.
 - Proibido: armadura nobre, uniformes limpos da Cidadela.
 
@@ -23,15 +23,15 @@ status: draft
 - Cores: verde escuro, azul lodoso, olhos amarelos.
 - Escala: do tamanho de humanos baixos, muitos em grupo.
 - Variações permitidas: pequenos e medios.
-- Proibido: demonios, gore excessivo, aparencia cômica demais durante combate sério.
+- Proibido: demônios, gore excessivo, aparência cômica demais durante combate sério.
 
 ## Axolotl Anciao
 
 - Fonte: `Sessoes/Capitulo 10`; `Transcricoes/sessao 10.txt` 2:40-3:04.
 - Silhueta: criatura anfibia maior, crista lateral, boca larga, cauda pesada, braços fortes.
 - Materiais: pele umida translúcida, brânquias externas, manchas antigas.
-- Cores: azul acinzentado, rosa palido nas brânquias, brilho de agua.
-- Ameaca: maior que Borin, capaz de derrubar e morder.
+- Cores: azul acinzentado, rosa palido nas brânquias, brilho de água.
+- Ameaça: maior que Borin, capaz de derrubar e morder.
 - Prompt de ref: ancient axolotl amphibian monster, broad wet body, external gills, old scarred skin, looming on ship deck at night, fantasy graphic novel style, no text.
-- Restricoes: nao parecer dragao, nao parecer mascote fofo.
+- Restrições: não parecer dragão, não parecer mascote fofo.
 

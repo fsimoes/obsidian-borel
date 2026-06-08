@@ -11,9 +11,9 @@ status: ready-for-image-generation
 target_pages: 18
 ---
 
-# Capitulo 10 - Sombras no Cais
+# Capítulo 10 - Sombras no Cais
 
-> Continua [[../cap-09-o-preco-da-lealdade/README|Cap. 9]]: Kaelion fugiu apos avisar Rita, e o grupo precisa sobreviver ao estrago social que causou.
+> Continua [[../cap-09-o-preco-da-lealdade/README|Cap. 9]]: Kaelion fugiu apos avisar Rita, é o grupo precisa sobreviver ao estrago social que causou.
 
 ## Canon
 
@@ -21,16 +21,16 @@ target_pages: 18
 |---|---|
 | Ressaca | Grupo dorme/espera em casa abandonada indicada por Nightwolf |
 | Voto | Dustin e empurrado para negociar com Rita |
-| Segunda chance | Dustin fala com Rita na taverna e reabre a missao |
+| Segunda chance | Dustin fala com Rita na taverna e reabre a missão |
 | Cais | Rita leva o grupo a botes no escuro |
 | Aproximacao | Plano improvisado com cordas, luz e Trash |
-| Infiltracao | Grupo sobe no navio |
-| Flauta | Marujo toca flauta e criaturas aquaticas chegam |
-| Batalha | Conves vira caos com marujos, sapos e axolotl anciao |
-| Porao | Homem com tocha ameaca explodir tudo; Bartrock usa sono |
+| Infiltração | Grupo sobe no navio |
+| Flauta | Marujo toca flauta e criaturas aquáticas chegam |
+| Batalha | Conves vira caos com marujos, sapos e axolotl ancião |
+| Porão | Homem com tocha ameaça explodir tudo; Bartrock usa sono |
 | Carga | Navio inteiro deve ir ao Porto do Sul |
-| Recompensa | Dustin acha flauta; grupo encontra 192 moedas; Borin pega chifres de polvora |
-| Revelacao | Rita pretende explodir a muralha |
+| Recompensa | Dustin acha flauta; grupo encontra 192 moedas; Borin pega chifres de pólvora |
+| Revelação | Rita pretende explodir a muralha |
 | Dilema | Tony pergunta sobre mortes civis; Rita evita a resposta |
 
 ## Fontes usadas
@@ -38,7 +38,7 @@ target_pages: 18
 - Eventos: `Sessoes/Capitulo 10 - Sombras no Cais.md`
 - Falas: `Transcricoes/sessao 10.txt`
 - Apoio: `Livro/Capitulo 10 - Sombras no Cais.md`
-- Visual/canon: `Comic/00_Style_Bible.md`, `Comic/01_Cast_Model_Sheets/*`, `Referencias/pcs/*`, capitulos 8-9.
+- Visual/canon: `Comic/00_Style_Bible.md`, `Comic/01_Cast_Model_Sheets/*`, `Referencias/pcs/*`, capítulos 8-9.
 
 ## Documentos criados
 
@@ -46,7 +46,7 @@ target_pages: 18
 
 ## Estrutura
 
-`target_pages: 18`. Sessao densa, com negociacao, assalto furtivo, combate naval grande, perigo de explosao e debate moral no encerramento.
+`target_pages: 18`. Sessão densa, com negociação, assalto furtivo, combate naval grande, perigo de explosão e debate moral no encerramento.
 
 ## Elenco
 
@@ -58,5 +58,5 @@ Inimigos/criaturas: homens-sapo e Axolotl Anciao.
 
 ## Status
 
-`ready-for-image-generation`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e paginas finais ainda nao foram geradas; leitor web nao atualizado.
+`ready-for-image-generation`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e páginas finais ainda não foram geradas; leitor web não atualizado.
 

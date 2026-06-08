@@ -13,7 +13,7 @@ Quadrinho digital **só para a mesa**: páginas numeradas em site privado (sem P
 
 **Entrega:** imagens em `source/quartz/static/comic/cap-XX/001.webp` … + leitor em `/comic/` (cópia pós-build) ou `/static/comic/`.
 
-**Leitor:** [[Leitor-Web|/comic/]] · **Cap. 0** [[02_Chapters/cap-00-elenco/README|Elenco]] (10 pág.) · **Cap. 1** [[02_Chapters/cap-01-negociacoes-frustradas/README|piloto]] · **Cap. 2** [[02_Chapters/cap-02-um-encontro-na-cabana/README|cabana]] · **Cap. 3** [[02_Chapters/cap-03-entre-dados-e-desconfiancas/README|Rilonde]] · **Cap. 4** [[02_Chapters/cap-04-noite-na-cidade/README|Noite na Cidade]] · **Cap. 5** [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/README|Rastros e Revelações]] · **Cap. 6** [[02_Chapters/cap-06-investigacoes-e-revelacoes/README|Investigações]] *(publicado no leitor)* · **Cap. 7** [[02_Chapters/cap-07-a-carroca-misteriosa/README|Carroça]] *(publicado no leitor)* · **Cap. 8** [[02_Chapters/cap-08-sussurros-de-revolta/README|Revolta]] *(fila de imagem)* · **Cap. 9** [[02_Chapters/cap-09-o-preco-da-lealdade/README|Lealdade]] *(fila de imagem)* · **Cap. 10** [[02_Chapters/cap-10-sombras-no-cais/README|Cais]] *(fila de imagem)* · **Cap. 11** [[02_Chapters/cap-11-sombras-e-polvora/README|Pólvora]] *(fila de imagem)*
+**Leitor:** [[Leitor-Web|/comic/]] · **Cap. 0** [[02_Chapters/cap-00-elenco/README|Elenco]] (10 pág.) · **Cap. 1** [[02_Chapters/cap-01-negociacoes-frustradas/README|piloto]] · **Cap. 2** [[02_Chapters/cap-02-um-encontro-na-cabana/README|cabana]] · **Cap. 3** [[02_Chapters/cap-03-entre-dados-e-desconfiancas/README|Rilonde]] · **Cap. 4** [[02_Chapters/cap-04-noite-na-cidade/README|Noite na Cidade]] · **Cap. 5** [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/README|Rastros e Revelações]] · **Cap. 6** [[02_Chapters/cap-06-investigacoes-e-revelacoes/README|Investigações]] *(publicado no leitor)* · **Cap. 7** [[02_Chapters/cap-07-a-carroca-misteriosa/README|Carroça]] *(publicado no leitor)* · **Cap. 8** [[02_Chapters/cap-08-sussurros-de-revolta/README|Revolta]] *(fila de imagem)* · **Cap. 9** [[02_Chapters/cap-09-o-preco-da-lealdade/README|Lealdade]] *(fila de imagem)* · **Cap. 10** [[02_Chapters/cap-10-sombras-no-cais/README|Cais]] *(fila de imagem)* · **Cap. 11** [[02_Chapters/cap-11-sombras-e-polvora/README|Pólvora]] *(fila de imagem)* · **Cap. 12** [[02_Chapters/cap-12-explosoes-e-estrategias/README|Explosões]] *(fila de imagem)* · **Cap. 13** [[02_Chapters/cap-13-o-fogo-da-revolta/README|Fogo]] *(fila de imagem)* · **Cap. 14** [[02_Chapters/cap-14-o-cerco-final/README|Cerco Final]] *(fila de imagem)* · **Cap. 15** [[02_Chapters/cap-15-sombras-e-fugas/README|Sombras e Fugas]] *(fila de imagem)*
 
 ---
 
@@ -147,6 +147,7 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 
 - [ ] Criar `AI_Gap_Fill_Guide.md` — regras de IA para caps **1–2** ([[../Livro/index|Livro]] + mesa); caps **3–9** usam [[../Sessoes/index|Sessões]] + [[../Transcricoes/|Transcrições]]
 - [x] Criar `03_Templates/Panel_Script_Template.md` (painéis, falas, tags `canon` / `inferred`)
+- [x] Criar [[03_Templates/Protocolo_Capitulo_Comic_Todas_Sessoes|Protocolo por sessão]] — seleção, pré-produção, roteiro, revisão pré-imagem, geração e revisão pós-imagem para todos os próximos capítulos
 - [ ] Mapa de capítulos: sessão → pasta → páginas → status
 - [ ] (Opcional) Gerar `## Cenas da Sessão` nos caps 3–9 a partir das transcrições
 - [ ] Atualizar [[../Sessoes/index|Sessoes/index]] — status transcrição caps 3–9
@@ -211,13 +212,17 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 | **9** | **9** | [[02_Chapters/cap-09-o-preco-da-lealdade/README\|cap-09]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
 | **10** | **10** | [[02_Chapters/cap-10-sombras-no-cais/README\|cap-10]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
 | **11** | **11** | [[02_Chapters/cap-11-sombras-e-polvora/README\|cap-11]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
+| **12** | **12** | [[02_Chapters/cap-12-explosoes-e-estrategias/README\|cap-12]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
+| **13** | **13** | [[02_Chapters/cap-13-o-fogo-da-revolta/README\|cap-13]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
+| **14** | **14** | [[02_Chapters/cap-14-o-cerco-final/README\|cap-14]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
+| **15** | **15** | [[02_Chapters/cap-15-sombras-e-fugas/README\|cap-15]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
 
 - [ ] Publicar caps 1–9 no site (uma pasta + linha no `chapters.json` por capítulo)
 
 ### Vol 2 — Sessões 10–16
 
 - [ ] Revolta, licantropia, possessão
-- [ ] Publicar caps 10–11 no site depois de gerar imagens e validar paginas
+- [ ] Publicar caps 10–13 no site depois de gerar imagens e validar paginas
 
 ### Vol 3 — Sessões 17–25
 
@@ -240,6 +245,8 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 | Recurso | Link |
 |---------|------|
 | **Style Bible** | [[00_Style_Bible]] |
+| Protocolo por sessão | [[03_Templates/Protocolo_Capitulo_Comic_Todas_Sessoes]] |
+| Template de painéis | [[03_Templates/Panel_Script_Template]] |
 | Bake-off | [[AI_Tool_Comparison/README]] |
 | Livro (roteiro) | [[../Livro/index]] |
 | Sessões | [[../Sessoes/index]] |

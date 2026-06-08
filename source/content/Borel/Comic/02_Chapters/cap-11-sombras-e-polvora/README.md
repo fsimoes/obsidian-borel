@@ -1,5 +1,5 @@
 ---
-title: "Cap. 11 - Sombras e Polvora"
+title: "Cap. 11 - Sombras e Pólvora"
 type: comic
 tags:
   - rpg/borel
@@ -11,25 +11,25 @@ status: ready-for-image-generation
 target_pages: 17
 ---
 
-# Capitulo 11 - Sombras e Polvora
+# Capítulo 11 - Sombras e Pólvora
 
-> Continua [[../cap-10-sombras-no-cais/README|Cap. 10]]: a polvora chegou ao Porto do Sul, mas o plano de Rita ainda precisa atravessar guardas, medo e ganancia.
+> Continua [[../cap-10-sombras-no-cais/README|Cap. 10]]: a pólvora chegou ao Porto do Sul, mas o plano de Rita ainda precisa atravessar guardas, medo e ganância.
 
 ## Canon
 
 | Beat | O que acontece |
 |---|---|
-| Recap | Navio roubado, flauta, criaturas aquaticas, polvora descarregada |
-| Subsolo | Grupo encontra golem guardiao e cristal azul |
-| Ativacao | Flecha/experimento aciona o golem |
+| Recap | Navio roubado, flauta, criaturas aquáticas, pólvora descarregada |
+| Subsolo | Grupo encontra golem guardião e cristal azul |
+| Ativação | Flecha/experimento aciona o golem |
 | Batalha | Tony, Nightwolf, Borin, Bartrock e Dustin seguram o constructo |
 | Puzzle | Runas/cristal permitem desativar o golem |
-| Plano | Tony propoe pista falsa para os guardas |
+| Plano | Tony propõe pista falsa para os guardas |
 | Rita | Rita transforma a mentira em emboscada |
 | Dado | Tony tenta ser profundo e Rita perde paciencia |
 | Ivan | Guarda da Cidadela chama o grupo |
-| Negociacao | Tony entrega mapa vago; Nightwolf intimida; Ivan paga tres platinas |
-| Recompensa | Dustin recebe/identifica flauta magica |
+| Negociacao | Tony entrega mapa vago; Nightwolf intimida; Ivan paga três platinas |
+| Recompensa | Dustin recebe/identifica flauta mágica |
 | Gancho | Ataque a muralha fica marcado para o dia seguinte |
 
 ## Fontes usadas
@@ -45,7 +45,7 @@ target_pages: 17
 
 ## Estrutura
 
-`target_pages: 17`. Capitulo medio-denso com golem/puzzle em flashback e negociacao politica no presente.
+`target_pages: 17`. Capítulo médio-denso com golem/puzzle em flashback e negociação politica no presente.
 
 ## Elenco
 
@@ -53,9 +53,9 @@ PCs: Tony, Nightwolf, Dustin, Bartrock, Borin, Trash.
 
 NPCs: Rita Dente de Bronze, Ivan, Emmergard, guarda mensageiro.
 
-Inimigos: Golem Guardiao; antagonismo politico dos guardas.
+Inimigos: Golem Guardião; antagonismo político dos guardas.
 
 ## Status
 
-`ready-for-image-generation`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e paginas finais ainda nao foram geradas; leitor web nao atualizado.
+`ready-for-image-generation`: roteiro, falas, prompts e revisao pre-imagem aprovados. Capa e páginas finais ainda não foram geradas; leitor web não atualizado.
 

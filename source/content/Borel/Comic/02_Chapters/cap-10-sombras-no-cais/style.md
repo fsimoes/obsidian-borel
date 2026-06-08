@@ -14,7 +14,7 @@ Prefixo base:
 Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
 ```
 
-Cap. 10 pede noite naval: azuis escuros, agua verde, bronze quente de lanternas, sombras fortes e silhuetas legiveis. Humor deve vir de expressao e timing, nao de chibi/anime.
+Cap. 10 pede noite naval: azuis escuros, água verde, bronze quente de lanternas, sombras fortes e silhuetas legíveis. Humor deve vir de expressão e timing, não de chibi/anime.
 
 Avoid base:
 
@@ -24,8 +24,8 @@ Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers,
 
 Regras locais:
 
-- Com fala: texto exato em portugues, poucas palavras, balao unico ou dois baloes no maximo.
+- Com fala: texto exato em português, poucas palavras, balão único ou dois balões no máximo.
 - Sem fala: adicionar `No text, no speech bubbles`.
-- Navio: madeira escura, conves molhado, barris protegidos no porao.
-- Polvora: nunca renderizar palavra "gunpowder"; se houver marca em barril, manter ilegivel.
+- Navio: madeira escura, convés molhado, barris protegidos no porão.
+- Pólvora: nunca renderizar palavra "gunpowder"; se houver marca em barril, manter ilegível.
 

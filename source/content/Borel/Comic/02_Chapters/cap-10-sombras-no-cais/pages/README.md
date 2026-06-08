@@ -11,5 +11,4 @@ Esperado:
 - `000-cover.webp`
 - `001.webp` a `018.webp`
 
-Status: imagens ainda nao geradas. Nao publicar no leitor ate a validacao final confirmar 18 paginas sequenciais.
-
+Status: imagens ainda não geradas. Não publicar no leitor até a validação final confirmar 18 páginas sequenciais.

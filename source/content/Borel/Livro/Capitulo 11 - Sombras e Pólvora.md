@@ -22,49 +22,51 @@ plots:
 
 # Capítulo 11: Sombras e Pólvora
 
-A taverna estava cheia naquela noite, mas não era o tipo de multidão que se reunia para celebrar. Os rostos eram sérios, os sussurros eram baixos, e o ar estava carregado de uma tensão que fazia a pele formigar. O grupo havia se reunido com Rita, e o que ela tinha a dizer mudaria tudo.
+A taverna estava cheia naquela noite, mas não era o tipo de multidão que se reunia para celebrar. Os rostos eram sérios, os sussurros, baixos, e o ar estava carregado de uma tensão que fazia a pele formigar. O grupo havia se reunido com Rita, e o que ela tinha a dizer mudaria tudo.
 
-"O plano é simples", disse Rita, sua voz cortando o silêncio como uma faca. "Explodimos a muralha. Invadimos a cidadela. E derrubamos a elite."
+"O plano é simples", disse Rita, com a voz cortando o silêncio como uma faca. "Explodimos a muralha. Invadimos a cidadela. E derrubamos a elite."
 
-Ela apontou para um mapa espalhado sobre a mesa, mostrando a Alva Cidadela e seus pontos de defesa. Mas o que mais chamava atenção eram os túneis. Túneis que passavam sob a muralha, túneis que poderiam ser preenchidos com pólvora.
+Ela apontou para um mapa espalhado sobre a mesa, mostrando a Alva Cidadela e seus pontos de defesa. Mas o que mais chamava atenção eram os túneis: passagens sob a muralha que poderiam ser preenchidas com pólvora.
 
-"Precisamos de alguém para acender a pólvora", continuou Rita, seus olhos fixos no grupo. "Alguém rápido. Alguém corajoso. Alguém que esteja disposto a arriscar tudo."
+"Precisamos de alguém para acender a pólvora", continuou Rita, com os olhos fixos no grupo. "Alguém rápido. Alguém corajoso. Alguém disposto a arriscar tudo."
 
-Borin, sempre o mais impulsivo, não hesitou. "Eu faço isso."
+Borin, sempre impulsivo, não hesitou.
 
-Foi uma decisão que poderia significar morte. Mas Borin não se importou. Ele pegou a tocha que Rita ofereceu, e então partiu, seguindo os túneis que levavam sob a muralha.
+"Eu faço isso."
 
-O resto do grupo esperou, cada segundo parecendo uma eternidade. E então, ouviram. Um som que começou baixo, como um trovão distante, e então cresceu, tornando-se um rugido que fez o chão tremer.
+Era uma decisão que poderia significar a morte. Mas Borin não se importou. Pegou a tocha que Rita ofereceu e partiu, seguindo pelos túneis que passavam sob a muralha.
 
-A explosão foi devastadora. Pedras voaram pelo ar, fumaça subiu em colunas negras, e quando a poeira baixou, havia uma brecha na muralha. Uma brecha grande o suficiente para um exército passar.
+O resto do grupo esperou, cada segundo parecendo uma eternidade. Então ouviram: um som que começou baixo, como um trovão distante, e cresceu até se tornar um rugido que fez o chão tremer.
 
-Mas antes que os rebeldes pudessem avançar, havia algo que precisava ser feito. O grupo precisava garantir que os guardas não descobrissem o plano. E foi então que Tony teve uma ideia.
+A explosão foi devastadora. Pedras voaram pelo ar, fumaça subiu em colunas negras e, quando a poeira baixou, havia uma brecha na muralha. Uma brecha grande o suficiente para um exército passar.
 
-"Vamos enganá-los", disse ele, sua voz carregada de astúcia. "Vamos dizer que a pólvora está em um armazém. Vamos dar uma pista falsa."
+Mas, antes que os rebeldes pudessem avançar, havia algo que precisava ser feito. O grupo precisava garantir que os guardas não descobrissem o plano. Foi então que Tony teve uma ideia.
 
-Foi uma estratégia arriscada, mas funcionou. Quando Ivan, um guarda da cidade, os abordou oferecendo recompensa por informações, o grupo negociou. E no final, receberam três platinas — uma quantia generosa — em troca de informações que eram completamente falsas.
+"Vamos enganá-los", disse ele, com a voz carregada de astúcia. "Vamos dizer que a pólvora está em um armazém. Vamos dar uma pista falsa."
 
-Mas enquanto isso acontecia, havia outro problema. Um golem. Um golem de ferro, guardando um depósito secreto de pólvora.
+Era uma estratégia arriscada, mas funcionou. Quando Ivan, um guarda da cidade, os abordou oferecendo recompensa por informações, o grupo negociou. No fim, recebeu três platinas, uma quantia generosa, em troca de informações completamente falsas.
 
-O golem era uma criatura massiva, feita de metal reluzente, com olhos que brilhavam com uma luz mágica. Ele atacou com força descomunal, seus golpes capazes de esmagar qualquer coisa em seu caminho.
+Enquanto isso acontecia, havia outro problema: um golem. Um golem de ferro guardava um depósito secreto de pólvora.
+
+O golem era uma criatura massiva, feita de metal reluzente, com olhos que brilhavam com luz mágica. Ele atacou com força descomunal, e seus golpes eram capazes de esmagar qualquer coisa em seu caminho.
 
 Mas o grupo não desistiu. Nightwolf usou sua adaga fumegante para criar uma cortina de fumaça, permitindo que os outros se posicionassem estrategicamente. Dustin disparou sua besta, mirando pontos fracos nas articulações do golem. Tony lançou feitiços de enfraquecimento, enquanto Borin resistiu aos ataques frontais, protegendo o grupo.
 
-Mas o golem não era controlado por força bruta. Era controlado por magia. E na parede atrás dele, havia um puzzle. Um puzzle arcano, com runas brilhantes que precisavam ser alinhadas em uma sequência específica.
+O golem, porém, não era controlado por força bruta. Era controlado por magia. Na parede atrás dele, havia um quebra-cabeça arcano, com runas brilhantes que precisavam ser alinhadas em uma sequência específica.
 
-Tony e Dustin trabalharam juntos, decifrando os símbolos elementais — fogo, água, terra, ar — e descobrindo a ordem correta. E quando finalmente resolveram o puzzle, o golem parou. Suas luzes se apagaram, e ele caiu no chão, inerte.
+Tony e Dustin trabalharam juntos, decifrando os símbolos elementais: fogo, água, terra e ar. Quando finalmente descobriram a ordem correta e resolveram o enigma, o golem parou. Suas luzes se apagaram, e ele caiu no chão, inerte.
 
-O grupo respirou aliviado, então coletou a pólvora que o golem guardava. Era mais do que suficiente para completar o plano de Rita.
+O grupo respirou aliviado e coletou a pólvora que o golem guardava. Era mais do que suficiente para completar o plano de Rita.
 
-Mas enquanto isso acontecia, Dustin recebeu algo especial. Uma flauta. Uma flauta de madeira entalhada, com símbolos aquáticos que brilhavam com uma luz própria.
+Enquanto isso acontecia, Dustin recebeu algo especial: uma flauta de madeira entalhada, com símbolos aquáticos que brilhavam com luz própria.
 
 "Esta flauta", disse Rita, entregando-a a Dustin, "pode invocar criaturas aquáticas. Use-a com sabedoria."
 
-Dustin pegou a flauta, sentindo uma energia estranha emanando dela. Ele sabia que seria útil. Muito útil.
+Dustin pegou a flauta, sentindo uma energia estranha emanar dela. Sabia que seria útil. Muito útil.
 
 A noite caiu sobre Elriste, e o grupo se preparou para o que viria. Sabiam que o próximo dia traria a explosão. Sabiam que traria a batalha. Mas também sabiam que, ao ajudar Rita, estavam se envolvendo em algo muito maior do que qualquer um deles imaginava.
 
-E no fundo de suas mentes, uma pergunta ecoava: *O que aconteceria quando a muralha explodisse?*
+E, no fundo de suas mentes, uma pergunta ecoava: *o que aconteceria quando a muralha explodisse?*
 
 ---
 
@@ -80,20 +82,20 @@ E no fundo de suas mentes, uma pergunta ecoava: *O que aconteceria quando a mura
 
 **Eventos Principais**:
 - Planejamento da explosão da muralha da Alva Cidadela
-- Negociação com guarda Ivan fornecendo pista falsa
+- Negociação com o guarda Ivan, fornecendo uma pista falsa
 - Recebimento de três platinas como pagamento
-- Confronto com golem de ferro guardião do depósito
-- Resolução de puzzle arcano para desativar o golem
+- Confronto com o golem de ferro, guardião do depósito
+- Resolução de quebra-cabeça arcano para desativar o golem
 - Coleta de pólvora adicional
 - Entrega de flauta mágica a Dustin
 
 **Personagens Apresentados**:
-- **Ivan**: Guarda que negocia com o grupo
+- **Ivan**: guarda que negocia com o grupo
 
 **Temas Introduzidos**:
 - Estratégia e engano em guerra
-- Puzzles arcanos e magia
-- Preparação para batalha épica
+- Quebra-cabeças arcanos e magia
+- Preparação para uma batalha épica
 - Itens mágicos com poderes especiais
 
 ---

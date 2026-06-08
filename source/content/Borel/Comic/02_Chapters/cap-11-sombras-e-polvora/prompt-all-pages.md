@@ -7,7 +7,7 @@ target_pages: 17
 
 # Prompt All Pages - Cap. 11
 
-Use o prefixo e o avoid de [[style|style.md]]. Anexar refs dos personagens visiveis em cada pagina.
+Use o prefixo é o avoid de [[style|style.md]]. Anexar refs dos personagens visíveis em cada página.
 
 ## Prompt comum
 
@@ -18,14 +18,14 @@ European fantasy graphic novel webcomic page, multi-panel layout, clear gutters,
 ## Capa
 
 ```text
-Create a comic cover for "Sombras e Polvora": Tony holding a rough map and a glowing die in a tense tavern, Rita Dente de Bronze glaring beside powder crates, a massive blue-lit golem silhouette behind them, Ivan the city guard in shadow holding a small pouch of platinum coins, distant Alva Cidadela wall. No speech bubbles. Optional Portuguese title only if perfectly legible.
+Create a comic cover for "Sombras e Pólvora": Tony holding a rough map and a glowing die in a tense tavern, Rita Dente de Bronze glaring beside powder crates, a massive blue-lit golem silhouette behind them, Ivan the city guard in shadow holding a small pouch of platinum coins, distant Alva Cidadela wall. No speech bubbles. Optional Portuguese title only if perfectly legible.
 ```
 
 ## Paginas
 
 1. Page 001: powder cargo recap at South Port, use D001.
 2. Page 002: blue-lit golem discovery with crushed body, use D002 D003 D004.
-3. Page 003: group hiding and refusing to touch golem, use D005 D006 D007 D008 D009.
+3. Page 003: group hiding and refusing tô touch golem, use D005 D006 D007 D008 D009.
 4. Page 004: crystal suspicion and golem activation, use D010 D011.
 5. Page 005: Tony attacks, golem barely affected, use D012 D013.
 6. Page 006: Nightwolf arrows and Borin tanking, no text.
@@ -42,8 +42,8 @@ Create a comic cover for "Sombras e Polvora": Tony holding a rough map and a glo
 17. Page 017: Dustin with magic flute, preparations for tomorrow, use D034.
 ```
 
-## Notas por pagina
+## Notas por página
 
 - Paginas 002-009: usar luz azul como continuidade visual.
-- Paginas 014-016: mapa sem nomes legiveis; foco em expressoes e maos sobre moedas.
+- Paginas 014-016: mapa sem nomes legíveis; foco em expressoes e mãos sobre moedas.
 

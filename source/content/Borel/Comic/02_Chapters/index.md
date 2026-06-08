@@ -8,6 +8,9 @@ tags:
 
 # CapÃ­tulos â€” produÃ§Ã£o
 
+Para qualquer novo capitulo de sessao, seguir primeiro o protocolo mestre:
+[[../03_Templates/Protocolo_Capitulo_Comic_Todas_Sessoes|Protocolo - capitulo de comic por sessao]].
+
 | ID | SessÃ£o | Status | Roteiro | Entrega web |
 |----|--------|--------|---------|-------------|
 | **cap-00** | 0 | **publicado** | [[cap-00-elenco/script\|script]] | [[../Leitor-Web\|/comic/]] Â· 10 pÃ¡ginas (retratos) |
@@ -22,6 +25,10 @@ tags:
 | **cap-09** | 9 | **ready-for-image-generation** | [[cap-09-o-preco-da-lealdade/README\|cap-09]] · [[cap-09-o-preco-da-lealdade/panels\|panels]] · [[cap-09-o-preco-da-lealdade/review\|review]] | 16 paginas planejadas; imagens pendentes |
 | **cap-10** | 10 | **ready-for-image-generation** | [[cap-10-sombras-no-cais/README\|cap-10]] · [[cap-10-sombras-no-cais/panels\|panels]] · [[cap-10-sombras-no-cais/review\|review]] | 18 paginas planejadas; imagens pendentes |
 | **cap-11** | 11 | **ready-for-image-generation** | [[cap-11-sombras-e-polvora/README\|cap-11]] · [[cap-11-sombras-e-polvora/panels\|panels]] · [[cap-11-sombras-e-polvora/review\|review]] | 17 paginas planejadas; imagens pendentes |
+| **cap-12** | 12 | **ready-for-image-generation** | [[cap-12-explosoes-e-estrategias/README\|cap-12]] · [[cap-12-explosoes-e-estrategias/panels\|panels]] · [[cap-12-explosoes-e-estrategias/review\|review]] | 18 paginas planejadas; imagens pendentes |
+| **cap-13** | 13 | **ready-for-image-generation** | [[cap-13-o-fogo-da-revolta/README\|cap-13]] · [[cap-13-o-fogo-da-revolta/panels\|panels]] · [[cap-13-o-fogo-da-revolta/review\|review]] | 15 paginas planejadas; imagens pendentes |
+| **cap-14** | 14 | **ready-for-image-generation** | [[cap-14-o-cerco-final/README\|cap-14]] · [[cap-14-o-cerco-final/panels\|panels]] · [[cap-14-o-cerco-final/review\|review]] | 18 paginas planejadas; imagens pendentes |
+| **cap-15** | 15 | **ready-for-image-generation** | [[cap-15-sombras-e-fugas/README\|cap-15]] · [[cap-15-sombras-e-fugas/panels\|panels]] · [[cap-15-sombras-e-fugas/review\|review]] | 16 paginas planejadas; imagens pendentes |
 
 Ãndice geral: [[../index|Comic/index]].
 
