@@ -1,5 +1,5 @@
 ﻿/** Bump when chapters.json changes so browsers refetch the catalog. */
-const CATALOG_VERSION = "12"
+const CATALOG_VERSION = "13"
 const CONFIG_URL = `chapters.json?v=${CATALOG_VERSION}`
 const STORAGE_KEY = "borel-comic-access"
 
@@ -97,13 +97,13 @@ function showGate(config) {
 
 async function loadCatalog() {
   const res = await fetch(CONFIG_URL, { cache: "no-store" })
-  if (!res.ok) throw new Error("NÃ£o foi possÃ­vel carregar chapters.json")
+  if (!res.ok) throw new Error("Não foi possível carregar chapters.json")
   return res.json()
 }
 
 function statusLabel(status) {
   const map = {
-    "arte-em-producao": "Arte em produÃ§Ã£o",
+    "arte-em-producao": "Arte em produção",
     roteiro: "Roteiro",
     ready: "Pronto",
     draft: "Rascunho",
@@ -114,7 +114,7 @@ function statusLabel(status) {
 function renderHome(config) {
   $("view-home").classList.remove("hidden")
   $("view-reader").classList.add("hidden")
-  document.title = config.title + " â€” Quadrinho"
+  document.title = config.title + " — Quadrinho"
   $("site-title").textContent = config.title
   $("site-subtitle").textContent = config.subtitle
 
@@ -127,7 +127,7 @@ function renderHome(config) {
     const badgeClass = ch.status === "ready" ? "badge ready" : "badge"
     const imageCount = displayPageCount(ch)
     a.innerHTML = `<strong>${ch.title}</strong><span class="${badgeClass}">${statusLabel(ch.status)}</span>
-      <div class="meta">SessÃ£o ${ch.session} Â· ${imageCount} imagens</div>`
+      <div class="meta">Sessão ${ch.session} · ${imageCount} imagens</div>`
     li.appendChild(a)
     ul.appendChild(li)
   }
@@ -180,35 +180,35 @@ function updateNavButtons(config, chapter, page) {
 
   if (onFirstPage && !prevCh) {
     btnPrev.disabled = true
-    btnPrev.textContent = "â† Anterior"
-    btnPrev.title = "PÃ¡gina anterior"
+    btnPrev.textContent = "← Anterior"
+    btnPrev.title = "Página anterior"
   } else if (onFirstPage && prevCh) {
     btnPrev.disabled = false
-    btnPrev.textContent = "â† Cap. anterior"
-    btnPrev.title = `Ãšltima pÃ¡gina: ${prevCh.title}`
+    btnPrev.textContent = "← Cap. anterior"
+    btnPrev.title = `Última página: ${prevCh.title}`
   } else {
     btnPrev.disabled = false
-    btnPrev.textContent = "â† Anterior"
-    btnPrev.title = "PÃ¡gina anterior"
+    btnPrev.textContent = "← Anterior"
+    btnPrev.title = "Página anterior"
   }
 
   if (onLastPage && nextCh) {
     btnNext.disabled = false
-    btnNext.textContent = "PrÃ³ximo capÃ­tulo â†’"
-    btnNext.title = `ComeÃ§ar: ${nextCh.title}`
+    btnNext.textContent = "Próximo capítulo →"
+    btnNext.title = `Começar: ${nextCh.title}`
     btnNext.classList.add("primary")
     endNav.classList.remove("hidden")
-    btnNextChapter.textContent = `Continuar: ${nextCh.title} â†’`
+    btnNextChapter.textContent = `Continuar: ${nextCh.title} →`
     btnNextChapter.onclick = () => goToPage(config, nextCh, nextCh.startPage || 1)
   } else if (onLastPage && !nextCh) {
     btnNext.disabled = true
     btnNext.textContent = "Fim"
-    btnNext.title = "Ãšltimo capÃ­tulo publicado"
+    btnNext.title = "Último capítulo publicado"
     endNav.classList.add("hidden")
   } else {
     btnNext.disabled = false
-    btnNext.textContent = "PrÃ³xima â†’"
-    btnNext.title = "PrÃ³xima pÃ¡gina"
+    btnNext.textContent = "Próxima →"
+    btnNext.title = "Próxima página"
     endNav.classList.add("hidden")
   }
 }
@@ -216,7 +216,7 @@ function updateNavButtons(config, chapter, page) {
 function renderReader(config, chapter, page) {
   $("view-home").classList.add("hidden")
   $("view-reader").classList.remove("hidden")
-  document.title = `${chapter.title} â€” p. ${page}`
+  document.title = `${chapter.title} — p. ${page}`
 
   const select = $("chapter-select")
   select.innerHTML = ""
@@ -249,11 +249,11 @@ function renderReader(config, chapter, page) {
   ph.classList.add("hidden")
   coverTitle.classList.add("hidden")
   img.removeAttribute("src")
-  img.alt = displayNum === 0 ? `${chapter.title}, capa` : `${chapter.title}, pÃ¡gina ${displayNum}`
+  img.alt = displayNum === 0 ? `${chapter.title}, capa` : `${chapter.title}, página ${displayNum}`
 
   function showMissing() {
     ph.classList.remove("hidden")
-    ph.innerHTML = `<strong>${displayPageLabel(chapter, page)} ainda nÃ£o publicada</strong>
+    ph.innerHTML = `<strong>${displayPageLabel(chapter, page)} ainda não publicada</strong>
       Coloque <code>${candidates.join("</code>, <code>")}</code> em <code>quartz/static/comic/${chapter.id}/</code> e rode o build de novo.`
   }
 
@@ -342,5 +342,3 @@ async function main() {
 }
 
 main()
-
-
