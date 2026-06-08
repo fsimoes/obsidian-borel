@@ -196,6 +196,39 @@ button.btn.primary {
   margin: 0 auto;
 }
 
+.cover-title {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: clamp(1rem, 4vw, 2rem);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.86), rgba(0, 0, 0, 0));
+  color: #f3ead2;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.85);
+  pointer-events: none;
+}
+
+.cover-title span,
+.cover-title strong {
+  display: block;
+  max-width: 760px;
+}
+
+.cover-title span {
+  color: var(--accent);
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.cover-title strong {
+  margin-top: 0.15rem;
+  font-size: clamp(1.35rem, 5vw, 2.8rem);
+  line-height: 1.05;
+  font-weight: 600;
+}
+
 .viewer .placeholder {
   padding: 3rem 1.5rem;
   text-align: center;

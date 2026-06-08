@@ -241,11 +241,13 @@ function renderReader(config, chapter, page) {
 
   const img = $("page-image")
   const ph = $("page-placeholder")
+  const coverTitle = $("cover-title")
   const folder = chapterFolder(chapter)
   const displayNum = displayPageNumber(chapter, page)
   const candidates = displayNum === 0 ? [chapter.cover] : pageCandidates(displayNum)
   img.classList.add("hidden")
   ph.classList.add("hidden")
+  coverTitle.classList.add("hidden")
   img.removeAttribute("src")
   img.alt = displayNum === 0 ? `${chapter.title}, capa` : `${chapter.title}, pÃ¡gina ${displayNum}`
 
@@ -265,6 +267,11 @@ function renderReader(config, chapter, page) {
     probe.onload = () => {
       img.src = src
       img.classList.remove("hidden")
+      if (displayNum === 0) {
+        $("cover-series").textContent = config.title
+        $("cover-chapter").textContent = chapter.title
+        coverTitle.classList.remove("hidden")
+      }
     }
     probe.onerror = () => tryLoad(index + 1)
     probe.src = src
