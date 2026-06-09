@@ -1,49 +1,366 @@
 ---
 title: "Prompt All Pages - Cap. 11"
-type: comic-prompts
-status: ready
-target_pages: 17
+status: docs-ready
 ---
 
-# Prompt All Pages - Cap. 11
+# Prompt All Pages - Cap. 11 (v2)
 
-Use o prefixo é o avoid de [[style|style.md]]. Anexar refs dos personagens visíveis em cada página.
+## Antes de colar
 
-## Prompt comum
+1. Nova conversa ChatGPT.
+2. Anexar refs de estilo (ver `style.md`) + refs de personagem do capítulo.
+3. Uma conversa por capítulo.
 
-```text
-European fantasy graphic novel webcomic page, multi-panel layout, clear gutters, readable left-to-right top-to-bottom flow, medieval rebellion intrigue, muted earth and bronze palette with blue arcane light for golem scenes. Keep character identities consistent with attached references. Portuguese speech bubbles only when specified. No English text.
-```
-
-## Capa
+## Prefixo v2
 
 ```text
-Create a comic cover for "Sombras e Pólvora": Tony holding a rough map and a glowing die in a tense tavern, Rita Dente de Bronze glaring beside powder crates, a massive blue-lit golem silhouette behind them, Ivan the city guard in shadow holding a small pouch of platinum coins, distant Alva Cidadela wall. No speech bubbles. Optional Portuguese title only if perfectly legible.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
 ```
 
-## Paginas
+## Avoid v2
 
-1. Page 001: powder cargo recap at South Port, use D001.
-2. Page 002: blue-lit golem discovery with crushed body, use D002 D003 D004.
-3. Page 003: group hiding and refusing tô touch golem, use D005 D006 D007 D008 D009.
-4. Page 004: crystal suspicion and golem activation, use D010 D011.
-5. Page 005: Tony attacks, golem barely affected, use D012 D013.
-6. Page 006: Nightwolf arrows and Borin tanking, no text.
-7. Page 007: puzzle room with skeleton, book, gems, runes, no text.
-8. Page 008: Bartrock Mage Hand and crystal puzzle, no text.
-9. Page 009: golem collapses/deactivates, no text.
-10. Page 010: tavern planning false lead, use D014 D015 D016.
-11. Page 011: Rita turns false lead into ambush, use D017 D018 D019.
-12. Page 012: Tony's dice metaphor confuses Rita, use D020 D021 D022.
-13. Page 013: guard messenger and fortified Cidadela entrance, use D023.
-14. Page 014: Ivan receives vague map, use D024 D025 D026.
-15. Page 015: Nightwolf intimidates Ivan over payment and weapons, use D027 D028 D029 D030 D031.
-16. Page 016: payment of three platinum coins, use D032 D033.
-17. Page 017: Dustin with magic flute, preparations for tomorrow, use D034.
+```text
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
-## Notas por página
+## Páginas
 
-- Paginas 002-009: usar luz azul como continuidade visual.
-- Paginas 014-016: mapa sem nomes legíveis; foco em expressoes e mãos sobre moedas.
+### 000
 
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```
+
+### 000
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 000 ---
+Layout: 1 panel(s). 
+Panel A — CHARACTERS & POSES: Figurante (standing, weight on one foot, readable silhouette, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+```

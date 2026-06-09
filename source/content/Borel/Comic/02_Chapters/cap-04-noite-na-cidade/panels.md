@@ -5,175 +5,249 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-04
-status: preimage-approved
+status: docs-ready
 target_pages: 16
 fidelity: documented
 ---
 
-# Panels - Noite na Cidade
+# Painéis — Cap. 4 (v2 humor + poses)
 
-> Falas: [[dialogues|dialogues.md]]. Prompts completos: [[prompt-all-pages|prompt-all-pages.md]].
+> Poses espelhadas em `prompt-all-pages.md`. Arte: `images-pending-regen`.
 
-## Página 01 - A noite assume Rilonde (3 painéis)
 
-**Refs:** Rilonde, Tony, Dustin, Nightwolf, Bartrock, Kaelion.
+## Página 000 — cena
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 01-a | canon | Rilonde ao anoitecer, vista ampla: ruas comerciais, telhados, carroças e luzes acendendo. | Título: **Noite na Cidade** |
-| 01-b | canon | Grupo saindo do rescaldo da Enguia Roxa, ainda tenso. | Tony D01 |
-| 01-c | canon | Close na carroça/rota marcada em mapa, lembrando a missão de Alberto. | - |
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Rilonde, Tony, Dustin, Nightwolf, Bartrock, Kaelion.
 
-## Página 02 - Emmergard (4 painéis)
+#### Painel 000-a
 
-**Refs:** Tony, Emmergard `needs-ref`, grupo ao fundo.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 02-a | canon | Tony encara Emmergard com curiosidade desconfiada. | Tony D02 |
-| 02-b | canon | Emmergard responde firme, sem se intimidar. | Emmergard D03 |
-| 02-c | canon | Tony muda de interrogatório sério para critério social absurdo. | Tony D04 |
-| 02-d | canon | Tony aponta mesa/dados; Emmergard manda chamar os outros. | Tony D05; Emmergard D06 |
+## Página 000 — cena
 
-## Página 03 - Mercado e escudo (3 painéis)
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Emmergard `needs-ref`, grupo ao fundo.
 
-**Refs:** Tony, Otto genérico, comerciantes.
+#### Painel 000-a
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 03-a | canon | Mercado de Rilonde com ferraria, escudos, flechas e mapas. | - |
-| 03-b | canon | Tony negocia com humor, apontando para Alberto como financiador. | Tony D07 |
-| 03-c | canon | Tony prende o novo escudo no braço, testando peso. | Tony D08 |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+- **Cena:** ** 
 
-## Página 04 - Katana antiga (3 painéis)
+## Página 000 — cena
 
-**Refs:** Kaelion, Dustin, Tony ao fundo, katana prop.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Otto genérico, comerciantes.
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 04-a | canon | Kaelion para diante de katana antiga em expositor de mercado. | Kaelion D09 |
-| 04-b | canon | Dustin observa Kaelion e o grupo com suspeita prática. | Dustin D10 |
-| 04-c | inferred | Close na lâmina refletindo Kaelion e uma sombra do passado/mestre. | - |
+#### Painel 000-a
 
-## Página 05 - O plano da carroça (4 painéis)
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+- **Cena:** ** 
 
-**Refs:** Tony, Dustin, Kaelion, Bartrock normal, Nightwolf, Emmergard.
+## Página 000 — cena
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 05-a | canon | Grupo ao redor do mapa de rota; Tony define funções. | Tony D11 |
-| 05-b | canon | Tony aponta para si e Bartrock perto da carroça. | Tony D12 |
-| 05-c | canon | Tony se vira para Nightwolf, sério. | Tony D13 |
-| 05-d | canon | Nightwolf se afasta para a zona residencial; carroça espera ao fundo. | - |
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Kaelion, Dustin, Tony ao fundo, katana prop.
 
-## Página 06 - Casa de Lucian e Celeste (3 painéis)
+#### Painel 000-a
 
-**Refs:** Lucian, Nightwolf, Tony pequeno, casa.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+- **Cena:** ** 
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 06-a | canon | Tony se despede alto demais na rua diante da casa de Lucian. | Tony D14 |
-| 06-b | canon | Nightwolf se esconde no arbusto, evitando linha de visão pela janela. | Nightwolf D15 |
-| 06-c | canon | Janela âmbar da casa imóvel; silhuetas sugeridas, nada claro. | - |
+## Página 000 — cena
 
-## Página 07 - Telhados (3 painéis)
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Dustin, Kaelion, Bartrock normal, Nightwolf, Emmergard.
 
-**Refs:** Nightwolf.
+#### Painel 000-a
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 07-a | canon | Nightwolf escala beco e telhado em silêncio, com cidade escura abaixo. | - |
-| 07-b | canon | Ele se posiciona nas sombras com vista para a casa. | Nightwolf D16 |
-| 07-c | canon | Um uivo distante corta a noite; lembrança visual dos lobos da cabana. | SFX D17 |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 
 
-## Página 08 - A perseguição (3 painéis)
+## Página 000 — cena
 
-**Refs:** Nightwolf, criatura lupina `needs-ref`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Lucian, Nightwolf, Tony pequeno, casa.
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 08-a | canon | Silhueta grande salta dois telhados atrás de Nightwolf. | - |
-| 08-b | canon | Nightwolf olha por cima do ombro, percebendo que é o alvo. | Nightwolf D18 |
-| 08-c | canon | Criatura se aproxima de telhado em telhado, só olhos vermelhos claros. | - |
+#### Painel 000-a
 
-## Página 09 - Telha falsa (3 painéis)
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Lucian | nervous urban man, worn good clothes | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lucian-eq-inicial` |
+- **Cena:** ** 
 
-**Refs:** Nightwolf, criatura lupina.
+## Página 000 — cena
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 09-a | canon | Nightwolf pisa em telha falsa; ela quebra. | SFX D19 |
-| 09-b | canon | Nightwolf cai no chão do beco, arco ainda na mão. | - |
-| 09-c | canon | Cabeça de lobo grande surge no beiral acima, braços longos, saliva caindo. | SFX D20 |
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf.
 
-## Página 10 - Flecha de sinal (3 painéis)
+#### Painel 000-a
 
-**Refs:** Nightwolf, Dustin, Bartrock, Kaelion.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+- **Cena:** ** 
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 10-a | canon | Mesmo caído, Nightwolf atira flecha flamejante para cima. | SFX D21 |
-| 10-b | canon | Dustin e Bartrock veem o traço de fogo cruzar o céu. | Dustin D22 |
-| 10-c | canon | Dustin decide correr, deixando Kaelion/Bartrock cientes da carroça. | Dustin D23 |
+## Página 000 — cena
 
-## Página 11 - Tony escolhe (4 painéis)
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, criatura lupina `needs-ref`.
 
-**Refs:** Tony, Bartrock, Emmergard, Kaelion, carroça.
+#### Painel 000-a
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 11-a | canon | Bartrock pergunta se deve ir ajudar Nightwolf. | Bartrock D24 |
-| 11-b | canon | Tony segura decisão: Bartrock deve ficar, Emmergard pega a maça. | Tony D25 |
-| 11-c | canon | Tony se vira para sair correndo. | Tony D26 |
-| 11-d | canon/humor | Kaelion, nervoso, solta a fala recorrente. | Kaelion D27 |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+- **Cena:** ** 
 
-## Página 12 - Garras e luz roxa (3 painéis)
+## Página 000 — cena
 
-**Refs:** Nightwolf, criatura, Celeste silhueta.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, criatura lupina.
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 12-a | canon | Nightwolf se levanta diante da criatura lupina humanoide. | - |
-| 12-b | canon | A criatura corta a barriga de Nightwolf com garras. | SFX D28 |
-| 12-c | canon | Atrás da criatura, uma silhueta com luz roxa ergue a mão. | Narrador D29 |
+#### Painel 000-a
 
-## Página 13 - Memória (3 painéis)
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+- **Cena:** ** 
 
-**Refs:** Nightwolf, criatura, Celeste silhueta.
+## Página 001 — cena
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 13-a | canon | Close em Nightwolf sangrando, olhos vermelhos arregalados, aura roxa tentando entrar. | Narrador D30 |
-| 13-b | canon | Montagem de memórias quebrando: telhado, Celeste, lobo, carroça. | Narrador D31 |
-| 13-c | canon | Nightwolf apaga por um instante enquanto a criatura o segura. | - |
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, Dustin, Bartrock, Kaelion.
 
-## Página 14 - O que aconteceu aqui? (3 painéis)
+#### Painel 001-a
 
-**Refs:** Tony, Dustin, Nightwolf.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 14-a | canon | Tony e Dustin chegam ao beco; Nightwolf acorda ferido. | Dustin D32 |
-| 14-b | canon/humor | Tony tenta aliviar com provocação ao ver Nightwolf maior/ferido. | Tony D33 |
-| 14-c | canon | Nightwolf toca a cabeça, confuso. | Nightwolf D34 |
+## Página 001 — cena
 
-## Página 15 - Carroça intacta (3 painéis)
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Bartrock, Emmergard, Kaelion, carroça.
 
-**Refs:** Tony, Dustin, Nightwolf, Bartrock, Kaelion, Emmergard, carroça.
+#### Painel 001-a
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 15-a | canon | Nightwolf caminha com apoio, feridas fechando, sangue na roupa. | Nightwolf D35 |
-| 15-b | canon | Dustin decide voltar à missão. | Dustin D36 |
-| 15-c | canon | No destino, carroça descarregando; Bartrock/Kaelion relatam que foi tranquilo. | Bartrock D37 |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 
 
-## Página 16 - Aura roxa (4 painéis)
+## Página 001 — cena
 
-**Refs:** Bartrock normal, Nightwolf, Tony, Dustin, Kaelion, Emmergard.
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, criatura, Celeste silhueta.
 
-| ID | Tag | Cena | Fala |
-|---|---|---|---|
-| 16-a | canon | Bartrock lembra estudos arcanos e explica magia mental. | Bartrock D38 |
-| 16-b | canon | Bartrock levanta a mão, usando Detect Magic diante de Nightwolf. | Bartrock D39 |
-| 16-c | canon | Aura roxa aparece ao redor da cabeça de Nightwolf, visível só para Bartrock. | Bartrock D40 |
-| 16-d | canon | Último quadro: grupo em silêncio, Bartrock confirma feitiço. | Bartrock D41 |
+#### Painel 001-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
+- **Cena:** ** 
+
+## Página 001 — cena
+
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, criatura, Celeste silhueta.
+
+#### Painel 001-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
+- **Cena:** ** 
+
+## Página 001 — cena
+
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Dustin, Nightwolf.
+
+#### Painel 001-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+- **Cena:** ** 
+
+## Página 001 — cena
+
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Tony, Dustin, Nightwolf, Bartrock, Kaelion, Emmergard, carroça.
+
+#### Painel 001-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 
+
+## Página 001 — cena
+
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
+- **Refs:** ** Bartrock normal, Nightwolf, Tony, Dustin, Kaelion, Emmergard.
+
+#### Painel 001-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Kaelion | muscular elf warrior, dark samurai lamellar, two katanas | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `kaelion-eq-inicial` |
+| Bartrock | gaunt elven mage, corpse-pale, eye bags, dark cloak, grimoire, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `bartrock-eq-inicial` |
+- **Cena:** ** 

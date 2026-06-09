@@ -17,7 +17,7 @@ status: ativo
 
 - [x] 10 páginas geradas (ChatGPT) → [[pages/README|pages/]]
 - [x] `quartz/static/comic/cap-01-sessao-01/001.webp`–`010.webp`
-- [x] `chapters.json` → `status: ready` · `reader.js` catalog v4
+- [x] `chapters.json` → `status: docs-ready
 - [x] `npm run comic:webp` + `npm run copy:comic`
 
 **Revisão opcional:** P07 gola / Nightwolf vs ref — ver [[pages/README#Revisão mesa (opcional)|notas]].
@@ -105,3 +105,10 @@ Com fala:
 - [[panels|Painéis (roteiro página a página)]]
 - [[README|Cap. 1 README]]
 - [[../../00_Style_Bible|Style Bible]]
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

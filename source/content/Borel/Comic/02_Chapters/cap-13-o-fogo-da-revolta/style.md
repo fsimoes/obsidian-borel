@@ -1,38 +1,35 @@
-﻿---
+---
 title: "Style - Cap. 13"
-type: comic-style
-status: preimage-approved
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-13
+status: docs-ready
 ---
 
 # Style - Cap. 13
 
-Usar o look T2 do `Comic/00_Style_Bible.md`: graphic novel fantasia europeia, digital detalhado, influência de tinta/cel shading, paleta terrosa, luz cinematográfica.
+## Base
 
-## Prefixo obrigatório
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-## Avoid obrigatório
+## Refs a anexar (ordem)
 
-```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font.
-```
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-## Ajustes do Capítulo
-- Mais cinza e fumacento que o cap. 12; evitar paleta heroica limpa.
-- Campo com feridos/corpos cobertos sem gore gráfico.
-- Maga inimiga em roxo/vinho para contrastar com fogo e cinzas.
-- Castelo da Baronesa deve parecer distante e ameaçador, não palco do confronto ainda.
-- balões em português de `dialogues.md`; cenas de combate podem ficar sem fala para legibilidade.
+## Direção
 
-## Refs anexar
-- PCs: Tony, Nightwolf, Dustin, Bartrock, Kaelion, Borin, Trash.
-- NPC: Rita Dente de Bronze.
-- Inimigo: Maga do Quartel Sul.
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
 
 
+## Arte atual
 
-
-
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

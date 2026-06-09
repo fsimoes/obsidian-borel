@@ -7,13 +7,57 @@ tags:
   - comic/style-bible
 tool: chatgpt-image
 lettering: ai
-version: "2026-06-02"
+version: "2026-06-05"
 status: ativo
 ---
 
 # Style Bible — O Legado de Rilonde (quadrinho)
 
 Documento **fonte da verdade** para gerar arte no ChatGPT. Baseado no [[AI_Tool_Comparison/03_Decisao|bake-off ChatGPT T1–T5]].
+
+---
+
+## Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)
+
+**Padrão atual para caps 0–15.** Base Cap. 1 aprovado + comédia exagerada (reações grandes, corpo legível, sem chibi).
+
+| Elemento | Valor |
+|----------|--------|
+| Snippet copiável | [[03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] |
+| Poses por painel | [[03_Templates/Pose_Prompt_Block|Pose_Prompt_Block.md]] |
+| Cap. 5 referência ouro | [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/panels|panels.md]] + [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/prompt-all-pages|prompt-all-pages.md]] |
+| Ref piloto humor | `Referencias/style/cap-v3-humor-piloto.png` (bake-off: Cap. 5 pág. 004) |
+
+### Prefixo v2 (obrigatório — todos os capítulos)
+
+```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+```
+
+### Avoid v2 (final de cada mensagem)
+
+```text
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces.
+```
+
+### Refs de estilo (anexar em toda geração de página)
+
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando disponível)
+
+### Personagens
+
+- Copiar bloco **LOCKED** do [[01_Cast_Model_Sheets/index|model sheet]] + equipamento `eq-*` do capítulo.
+- **Toda página:** tabela de poses em `panels.md` + linha `CHARACTERS & POSES` em `prompt-all-pages.md` (ver [[03_Templates/Pose_Prompt_Block|Pose_Prompt_Block]]).
+
+### Paleta e mood v2
+
+- Luz **quente e legível** mesmo à noite (âmbar, tocha, janelas); azul profundo no céu, não preto chapado.
+- Humor de mesa: timing visual, vergonha, físico, reações exageradas; tensão e ritual podem ser sérios mas **sem** graphic novel sombrio.
+- Gore moderado só quando o roteiro exige; comédia física sem crueldade gráfica.
+
+**Status documental:** caps com `panels`+`prompts` v2 = `docs-ready`; arte antiga (graphic novel) = `images-pending-regen` até nova geração.
 
 ---
 
@@ -27,9 +71,9 @@ A mesa aprovou o visual **webcomic cel-shade** (teste Dustin *Traidor!*; painel 
 | Prompt 10 páginas | [[02_Chapters/cap-01-negociacoes-frustradas/prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]] |
 | Refs de estilo | `cap-01-estilo-aprovado-dustin-traidor.png`, `cap-01-estilo-aprovado-gola.png` |
 
-**Regra:** ao gerar Cap. 1+, anexar **2 refs de estilo + refs de personagem** (ver prompt). Não usar o prefixo graphic novel abaixo neste capítulo.
+**Regra:** Cap. 1 usa o mesmo **prefixo v2** acima; histórico em [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style-tirinha.md]]. Anexar **2 refs de estilo + refs de personagem**.
 
-Outros capítulos / retratos novos: continuam com **T2** (graphic novel) até a mesa aprovar outro registro.
+Caps 2–7 publicados com graphic novel escuro: **regenerar** com v2 quando `docs-ready` (ver `production.md` de cada cap).
 
 ---
 
@@ -55,7 +99,7 @@ O bake-off mostrou registros aceitáveis; o projeto usa **dois looks** conforme 
 | **Ambiente** | [[AI_Tool_Comparison/results/chatgpt-image/T1-taverna.png\|T1]] | Graphic novel, hachura, taverna quente | Cenários sem elenco fixo |
 | **Personagens** | [[AI_Tool_Comparison/results/chatgpt-image/T2-tony-retrato.png\|T2]], [[AI_Tool_Comparison/results/chatgpt-image/T2b-nightwolf-retrato.png\|T2b]] | Ilustração digital cinematográfica, retratos | Retratos `eq-*`, caps futuros |
 
-**Regra prática:** Cap. 1 → prefixo em [[02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style-tirinha]]. Demais caps → **T2** até nova aprovação da mesa.
+**Regra prática:** Todos os caps → **prefixo v2** (seção acima). T2 graphic novel abaixo = **legado** (só referência histórica do bake-off).
 
 ### Paleta e mood
 
@@ -70,19 +114,17 @@ O bake-off mostrou registros aceitáveis; o projeto usa **dois looks** conforme 
 
 ---
 
-## Blocos de prompt (copiar em toda geração)
+## Blocos de prompt (legado T2 — não usar em caps novos)
 
-### Prefixo de estilo (obrigatório)
+> Usar **prefixo v2** da seção «Borel Funny Webcomic». Blocos abaixo = bake-off 2026, mantidos só como arquivo.
 
-Colar no **início** de cada mensagem ChatGPT:
+### Prefixo graphic novel (legado)
 
 ```
 Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
 ```
 
-### Linha Avoid (obrigatória)
-
-Colar no **final** de cada mensagem:
+### Avoid graphic novel (legado)
 
 ```
 Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font.

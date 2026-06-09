@@ -1,7 +1,7 @@
 ---
 title: "Production - Cap. 6"
 type: comic-production
-status: ready
+status: docs-ready
 target_pages: 16
 ---
 
@@ -47,3 +47,10 @@ Preimage review aprovado em `review.md`. Refs pendentes, capa e paginas finais f
 - [x] Criatura no tanque aparece nas paginas 011 e/ou 014.
 - [x] Armazem 568 nao parece deposito comum.
 - [x] Recompensa e pergunta final aparecem na pagina 016.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

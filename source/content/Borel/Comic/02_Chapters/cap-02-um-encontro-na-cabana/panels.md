@@ -5,160 +5,140 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-02
-status: draft
+status: docs-ready
 target_pages: 10
 fidelity: mesa
 ---
 
-# Painéis — Um Encontro na Cabana (**10 páginas**)
+# Painéis — Cap. 2 (v2 humor + poses)
 
-> **Canon mesa jun/2026** · Falas: [[dialogues|dialogues.md]] · Prompt: [[prompt-all-pages|prompt-all-pages.md]]
+> Poses espelhadas em `prompt-all-pages.md`. Arte: `images-pending-regen`.
 
-## Regra de elenco (10 páginas bastam)
 
-**Nem todo PC/NPC em toda página.** Uma cena = só quem importa para aquele beat. Figurantes (guardas, cães) sem ref individual.
+## Página 001 — cena
 
-| Pág. | Aparecem (refs) | Não precisam aparecer |
-|------|-----------------|------------------------|
-| 01 | — (só cabana) | todos |
-| 02 | Dustin, Nightwolf, Lord Bart | Tony, Nikov |
-| 03 | + Tony, Nikov | guardas |
-| 04 | Tony, capitã, trio → porão | Nikov (pode estar fora de quadro) |
-| 05 | Dustin, capitã, guardas | Tony, Nikov, Nightwolf, Bart |
-| 06 | Tony, Nikov, cães, guardas | trio no porão |
-| 07 | Nightwolf, Dustin, Lord Bart (porão/janela) | Tony/Nikov só como sombra ou gritos lá em cima |
-| 08 | Lord Bart, Nikov, Tony | Dustin, Nightwolf |
-| 09 | Lord Bart, 1 guarda | resto do grupo |
-| 10 | **P10-a:** só Bart + Nikov na cama (vista de cima). **P10-b/c:** sobreviventes | guardas, cães |
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
 
-**10 imagens ChatGPT** continuam válidas com esta distribuição.
+#### Painel 001-a
 
----
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** Floresta à noite, cabana isolada, tochas ao longe
 
-## Página 01 — Capa
+## Página 002 — cena
 
-**Arquivo:** `001.webp` · splash
+- **Arquivo:** `002.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart, Nightwolf, Dustin
 
-| ID | Cena | Fala |
-|----|------|------|
-| 01-a | Floresta à noite, cabana isolada, tochas ao longe | **Um Encontro na Cabana** · Capítulo 2 |
+#### Painel 002-a
 
----
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | running, urgent stride | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | running, urgent stride | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | running, urgent stride | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+| Guardas | Rilonde cargo guards, simple armor, tired workers | running, urgent stride | focused, readable emotion | toward action center | `guardas-eq-inicial` |
+- **Cena:** ** **GRANDE:** três fogem de **Rilonde** (luzes da cidade ao longe); guardas na trilha
 
-## Página 02 — Floresta (3 painéis)
+## Página 003 — cena
 
-**Refs:** Lord Bart, Nightwolf, Dustin
+- **Arquivo:** `003.webp`
+- **Painéis:** 1
+- **Refs:** ** + Tony, Nikov
 
-| ID | Cena | Fala |
-|----|------|------|
-| 02-a | **GRANDE:** três fogem de **Rilonde** (luzes da cidade ao longe); guardas na trilha | Nightwolf: ver [[dialogues\|dialogues]] |
-| 02-b | Cabana entre a vegetação, luz fraca | Dustin: ver [[dialogues\|dialogues]] |
-| 02-c | Lord Bart ferido mas **acordado**, apoiado no ombro de Dustin | — |
+#### Painel 003-a
 
----
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Tony | human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak red lining, lion shield | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `tony-eq-inicial` |
+| Nikov | warrior companion, swords visible | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nikov-eq-inicial` |
+- **Cena:** ** Interior: Tony e Nikov descansam (espadas/armadura visíveis)
 
-## Página 03 — Convencer Tony e Nikov (4 painéis)
+## Página 004 — cena
 
-**Refs:** + Tony, Nikov
+- **Arquivo:** `004.webp`
+- **Painéis:** 1
 
-| ID | Cena | Fala |
-|----|------|------|
-| 03-a | Interior: Tony e Nikov descansam (espadas/armadura visíveis) | — |
-| 03-b | Porta abre; trio suado, desesperado | Dustin: **A gente precisa de abrigo. Agora.** |
-| 03-c | Nikov e Tony trocam olhar | Nikov: **…Entrem. Rápido.** |
-| 03-d | Todos dentro; Nikov aponta alçapão | Tony: **Para o porão, agora.** |
+#### Painel 004-a
 
----
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Guardas | Rilonde cargo guards, simple armor, tired workers | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `guardas-eq-inicial` |
+- **Cena:** ** Exterior: guardas e capitã na trilha
 
-## Página 04 — Porão (4 painéis)
+## Página 005 — cena
 
-| ID | Cena | Fala |
-|----|------|------|
-| 04-a | Exterior: guardas e capitã na trilha | Capitã: **Revistem a cabana!** |
-| 04-b | Tony na sala tenta conversar / atrasar | Tony: **Calma! Não tem ninguém aqui—** |
-| 04-c | Trio desce ao porão escuro | — |
-| 04-d | Vista de cima: Tony sozinho face aos guardas na porta | — |
+- **Arquivo:** `005.webp`
+- **Painéis:** 1
 
----
+#### Painel 005-a
 
-## Página 05 — Bomba (4 painéis) **obrigatória**
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+- **Cena:** ** Capitã abre alçapão; luz no rosto de Dustin
 
-| ID | Cena | Fala |
-|----|------|------|
-| 05-a | Capitã abre alçapão; luz no rosto de Dustin | — |
-| 05-b | Dustin no porão, mãos erguidas, ameaça | Dustin: **Tem uma bomba aqui embaixo!** |
-| 05-c | Guardas em pânico correm **para fora** da casa | Guarda: **Pra fora! Pra fora!** |
-| 05-d | Casa vazia de uniformes; silêncio | — |
+## Página 006 — cena
 
----
+- **Arquivo:** `006.webp`
+- **Painéis:** 1
 
-## Página 06 — Porta + cães (3 painéis)
+#### Painel 006-a
 
-**Elenco:** Tony, Nikov, cães, capitã · **sem** trio no porão
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** Capitã de fora
 
-| ID | Cena | Fala |
-|----|------|------|
-| 06-a | Capitã de fora | Capitã: **Era blefe. Arrombem.** |
-| 06-b | **GRANDE:** Tony e Nikov **seguram a porta** | Tony: **Aqui vocês não passam!** |
-| 06-c | **Tony** vs **4 cachorros** (Nikov pode estar fora de quadro ou só braço/ombro) | — |
+## Página 007 — cena
 
----
+- **Arquivo:** `007.webp`
+- **Painéis:** 1
 
-## Página 07 — Porão + guardas (3 painéis)
+#### Painel 007-a
 
-**Elenco:** Nightwolf, Dustin, Lord Bart · Nikov vs guardas **só em silhueta/som** no painel C
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+- **Cena:** ** Porão: Nightwolf flecha pela fresta; Dustin apoia
 
-| ID | Cena | Fala |
-|----|------|------|
-| 07-a | Porão: Nightwolf flecha pela fresta; Dustin apoia | — |
-| 07-b | Lord Bart prepara firebolt (janela baixa do porão) | — |
-| 07-c | **Som de luta lá em cima**; Nikov (silhueta ou perna) vs **guardas** — texto off-panel ok | Nikov: **Segurem mais um pouco!** |
+## Página 008 — cena
 
----
+- **Arquivo:** `008.webp`
+- **Painéis:** 1
 
-## Página 08 — Fogo amigo (**obrigatória**)
+#### Painel 008-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 08-a | Lord Bart mirando (expressão confiante) | — |
-| 08-b | **GRANDE:** bola de fogo **atinge Nikov** (não o alvo pretendido) | SFX: **FWOOSH!** |
-| 08-c | Nikov cai; Tony grita | Tony: **Nikov!** |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Lord Bart mirando (expressão confiante)
 
----
+## Página 009 — cena
 
-## Página 09 — Morte de Bart (3 painéis)
+- **Arquivo:** `009.webp`
+- **Painéis:** 1
 
-| ID | Cena | Fala |
-|----|------|------|
-| 09-a | Lord Bart ferido, pânico, corre para **fundos** da casa | Lord Bart: **Eu não morro aqui!** |
-| 09-b | Fundos: Bart de cara com **guarda** | — |
-| 09-c | Guarda ataca; Bart cai | SFX: **THUNK!** |
+#### Painel 009-a
 
----
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | dynamic lunge or impact pose | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Lord Bart ferido, pânico, corre para **fundos** da casa
 
-## Página 10 — Epílogo (**cena final = cama**) 
+## Página 010 — cena
 
-**Layout:** 1 painel **GRANDE** (cama) + 2 pequenos em baixo · **Sem** sobreviventes no painel da cama
+- **Arquivo:** `010.webp`
+- **Painéis:** 1
 
-| ID | Cena | Fala |
-|----|------|------|
-| 10-a | **GRANDE (~70%):** **plano superior (vista de cima)** — cama de casal; **Lord Bart** e **Nikov** deitados lado a lado, vistos **de cima**, **por baixo das cobertas até ao pescoço**; **só as cabeças ficam de fora**. Sem roupa, armadura, ombros, peito, braços ou pernas visíveis. Quarto escuro à volta. **Cena final do capítulo.** Sem texto. | — |
-| 10-b | Dustin segura **katana** de Nikov (só Dustin) | Dustin: **A katana fica comigo.** |
-| 10-c | Estrada ao amanhecer; três silhuetas seguem rumo a Rilonde | Nightwolf: **Vamos para Rilonde.** |
+#### Painel 010-a
 
-**Notas arte:** ângulo **top-down** / bird's-eye, não lateral. Cobertas claras o suficiente para ler **dois corpos**; só cabeças visíveis fora da coberta. Tom respeitoso, sem nudez visível e sem gore — o leitor entende que estão mortos.
-
-**Fim Cap. 2**
-
----
-
-## Resumo
-
-| Obrigatório | Pág. |
-|-------------|------|
-| Bomba (Dustin) | 05 |
-| Porta Tony+Nikov | 06 |
-| Cães (Tony P06) · guardas (sugestão P07) | 06–07 |
-| Fireball em Nikov | 08 |
-| Bart morto nos fundos | 09 |
-| **Cama vista de cima** (final) + katana / estrada | 10 |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+| Nikov | warrior companion, swords visible | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nikov-eq-inicial` |
+- **Cena:** ** **GRANDE (~70%):** **plano superior (vista de cima)** — cama de casal; **Lord Bart** e **Nikov** deitados lado a lado, vistos **de cima**, **por baixo das cobertas até ao pescoço**; **só as cabeças ficam de fora**. Sem roupa, armadura, ombros, peito, braços ou pernas visíveis. Quarto escuro à volta. **Cena final do capítulo.** Sem texto.

@@ -1,25 +1,35 @@
 ---
 title: "Style - Cap. 14"
-type: comic-style
-status: preimage-approved
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-14
+status: docs-ready
 ---
 
 # Style - Cap. 14
 
-Usar o padrão do `Comic/00_Style_Bible.md` para caps pós-piloto:
+## Base
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-## Ajustes do capítulo
-- Guerra urbana: fuligem, fumaça, pedra cinza, vermelho de incêndio.
-- Evitar gore explícito nas execuções; usar silhuetas, sombras e reações.
-- Balões curtos e em português brasileiro.
-- Capa e páginas com leitura clara, sem texto em inglês.
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-## Refs obrigatórias antes de imagem
-- PCs: `Referencias/pcs/*.png`.
-- Rita: gerar ref/model sheet.
-- Ivan: gerar ref/model sheet.
-- Megard/Emmergard: gerar ref se aparecer em close.
+## Refs a anexar (ordem)
+
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
+
+## Direção
+
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
+
+
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

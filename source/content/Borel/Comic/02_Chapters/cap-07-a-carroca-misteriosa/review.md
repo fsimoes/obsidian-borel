@@ -57,3 +57,7 @@ Plano aprovado para geracao de imagens. Status de producao inicial: `ready-for-i
 ## Resultado
 
 Status final: `ready`.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

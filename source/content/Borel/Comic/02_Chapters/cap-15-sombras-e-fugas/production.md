@@ -1,7 +1,7 @@
 ---
 title: "Production - Cap. 15"
 type: comic-production
-status: ready-for-image-generation
+status: docs-ready
 target_pages: 16
 ---
 
@@ -26,3 +26,10 @@ Só copiar para `source/quartz/static/comic/cap-15-sessao-15/` depois de existir
 
 ## Revisão pós-imagem
 Pendente por ausência de imagens.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

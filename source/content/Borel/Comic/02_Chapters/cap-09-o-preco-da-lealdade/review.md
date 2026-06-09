@@ -38,3 +38,7 @@ Status: `preimage-approved`.
 ## Pos-imagem
 
 Ainda nao executado. Revisar texto, Rita, Kaelion, Trash, contraste Cidadela/taverna e nomes sequenciais quando as paginas forem geradas.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

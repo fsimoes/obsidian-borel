@@ -118,3 +118,7 @@ As artes de **galpao** e **taverna** tinham sido salvas com numeros trocados (`0
 - Personagens criticos: Nightwolf ranger humanoide; Bartrock normal/ressuscitado; Emmergard loira/germanica; Celeste com mascara/olhos roxos.
 - Pendencia final: cap. 4 ainda contem historico/arte anterior de Emmergard ruiva; nao foi regenerado neste pedido.
 - Status final: `ready`.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

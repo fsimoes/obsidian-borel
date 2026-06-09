@@ -1,182 +1,304 @@
 ---
 title: "Prompt All Pages - Cap. 5"
-type: comic
-tags:
-  - rpg/borel
-  - tipo/comic
-  - comic/cap-05
-status: preimage-approved
-target_pages: 20
+status: docs-ready
 ---
 
-# Prompt All Pages - Cap. 5
+# Prompt All Pages - Cap. 5 (v2)
 
-## Prefixo Obrigatorio
+## Antes de colar
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+1. Nova conversa ChatGPT.
+2. Anexar refs de estilo (ver `style.md`) + refs de personagem do capítulo.
+3. Uma conversa por capítulo.
 
-## Personagens Fixos
-
-Usar refs aprovadas quando anexadas:
-
-- Tony Tigger: human fighter-paladin, weathered silver plate, gold d20 breast emblem, white cloak with dark red lining, lion shield.
-- Nightwolf: drow ranger, charcoal-black skin, red eyes, long black hair, olive cloak, bow, smoking dagger. Humanoid ranger only, never werewolf.
-- Dustin: lean human ranger-rogue, dark leather, ornate recurve bow, green gem ring.
-- Kaelion: muscular elf warrior, dark samurai lamellar armor, two katanas.
-- Bartrock: normal/resurrected elven mage, gaunt corpse-pale, deep eye bags, dark cloak, grimoire, no mask, no corruption.
-- Amagard/Emmergard: compact strong blonde Germanic warrior woman, practical mercenary clothes, friendly but firm; blonde hair is mandatory, not red-haired.
-- Lucian: nervous urban man in worn good clothes, not monstrous.
-- Celeste: elegant young woman, dark burgundy expensive clothes, silver metal half-mask, violet eyes when casting.
-- Lobos: large dark magically controlled wolves, amber/violet eyes, not Nightwolf.
-
-Avoid final para todas:
+## Prefixo v2
 
 ```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside speech bubbles, misspelled Portuguese, werewolf Nightwolf, Bartrock mask, Bartrock corrupted hand, red-haired Emmergard, brunette Emmergard, black-haired Emmergard.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
 ```
 
-## Refs/model sheets a gerar antes das paginas
-
-### Celeste
+## Avoid v2
 
 ```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes. Character model sheet portrait of Celeste, elegant young human or half-elf woman, refined dark hair, beautiful cold face, luminous violet eyes, slim expensive dark burgundy urban dress, holding a silver metal half-mask with delicate engraved lines, subtle violet magic around one hand, waist-up and small three-expression strip, neutral gray background, no text, no speech bubbles.
-
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, text, speech bubble, caption, extra fingers, extra arms, deformed hands, bad anatomy, English text, full helmet, monster face, heavy armor, Bartrock mask.
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
-### Criaturas lupinas
-
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes. Creature concept sheet of magically controlled dark wolves for a medieval fantasy comic, three variations, large lean black-gray wolves with high shoulders, long claws, sharp silhouettes, amber eyes with subtle violet magical glow, dirty fur, tense predatory poses, neutral dark background, no text, no speech bubbles.
-
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, text, speech bubble, caption, cute furry style, humanoid ranger, bows, cloaks, excessive gore, Nightwolf identity.
-```
-
-## Paginas
+## Páginas
 
 ### 001
 
 ```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 001 ---
 Use attached refs for Tony Tigger and Nightwolf. Full comic page, 3 panels. Medieval Rilonde delivery stable at night, guards unloading crates under amber lamps, cold blue street light. Tony in silver plate notices an empty space in the cargo. Nightwolf points to memory of a dark perforated crate with eyes. Include exactly four Portuguese speech bubbles: Tony "Eu nao to vendo aquela caixa."; Nightwolf "Eu olhei la dentro e vi olhos."; guard "Caixa furada? Nao tem nenhuma aqui."; second guard "Mantenham distancia. Se perder caixa, sai do nosso salario." Clear left-to-right reading.
+Panel A — CHARACTERS & POSES: Tony (waist-up, facing camera angle, focused, readable emotion); Nightwolf (waist-up, facing camera angle, focused, readable emotion); Guardas (waist-up, facing camera angle, focused, readable emotion); Figurante (waist-up, facing camera angle, focused, readable emotion).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 002
 
 ```text
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 002 ---
 Use refs for Tony, Nightwolf, Kaelion, Amagard. Full comic page, 4 panels in the stable street. Tony attempts an exaggerated "discreet" wink to allies; Amagard, compact strong blonde Germanic warrior woman in practical mercenary clothes, looks offended; the group freezes. Speech bubbles: Tony "Era so uma cerveja."; Amagard "Sou uma mulher casada."; Amagard "Com certeza. Eu aposto que e so uma cerveja." Humor without caricature. Amagard must have blonde hair, not red hair.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Nightwolf (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Kaelion (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Amagard (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 003
 
 ```text
-Use refs for Dustin, Nightwolf, Tony. Full comic page, 3 panels. Dark alley where Nightwolf was found, claw marks on wall, small blood trail on stone, Dustin kneeling with focused face. Speech bubbles: Dustin "Tem sangue por aqui."; Dustin "Quem lutou com Nightwolf esta mancando." No gore, just investigation.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 003 ---
+Layout: 3 panel(s). beco/rua onde Nightwolf caiu; Dustin ajoelhado junto a marcas de garra; sangue aponta para rua.
+Panel A — CHARACTERS & POSES: Tony (kneeling, investigating, focused, readable emotion); Nightwolf (kneeling, investigating, focused, readable emotion); Dustin (kneeling, investigating, focused, readable emotion).
+Bubbles: see dialogues.md (D008, D009.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 004
 
 ```text
-Use refs for Tony, Dustin, Kaelion. Full comic page, 4 panels. Night plaza, elderly man with cane limping; Tony in armor charges; comic impact as Tony tackles him without injury; Kaelion rushes in. Speech bubbles: Tony "Eu corro e dou um tackle."; old man "Ai, meu Deus!"; Kaelion "Solte ele, menino!" Physical comedy, readable action.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 004 ---
+Layout: 2×2 grid, night plaza, warm amber lanterns, readable cel-shade (NOT dark graphic novel).
+Panel A — CHARACTERS & POSES: Tony Tigger (wide stance, manic grin, coiled to sprint, eyes on old man); Old man (limping with cane, innocent tired face).
+Panel B — CHARACTERS & POSES: Tony (mid-air lunge tackle, ecstatic face, arms wrapped); Old man (lifted off ground, terror, cane flying).
+Panel C — CHARACTERS & POSES: Tony (pinning old man on cobbles, proud oblivious smile); Old man (dazed stars); Kaelion (running in, horrified); Dustin (running behind, appalled).
+Panel D — CHARACTERS & POSES: Kaelion (grabbing Tony's pauldron, angry yell); Tony (sheepish, hand up); Old man (whimpering on ground).
+Bubbles: Tony thought "Eu corro e dou um tackle."; Old man "Ai, meu Deus!"; Kaelion "Solte ele, menino!"
+Slapstick physical comedy, exaggerated expressions, no gore.
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 005
 
 ```text
-Use refs for Tony, Kaelion, Dustin, Nightwolf. Full comic page, 3 panels. Aftermath in plaza, Tony ashamed, old man terrified, subtle wet stain on old man's pants and splash on Tony armor, group embarrassed and returning to lost trail. Speech bubbles: Tony "Eu so vou seguir voces agora. Desculpa."; Kaelion "O pior e que agora eu to mijado do velho."; Tony "Quase tirei critico no velho." Keep tasteful, no crude visual exaggeration.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 005 ---
+Layout: 3 panel(s). Tony solta o idoso; mancha de urina discreta nas calcas do velho e armadura de Tony; grupo constrangido; voltam ao rastro perdido.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Nightwolf (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Dustin (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Kaelion (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace).
+Bubbles: see dialogues.md (D013, D014, D015.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 006
 
 ```text
-Use refs for Tony, Dustin, Nightwolf, Kaelion, Bartrock, Amagard. Full comic page, 3 panels. Exterior of Alberto's closed warehouse at night, light through cracks, shadowy movement inside, small alarm bell near door, group watches and chooses to withdraw. Speech bubble: Tony "A gente ja esta fazendo bastante confusao aqui." Tense urban stealth.
-Amagard/Emmergard must be a compact strong blonde Germanic warrior woman, practical mercenary clothes, not red-haired.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 006 ---
+Layout: 3 panel(s). galpao de Alberto fechado, luz por frestas, movimento interno; grupo observa sem invadir; sombra de sino/alarme.
+Panel A — CHARACTERS & POSES: Alberto (crouched or standing watch, alert, focused, readable emotion).
+Bubbles: see dialogues.md (D018.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 007
 
 ```text
-Use refs for Tony and Amagard. Full comic page, 4 panels. Warm tavern A Enguia Roxa, mugs on table, Tony tries conversation, Amagard explains calmly. Speech bubbles: Amagard "Foi o senhor Alberto que me deu esse trabalho."; Amagard "Ele quer descobrir quem esta atrapalhando as carrocas." Include background adventurers, no extra readable text.
-Amagard/Emmergard must be a compact strong blonde Germanic warrior woman, practical mercenary clothes, not red-haired.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 007 ---
+Layout: 4 panel(s). Enguia Roxa; Tony e Amagard com cervejas; ela fala de Alberto; grupo escuta.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, focused, readable emotion); Amagard (standing, weight on one foot, readable silhouette, focused, readable emotion); Alberto (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D016, D017.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 008
 
 ```text
-Use refs for Alberto, Lucian, Tony, Morgana. Full comic page, 4 panels. Alberto's office with papers and cargo ledgers, Lucian leaves angry, Alberto faces Tony. Speech bubbles: Alberto "Espero que tenham vindo com boas noticias."; Lucian "Mas voce pode confiar em mim, seu Alberto."; Alberto "Lucian, ja conversamos. Por favor, saia."; Tony "Temos grandes indicios. Mas precisamos de prova."; Alberto "Voce nao e um homem de palavra, senhor Antonio?"
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 008 ---
+Layout: 4 panel(s). escritorio de Alberto; Lucian sai irritado; Alberto encara Tony; Morgana ao fundo com papeis.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, focused, readable emotion); Lucian (standing, weight on one foot, readable silhouette, focused, readable emotion); Alberto (standing, weight on one foot, readable silhouette, focused, readable emotion); Morgana (standing, weight on one foot, readable silhouette, focused, readable emotion); Rita (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D021, D022, D023, D024, D025.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 009
 
 ```text
-Use refs for Morgana, Lucian, Celeste if available. Full comic page, 3 panels. Morgana whispers near stacked papers; visual thought/memory of Lucian and elegant Celeste buying expensive clothes and jewelry; Tony and Dustin listen. Speech bubbles: Morgana "Eu odeio fazer fofoca..."; Morgana "Desde que ele arrumou essa esposa, ele gasta bastante dinheiro."
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 009 ---
+Layout: 3 panel(s). Morgana fala em voz baixa; imagem mental de Lucian e Celeste comprando coisas caras; Tony/Dustin atentos.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, focused, readable emotion); Dustin (standing, weight on one foot, readable silhouette, focused, readable emotion); Lucian (standing, weight on one foot, readable silhouette, focused, readable emotion); Celeste (standing, weight on one foot, readable silhouette, focused, readable emotion); Morgana (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D026, D027.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 010
 
 ```text
-Use refs for Nightwolf and Amagard. Full comic page, 3 panels. Templo de Chantaner, stone interior, hooded female statue holding a vessel, greenish fountain water flowing at altar, candles. Elderly priest welcomes them. Speech bubbles: Amagard "No templo de Chantaner, eles podem tentar ajudar."; Tony off-panel or small "Tudo bem voce entrar num templo?"; priest "Entrem. Podemos tentar."
-Amagard/Emmergard must be a compact strong blonde Germanic warrior woman, practical mercenary clothes, not red-haired.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 010 ---
+Layout: 3 panel(s). Amagard guia Nightwolf ao templo; estatua feminina encapuzada com fonte; sacerdote os recebe.
+Panel A — CHARACTERS & POSES: Nightwolf (standing, weight on one foot, readable silhouette, focused, readable emotion); Amagard (standing, weight on one foot, readable silhouette, focused, readable emotion); Sacerdote (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D019, D020, D028.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 011
 
 ```text
-Use ref for Nightwolf. Full comic page, 3 panels with one tall vertical panel. Nightwolf kneels by sacred fountain, priest channels ritual, green smoke surrounds Nightwolf and lifts his spirit, red eyes wide. Optional priest bubble: "Abencoada seja Chantaner." No other text. Sacred and unsettling.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 011 ---
+Layout: 3 panel(s). Nightwolf ajoelha/mergulha na fonte; sacerdote puxa energia; fumaca verde envolve o corpo; close em olhos vermelhos assustados.
+Panel A — CHARACTERS & POSES: Nightwolf (kneeling, investigating, fear, mouth open); Sacerdote (kneeling, investigating, fear, mouth open).
+Bubbles: see dialogues.md (nenhuma ou D031 como canto discreto.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 012
 
 ```text
-Use refs for Nightwolf, Celeste, Lucian. Full comic page, 4 panels inside green memory smoke. Lucian sleeping in bed, Celeste casts violet magic over his head, Nightwolf's spirit watches, Celeste turns toward window with violet eyes. Speech bubble from Nightwolf narration: "Eu vi Lucian e Celeste nas lojas caras." Visual should show memory, not current time.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 012 ---
+Layout: 4 panel(s). Nightwolf flutua em fumaca; Lucian dormindo; Celeste lancando encanto na cabeca dele; ela olha pela janela para Nightwolf.
+Panel A — CHARACTERS & POSES: Nightwolf (floating in smoke, arms loose, focused, readable emotion); Lucian (floating in smoke, arms loose, focused, readable emotion); Celeste (floating in smoke, arms loose, focused, readable emotion).
+Bubbles: see dialogues.md (D032.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 013
 
 ```text
-Use refs for Nightwolf, Celeste silhouette, Amagard. Full comic page, 4 panels. Memory of dark lupine creature attacking Nightwolf; violet eyes erase his memory; Nightwolf snaps back at temple; green apple appears at statue feet and Amagard hands it to him. Speech bubbles: Nightwolf "A estatua falou comigo."; Nightwolf "Ela olhou pra mim com olhos roxos."; Nightwolf "Tenho quase certeza de que era ela."; Amagard "E pra voce."
-Amagard/Emmergard must be a compact strong blonde Germanic warrior woman, practical mercenary clothes, not red-haired.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 013 ---
+Layout: 4 panel(s). lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+Panel A — CHARACTERS & POSES: Nightwolf (standing, weight on one foot, readable silhouette, focused, readable emotion); Amagard (standing, weight on one foot, readable silhouette, focused, readable emotion); Celeste (standing, weight on one foot, readable silhouette, focused, readable emotion); Sacerdote (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D029, D030, D033, D034.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 014
 
 ```text
-Use refs for full group. Full comic page, 3 panels. Back at tavern/private room, Nightwolf reports, group over map of Lucian's house, Tony points decisively, green apple on table. Speech bubbles: Tony "Temos grandes indicios. Mas precisamos de prova."; Tony "Ele quer a pessoa no escritorio dele." Serious planning.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 014 ---
+Layout: 3 panel(s). grupo reunido na taverna/quarto; Nightwolf relata; Tony aponta para mapa/casa; tensao sobre Alberto.
+Panel A — CHARACTERS & POSES: Tony (seated at table, leaning in, focused, readable emotion); Nightwolf (seated at table, leaning in, focused, readable emotion); Alberto (seated at table, leaning in, focused, readable emotion).
+Bubbles: see dialogues.md (D024, D035.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 015
 
 ```text
-Use refs for Dustin, Celeste, Lucian. Full comic page, 4 panels. Dustin shadows Lucian and Celeste through Rilonde streets; Celeste enters and Dustin gets a sharp headache/anger aura; at Lucian's house doorway. Speech bubbles: Celeste "Oi, meu amor. Tudo bem?"; Lucian "Senhor Dustin?"; Dustin "O senhor Alberto mandou eu vir aqui."; Dustin "Uma coisa muito estranha aconteceu ontem."
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 015 ---
+Layout: 4 panel(s). Celeste entra no galpao/escritorio e Dustin sente dor; segue casal pelas ruas; chega a casa; Lucian abre porta.
+Panel A — CHARACTERS & POSES: Dustin (standing, weight on one foot, readable silhouette, focused, readable emotion); Lucian (standing, weight on one foot, readable silhouette, focused, readable emotion); Celeste (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D036, D037, D038, D039.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 016
 
 ```text
-Use refs for Dustin, Lucian, Celeste, Tony. Full comic page, 4 panels. Interior of Lucian's modest house, Dustin awkwardly entering, Celeste startled across room, Lucian accusing, Tony and Kaelion appear behind. Speech bubbles: Lucian "Voce e um ladrao?"; Dustin "Nao. Eu queria dar um abraco."; Lucian "Me soltem! Socorro!" Humor turning into combat.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 016 ---
+Layout: 4 panel(s). Dustin tropeça/entra pela casa; Celeste assustada do outro lado; Lucian acusa; Tony e Kaelion aparecem.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Dustin (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Kaelion (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Lucian (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace); Celeste (standing, weight on one foot, readable silhouette, exaggerated comic reaction, wide eyes or grimace).
+Bubbles: see dialogues.md (D040, D041, D042.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 017
 
 ```text
-Use refs for Celeste, Nightwolf, Tony, Lucian, Dustin, Kaelion. Full comic page, 4 panels. Celeste's fear becomes a wicked smile, violet eyes; black-violet tentacles rise from floor and restrain Nightwolf; Tony grapples Lucian; arrows and katana strikes hit near Celeste. Speech bubble: Nightwolf "Amarra ela! Venda esses olhos!" Strong action, clear character positions.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 017 ---
+Layout: 4 panel(s). medo de Celeste vira sorriso; tentaculos escuros prendem Nightwolf; Tony segura Lucian; flechas/golpes atingem Celeste.
+Panel A — CHARACTERS & POSES: Tony (grappling hold, strained arms, fear, mouth open); Nightwolf (grappling hold, strained arms, fear, mouth open); Dustin (grappling hold, strained arms, fear, mouth open); Kaelion (grappling hold, strained arms, fear, mouth open); Lucian (grappling hold, strained arms, fear, mouth open); Celeste (grappling hold, strained arms, fear, mouth open).
+Bubbles: see dialogues.md (D043.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 018
 
 ```text
-Use refs for Nightwolf, Celeste, dark wolves. Full comic page, 4 panels. Celeste injured but alive on floor, Nightwolf points toward door, strange sound beyond it, dark wolves burst inside, one knocks Nightwolf down. Speech bubbles: Nightwolf "Tem barulho estranho do outro lado!"; Nightwolf "A gente precisa vendar os olhos dela."; Nightwolf "Eu nao quero perder o sentido de novo." No werewolf Nightwolf.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 018 ---
+Layout: 4 panel(s). Celeste caida/viva; Nightwolf grita para vendar olhos; porta range; lobos entram; um derruba Nightwolf.
+Panel A — CHARACTERS & POSES: Nightwolf (standing, weight on one foot, readable silhouette, focused, readable emotion); Celeste (standing, weight on one foot, readable silhouette, focused, readable emotion); Lobos (standing, weight on one foot, readable silhouette, focused, readable emotion); Rita (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D044, D048, D049.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 019
 
 ```text
-Use refs for Tony, Kaelion, Dustin, Bartrock, dark wolves. Full comic page, 4 panels. Tony blood-splashed from wolf fight points at next wolf; Kaelion deflects bites with two katanas; Dustin arrow strikes a wolf eye; gaunt Bartrock casts a scorching ray to finish last wolf. Speech bubbles: Tony "Voce e o proximo."; Kaelion "Eu avisei. Nao toque no Dustin."; Dustin "Boa flecha."; Bartrock "Eu nao sei fazer feitico disso, nao." Dynamic but readable.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 019 ---
+Layout: 4 panel(s). Tony ensanguentado encara outro lobo; Kaelion deflete mordidas; Dustin crava flecha no olho; Bartrock lança raio final.
+Panel A — CHARACTERS & POSES: Tony (standing, weight on one foot, readable silhouette, focused, readable emotion); Dustin (standing, weight on one foot, readable silhouette, focused, readable emotion); Kaelion (standing, weight on one foot, readable silhouette, focused, readable emotion); Bartrock (standing, weight on one foot, readable silhouette, focused, readable emotion); Lobos (standing, weight on one foot, readable silhouette, focused, readable emotion).
+Bubbles: see dialogues.md (D045, D046, D047, D050.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```
 
 ### 020
 
 ```text
-Use refs for Celeste, Dustin, Tony, Nightwolf, Lucian. Full comic page, 4 panels. After combat in Lucian's house: Celeste tied and blindfolded, Lucian unconscious, Dustin holding silver metal mask, open chest with debt letters, wagon waiting outside for prisoners. Speech bubbles: Tony "Entao vamos no velho estilo."; Dustin "Achei cartas de divida em nome de Lucian."; Dustin "Mascara de metal da Celeste." Final panel close on mask and green apple, ominous hook.
+Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
+
+--- PAGE 020 ---
+Layout: 4 panel(s). Celeste amarrada e vendada; Dustin segura mascara de metal; cartas de divida em nome de Lucian; carroca do lado de fora pronta para levar corpos/prisioneiros.
+Panel A — CHARACTERS & POSES: Tony (grappling hold, strained arms, focused, readable emotion); Nightwolf (grappling hold, strained arms, focused, readable emotion); Dustin (grappling hold, strained arms, focused, readable emotion); Lucian (grappling hold, strained arms, focused, readable emotion); Celeste (grappling hold, strained arms, focused, readable emotion).
+Bubbles: see dialogues.md (D051, D052, D053.).
+
+Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cinematic lighting, horror mood unless scene requires, ultra-flat newspaper strip, anime chibi, 3D render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside bubbles, misspelled Portuguese, werewolf Nightwolf (unless explicit beat), Bartrock demon mask (unless S16+ possessed beat), wrong character faces, red-haired Emmergard.
 ```

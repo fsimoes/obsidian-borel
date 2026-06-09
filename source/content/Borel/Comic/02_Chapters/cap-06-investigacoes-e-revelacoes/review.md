@@ -57,3 +57,7 @@ Plano pre-imagem aprovado. Imagens geradas em 2026-06-05.
 ## Status final
 
 `ready`: sem erro grave restante identificado. O leitor web ainda nao foi atualizado; publicacao deve copiar as paginas para `source/quartz/static/comic/` e editar catalogo/cache.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

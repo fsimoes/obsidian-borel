@@ -29,6 +29,16 @@ Referencias/
 
 Ver [[../Comic/02_Chapters/cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]].
 
+## Estilo global v2 (jun/2026) — todos os caps
+
+| Arquivo | Uso |
+|---------|-----|
+| `style/cap-01-estilo-aprovado-dustin-traidor.png` | Sempre anexar (linha, cel-shade, humor) |
+| `style/cap-01-estilo-aprovado-gola.png` | Sempre anexar (ação, escala, urgência) |
+| `style/cap-v3-humor-piloto.png` | **Pendente** — bake-off Cap. 5 pág. 004; ver [[../Comic/02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/prompt-pilot-004-humor|prompt piloto]] |
+
+Ver [[../Comic/00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|Style Bible v2]].
+
 **Equipamento muda na campanha:** cada loadout = uma ref + prompt. Ver [[../Comic/01_Cast_Model_Sheets/00_Equipamento_Evolucao|evolução de equipamento]].
 
 ## Já aprovados

@@ -1,28 +1,35 @@
 ---
 title: "Style - Cap. 8"
-type: comic-style
-status: ready
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-08
+status: docs-ready
 ---
 
 # Style - Cap. 8
 
-Usar `Comic/00_Style_Bible.md` como fonte principal.
+## Base
 
-## Prefixo
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-## Ajustes especificos
+## Refs a anexar (ordem)
 
-- Elriste externa: cinza, couro, pedra suja, lago frio.
-- Alva Cidadela: branco/marmore e ouro apenas como contraste distante.
-- Rita: ruivo + bronze, roupa surrada, carisma perigoso.
-- Balões: portugues brasileiro, curtos, fonte legivel.
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-## Avoid
+## Direção
 
-```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font, misspelled Portuguese, text outside speech bubbles, modern city, modern guns, full wolf head for Nightwolf, Rita as noble lady.
-```
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
+
+
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

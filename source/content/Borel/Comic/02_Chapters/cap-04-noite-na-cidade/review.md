@@ -97,3 +97,7 @@ Executada em 2026-06-04 após geração de `pages/001.webp` a `pages/016.webp`.
 - Regenerações feitas: páginas 14, 002, 011, 015 e 016 (Emmergard loira/germânica em 002, 011, 015, 016).
 - Pendência final: nenhuma bloqueante; diacríticos ausentes na página 05 aceitos como ajuste leve.
 - Status final: `ready`.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

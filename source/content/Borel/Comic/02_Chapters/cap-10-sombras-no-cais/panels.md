@@ -1,140 +1,227 @@
 ---
 title: "Panels - Cap. 10"
 type: comic-panels
-status: preimage-approved
+status: docs-ready
 target_pages: 18
 ---
 
-# Panels - Cap. 10
+# Painéis — Cap. 10 (v2 humor + poses)
 
-Cada página abaixo deve virar exatamente um arquivo `pages/NNN.webp`. Além disso, gerar capa `pages/000-cover.webp`.
+> Poses espelhadas em `prompt-all-pages.md`. Arte: `images-pending-regen`.
 
-## Capa - Sombras no Cais
-- Cena: botes escuros cercam navio carregado de barris; Rita em primeiro plano, Tony com leme fantasma e Dustin segurando flauta; muralha distante.
-- Texto: sem balão; título opcional se legível.
 
-## Página 001 - Expulsos
-- Foco: recap e consequencia do cap. 9.
-- Paineis: 4.
-- Cena: sombra de Kaelion fugindo, Rita furiosa, grupo entrando na casa abandonada de Nightwolf.
-- Falas: D001.
-- Tags: `canon`, `recap`.
+## Página 000 — cena
 
-## Página 002 - Democracia covarde
-- Foco: quem fala com Rita.
-- Paineis: 5.
-- Cena: grupo cansado; Dustin tentando evitar; Tony e Nightwolf votando nele; Trash ao fundo.
-- Falas: D002, D003, D004.
-- Tags: `canon`, `humor`, `transcricao`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
 
-## Página 003 - Palavrinha com Rita
-- Foco: negociação tensa.
-- Paineis: 4.
-- Cena: Rita de costas bebendo sozinha; Dustin se aproxima sem esconder; olhar duro dela.
-- Falas: D005, D006.
-- Tags: `canon`, `transcricao`.
+#### Painel 000-a
 
-## Página 004 - Segunda chance
-- Foco: Rita aceita porque precisa do grupo.
-- Paineis: 4.
-- Cena: mesa da taverna, mapa do cais, Rita aponta para navio desenhado.
-- Falas: usar legenda curta, sem fala inferida longa.
-- Tags: `canon`, `inferred-dialogue-minimal`.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
 
-## Página 005 - Quatro botes
-- Foco: partida noturna.
-- Paineis: 3.
-- Cena: Rita espera com botes de remo, água preta, navio alto no horizonte.
-- Falas: D007.
-- Tags: `canon`, `worldbuilding`.
+## Página 000 — cena
 
-## Página 006 - A parte de vocês
-- Foco: plano improvisado.
-- Paineis: 5.
-- Cena: Tony pergunta; Rita devolve; Bartrock quase acende luz; grupo apaga tudo.
-- Falas: D008, D009.
-- Tags: `canon`, `humor`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
 
-## Página 007 - Cordas e Trash
-- Foco: aproximação física.
-- Paineis: 5.
-- Cena: cordas nós botes, Trash preparado como âncora improvável, Borin calculando.
-- Falas: D010, D011, D012.
-- Tags: `canon`, `humor`.
+#### Painel 000-a
 
-## Página 008 - Subida
-- Foco: entrada no navio.
-- Paineis: 4.
-- Cena: Nightwolf e Dustin subindo pela lateral; Tony/Borin em bote; marujos no alto.
-- Falas: sem fala.
-- Tags: `canon`, `furtividade`.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
 
-## Página 009 - Flauta no convés
-- Foco: combate com marujos.
-- Paineis: 4.
-- Cena: marujo toca flauta; ondas se abrem; criaturas sobem.
-- Falas: D013.
-- Tags: `canon`, `battle`.
+## Página 000 — cena
 
-## Página 010 - O mar responde
-- Foco: homens-sapo invadem.
-- Paineis: 5.
-- Cena: sapos saltam no convés; Nightwolf isolado; Rita entra na luta.
-- Falas: sem fala ou gritos curtos sem texto.
-- Tags: `canon`, `battle`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
 
-## Página 011 - Escudo e sombra
-- Foco: Tony e Dustin no caos.
-- Paineis: 5.
-- Cena: Tony com escudo, Dustin se esconde atrás dele; ataques cruzados.
-- Falas: D014.
-- Tags: `canon`, `transcricao`.
+#### Painel 000-a
 
-## Página 012 - Pelo amigo Kaelion
-- Foco: golpe estiloso de Dustin.
-- Paineis: 4.
-- Cena: Dustin salta/dispara contra criatura, memória de Kaelion como sombra atrás.
-- Falas: D015.
-- Tags: `canon`, `transcricao`.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
 
-## Página 013 - Axolotl Anciao
-- Foco: maior ameaça.
-- Paineis: 4.
-- Cena: axolotl sobe do mar, morde Nightwolf, derruba Borin, convés encharcado.
-- Falas: sem fala.
-- Tags: `canon`, `enemy`.
+## Página 000 — cena
 
-## Página 014 - Homem da tocha
-- Foco: suspense no porão.
-- Paineis: 4.
-- Cena: barris de pólvora, homem tremendo com tocha, Bartrock abrindo porta.
-- Falas: D016, D017.
-- Tags: `canon`, `transcricao`, `danger`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
 
-## Página 015 - Sono e cinzas
-- Foco: Bartrock evita explosão.
-- Paineis: 5.
-- Cena: magia de sono, homem cai, tocha escapa, Bartrock/aliado apaga no ultimo segundo.
-- Falas: D018.
-- Tags: `canon`, `humor`, `danger`.
+#### Painel 000-a
 
-## Página 016 - Levar tudo
-- Foco: navio como carga.
-- Paineis: 4.
-- Cena: Rita desce ao porão, aponta barris, Tony no leme, Cavaleiro Misterioso assume.
-- Falas: D019, D020, D021.
-- Tags: `canon`.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
 
-## Página 017 - Flauta e moedas
-- Foco: recompensa e mistério.
-- Paineis: 4.
-- Cena: Dustin acha flauta, Tony conta moedas, Borin separa pólvora, Cavaleiro mudo no leme.
-- Falas: D022, D023.
-- Tags: `canon`, `loot`.
+## Página 000 — cena
 
-## Página 018 - O muro
-- Foco: dilema moral.
-- Paineis: 5.
-- Cena: Porto do Sul, carroças de pólvora, muralha distante, Tony encara Rita.
-- Falas: D024, D025, D026, D027, D028, D029.
-- Tags: `canon`, `gancho`.
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 
+
+## Página 000 — cena
+
+- **Arquivo:** `000.webp`
+- **Painéis:** 1
+
+#### Painel 000-a
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** 

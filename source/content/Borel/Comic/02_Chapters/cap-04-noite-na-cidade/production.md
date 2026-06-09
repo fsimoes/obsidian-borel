@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-04
-status: ready
+status: docs-ready
 target_pages: 16
 ---
 
@@ -92,3 +92,10 @@ Executada em 2026-06-05 após referência aprovada pelo usuário:
 - Páginas regeneradas para remover Emmergard ruiva: `002.webp`, `011.webp`, `015.webp`, `016.webp`.
 - Cap. 5 já seguia essa referência; Cap. 4 agora foi alinhado.
 - Leitor: `cap-04-sessao-04/` sincronizado; catalog **v10**.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

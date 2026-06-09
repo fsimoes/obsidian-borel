@@ -36,3 +36,7 @@ Pendente. Nenhuma página foi gerada nesta execução.
 
 ## Status final atual
 `ready-for-image-generation`.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

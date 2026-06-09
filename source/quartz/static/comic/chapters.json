@@ -85,6 +85,26 @@
       "cover": "000-cover.webp",
       "fidelity": "documented",
       "status": "ready"
+    },
+    {
+      "id": "cap-08-sessao-08",
+      "title": "Cap. 8 — Sussurros de Revolta",
+      "session": 8,
+      "pageCount": 14,
+      "startPage": 1,
+      "cover": "000-cover.webp",
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-09-sessao-09",
+      "title": "Cap. 9 — O Preço da Lealdade",
+      "session": 9,
+      "pageCount": 16,
+      "startPage": 1,
+      "cover": "000-cover.webp",
+      "fidelity": "documented",
+      "status": "ready"
     }
   ]
 }

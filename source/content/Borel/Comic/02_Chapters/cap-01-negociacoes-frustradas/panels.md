@@ -6,156 +6,150 @@ tags:
   - tipo/comic
   - comic/cap-01
   - comic/piloto
-status: published
+status: docs-ready
 target_pages: 10
 fidelity: reconstructed
 chatgpt_thread: "Cap. 1 — 10 páginas multi-painel"
 ---
 
-# Painéis — Negociações Frustradas (**10 páginas**)
+# Painéis — Cap. 1 (v2 humor + poses)
 
-> **Formato ChatGPT:** 10 imagens (`001.webp`–`010.webp`), **vários painéis por página** (grelha 2×2 ou 1 grande + 2 pequenos).  
-> Estilo: [[style-tirinha|style-tirinha.md]] (aprovado) · Falas: [[dialogues|dialogues.md]] · Prompt: [[prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]]  
-> **Ordem HQ:** denúncia → interrogatório → **caos** (sem painel do tapa) → Tobias/gola → fuga carregado. **Mesa/Livro:** tapa entre insulto e briga.
+> Poses espelhadas em `prompt-all-pages.md`. Arte: `images-pending-regen`.
 
-Legenda: `[ ]` pendente · `[x]` mesa OK
 
----
+## Página 001 — cena
 
-## Página 01 — Capa (1 painel)
+- **Arquivo:** `001.webp`
+- **Painéis:** 1
 
-**Arquivo:** `001.webp` · **Layout:** splash página inteira
+#### Painel 001-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 01-a | Noite, Rilonde, fachada *Cálice Dourado*, luz quente | Título: **Negociações Frustradas** |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** Noite, Rilonde, fachada *Cálice Dourado*, luz quente
 
----
+## Página 002 — cena
 
-## Página 02 — Entrada + mesa (4 painéis)
+- **Arquivo:** `002.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart, Nightwolf, Dustin
 
-**Arquivo:** `002.webp` · **Layout:** 2×2 · **Refs:** Lord Bart, Nightwolf, Dustin
+#### Painel 002-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 02-a | Porta aberta; trio entra | — |
-| 02-b | Interior; clientes olham | — |
-| 02-c | Três sentados; contato com pergaminho | Contato: **Serviço feito. Só que o pagamento tá enrolado.** |
-| 02-d | Dustin mão na adaga; Bart tenso | Dustin: **Como assim?** |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Porta aberta; trio entra
 
----
+## Página 003 — cena
 
-## Página 03 — Escalada + Tobias (4 painéis)
+- **Arquivo:** `003.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart, Nightwolf, Tobias
 
-**Arquivo:** `003.webp` · **Layout:** 2×2 · **Refs:** Lord Bart, Nightwolf, Tobias
+#### Painel 003-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 03-a | Lord Bart de pé; cadeira tombada | Lord Bart: **A gente entregou o que pediram. Agora paguem o que é devido.** |
-| 03-b | Nightwolf, mão no arco (fundo) | — |
-| 03-c | Tobias no canto — sorriso | — |
-| 03-d | Plano geral mesa (tensão) | — |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Lord Bart de pé; cadeira tombada
 
----
+## Página 004 — cena
 
-## Página 04 — Denúncia + guardas (4 painéis)
+- **Arquivo:** `004.webp`
+- **Painéis:** 1
+- **Refs:** ** Tobias, PCs
 
-**Arquivo:** `004.webp` · **Layout:** 2×2 · **Refs:** Tobias, PCs
+#### Painel 004-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 04-a | Tobias aponta o trio aos guardas | Tobias: **São eles! Prendam o trio!** |
-| 04-b | Dustin / Nightwolf chocados | Dustin: **Traidor!** |
-| 04-c | Guardas entram; contato cruel | Contato: **Peguem eles!** |
-| 04-d | Capitã (mulher) avança | — |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Guardas | Rilonde cargo guards, simple armor, tired workers | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `guardas-eq-inicial` |
+- **Cena:** ** Tobias aponta o trio aos guardas
 
----
+## Página 005 — cena
 
-## Página 05 — Interrogatório (4 painéis)
+- **Arquivo:** `005.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart
 
-**Arquivo:** `005.webp` · **Layout:** 2×2 · **Refs:** Lord Bart
+#### Painel 005-a
 
-| ID | Cena | Fala |
-|----|------|------|
-| 05-a | Capitã vs Lord Bart | Capitã: **Fala! Cadê o cocheiro?** |
-| 05-b | Close Bart — calado, desafio | — |
-| 05-c | Bart gesticula (só palavras, sem magia no guarda) | Lord Bart: **Como você ousa falar comigo, verme?** |
-| 05-d | Capitã furiosa, mão aberta | Capitã: **Então eu te mostro, verme!** |
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Capitã vs Lord Bart
 
----
+## Página 006 — cena
 
-## Página 06 — Caos na taverna (**obrigatória**)
+- **Arquivo:** `006.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart, capitã, guardas
 
-**Arquivo:** `006.webp` · **Layout:** 1 painel grande + 2 pequenos em baixo · **Refs:** Lord Bart, capitã, guardas
+#### Painel 006-a
 
-> **HQ:** sem desenhar o tapa (cena cortada). Transição: capitã avança após P05 → briga explode.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | seated at table, leaning in | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+| Guardas | Rilonde cargo guards, simple armor, tired workers | seated at table, leaning in | focused, readable emotion | toward action center | `guardas-eq-inicial` |
+- **Cena:** ** **GRANDE:** guardas avançam; mesas tombam; taverna em caos
 
-| ID | Cena | Fala |
-|----|------|------|
-| 06-a | **GRANDE:** guardas avançam; mesas tombam; taverna em caos | SFX: **CRASH!** ou **—** |
-| 06-b | Nightwolf puxa arco; Dustin saca adagas | — |
-| 06-c | Bart recua / tropeça (sem slap panel) | — |
+## Página 007 — cena
 
----
+- **Arquivo:** `007.webp`
+- **Painéis:** 1
+- **Refs:** ** Nightwolf, Dustin, Tobias, Lord Bart
 
-## Página 07 — Briga + gola (**obrigatória**)
+#### Painel 007-a
 
-**Arquivo:** `007.webp` · **Layout:** 2 em cima + 1 grande em baixo (gola) · **Refs:** Nightwolf, Dustin, Tobias, Lord Bart
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Nightwolf flecha; guarda cai
 
-| ID | Cena | Fala |
-|----|------|------|
-| 07-a | Nightwolf flecha; guarda cai | — |
-| 07-b | Dustin adagas vs lança | Dustin: **Temos que sair daqui — agora!** |
-| 07-c | **GRANDE:** Tobias gola no Lord Bart (halfling baixo × elfo alto) | — |
+## Página 008 — cena
 
----
+- **Arquivo:** `008.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart, Dustin, Nightwolf
 
-## Página 08 — Queda + saída (4 painéis)
+#### Painel 008-a
 
-**Arquivo:** `008.webp` · **Layout:** 2×2 · **Refs:** Lord Bart, Dustin, Nightwolf
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Nightwolf | drow ranger, charcoal skin, red eyes, long black hair, olive cloak, bow — humanoid only | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `nightwolf-eq-inicial` |
+| Dustin | lean ranger-rogue, dark leather, ornate recurve bow, green gem ring | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `dustin-eq-inicial` |
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Lord Bart cai; varinha no chão
 
-| ID | Cena | Fala |
-|----|------|------|
-| 08-a | Lord Bart cai; varinha no chão | Nightwolf: **Bart!** |
-| 08-b | Dustin e Nightwolf — decisão | Nightwolf: **Por aqui!** |
-| 08-c | Dustin arromba porta lateral | — |
-| 08-d | Porta abre; luz da rua | — |
+## Página 009 — cena
 
----
+- **Arquivo:** `009.webp`
+- **Painéis:** 1
+- **Refs:** ** Lord Bart inconsciente, 2 PCs
 
-## Página 09 — Carregado (3 painéis)
+#### Painel 009-a
 
-**Arquivo:** `009.webp` · **Layout:** 1 grande + 2 · **Refs:** Lord Bart inconsciente, 2 PCs
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Lord Bart | tall slim elven noble mage, dark coat, wand, no mask | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `lord-bart-eq-inicial` |
+- **Cena:** ** Erguem Lord Bart pelos ombros
 
-| ID | Cena | Fala |
-|----|------|------|
-| 09-a | Erguem Lord Bart pelos ombros | Dustin: **Segura ele — vamo!** |
-| 09-b | Correm na rua; Bart entre os dois | — |
-| 09-c | Guardas / tochas ao fundo | — |
+## Página 010 — cena
 
----
+- **Arquivo:** `010.webp`
+- **Painéis:** 1
+- **Refs:** ** silhueta
 
-## Página 10 — Fuga final (3 painéis)
+#### Painel 010-a
 
-**Arquivo:** `010.webp` · **Layout:** 2 + 1 largo · **Refs:** silhueta
-
-| ID | Cena | Fala |
-|----|------|------|
-| 10-a | Janelas acendem; perseguição | — |
-| 10-b | Pés na calçada (urgência) | — |
-| 10-c | Silhueta trio + cidade; taverna brilha atrás | Nightwolf: **Temos que despistar a guarda.** |
-
-**Fim Cap. 1** → [[../cap-02-um-encontro-na-cabana/README|Cap. 2 — Um Encontro na Cabana]].
-
----
-
-## Resumo
-
-| Métrica | Valor |
-|---------|--------|
-| **Páginas (imagens)** | **10** |
-| **Painéis totais** | ~34 |
-| **Obrigatórias** | P04 denúncia · P06 caos · P07 gola · P09 carregado |
-| **Refs** | Lord Bart, Nightwolf, Dustin, Tobias |
-
-> Site: substituir `cap-01-sessao-01/001–010.webp`. Apagar `011–020.webp` antigos se existirem.
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| Figurante | generic medieval townsfolk silhouette | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `figurante-eq-inicial` |
+- **Cena:** ** Janelas acendem; perseguição

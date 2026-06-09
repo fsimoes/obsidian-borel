@@ -1,42 +1,35 @@
 ---
-title: "Estilo Cap. 3"
+title: "Style - Cap. 3"
 type: comic
 tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-03
-status: ready
+status: docs-ready
 ---
 
-# Estilo Cap. 3
+# Style - Cap. 3
 
-**Base:** mesmo visual aprovado dos Caps. 1-2: webcomic fantasy, contorno preto limpo, cel-shading profissional, expressões fortes e balões legíveis.
+## Base
 
-| Item | Onde |
-|------|------|
-| Prefixo + Avoid | [[../cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]] |
-| Style Bible | [[../../00_Style_Bible|00_Style_Bible]] |
-| Prompt completo | [[prompt-all-pages|prompt-all-pages.md]] |
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-## Ajustes de ambiente
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-- **Rilonde:** cidade comercial medieval, ruas de pedra, placas, barracas, carroças, guardas, gente apressada.
-- **Galpão de Alberto:** madeira escura, poeira, cordas, caixas, ferragens, carroças; luz lateral entrando por frestas.
-- **A Enguia Roxa:** taverna barata e cheia, luz quente, fumaça, mesas apertadas, caos visual controlado.
-- **Paleta:** bronze, madeira, verde escuro, vinho roxo discreto na taverna; evitar visual monocromático.
+## Refs a anexar (ordem)
 
-## Personagens
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-| Personagem | Ref / nota |
-|------------|------------|
-| Tony | `tony-eq-inicial` - escudo com leão, armadura prateada |
-| Nightwolf | `nightwolf-eq-inicial` - elfo noturno/drow masculino adulto, ranger, arco, olhos vermelhos; nunca desenhar como mulher ou com traços femininos |
-| Dustin | `dustin-eq-inicial` - humano, cabelo castanho, adagas/arco |
-| Bartrock | `bartrock-normal-eq-inicial` - pós-ressurreição, pálido, estranho, sem máscara |
-| Kaelion | `kaelion-eq-inicial` - elfo musculoso, armadura samurai escura |
-| Alberto | `Alberto.png` - comerciante rico, preocupado |
-| Lucian | `lucian-eq-inicial` - funcionário mercantil tenso, magro, culpado |
-| Jonas | `jonas-guarda-rilonde` - guarda amigável de Rilonde |
-| Trapaceiro | `trapaceiro-dados-enguia-roxa` - apostador de taverna, mãos rápidas |
-| Figurantes | `figurantes-rilonde-guardas-trabalhadores` - guardas, trabalhadores, taverneiro |
-| Criatura | `criatura-bau-cristalina` - olhos no baú, corpo facetado/cristalino, forma parcialmente oculta |
+## Direção
+
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
+
+
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

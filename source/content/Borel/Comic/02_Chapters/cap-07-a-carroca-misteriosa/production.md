@@ -1,7 +1,7 @@
 ---
 title: "Production - Cap. 7"
 type: comic-production
-status: ready
+status: docs-ready
 target_pages: 18
 ---
 
@@ -47,3 +47,10 @@ Status correto: `ready`.
 - [x] Copiar `pages/000-cover.webp` e `pages/001.webp` a `pages/018.webp` para `source/quartz/static/comic/cap-07-sessao-07/`.
 - [x] Atualizar `source/quartz/static/comic/chapters.json`.
 - [x] Subir `CATALOG_VERSION` em `source/quartz/static/comic/reader.js`.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

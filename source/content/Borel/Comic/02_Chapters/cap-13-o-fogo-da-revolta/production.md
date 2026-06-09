@@ -1,7 +1,7 @@
 ﻿---
 title: "Production - Cap. 13"
 type: comic-production
-status: ready-for-image-generation
+status: docs-ready
 target_pages: 15
 ---
 
@@ -37,3 +37,10 @@ Pendente. Deve verificar que Kaelion finaliza a maga, Rita aparece como aliada, 
 
 
 
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

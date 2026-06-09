@@ -1,26 +1,35 @@
 ---
 title: "Style - Cap. 15"
-type: comic-style
-status: preimage-approved
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-15
+status: docs-ready
 ---
 
 # Style - Cap. 15
 
-Usar o padrão do `Comic/00_Style_Bible.md` para caps pós-piloto:
+## Base
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-## Ajustes do capítulo
-- Menos campo de batalha, mais interiores saqueados e corredores.
-- Jorge deve ser tratado com sensibilidade visual.
-- A luz do baú é branco-dourada; a pedra é azul-esverdeada.
-- Fuga com motion lines azuis das botas, mas sem aparência de videogame literal.
-- Sem texto em inglês nos balões.
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-## Refs obrigatórias antes de imagem
-- PCs: `Referencias/pcs/*.png`.
-- Jorge: `Referencias/npcs/Jorge.png`.
-- Rita: usar ref gerada para cap. 14.
-- Letícia: gerar ref se houver close.
+## Refs a anexar (ordem)
+
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
+
+## Direção
+
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
+
+
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

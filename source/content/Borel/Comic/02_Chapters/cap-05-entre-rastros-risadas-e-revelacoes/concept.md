@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-05
-status: preimage-approved
+status: docs-ready
 sessao: 5
 target_pages: 20
 fidelity: documented
@@ -27,10 +27,11 @@ Fonte principal: `Sessoes/Capitulo 5 -  Entre Rastros, Risadas e Revelacoes no T
 
 Comeca com humor de mesa e desconfianca urbana, vira misterio de detetive improvisado, encontra uma pausa sagrada no templo e fecha em horror de casa invadida com lobos, tentaculos sombrios e olhos roxos. O humor nunca apaga o risco: o "mijo do velho" convive com memoria roubada, e a piscadela de Tony convive com traicao conjugal e magia mental.
 
-## Paleta e Iluminacao
+## Paleta e Iluminacao (v2 humor webcomic)
 
-- Estabulo e ruas: azul frio de madrugada, lamparinas ambar, madeira molhada, pedras escuras.
-- Praca do velho: luz de poste e sombras com composicao comica.
+- **Regra v2:** luz quente e legivel; evitar graphic novel sombrio ou paleta muddy.
+- Estabulo e ruas: azul profundo no ceu, lamparinas ambar claras, madeira legivel.
+- Praca do velho: lanternas ambar, composicao slapstick exagerada (piloto pág. 004).
 - Taverna Enguia Roxa: madeira quente, cerveja, sombras acolhedoras.
 - Galpao/Alberto: luz comercial dura, pergaminhos e caixas, tons de bronze.
 - Templo de Chantaner: pedra cinza-esverdeada, velas, fonte sagrada, luz verde sobrenatural.

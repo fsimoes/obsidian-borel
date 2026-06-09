@@ -1,7 +1,7 @@
 ---
 title: "Production - Cap. 9"
 type: comic-production
-status: pages-generated
+status: docs-ready
 target_pages: 16
 ---
 
@@ -9,9 +9,11 @@ target_pages: 16
 
 ## Status
 
-`pages-generated`. Revisao pre-imagem aprovada em `review.md`. Capa e paginas finais foram geradas em `pages/`.
+`docs-ready` (jun/2026). Poses e `prompt-all-pages.md` v2 completos.
 
-Observacao: por estabilidade da geracao, a maior parte das paginas foi salva como arte base sem lettering. A pagina `001.webp` manteve legenda; as demais podem receber uma passada futura de baloes/texto se a prioridade for fidelidade total aos dialogos.
+**Arte existente:** `pages-generated` — a maior parte das paginas foi salva **sem lettering** na geracao anterior. Na regeneracao v2, incluir baloes PT de `dialogues.md` em todas as paginas (nao so `001.webp`).
+
+Observacao lettering: priorizar fidelidade total aos dialogos na proxima passada de imagem.
 
 ## Fila de imagem
 
@@ -36,3 +38,10 @@ Observacao: por estabilidade da geracao, a maior parte das paginas foi salva com
 - Capa presente.
 - Contact sheet de revisao: `pages/_review_contact_sheet.jpg`.
 - Sem publicacao no leitor ate revisao final/publicacao.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

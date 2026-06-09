@@ -1,34 +1,35 @@
 ---
-title: "Estilo Cap. 2"
+title: "Style - Cap. 2"
 type: comic
 tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-02
-status: inherited
+status: docs-ready
 ---
 
-# Estilo Cap. 2
+# Style - Cap. 2
 
-**Igual ao Cap. 1 aprovado (jun/2026):** webcomic fantasy, contorno preto, cel-shading, balões legíveis.
+## Base
 
-| Item | Onde |
-|------|------|
-| Prefixo + Avoid | [[../cap-01-negociacoes-frustradas/style-tirinha|style Cap. 1]] |
-| Refs de estilo | `cap-01-estilo-aprovado-dustin-traidor.png` + `cap-01-estilo-aprovado-gola.png` → `refs/01–02` |
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-## Ajustes de ambiente (Cap. 2)
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-- **Paleta:** menos taverna dourada; mais **verde/floresta**, madeira úmida, tochas e luar.
-- **Tom:** tensão + humor negro (explosivos, janela).
-- **Lobos:** olhos brilhantes; Beastmaster com **peles** e cajado — figurante, sem ref.
+## Refs a anexar (ordem)
 
-## Personagens
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-| Personagem | Ref |
-|------------|-----|
-| Lord Bart | `noble` — mesmo do Cap. 1 |
-| Nightwolf | `nightwolf-eq-inicial` — **não** drow/licantropia |
-| Dustin | `dustin-eq-inicial` — adagas |
-| Tony | `tony-eq-inicial` — escudo + armadura prateada |
-| Nikov | ver [[production#Nikov|production]] |
+## Direção
+
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
+
+
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

@@ -157,6 +157,7 @@ Quebrar o capítulo exatamente no `target_pages` escolhido, com:
 - refs necessárias;
 - falas apontando para `dialogues.md`;
 - tags `canon` e `inferred` quando útil;
+- **tabela Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref** por painel (`NN-a`, `NN-b`…);
 - respeito a `concept.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.
 
 ### Produção
@@ -165,13 +166,15 @@ Criar `production.md`, `prompt-all-pages.md`, `style.md` e `refs/README.md` quan
 
 Prompts de imagem devem combinar:
 
-- `Comic/00_Style_Bible.md`;
+- `Comic/00_Style_Bible.md` — **prefixo v2** (Borel Funny Webcomic);
+- `Comic/03_Templates/Pose_Prompt_Block.md`;
 - `concept.md`;
 - dados de personagens, NPCs e inimigos;
 - descrição do painel;
+- bloco **`CHARACTERS & POSES`** por painel (espelho de `panels.md`);
 - fala exata quando houver.
 
-Não criar prompts genéricos.
+Não criar prompts genéricos. Não marcar `ready-for-image-generation` sem poses explícitas em `panels.md` e `prompt-all-pages.md`.
 
 ## Fase 4 — Revisão pré-imagem obrigatória
 
@@ -232,7 +235,8 @@ Quando a ferramenta de imagem estiver disponível:
 | `preproduction` | `concept.md`, elenco e conceitos visuais em criação |
 | `script-review` | roteiro, falas e painéis em revisão |
 | `needs-preimage-revision` | há problema grave antes das imagens |
-| `ready-for-image-generation` | pré-produção, roteiro, prompts e revisão pré-imagem aprovados |
+| `docs-ready` | poses + `prompt-all-pages.md` v2 completos; arte antiga pendente (`images-pending-regen`) |
+| `ready-for-image-generation` | pré-produção, roteiro, prompts v2 com poses e revisão pré-imagem aprovados |
 | `image-review` | imagens geradas e em conferência |
 | `needs-regeneration` | uma ou mais páginas/painéis precisam ser refeitos |
 | `ready` | páginas finais revisadas e aprovadas |

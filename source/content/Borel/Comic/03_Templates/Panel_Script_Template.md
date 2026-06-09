@@ -36,9 +36,15 @@ chatgpt_thread: "uma conversa por capítulo"
 #### Painel `NN-a` · `canon` | `inferred`
 
 - **Cena:** …
-- **Personagens:** …
 - **Fala:** *(opcional)* Balão **Nome**: `"texto exato PT"`
-- **Prompt:** prefixo Style Bible + cena + Avoid
+
+**Personagens e poses** (obrigatório — ver [[Pose_Prompt_Block|Pose_Prompt_Block.md]]):
+
+| Personagem | LOCKED | Pose | Expressão | Mãos/olhar | Ref |
+|------------|--------|------|-----------|------------|-----|
+| … | … | … | … | … | … |
+
+- **Prompt:** prefixo Style Bible **v2** + `CHARACTERS & POSES` + Avoid v2
 - **Status:** `[ ]` gerado · `[ ]` mesa OK
 
 ---

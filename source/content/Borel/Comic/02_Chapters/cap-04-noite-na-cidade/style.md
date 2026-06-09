@@ -1,55 +1,35 @@
 ---
-title: "Style - Cap. 4 - Noite na Cidade"
+title: "Style - Cap. 4"
 type: comic
 tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-04
-status: preimage-approved
+status: docs-ready
 ---
 
 # Style - Cap. 4
 
 ## Base
 
-Usar o Style Bible geral: European fantasy graphic novel, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-## Direção Específica
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-- Visual de Rilonde noturna: telhados inclinados, pedra úmida, janelas quentes e ruas comerciais vazias.
-- Páginas 01-05: tons de bronze, madeira e couro, composição mais estável.
-- Páginas 06-13: noite fria, muito contraste, silhuetas claras, roxo mágico como única cor saturada.
-- Páginas 14-16: volta ao realismo da missão, mas com roxo residual na cabeça de Nightwolf.
+## Refs a anexar (ordem)
 
-## Personagens
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-- Tony: `Referencias/pcs/tony-eq-inicial.png`.
-- Nightwolf: `Referencias/pcs/nightwolf-eq-inicial.png`; nunca usar variante lycanthrope neste capítulo.
-- Dustin: `Referencias/pcs/dustin-eq-inicial.png`.
-- Kaelion: `Referencias/pcs/kaelion-eq-inicial.png`.
-- Bartrock: `Referencias/pcs/bartrock-normal-eq-inicial.png`.
-- Lucian: `Referencias/Npcs/lucian-eq-inicial.png`.
-- Alberto: `Referencias/Npcs/Alberto.png` se aparecer.
-- Emmergard: `refs/emmergard-eq-inicial.png`, guerreira/taberneira loira de aparência germânica/alemã, forte, compacta e amigável; cabelo loiro, maça pesada e silhueta forte/compacta obrigatórios, sem leitura voluptuosa.
-- Criatura lupina: `needs-ref`, usar `enemy-concepts.md`.
-- Celeste: silhueta apenas, sem rosto completo.
+## Direção
 
-## Lettering
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
 
-- Balões curtos, texto em português brasileiro.
-- Não usar texto em inglês, letras aleatórias ou placas legíveis desnecessárias.
-- SFX permitidos: `AUUU...`, `CRACK!`, `GRRR...`, `FWOOSH!`, `RAASH!`.
-- Se a ferramenta não acertar balões, gerar sem texto e letterar depois em etapa separada.
 
-## Avoid Global
+## Arte atual
 
-```
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text, gibberish letters, illegible font, text outside speech bubbles, misspelled Portuguese.
-```
-
-## Avoid por Continuidade
-
-- Nightwolf default: avoid werewolf, full wolf head, furry, lycanthrope transformation.
-- Bartrock normal: avoid metal mask, glowing orange eyes, black smoke, corrupted hand.
-- Criatura lupina: avoid same face as Nightwolf, olive cloak, bow, quiver, drow ranger.
-- Celeste: avoid clear full face reveal.
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

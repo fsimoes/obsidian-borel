@@ -36,3 +36,7 @@ Status: `preimage-approved`.
 ## Pos-imagem
 
 Ainda nao executado. Quando houver imagens, revisar pagina por pagina contra `panels.md`, `dialogues.md`, `characters.md` e `npc-sheets.md`.
+
+## Gate documentação v2 (2026-06-05)
+
+Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.

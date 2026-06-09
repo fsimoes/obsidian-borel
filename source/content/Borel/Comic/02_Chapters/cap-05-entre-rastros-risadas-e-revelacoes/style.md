@@ -5,47 +5,31 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-05
-status: preimage-approved
+status: docs-ready
 ---
 
 # Style - Cap. 5
 
 ## Base
 
-Usar o registro do `Comic/00_Style_Bible.md` para capitulos posteriores ao cap. 1:
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-Avoid base:
+## Refs a anexar (ordem)
 
-```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font.
-```
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-## Direcao do Capitulo
+## Direção
 
-- Investigacao urbana: composicoes horizontais e sombras de beco.
-- Humor: timing claro, expressoes grandes mas proporcionais; sem cartoon extremo.
-- Templo: paineis verticais, luz verde, contraste com roxo mental.
-- Combate: silhuetas claras, ambiente apertado, lutas com continuidade espacial.
-- Lettering: baloes em portugues, frases curtas do `dialogues.md`, sem texto adicional.
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
 
-## Paleta
 
-Terra, bronze, madeira, couro, prata envelhecida. A luz roxa de Celeste e a luz verde de Chantaner sao as duas cores sobrenaturais dominantes e nunca devem se misturar sem proposito.
+## Arte atual
 
-## Regras de Personagem
-
-- Tony: plate com emblema de dado/leao; escudo grande; postura protetora.
-- Nightwolf: drow ranger humanoide, olhos vermelhos; sem forma lobo.
-- Dustin: couro segmentado, arco, anel verde.
-- Kaelion: lamelar escura, duas katanas.
-- Bartrock: `normal`/`ressuscitado`, sem mascara, sem corrupcao.
-- Celeste: olhos roxos e mascara de metal; visual elegante e frio.
-- Amagard/Emmergard: guerreira loira de aparencia germanica/alema, compacta, forte, sem glamour.
-
-## Textos
-
-Nao usar legendas longas. Se a ferramenta errar acentos, regenerar quando comprometer leitura ou sentido. Nenhum balao em ingles.
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

@@ -1,7 +1,7 @@
 ﻿---
 title: "Production - Cap. 12"
 type: comic-production
-status: ready-for-image-generation
+status: docs-ready
 target_pages: 18
 ---
 
@@ -37,3 +37,10 @@ Pendente. Deve verificar ordem de leitura, personagens corretos, balões em port
 
 
 
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

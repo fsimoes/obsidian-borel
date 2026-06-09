@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-05
-status: ready
+status: docs-ready
 target_pages: 20
 ---
 
@@ -50,3 +50,10 @@ Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem apro
 - Sem texto em ingles identificado na revisao visual.
 - Emmergard/Amagard corrigida para loira/germanica nas paginas onde aparece.
 - Status final: `ready`.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

@@ -1,31 +1,35 @@
 ---
 title: "Style - Cap. 10"
-type: comic-style
-status: draft
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-10
+status: docs-ready
 ---
 
 # Style - Cap. 10
 
-Usar `Comic/00_Style_Bible.md`.
+## Base
 
-Prefixo base:
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-Cap. 10 pede noite naval: azuis escuros, água verde, bronze quente de lanternas, sombras fortes e silhuetas legíveis. Humor deve vir de expressão e timing, não de chibi/anime.
+## Refs a anexar (ordem)
 
-Avoid base:
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font.
-```
+## Direção
 
-Regras locais:
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
 
-- Com fala: texto exato em português, poucas palavras, balão único ou dois balões no máximo.
-- Sem fala: adicionar `No text, no speech bubbles`.
-- Navio: madeira escura, convés molhado, barris protegidos no porão.
-- Pólvora: nunca renderizar palavra "gunpowder"; se houver marca em barril, manter ilegível.
 
+## Arte atual
+
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.

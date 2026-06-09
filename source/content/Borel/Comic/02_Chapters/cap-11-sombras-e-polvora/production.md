@@ -1,7 +1,7 @@
 ---
 title: "Production - Cap. 11"
 type: comic-production
-status: ready-for-image-generation
+status: docs-ready
 target_pages: 17
 ---
 
@@ -32,3 +32,10 @@ target_pages: 17
 - Baloes em português, curtos, sem inglês.
 - Golem/puzzle legíveis como magia antiga.
 - Leitor web não atualizado até haver imagens.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

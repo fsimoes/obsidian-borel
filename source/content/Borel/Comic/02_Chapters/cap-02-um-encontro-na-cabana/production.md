@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-02
-status: ready
+status: docs-ready
 ---
 
 # Produção — Cap. 2
@@ -50,3 +50,10 @@ Retrato: `refs/07-nikov.png` (se ainda tiveres `06-nikov.png`, renomeia após in
 ## Divergência Livro
 
 Não apagar o Livro — marcar `fidelity: mesa` no capítulo. Ajustar Livro numa tarefa futura se a mesa quiser unificar.
+
+## Documentação v2 (jun/2026)
+
+- [x] `panels.md` com poses por painel
+- [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
+- [x] `style.md` v2
+- [ ] Regenerar arte (`images-pending-regen`)

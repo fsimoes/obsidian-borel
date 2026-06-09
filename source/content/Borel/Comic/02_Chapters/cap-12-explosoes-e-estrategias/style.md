@@ -1,38 +1,35 @@
-﻿---
+---
 title: "Style - Cap. 12"
-type: comic-style
-status: preimage-approved
+type: comic
+tags:
+  - rpg/borel
+  - tipo/comic
+  - comic/cap-12
+status: docs-ready
 ---
 
 # Style - Cap. 12
 
-Usar o look T2 descrito em `Comic/00_Style_Bible.md`: graphic novel de fantasia europeia, ilustração digital detalhada, influência de tinta e cel shading, paleta terrosa/bronze, iluminação cinematográfica.
+## Base
 
-## Prefixo obrigatório
+Usar **Style Bible v2** — [[../../03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] · [[../../00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão global jun/2026)|00_Style_Bible.md]]
 
-```text
-Generate an image. European fantasy graphic novel style, detailed digital illustration, inked influences, cel shading influences, muted earth and bronze palette, medieval fantasy, cinematic lighting, comic book art, clear silhouettes.
-```
+Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro).
 
-## Avoid obrigatório
+## Refs a anexar (ordem)
 
-```text
-Avoid: photorealistic, anime, 3d render, watermark, logo, blurry, extra fingers, extra arms, deformed hands, bad anatomy, English text unless specified, gibberish letters, illegible font.
-```
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
+3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
-## Ajustes do Capítulo
-- Fogo e fuligem sem gore extremo.
-- Rebeldes devem parecer populares e improvisados.
-- Guardas de cristal devem contrastar com brilho frio.
-- balões em português, frases curtas de `dialogues.md`.
-- Cenas sem fala devem explicitar `No text, no speech bubbles`.
+## Direção
 
-## Refs anexar
-- PCs: Tony, Nightwolf, Dustin, Bartrock, Borin, Trash.
-- NPC: Rita Dente de Bronze quando gerada; se não houver, usar prompt locked e manter consistência.
-- Inimigos: concept dos Guardas de Cristal quando gerado.
+- Tom **bem engraçado**: reações exageradas, timing de comédia física, sem chibi.
+- Luz quente e legível; evitar sombras chapadas de graphic novel.
+- Poses explícitas em `panels.md` — espelhar em `prompt-all-pages.md`.
 
 
+## Arte atual
 
-
-
+`images-pending-regen` — WebPs publicados usam estilo antigo até nova geração com v2.
