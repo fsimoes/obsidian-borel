@@ -66,3 +66,19 @@ Ver [[../Comic/00_Style_Bible#Style Bible v2 — Borel Funny Webcomic (padrão g
 | Personagem | Arquivo |
 |------------|---------|
 | Tobias Peso Morto (sessão 1) | `npcs/tobias-peso-morto-eq-inicial.png` |
+
+## Pendentes — caps 16–25 (jun/2026)
+
+| Personagem / criatura | Cap(s) | Status |
+|-----------------------|--------|--------|
+| Eco (guardião santuário) | 18 | pendente |
+| Máscara fundida (Bartrock S16+) | 16–19 | pendente |
+| Criatura floresta / espectro | 19 | pendente |
+| Mago dos Portais Namarath | 20 | pendente |
+| Cerberus | 21 | pendente |
+| Minhocas gigantes | 22 | pendente |
+| Criatura de gelo / cogumelos | 23 | pendente |
+| Golems elementais | 24 | pendente |
+| Uruk (reencontro) | 25 | pendente |
+
+Gerar refs antes de `prompt-all-pages.md` nos caps indicados. Ver `refs/README.md` em cada pasta `cap-XX-*`.

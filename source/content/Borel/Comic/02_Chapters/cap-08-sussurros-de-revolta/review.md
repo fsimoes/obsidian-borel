@@ -1,7 +1,7 @@
 ---
 title: "Review - Cap. 8"
 type: comic-review
-status: preimage-approved
+status: docs-ready
 target_pages: 14
 ---
 
@@ -9,7 +9,7 @@ target_pages: 14
 
 ## Pre-image review
 
-Status: `preimage-approved`.
+Status: `docs-ready`.
 
 | Checagem | Resultado |
 |---|---|

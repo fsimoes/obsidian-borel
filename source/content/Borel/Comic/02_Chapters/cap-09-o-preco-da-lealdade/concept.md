@@ -58,7 +58,7 @@ Comedia de desorganizacao virando drama de traicao. Comeca com "quem pegou o din
 
 ## Perigos e humor
 
-Perigos: traicao politica, quebra do grupo, combate em area urbana, expulsao/hostilidade da resistencia. Humor: pagamento esquecido, "Trash, foi voce?", "voce pode apostar ele", Bartrock fedendo e sendo diplomata improvavel.
+Perigos: traicao politica, quebra do grupo, combate em area urbana, expulsao/hostilidade da resistencia. Humor: pagamento esquecido, "Trash, foi você?", "você pode apostar ele", Bartrock fedendo e sendo diplomata improvavel.
 
 ## Regras visuais
 

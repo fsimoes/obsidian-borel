@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dialogues - Cap. 9"
 type: comic-dialogues
 status: ready

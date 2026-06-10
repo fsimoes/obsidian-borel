@@ -36,3 +36,18 @@ Ainda não executado. Quando houver imagens, revisar página por página contra 
 ## Gate documentação v2 (2026-06-05)
 
 Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.
+
+## Cobertura Transcrição (auditoria 2026-06-09)
+
+| Métrica | Valor |
+|---------|-------|
+| Falas em `dialogues.md` | 34 |
+| `canon` | 19 |
+| `condensed` | 15 |
+| `inferred` | 0 |
+| Outros / sem tag | 0 |
+| Arquivos `Transcricoes/` | sessao 11.txt |
+| Cobertura estimada | 100% canon+condensed |
+
+Lacunas: 0 falas `inferred`.
+Balões em PT-BR: revisado nesta auditoria.

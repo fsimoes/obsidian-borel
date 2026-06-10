@@ -59,7 +59,7 @@ Criatura no tanque, incendio descontrolado, evidencia destruida, associacao com 
 
 ## Humor
 
-Falas de Tony sobre "o problema ja nao e nosso", a entrada no galpao fechado, o guaxinim empalhado Marlon sendo chutado para o fogo, Adriano recebendo "ferias", e o alivio com platina.
+Falas de Tony sobre "o problema já não e nosso", a entrada no galpao fechado, o guaxinim empalhado Marlon sendo chutado para o fogo, Adriano recebendo "férias", e o alivio com platina.
 
 ## Gancho final
 

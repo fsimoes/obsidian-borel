@@ -39,7 +39,7 @@ Português **coloquial BR** (você/vocês). Usar **exatamente** nos balões.
 |-------|------------|--------|
 | 03-A | *…o que e devido* | Ortografia → **é devido** |
 | 04-A | *passar a perna / assalto* | Tobias **não** é vítima — ele **denuncia** o trio aos guardas (**ele** é o traidor; Dustin: *Traidor!*) |
-| 05-A | *Onde esta o cocheiro* | Alinha ao Livro (*"Onde estava quando—"* cortado) **se** a mesa usou o cocheiro no trabalho; senão use **Fala! O que vocês fizeram?** |
+| 05-A | *Onde está o cocheiro* | Alinha ao Livro (*"Onde estava quando—"* cortado) **se** a mesa usou o cocheiro no trabalho; senão use **Fala! O que vocês fizeram?** |
 | 05-C | *Como ousas se dirigir a palavra a mim* | Tom muito formal/PT → **Como você ousa falar comigo, verme?** |
 | 05-D | *Vou te mostrar o verme!* | Mantida a ideia → **Então eu te mostro, verme!** (pré-tapa) |
 | 09-A | *Vamos logo!* | Painel = **carregar** Bart → **Segura ele — vamo!** |

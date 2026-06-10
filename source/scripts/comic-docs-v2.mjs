@@ -33,6 +33,12 @@ const LOCKED = {
   Rita: "bronze-toothed rebel leader, distinctive smile",
   Borin: "dwarf mechanic companion",
   Trash: "small construct companion",
+  Ivan: "city guard captain, stern armor, official coat",
+  Jorge: "frightened child, humble clothes, dusty face",
+  Leticia: "noble servant, formal dress, anxious posture",
+  Baronesa: "cold elven noblewoman, elegant dark dress",
+  Megard: "compact strong blonde Germanic warrior woman, green/brown mercenary clothes",
+  Emmergard: "blonde warrior woman, NOT red hair, mercenary gear",
   Figurante: "generic medieval townsfolk silhouette",
 }
 
@@ -58,20 +64,28 @@ function inferExpr(cena, humor) {
   return "focused, readable emotion"
 }
 
+function parsePageSection(section) {
+  const headerMatch = section.match(/^##\s+(Capa|P[aá]gina)\s*(\d{1,3})?\s*[-—]?\s*([^\n]*)/i)
+  if (!headerMatch) return null
+  const isCapa = /^capa/i.test(headerMatch[1])
+  const num = isCapa ? "000" : String(parseInt(headerMatch[2], 10)).padStart(3, "0")
+  const title = (headerMatch[3] || (isCapa ? "capa" : "cena")).trim()
+  const body = section.slice(headerMatch[0].length)
+  const paineis = parseInt(body.match(/Pain[eé]is:\s*(\d+)/i)?.[1] || "1", 10)
+  const cena = body.match(/Cena:\s*([^\n]+)/)?.[1]?.trim() || ""
+  const falas = body.match(/Falas:\s*([^\n]+)/)?.[1]?.trim() || ""
+  const refs = body.match(/Refs:\s*([^\n]+)/)?.[1]?.trim() || ""
+  const humor = /humor/i.test(body)
+  if (!cena && !isCapa) return null
+  return { num, title, paineis, cena, falas, refs, humor }
+}
+
 function parseCap05Pages(text) {
   const pages = []
-  const re = /## P[aá]gina (\d{1,3})[^\n]*\n([\s\S]*?)(?=\n## P[aá]gina |\n## [^#]|$)/gi
-  let m
-  while ((m = re.exec(text))) {
-    const body = m[2]
-    const titleLine = m[0].split("\n")[0]
-    const title = titleLine.replace(/^## P[aá]gina \d{1,3}\s*[-—]\s*/i, "").trim() || "cena"
-    const paineis = parseInt(body.match(/Pain[eé]is:\s*(\d+)/i)?.[1] || body.match(/Paineis:\s*(\d+)/)?.[1] || "1", 10)
-    const cena = body.match(/Cena:\s*([^\n]+)/)?.[1] || ""
-    const falas = body.match(/Falas:\s*([^\n]+)/)?.[1] || ""
-    const refs = body.match(/Refs:\s*([^\n]+)/)?.[1] || ""
-    const humor = /humor/i.test(body)
-    pages.push({ num: String(parseInt(m[1], 10)).padStart(3, "0"), title, paineis, cena, falas, refs, humor })
+  const sections = text.split(/\n(?=##\s+(?:Capa|P[aá]gina)\b)/i)
+  for (const section of sections) {
+    const page = parsePageSection(section)
+    if (page) pages.push(page)
   }
   return pages
 }
@@ -111,12 +125,26 @@ function charsFromRefs(refs, cena) {
   const names = []
   const r = (refs + " " + cena).toLowerCase()
   for (const key of Object.keys(LOCKED)) {
+    if (key === "Figurante") continue
     if (r.includes(key.toLowerCase()) || r.includes(key.split(" ")[0].toLowerCase())) {
       names.push(key)
     }
   }
+  if (/\bgrupo\b|\bpcs\b|\bparty\b/.test(r)) {
+    for (const k of ["Tony", "Dustin", "Nightwolf", "Kaelion", "Bartrock", "Borin"]) {
+      if (!names.includes(k)) names.push(k)
+    }
+  }
   if (names.length === 0) names.push("Figurante")
   return [...new Set(names)]
+}
+
+function sanitizeOldPrompt(body) {
+  if (!body) return null
+  if ((body.match(/Generate an image/gi) || []).length > 0) return null
+  if (/Avoid:\s*photorealistic/i.test(body)) return null
+  const t = body.replace(/^Use refs[^\n]*\n?/i, "").trim()
+  return t.length > 15 ? t : null
 }
 
 function poseTableForPanel(panelId, cena, refs, humor, chars) {
@@ -285,7 +313,7 @@ function processChapter(dir) {
     `---\ntitle: "Prompt All Pages - Cap. ${capNum}"\nstatus: docs-ready\n---\n\n# Prompt All Pages - Cap. ${capNum} (v2)\n\n## Antes de colar\n\n1. Nova conversa ChatGPT.\n2. Anexar refs de estilo (ver \`style.md\`) + refs de personagem do capítulo.\n3. Uma conversa por capítulo.\n\n## Prefixo v2\n\n\`\`\`text\n${V2_PREFIX}\n\`\`\`\n\n## Avoid v2\n\n\`\`\`text\n${V2_AVOID}\n\`\`\`\n\n## Páginas\n`,
   ]
   for (const p of pages) {
-    let body = oldPrompts.get(p.num)
+    let body = sanitizeOldPrompt(oldPrompts.get(p.num))
     if (body && !body.includes("CHARACTERS & POSES")) {
       body = `--- PAGE ${p.num} ---\n${body}\nPanel A — CHARACTERS & POSES: ${charsFromRefs(p.refs, p.cena)
         .map((c) => `${c} (${inferPose(p.cena, c)}, ${inferExpr(p.cena, p.humor)})`)
@@ -464,7 +492,8 @@ function processCap01() {
 }
 
 const args = process.argv.slice(2)
-const onlyCap = args.find((a) => a.startsWith("--cap="))?.split("=")[1]
+const onlyCapRaw = args.find((a) => a.startsWith("--cap="))?.split("=")[1]
+const onlyCap = onlyCapRaw ? String(parseInt(onlyCapRaw, 10)).padStart(2, "0") : null
 const all = args.includes("--all") || !onlyCap
 
 const dirs = fs
@@ -487,7 +516,6 @@ for (const dir of dirs) {
     results.push({ cap: 1, ok: true })
     continue
   }
-  if (!all && onlyCap) continue
   results.push({ ...processChapter(dir), dir: path.basename(dir) })
 }
 

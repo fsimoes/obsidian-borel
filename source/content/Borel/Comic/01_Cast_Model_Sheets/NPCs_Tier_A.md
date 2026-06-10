@@ -214,5 +214,21 @@ Tobias Peso Morto, young halfling fighter, spiky messy brown hair freckles stubb
 | Letícia | sim | pendente |
 | Emmergard | sim | pendente |
 | Geraldinho | sim | pendente |
+| Eco (S18) | sim | pendente |
+| Cerberus (S21) | sim | pendente |
+| Mago Portais Namarath (S20) | sim | pendente |
 
 *Trash (companion de Borin):* [[PC_Trash]] — `trash-eq-inicial.png` (solo) · `borin-trash-eq-inicial.png` (duo; não é Tier A de antagonista).
+
+---
+
+## Arco 16–25 (docs prontos jun/2026)
+
+Prioridade de ref para geração de arte:
+
+| Cap | NPCs / inimigos novos |
+|-----|------------------------|
+| 16 | Lobisomem Nightwolf (ref `nightwolf-lycanthrope` já existe) |
+| 17–18 | Orestan (ref existe), Eco |
+| 19 | Máscara Bartrock, criatura floresta, espectro |
+| 20–25 | Cerberus, golems, elementais, minhocas — ver `enemy-concepts.md` por capítulo |

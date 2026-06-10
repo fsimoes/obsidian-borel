@@ -32,8 +32,8 @@ O grupo aceitou ajudar Rita e ouviu sobre a operacao rebelde. Agora a mesa volta
 
 ## Cenas obrigatorias
 
-- A fala/ideia "Trash, foi voce?" deve aparecer como humor recorrente.
-- "Voce pode apostar ele" deve ficar visualmente claro como piada com Trash.
+- A fala/ideia "Trash, foi você?" deve aparecer como humor recorrente.
+- "Você pode apostar ele" deve ficar visualmente claro como piada com Trash.
 - A proposta do guarda precisa ser mostrada como suborno, nao contrato honrado.
 - Kaelion deve ter motivacao moral legivel: ele nao trai por dinheiro.
 - O final deve pesar mais que a comedia inicial.

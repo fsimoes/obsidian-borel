@@ -22,14 +22,24 @@ Protocolo mestre: [[../03_Templates/Protocolo_Capitulo_Comic_Todas_Sessoes|Proto
 | **cap-05** | 5 | **docs-ready** | publicado (regen pendente) · piloto humor pág. 004 | [[cap-05-entre-rastros-risadas-e-revelacoes/panels\|panels]] |
 | **cap-06** | 6 | **docs-ready** | publicado (regen pendente) | [[cap-06-investigacoes-e-revelacoes/panels\|panels]] |
 | **cap-07** | 7 | **docs-ready** | publicado (regen pendente) | [[cap-07-a-carroca-misteriosa/panels\|panels]] |
-| **cap-08** | 8 | **ready** | publicado no leitor (arte anterior; regen v2 pendente) | [[cap-08-sussurros-de-revolta/panels\|panels]] |
-| **cap-09** | 9 | **ready** | publicado no leitor (lettering incompleto; regen v2 pendente) | [[cap-09-o-preco-da-lealdade/panels\|panels]] |
-| **cap-10** | 10 | **docs-ready** | imagens pendentes | [[cap-10-sombras-no-cais/panels\|panels]] |
-| **cap-11** | 11 | **docs-ready** | imagens pendentes | [[cap-11-sombras-e-polvora/panels\|panels]] |
-| **cap-12** | 12 | **docs-ready** | imagens pendentes | [[cap-12-explosoes-e-estrategias/panels\|panels]] |
-| **cap-13** | 13 | **docs-ready** | imagens pendentes | [[cap-13-o-fogo-da-revolta/panels\|panels]] |
-| **cap-14** | 14 | **docs-ready** | imagens pendentes | [[cap-14-o-cerco-final/panels\|panels]] |
-| **cap-15** | 15 | **docs-ready** | imagens pendentes | [[cap-15-sombras-e-fugas/panels\|panels]] |
+| **cap-08** | 8 | **docs-ready** | publicado (regen v2 pendente) | [[cap-08-sussurros-de-revolta/panels\|panels]] |
+| **cap-09** | 9 | **docs-ready** | publicado (regen v2 pendente) | [[cap-09-o-preco-da-lealdade/panels\|panels]] |
+| **cap-10** | 10 | **docs-ready** | `images-pending-regen` | [[cap-10-sombras-no-cais/panels\|panels]] |
+| **cap-11** | 11 | **docs-ready** | `images-pending-regen` | [[cap-11-sombras-e-polvora/panels\|panels]] |
+| **cap-12** | 12 | **docs-ready** | `images-pending-regen` | [[cap-12-explosoes-e-estrategias/panels\|panels]] |
+| **cap-13** | 13 | **docs-ready** | `images-pending-regen` | [[cap-13-o-fogo-da-revolta/panels\|panels]] |
+| **cap-14** | 14 | **docs-ready** | `images-pending-regen` | [[cap-14-o-cerco-final/panels\|panels]] |
+| **cap-15** | 15 | **docs-ready** | `images-pending-regen` | [[cap-15-sombras-e-fugas/panels\|panels]] |
+| **cap-16** | 16 | **docs-ready** | `images-pending-regen` | [[cap-16-sombras-do-passado/panels\|panels]] |
+| **cap-17** | 17 | **docs-ready** | `images-pending-regen` | [[cap-17-entre-cordas-e-confissoes/panels\|panels]] |
+| **cap-18** | 18 | **docs-ready** | `images-pending-regen` | [[cap-18-santuario-e-londe/panels\|panels]] |
+| **cap-19** | 19 | **docs-ready** | `images-pending-regen` | [[cap-19-floresta-dos-horrores/panels\|panels]] |
+| **cap-20** | 20 | **docs-ready** | `images-pending-regen` | [[cap-20-marcas-do-ritual/panels\|panels]] |
+| **cap-21** | 21 | **docs-ready** | `images-pending-regen` | [[cap-21-traicao-de-cerberus/panels\|panels]] |
+| **cap-22** | 22 | **docs-ready** | `images-pending-regen` | [[cap-22-batalha-das-minhocas/panels\|panels]] |
+| **cap-23** | 23 | **docs-ready** | `images-pending-regen` | [[cap-23-caverna-dos-cogumelos/panels\|panels]] |
+| **cap-24** | 24 | **docs-ready** | `images-pending-regen` | [[cap-24-golems-elementais/panels\|panels]] |
+| **cap-25** | 25 | **docs-ready** | `images-pending-regen` | [[cap-25-despedidas-e-novos-rumos/panels\|panels]] |
 
 Índice geral: [[../index|Comic/index]].
 

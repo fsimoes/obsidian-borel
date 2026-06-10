@@ -22,6 +22,10 @@
     "comic:webp": "node ./scripts/convert-comic-to-webp.mjs --remove-png",
     "comic:cap00": "node ./scripts/generate-cap-00-elenco.mjs",
     "comic:sync": "node ./scripts/sync-comic-chapters.mjs",
+    "comic:restore-v2": "node ./scripts/restore-and-v2-caps.mjs",
+    "comic:prepare": "node ./scripts/prepare-comic-from-sessoes.mjs",
+    "comic:fix-pt": "node ./scripts/fix-comic-acentuacao.mjs --all",
+    "comic:curate-dialogues": "node ./scripts/rebuild-curated-dialogues.mjs",
     "build:site": "npx quartz build && npm run copy:comic",
     "serve:site": "npm run build:site && npx quartz build --serve"
   },

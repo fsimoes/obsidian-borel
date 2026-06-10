@@ -118,10 +118,10 @@ Justificativa de `target_pages: 20`: sessao densa, com muitos blocos importantes
 ## Humor
 
 - Tony tentando ser discreto com uma piscadela e falhando.
-- "E so uma cerveja."
+- "E só uma cerveja."
 - O tackle no senhorzinho e a vergonha do grupo.
 - "O pior e que agora eu to mijado do velho."
-- Formacao improvisada pode aparecer como arranjo visual sem escrever piada grosseira no balao.
+- Formacao improvisada pode aparecer como arranjo visual sem escrever piada grosseira no balão.
 - Bartrock falhando fisicamente/entrando tarde deve ser visual, nao caricatura que apague sua utilidade final.
 
 ## Gancho Final

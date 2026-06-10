@@ -19,7 +19,7 @@ Abrir com a carroca retornando a Rilonde. Celeste, Lucian e os corpos dos licant
 4. Tony apresenta Celeste, Lucian, os mortos e a carta do Armazem 568.
 5. Alberto aceita prender os suspeitos, mas exige prova concreta.
 6. Kaelion negocia a extensao da investigacao e recebe a lista dos roubos.
-7. Tony afasta Adriano pagando suas "ferias".
+7. Tony afasta Adriano pagando suas "férias".
 8. A Enguia Roxa oferece uma pausa: comida, musica, piadas e inquietacao.
 9. De manha, o grupo encontra o Armazem 568.
 10. Nightwolf abre o cadeado; a porta revela um laboratorio.

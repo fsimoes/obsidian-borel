@@ -215,18 +215,30 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 | **12** | **12** | [[02_Chapters/cap-12-explosoes-e-estrategias/README\|cap-12]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
 | **13** | **13** | [[02_Chapters/cap-13-o-fogo-da-revolta/README\|cap-13]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
 | **14** | **14** | [[02_Chapters/cap-14-o-cerco-final/README\|cap-14]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
-| **15** | **15** | [[02_Chapters/cap-15-sombras-e-fugas/README\|cap-15]] · roteiro/pre-producao prontos · **ready-for-image-generation** |
+| **15** | **15** | [[02_Chapters/cap-15-sombras-e-fugas/README\|cap-15]] · **docs-ready** · `images-pending-regen` |
+| **16** | **16** | [[02_Chapters/cap-16-sombras-do-passado/README\|cap-16]] · licantropia · **docs-ready** |
+| **17** | **17** | [[02_Chapters/cap-17-entre-cordas-e-confissoes/README\|cap-17]] · cordas, cura, Alberto · **docs-ready** |
+| **18** | **18** | [[02_Chapters/cap-18-santuario-e-londe/README\|cap-18]] · ritual Dustin, Londe · **docs-ready** |
+| **19** | **19** | [[02_Chapters/cap-19-floresta-dos-horrores/README\|cap-19]] · Máscara, espectro · **docs-ready** |
+| **20** | **20** | [[02_Chapters/cap-20-marcas-do-ritual/README\|cap-20]] · universidade Namarath · **docs-ready** |
+| **21** | **21** | [[02_Chapters/cap-21-traicao-de-cerberus/README\|cap-21]] · dungeon Cerberus · **docs-ready** |
+| **22** | **22** | [[02_Chapters/cap-22-batalha-das-minhocas/README\|cap-22]] · **docs-ready** |
+| **23** | **23** | [[02_Chapters/cap-23-caverna-dos-cogumelos/README\|cap-23]] · elementais · **docs-ready** |
+| **24** | **24** | [[02_Chapters/cap-24-golems-elementais/README\|cap-24]] · puzzle golems · **docs-ready** |
+| **25** | **25** | [[02_Chapters/cap-25-despedidas-e-novos-rumos/README\|cap-25]] · **docs-ready** |
 
-- [ ] Publicar caps 1–9 no site (uma pasta + linha no `chapters.json` por capítulo)
+- [x] Publicar caps 0–9 no leitor (`chapters.json` v14)
+- [ ] Publicar caps 10–25 no leitor após gerar WebP
 
 ### Vol 2 — Sessões 10–16
 
-- [ ] Revolta, licantropia, possessão
-- [ ] Publicar caps 10–13 no site depois de gerar imagens e validar paginas
+- [x] Docs caps 10–16 a partir de `Sessoes/` + `Transcricoes/`
+- [ ] Gerar arte caps 10–16 (v2 humor)
 
 ### Vol 3 — Sessões 17–25
 
-- [ ] Santuário, legado de Rilonde, dungeons
+- [x] Docs caps 17–25 (`session-outline.md` nos caps 20–25)
+- [ ] Refs dungeon (Cerberus, golems, elementais) antes de gerar arte
 
 ---
 

@@ -41,7 +41,7 @@ O cap. 4 terminou com Nightwolf ferido e sem memoria do ataque, enquanto Bartroc
 ## Cenas Obrigatorias
 
 - Caixa furada/olhos ausente.
-- Piscadela falha de Tony e "E so uma cerveja."
+- Piscadela falha de Tony e "E só uma cerveja."
 - Tackle no senhorzinho e "mijado do velho."
 - Templo com estatua/fonte de Chantaner.
 - Memoria de Celeste encantando Lucian e olhos roxos apagando Nightwolf.

@@ -40,3 +40,18 @@ Pendente. Nenhuma página foi gerada nesta execução.
 ## Gate documentação v2 (2026-06-05)
 
 Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.
+
+## Cobertura Transcrição (auditoria 2026-06-09)
+
+| Métrica | Valor |
+|---------|-------|
+| Falas em `dialogues.md` | 42 |
+| `canon` | 32 |
+| `condensed` | 10 |
+| `inferred` | 0 |
+| Outros / sem tag | 0 |
+| Arquivos `Transcricoes/` | sessao 14.txt |
+| Cobertura estimada | 100% canon+condensed |
+
+Lacunas: 0 falas `inferred`.
+Balões em PT-BR: revisado nesta auditoria.

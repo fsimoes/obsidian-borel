@@ -9,7 +9,7 @@ target_pages: 14
 
 ## Status
 
-`ready-for-image-generation`. Revisao pre-imagem aprovada em `review.md`. Nenhuma pagina final foi gerada neste run.
+`docs-ready` / `images-pending-regen`. Poses e prompts v2 completos (jun/2026). Arte publicada no leitor usa estilo anterior; regenerar com Style Bible v2.
 
 ## Fila de imagem
 

@@ -27,6 +27,16 @@ const SESSION_MAP = {
   "cap-13-o-fogo-da-revolta": "cap-13-sessao-13",
   "cap-14-o-cerco-final": "cap-14-sessao-14",
   "cap-15-sombras-e-fugas": "cap-15-sessao-15",
+  "cap-16-sombras-do-passado": "cap-16-sessao-16",
+  "cap-17-entre-cordas-e-confissoes": "cap-17-sessao-17",
+  "cap-18-santuario-e-londe": "cap-18-sessao-18",
+  "cap-19-floresta-dos-horrores": "cap-19-sessao-19",
+  "cap-20-marcas-do-ritual": "cap-20-sessao-20",
+  "cap-21-traicao-de-cerberus": "cap-21-sessao-21",
+  "cap-22-batalha-das-minhocas": "cap-22-sessao-22",
+  "cap-23-caverna-dos-cogumelos": "cap-23-sessao-23",
+  "cap-24-golems-elementais": "cap-24-sessao-24",
+  "cap-25-despedidas-e-novos-rumos": "cap-25-sessao-25",
 }
 
 const only = process.argv.slice(2)
