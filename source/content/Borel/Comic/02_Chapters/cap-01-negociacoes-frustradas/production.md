@@ -13,13 +13,14 @@ status: ativo
 
 **Pré-requisito:** [[script|script.md]] (beats) ✓ · [[panels|panels.md]] (painéis) → gerar imagens.
 
-## Fase atual: Cap. 1 v2 — **regenerado** (2026-06-12)
+## Fase atual: Cap. 1 v2 — **publicado** (2026-06-12)
 
 - [x] 10 páginas geradas (Cursor GenerateImage) → [[pages/README|pages/]] (`001.png` + `001.webp`–`010.webp`)
 - [x] `quartz/static/comic/cap-01-sessao-01/001.webp`–`010.webp`
 - [x] `npm run comic:webp` (2026-06-12)
-- [ ] Mesa: revisão visual + falas PT antes de marcar publicado
-- [ ] `npm run build:site` ou `copy:comic` após aprovação
+- [x] Regen seletiva P004–P010 (cânone corrigido)
+- [x] Mesa: revisão visual aprovada (2026-06-12)
+- [x] `npm run copy:comic` · `npm run build:site`
 
 **Revisão opcional:** P07 gola / Nightwolf vs ref — ver [[pages/README#Revisão mesa (opcional)|notas]]. P005 exigiu 2ª tentativa (safety filter na 1ª).
 

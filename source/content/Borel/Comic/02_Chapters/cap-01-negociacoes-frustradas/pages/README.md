@@ -15,11 +15,14 @@ Cópia das **`001.webp`–`010.webp`** publicadas no leitor.
 
 **Regeneração (2026-06-12):** 10 páginas geradas via Cursor `GenerateImage` a partir de [[../prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]] + 6 refs (`Referencias/style/`, `pcs/`, `Npcs/`). PNG em `pages/`; WebP em `quartz/static/comic/cap-01-sessao-01/` (`npm run comic:webp`).
 
+**Regeneração seletiva (2026-06-12):** P004, P006, P007, P008, P009, P010 — correção de cânone (Tobias denunciante, Bart sem magia, fuga só Dustin+Nightwolf, placa *Cálice Dourado*).
+
 | Nota | Detalhe |
 |------|---------|
+| P004–P010 | Regen 2 corrigiu traição, caos, gola, fuga e placa da taverna |
 | P005 | 1ª tentativa bloqueada (safety); regenerada com prompt de confronto verbal |
 | Canon | Tobias traidor · P06 sem tapa · P07 gola halfling×elfo · Dustin adagas |
-| Revisão | Conferir falas PT e rostos vs refs antes de publicar |
+| Revisão | **Aprovada** (2026-06-12) — regen P004–P010 |
 
 | Pág. | Cena |
 |------|------|
