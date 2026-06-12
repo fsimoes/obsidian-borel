@@ -27,3 +27,11 @@ title: Characters - Cap. 22
 ## Kaelion
 - Papel: PC
 - Ref: `kaelion-eq-inicial`
+
+## Orestan
+- Papel: PC
+- Ref: `orestan-eq-inicial`
+
+## Minhocas gigantes
+- Papel: Inimigo
+- Ref: `Npcs/minhocas-gigantes-cap22.png` — aprovado bloco H jun/2026 v3

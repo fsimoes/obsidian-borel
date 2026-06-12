@@ -1,24 +1,25 @@
----
+﻿---
 title: "Refs - Cap. 14"
 type: comic-refs
-status: pending
+status: ready
 ---
 
 # Refs - Cap. 14
 
-## Usar existentes
-- `Referencias/pcs/tony-eq-inicial.png`
-- `Referencias/pcs/nightwolf-eq-inicial.png`
-- `Referencias/pcs/dustin-eq-inicial.png`
-- `Referencias/pcs/bartrock-normal-eq-inicial.png`
-- `Referencias/pcs/kaelion-eq-inicial.png`
-- `Referencias/pcs/borin-eq-inicial.png`
-- `Referencias/pcs/trash-eq-inicial.png`
+## Usar
 
-## Gerar antes das páginas
-- `Referencias/npcs/rita-dente-de-bronze-eq-revolta.webp`
-- `Referencias/npcs/ivan-eq-cidadela.webp`
-- `Referencias/npcs/emmergard-eq-cerco.webp` se close for usado.
+- PCs em `Referencias/pcs/`.
+- `rita-dente-de-bronze-eq-revolta.png` — aprovada bloco D jun/2026 v3 (cópia de cap. 12).
 
-## Nota
-Sem essas refs, páginas com close de Rita, Ivan ou Emmergard podem variar demais entre gerações.
+## Reutilizar (sem regen)
+
+- `Npcs/emmergard-eq-inicial.png` — mesmo design; sujeira/ferimentos no prompt
+- `Npcs/ivan-guarda.png` — Ivan em combate: anexar ref + prompt (armadura ornada, escudo, azagaia)
+
+## Bloco E (jun/2026 v3) — aprovado
+
+- [x] `castelo-patio-cerco.png` — ambiente pátio do cerco (+ cópia `Npcs/castelo-patio-cerco.png`)
+
+## Só se precisar (objeto/ambiente)
+
+- Guardas do castelo — figurantes no prompt; sem retrato

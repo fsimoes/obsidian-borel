@@ -5,16 +5,25 @@ title: NPC sheets - Cap. 16
 # NPC sheets - Cap. 16
 
 ## Letícia
-- Fonte: Sessoes/
-- Papel: NPC da sessão 16
-- Ref: pendente se não existir em Referencias/
 
-## Pequeno Jorge
-- Fonte: Sessoes/
-- Papel: NPC da sessão 16
-- Ref: pendente se não existir em Referencias/
+| Campo | Valor |
+|-------|--------|
+| Papel | Ferida pela Fireball acidental de Bartrock |
+| Ref | `Npcs/leticia-servical.png` — **reutilizar** + prompt (queimadura/inconsciente) |
+| Status | [x] ref existe |
 
-## Emegard, Angron, Kelion
-- Fonte: Sessoes/
-- Papel: NPC da sessão 16
-- Ref: pendente se não existir em Referencias/
+## Jorge
+
+| Campo | Valor |
+|-------|--------|
+| Papel | Órfão nobre, cenas prisão/templo |
+| Ref | `Npcs/jorge-eq-inicial.png` — v3 aprovada · reutilizar |
+| Status | [x] ref legado |
+
+## Emmergard
+
+| Campo | Valor |
+|-------|--------|
+| Papel | Sobrevivente, grupo |
+| Ref | `Npcs/emmergard-eq-inicial.png` — **reutilizar** |
+| Status | [x] v3 aprovada |

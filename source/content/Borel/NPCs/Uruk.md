@@ -15,6 +15,15 @@ plots-relacionados:
 
 # Uruk
 
+## Refs visuais (HQ v3)
+
+| Loadout | Arquivo | Status |
+|---------|---------|--------|
+| Possuído | `Referencias/Npcs/uruk-possuido-eq-inicial.png` | aprovado bloco J jun/2026 v3 |
+| Recuperado | `Referencias/Npcs/uruk-eq-inicial.png` | aprovado bloco J jun/2026 v3 |
+
+Prompts: [[../Comic/01_Cast_Model_Sheets/01_Prompts_Retratos_ChatGPT#Uruk possuído (S25)|01_Prompts_Retratos_ChatGPT]]
+
 ## Perfil
 - **Status**: **RECUPERADO** (Sessão 25)
 - **Origem**: Amigo de tribo de Orestan/Anselmo

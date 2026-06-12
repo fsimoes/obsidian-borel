@@ -30,7 +30,7 @@ status: preimage-approved
 | Pose | Braços cruzados na taverna; maça firme na carroça |
 | Expressões | Sorriso leve e acolhedor diante de Tony; foco sério na escolta |
 | Paleta | Couro marrom, vinho escuro, aço gasto, detalhes verde-musgo |
-| Refs existentes | Nenhuma ref aprovada encontrada em `Referencias/` |
+| Refs existentes | `refs/emmergard-eq-inicial.png` · `Referencias/npcs/emmergard-eq-inicial.png` (aprovada jun/2026 v3) |
 | Prompt ref | `Generate an image. European fantasy graphic novel style... Character portrait/model sheet of Emmergard, adult human woman warrior-tavern keeper with blonde Germanic appearance, compact powerful build, broad shoulders, muscular worker arms, practical dark leather armor over moss green tunic, muted burgundy cloak/scarf, heavy spiked mace, tied-back braided blonde hair, warm friendly confident expression, waist-up and expression studies, neutral gray background, clear silhouette. She should feel approachable, capable, grounded, and physically strong from labor and fighting, not glamorous. Avoid: photorealistic, anime, 3d render, text, speech bubble, watermark, extra fingers, bad anatomy, thin body, slim waist, delicate build, red hair, brown hair, black hair, pin-up pose, voluptuous hourglass body, exposed cleavage, glamor armor, hostile scowl, mean expression.` |
 | Restrições visuais | Não sexualizar; não fazer corpo ampulheta/voluptuoso; não fazer armadura brilhante de paladina; não parecer nobre; cabelo loiro obrigatório; aparência germânica/alemã obrigatória; silhueta compacta e forte obrigatória, não magra |
 | Continuidade futura | Deve funcionar como aliada recorrente até arcos posteriores; salvar em `Referencias/npcs/emmergard-eq-inicial.png` quando gerada. |

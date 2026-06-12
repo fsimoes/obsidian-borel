@@ -96,13 +96,17 @@ Tokens circulares para uso em mapas/VTT. Bestiário completo: [[Monstros das Fac
 
 ## Andar 4
 
-### Segredista do Vidro
+### Capitão Varkash da Marca
 
-![[Tokens/token-04-segredista-vidro.png]]
+![[Tokens/token-04-capitao-varkash.png]]
 
-### Guardião Prismático
+### Chefe de Guerra Orc
 
-![[Tokens/token-04-guardiao-prismatico.png]]
+![[Tokens/token-04-chefe-guerra-orc.png]]
+
+### Tyran da Trincheira
+
+![[Tokens/token-04-tyran-trincheira.png]]
 
 ## Andar 3
 

@@ -4,27 +4,27 @@ title: NPC sheets - Cap. 17
 
 # NPC sheets - Cap. 17
 
-## Descrição
-- Fonte: Sessoes/
-- Papel: NPC da sessão 17
-- Ref: pendente se não existir em Referencias/
+## Thaís Carla
 
-## Características
-- Fonte: Sessoes/
-- Papel: NPC da sessão 17
-- Ref: pendente se não existir em Referencias/
+| Campo | Valor |
+|-------|--------|
+| Papel | Guardiã obesa da taverna; bloqueia corredor |
+| Ref | `Npcs/thais-carla-eq-inicial.png` — bloco F v3 jun/2026 |
+| Legado | `Npcs/TahisCarla.png` — pintura realista; **não usar** em páginas v3 |
+| LOCKED | [[../../01_Cast_Model_Sheets/NPCs_Tier_A#Thaís Carla|NPCs_Tier_A]] |
+| Status | [x] gerada · [ ] mesa aprovar |
 
-## Papel
-- Fonte: Sessoes/
-- Papel: NPC da sessão 17
-- Ref: pendente se não existir em Referencias/
+## Letícia
 
-## Momento Marcante
-- Fonte: Sessoes/
-- Papel: NPC da sessão 17
-- Ref: pendente se não existir em Referencias/
+| Campo | Valor |
+|-------|--------|
+| Papel | Apresentação a Alberto (off-screen / plano) |
+| Ref | `Npcs/leticia-servical.png` — reutilizar |
+| Status | [x] v3 aprovada |
 
-## Contribuição
-- Fonte: Sessoes/
-- Papel: NPC da sessão 17
-- Ref: pendente se não existir em Referencias/
+## Peppa
+
+| Campo | Valor |
+|-------|--------|
+| Papel | Gag — explosão no corredor |
+| Ref | **nenhuma** — só prompt cômico na página |

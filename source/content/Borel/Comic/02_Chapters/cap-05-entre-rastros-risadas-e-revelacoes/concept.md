@@ -63,7 +63,7 @@ Comeca com humor de mesa e desconfianca urbana, vira misterio de detetive improv
 9. Chegada ao templo.
 10. Ritual e fumaca verde.
 11. Visao: Celeste sobre Lucian.
-12. Visao: lobisomem, silhueta roxa, maca de Chantaner.
+12. Visao: lobisomem, silhueta roxa, maçã de Chantaner.
 13. Grupo interpreta a revelacao e arma o plano.
 14. Dustin segue Lucian/Celeste.
 15. Entrada na casa e primeira confusao.
@@ -82,7 +82,7 @@ Justificativa de `target_pages: 20`: sessao densa, com muitos blocos importantes
 - Bengala do senhorzinho: paranoia virando comedia fisica.
 - Cerveja de Tony/Amagard: teste social que vira confianca parcial.
 - Fonte verde de Chantaner: memoria como mergulho.
-- Maca: favor divino e aviso.
+- Maçã: favor divino e aviso.
 - Olhos roxos de Celeste: magia mental e controle.
 - Mascara de metal: prova, trofeu e futuro perigo.
 - Cartas de divida: motivacao mundana por tras da magia.
@@ -99,7 +99,7 @@ Justificativa de `target_pages: 20`: sessao densa, com muitos blocos importantes
 - O templo de Chantaner mostra uma estatua com fonte.
 - Nightwolf flutua em fumaca verde e recupera as memorias.
 - Celeste e vista lancando encanto em Lucian e depois magia roxa em Nightwolf.
-- Amagard entrega a maca de Chantaner a Nightwolf.
+- Emmergard entrega a maçã de Chantaner a Nightwolf.
 - Dustin segue o casal, a dor de cabeca denuncia Celeste.
 - Casa: Dustin entra errado, Lucian grita, Tony segura Lucian.
 - Celeste sorri de forma perversa e usa tentaculos/magia sombria.
@@ -126,7 +126,7 @@ Justificativa de `target_pages: 20`: sessao densa, com muitos blocos importantes
 
 ## Gancho Final
 
-A pagina final fecha com Celeste viva, vendada e amarrada, Lucian desacordado, mascara de metal na mao de Dustin e cartas de divida na mesa. A pergunta visual e dupla: Alberto tera sua prova, mas a mascara e a maca indicam que a conspiracao e maior que um casal endividado.
+A pagina final fecha com Celeste viva, vendada e amarrada, Lucian desacordado, mascara de metal na mao de Dustin e cartas de divida na mesa. A pergunta visual e dupla: Alberto tera sua prova, mas a mascara e a maçã indicam que a conspiracao e maior que um casal endividado.
 
 ## Regras Visuais do Capitulo
 
@@ -149,7 +149,7 @@ A pagina final fecha com Celeste viva, vendada e amarrada, Lucian desacordado, m
   - 0:26:23-0:34:26: rastros, senhorzinho, mijo do velho.
   - 1:00:09-1:00:42: Amagard explica trabalho para Alberto.
   - 1:13:06-1:13:34: indicacao do templo.
-  - 1:41:59-1:53:40: templo, ritual, fumaca verde, memoria e maca.
+  - 1:41:59-1:53:40: templo, ritual, fumaca verde, memoria e maçã.
   - 2:00:23-2:05:43: Nightwolf relata Celeste/Lucian e grupo busca prova.
   - 2:22:07-2:32:59: Celeste chega, Dustin segue e entrada na casa.
   - 2:40:40-4:34:19: combate contra Lucian, Celeste e lobos.

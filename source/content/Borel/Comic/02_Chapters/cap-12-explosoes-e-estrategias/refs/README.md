@@ -10,8 +10,9 @@ status: blocked:image-tool-error
 
 | Arquivo sugerido | Uso | Status |
 |---|---|---|
-| `rita-dente-de-bronze.webp` | Capa, páginas 003-006, 011 | pendente; geração tentou e falhou por erro da ferramenta |
-| `guardas-de-cristal.webp` | páginas 012-015 | pendente |
+| `rita-dente-de-bronze-eq-revolta.png` ou `Npcs/rita-dente-de-bronze.png` | Capa, páginas 003-006, 011 | eq-revolta = variante opcional; base Rita + prompt de guerra também vale |
+| `guardas-de-cristal.png` | páginas 012-015 | aprovada bloco D jun/2026 v3 |
+| `geraldinho-eq-inicial.png` | páginas com Geraldinho | aprovada bloco E jun/2026 v3 |
 
 ## Usar refs existentes
 - `Referencias/pcs/tony-eq-inicial.png`

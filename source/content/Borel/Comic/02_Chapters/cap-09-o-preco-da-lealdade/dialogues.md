@@ -13,7 +13,7 @@ Falas curtas para balões. Fonte primária: `Transcricoes/sessao 9.txt`. Falas l
 | D001 | Narrador | "A carga de pólvora chegaria em quatro dias." | Transcrições 9, 0:03:08-0:03:17, adaptado |
 | D002 | Tony | "Dustin, distribui nossos lucros da entrega." | Transcrições 9, 0:03:53-0:04:03, condensado |
 | D003 | Dustin | "Então... eu não peguei. Eu esqueci." | Transcrições 9, 0:04:08-0:04:13 |
-| D004 | Tony | "Boris, você pegou, né?" | Transcrições 9, 0:04:16-0:04:24, condensado |
+| D004 | Tony | "Borin, você pegou, né?" | Transcrições 9, 0:04:16-0:04:24, condensado; Boris→Borin canon |
 | D005 | Nightwolf | "Trash, foi você?" | Transcrições 9, 0:04:28 e recorrências |
 | D006 | Tony | "Eu quero saber com o que eu vou apostar agora." | Transcrições 9, 0:04:52 |
 | D007 | Dustin | "Você pode apostar aquele bicho mecânico." | Transcrições 9, 0:05:06-0:05:10, condensado |

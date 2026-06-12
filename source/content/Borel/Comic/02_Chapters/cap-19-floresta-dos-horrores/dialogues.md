@@ -16,7 +16,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D004 | Narrador | "legenda Adriana Zanotto" | Capitulo 19 - Parte 2 - A Transformação de Bartrok.md, condensed | condensed |
 | D005 | Narrador | "Thaís Carla" | Capitulo 19 - Parte 2 - A Transformação de Bartrok.md, condensed | condensed |
 | D006 | Narrador | "gordão da XJ" | Capitulo 19 - Parte 2 - A Transformação de Bartrok.md, condensed | condensed |
-| D007 | Dustin | "Ataca fogo nela, Bartrock... Ah, resistência, caralho. Acabei de falar fraqueza." | Capitulo 19 - Parte 3 - O Espectro e a Resistência.md | canon |
+| D007 | Dustin | "Taca fogo nela, Bartrock... Ah, resistência, caralho. Acabei de falar fraqueza." | Capitulo 19 - Parte 3 - O Espectro e a Resistência.md | canon |
 | D008 | Narrador | "mamada gostosa" | Capitulo 19 - Parte 3 - O Espectro e a Resistência.md, condensed | condensed |
 | D009 | Borin | "Quando ele entrar, sinta-se à vontade para se explodir." | Capitulo 19 - Parte 4 - A Estratégia do Thresh e a Destruição do Espectro.md | canon |
 | D010 | Narrador | "entrar em um orifício" | Capitulo 19 - Parte 4 - A Estratégia do Thresh e a Destruição do Espectro.md, condensed | condensed |
@@ -57,7 +57,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D045 | Tony | "É o som do Sérgio jogando dota às três da manhã" | sessao 19_bloco01.txt @ 0:05:55 | canon |
 | D046 | Nightwolf | "Depois de perder a décima parte do Rafa do Lado." | sessao 19_bloco01.txt @ 0:06:00 | canon |
 | D047 | Nightwolf | "Foi em algum lugar específico." | sessao 19_bloco01.txt @ 0:06:23 | canon |
-| D048 | Nightwolf | "O que Rogers pôs na parede de終 Mightycle já disseia." | sessao 19_bloco01.txt @ 0:06:30 | canon |
+| D048 | Nightwolf | — | sessao 19_bloco01.txt @ 0:06:30 | asr-removed |
 | D049 | Tony | "Eu grito formação piroca" | sessao 19_bloco01.txt @ 0:06:30 | canon |
 | D050 | Tony | "Ele me posiciona aqui" | sessao 19_bloco01.txt @ 0:06:33 | canon |
 | D051 | Nightwolf | "Olha só como vai…" | sessao 19_bloco01.txt @ 0:06:34 | canon |

@@ -18,8 +18,8 @@ Observacao lettering: priorizar fidelidade total aos dialogos na proxima passada
 ## Fila de imagem
 
 1. [x] Reutilizar/criar `refs/rita-dente-de-bronze.webp`.
-2. [x] Gerar `refs/baronesa-helena.webp`.
-3. [x] Gerar `refs/leticia-servical.webp`.
+2. [x] `refs/baronesa-helena.png` — aprovada bloco B jun/2026 v3.
+3. [x] `refs/leticia-servical.png` — aprovada bloco B jun/2026 v3.
 4. [x] Gerar capa `pages/000-cover.webp`.
 5. [x] Gerar paginas `pages/001.webp` a `pages/016.webp`.
 6. [x] Revisar contra `panels.md` e `dialogues.md`.

@@ -114,6 +114,6 @@ status: preimage-approved
 - Objetivo: canalizar Chantaner e orientar sem explicar tudo.
 - Personalidade: sereno, exausto apos o ritual.
 - Fala-base: "Abencoada seja Chantaner." (transcricao ruidosa "chanteia"; adaptado ao canon)
-- Aparencia: idoso, vestes verde/cinza, simbolos de fonte/maca.
+- Aparencia: idoso, vestes verde/cinza, simbolos de fonte/maçã.
 - Prompt: idoso sacerdote medieval em templo de pedra com fonte verde, sem texto.
 - Restricoes: nao usar simbolos cristoes explicitos.

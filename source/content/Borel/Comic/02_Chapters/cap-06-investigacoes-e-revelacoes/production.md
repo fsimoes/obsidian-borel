@@ -16,8 +16,9 @@ target_pages: 16
 
 - PCs: `Referencias/pcs/tony-eq-inicial.png`, `nightwolf-eq-inicial.png`, `dustin-eq-inicial.png`, `kaelion-eq-inicial.png`, `bartrock-normal-eq-inicial.png`.
 - NPCs: `Referencias/Npcs/Alberto.png`, `Referencias/Npcs/lucian-eq-inicial.png`.
-- Sem ref suficiente: Celeste Falcon; criar retrato em `refs/celeste-falcon-prisioneira.webp` antes de paginas 001, 004 e 016 se houver close.
-- Criatura: criar conceito em `refs/criatura-tanque-armazem-568.webp` antes das paginas 011 e 014.
+- Celeste Falcon prisioneira: `refs/celeste-falcon-prisioneira.png` — aprovada bloco A jun/2026 v3.
+- Criatura tanque: `refs/criatura-tanque-armazem-568.png` — aprovada bloco A jun/2026 v3.
+- Alberto/Lucian: `Referencias/Npcs/alberto-eq-inicial.png`, `lucian-eq-inicial.png` — aprovados bloco A jun/2026 v3.
 - Ambiente: usar `Referencias/Cenas/Sessao6/*` como apoio de cena, sem substituir roteiro.
 
 ## Status de geracao

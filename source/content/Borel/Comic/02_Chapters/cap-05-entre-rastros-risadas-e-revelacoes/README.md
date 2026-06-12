@@ -29,7 +29,7 @@ target_pages: 20
 | Templo | Amagard leva Nightwolf ao Templo de Chantaner para tratar a memoria |
 | Ritual | Nightwolf mergulha em experiencia extracorporea de fumaca verde e recupera lembrancas |
 | Revelacao | Celeste lancou encanto em Lucian, viu Nightwolf e uma magia roxa apagou a memoria dele |
-| Maca | Uma maca surge aos pes da estatua de Chantaner e e entregue a Nightwolf |
+| Maçã | Uma maçã mágica surge aos pes da estatua de Chantaner e e entregue a Nightwolf |
 | Plano | Grupo decide obter prova fisica contra Lucian/Celeste |
 | Casa | Dustin segue o casal; confronto explode na casa de Lucian |
 | Combate | Tony segura/nocauteia Lucian; Celeste usa magia sombria; lobos entram na luta |

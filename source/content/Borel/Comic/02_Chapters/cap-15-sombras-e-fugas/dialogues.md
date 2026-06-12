@@ -11,7 +11,7 @@ Falas curtas para balões. Baseadas em `Transcricoes/sessao 15.txt`; adaptaçõe
 | ID | Personagem | Fala | Fonte | Status |
 | --- | --- | --- | --- | -------- |
 | D001 | Mestre | "A gente começou logo depois da luta, no alojamento dos soldados." | 0:00:19-0:00:26 | canon |
-| D002 | Mestre | "Dustin pegou uma varinha. Tony pegou uma javelin é um escudo." | 0:01:44-0:01:50 | canon |
+| D002 | Mestre | "Dustin pegou uma varinha. Tony pegou uma javelin e um escudo." | 0:01:44-0:01:50 | canon |
 | D003 | Mestre | "Nightwolf conseguiu uma armadura e uma bota." | 0:01:58-0:02:13 | canon |
 | D004 | Tony | "Você já achou pólvora?" | 0:06:13 | canon |
 | D005 | Dustin | "Eu ajudo o Borin a procurar pólvora." | 0:06:39 | canon |
@@ -58,7 +58,7 @@ Falas curtas para balões. Baseadas em `Transcricoes/sessao 15.txt`; adaptaçõe
 | D046 | Mestre | "As oito pessoas estão na pedra." | 2:33:18-2:33:26 | canon |
 | D047 | Mestre | "Letícia está lá, sentada na mesa." | 2:34:02-2:34:09 | canon |
 | D048 | Mestre | "Nightwolf vai pelos guetos, subindo em telhados." | 2:34:29-2:34:47 | canon |
-| D049 | Tony | "A gente está indo para Rio Londe, onde nossa aventura começou." | 2:36:51-2:37:00 | canon |
+| D049 | Tony | "A gente está indo para Rilonde, onde nossa aventura começou." | 2:36:51-2:37:00 | canon |
 | D050 | Tony | "De lá, a gente não sabe para onde vai." | 2:37:00-2:37:07 | canon |
 
 ## Notas

@@ -13,7 +13,7 @@ target_pages: 15
 ## Fila de imagens
 
 1. Reusar/gerar ref de Rita Dente de Bronze, idealmente a mesma do cap. 12.
-2. Gerar concept da Maga do Quartel Sul em `refs/maga-quartel-sul.webp`.
+2. [x] `refs/maga-quartel-sul.png` — aprovada bloco D jun/2026 v3.
 3. Gerar capa `pages/000-cover.webp`.
 4. Gerar páginas `pages/001.webp` a `pages/015.webp`.
 5. Revisar visualmente cada página contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.

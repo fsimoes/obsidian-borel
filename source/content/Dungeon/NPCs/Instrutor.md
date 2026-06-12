@@ -60,7 +60,7 @@ Veterano de descidas, quarenta e poucos anos, cicatrizes discretas, barba curta 
 
 - Predador com **surprise**; multiataque ou golpe crítico narrativo no avaliador.
 - PJs veem o corpo cair ou o avaliador ficar para trás segurando a criatura/corda/porta.
-- A fuga termina com o grupo caindo pelo poço; o corpo do avaliador fica acima ou desaparece na escuridão.
+- A fuga termina com o grupo atravessando o portal; o corpo do avaliador fica acima ou desaparece na escuridão da fenda.
 - **Não** reviver o avaliador (impacto narrativo).
 
 ## Nota de DM

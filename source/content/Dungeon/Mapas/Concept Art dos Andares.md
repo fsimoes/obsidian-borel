@@ -28,9 +28,9 @@ Estrutura jogável: [[Estrutura de Quadrantes]].
 
 ![[Concepts/andar-05-maquinas-elevadores.png]]
 
-## Andar 4 — Cristais e magia instável
+## Andar 4 — Campo de guerra orc e ogro
 
-![[Concepts/andar-04-cristais-magia.png]]
+![[Concepts/andar-04-guerra-orcs-ogros.png]]
 
 ## Andar 3 — Túneis e prisão natural
 

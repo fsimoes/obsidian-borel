@@ -46,7 +46,7 @@ O boss local nunca deve ser a única passagem. Se ele controla a melhor rota, de
 | 7 | Grande | 4 × 3 | 12 | Ossuário e cânions; bandos territoriais |
 | 6 | Médio | 3 × 3 | 9 | Cidade soterrada; política forte de facções |
 | 5 | Médio | 3 × 3 | 9 | Máquinas e elevadores; rotas técnicas |
-| 4 | Médio-pequeno | 3 × 2 | 6 | Cristais e magia instável; atalhos perigosos |
+| 4 | Médio-pequeno | 3 × 2 | 6 | Campo de guerra orc e ogro; trincheiras e corredores arriscados |
 | 3 | Pequeno | 2 × 2 | 4 | Túneis e prisão natural; pressão e escassez |
 | 2 | Pequeno | 2 × 2 | 4 | Stratum antigo; prova quebrada e revelações |
 | 1 | Muito pequeno | 1 × 1 | 1 | Área de treino corrompida; cerco final |

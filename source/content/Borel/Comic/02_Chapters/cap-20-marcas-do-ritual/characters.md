@@ -4,26 +4,22 @@ title: Characters - Cap. 20
 
 # Characters - Cap. 20
 
-## Tony
-- Papel: PC
-- Ref: `tony-eq-inicial`
+## PCs
 
-## Dustin
-- Papel: PC
-- Ref: `dustin-eq-inicial`
+| Nome | Ref | Variante / nota |
+|------|-----|-----------------|
+| Tony | `pcs/tony-eq-inicial.png` | marcas ritual mãos |
+| Dustin | `pcs/dustin-eq-inicial.png` | |
+| Nightwolf | `pcs/nightwolf-eq-inicial.png` | |
+| Bartrock | `pcs/bartrock-possessed-eq-inicial.png` | diálogo máscara xamã |
+| Borin | `pcs/borin-trash-eq-inicial.png` | |
+| Kaelion | `pcs/kaelion-eq-inicial.png` | |
+| Orestan | `pcs/orestan-eq-inicial.png` | **entra no grupo** |
 
-## Nightwolf
-- Papel: PC
-- Ref: `nightwolf-eq-inicial`
+## NPCs / objetos
 
-## Bartrock
-- Papel: PC
-- Ref: `bartrock-eq-inicial`
-
-## Borin
-- Papel: PC
-- Ref: `borin-eq-inicial`
-
-## Kaelion
-- Papel: PC
-- Ref: `kaelion-eq-inicial`
+| Nome | Ref |
+|------|-----|
+| Bebom | `Npcs/bebom-eq-inicial.png` |
+| Mago Portais Namarath | `Npcs/mago-portais-namarath-eq-inicial.png` |
+| Máscara xamã | `Npcs/mascara-xama-nightwolf.png` (objeto) |

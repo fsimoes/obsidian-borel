@@ -4,26 +4,20 @@ title: Characters - Cap. 17
 
 # Characters - Cap. 17
 
-## Tony
-- Papel: PC
-- Ref: `tony-eq-inicial`
+## PCs
 
-## Dustin
-- Papel: PC
-- Ref: `dustin-eq-inicial`
+| Nome | Ref | Variante / nota |
+|------|-----|-----------------|
+| Tony | `pcs/tony-eq-inicial.png` | Peppa explosiva = gag sem ref |
+| Dustin | `pcs/dustin-eq-inicial.png` | |
+| Nightwolf | `pcs/nightwolf-eq-inicial.png` | amarrado + óleo = **prompt** |
+| Bartrock | `pcs/bartrock-possessed-eq-inicial.png` | revelação cura |
+| Borin | `pcs/borin-eq-inicial.png` / `borin-trash-eq-inicial.png` | |
+| Kaelion | `pcs/kaelion-eq-inicial.png` | |
 
-## Nightwolf
-- Papel: PC
-- Ref: `nightwolf-eq-inicial`
+## NPCs
 
-## Bartrock
-- Papel: PC
-- Ref: `bartrock-eq-inicial`
-
-## Borin
-- Papel: PC
-- Ref: `borin-eq-inicial`
-
-## Kaelion
-- Papel: PC
-- Ref: `kaelion-eq-inicial`
+| Nome | Ref |
+|------|-----|
+| Thaís Carla | `Npcs/thais-carla-eq-inicial.png` (v3 jun/2026) |
+| Letícia | `Npcs/leticia-servical.png` |

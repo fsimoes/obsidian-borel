@@ -4,26 +4,28 @@ title: Characters - Cap. 19
 
 # Characters - Cap. 19
 
-## Tony
-- Papel: PC
-- Ref: `tony-eq-inicial`
+## PCs
 
-## Dustin
-- Papel: PC
-- Ref: `dustin-eq-inicial`
+| Nome | Ref | Variante / nota |
+|------|-----|-----------------|
+| Tony | `pcs/tony-eq-inicial.png` | |
+| Dustin | `pcs/dustin-eq-inicial.png` | |
+| Nightwolf | `pcs/nightwolf-eq-inicial.png` | |
+| Bartrock | `pcs/bartrock-possessed-eq-inicial.png` | combate geral |
+| Bartrock | `pcs/bartrock-mask-only-eq-inicial.png` | **máscara caída** |
+| Borin | `pcs/borin-trash-eq-inicial.png` | |
+| Kaelion | `pcs/kaelion-eq-inicial.png` | |
+| Orestan | `pcs/orestan-eq-inicial.png` | |
 
-## Nightwolf
-- Papel: PC
-- Ref: `nightwolf-eq-inicial`
+## Inimigos
 
-## Bartrock
-- Papel: PC
-- Ref: `bartrock-eq-inicial`
+| Nome | Ref |
+|------|-----|
+| Criatura floresta | `Npcs/criatura-floresta-cap19.png` |
+| Espectro | `Npcs/espectro-cap19.png` |
 
-## Borin
-- Papel: PC
-- Ref: `borin-eq-inicial`
+## NPCs
 
-## Kaelion
-- Papel: PC
-- Ref: `kaelion-eq-inicial`
+| Nome | Ref |
+|------|-----|
+| Letícia | `Npcs/leticia-servical.png` (partida ritual) |

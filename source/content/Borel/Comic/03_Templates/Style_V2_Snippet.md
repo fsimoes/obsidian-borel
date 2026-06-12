@@ -27,9 +27,9 @@ Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cin
 
 | # | Arquivo |
 |---|---------|
-| 1 | `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png` |
+| 1 | `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png` — **estilo alvo** (linha + cel-shade + paleta quente; **ignorar balão/texto** da ref) |
 | 2 | `Referencias/style/cap-01-estilo-aprovado-gola.png` |
-| 3 | `Referencias/style/cap-v3-humor-piloto.png` (após bake-off Cap. 5 pág. 004) |
+| 3 | `Referencias/style/cap-v3-humor-piloto.png` — aprovado jun/2026 |
 
 ## Bloco por painel (copiar de [[Pose_Prompt_Block|Pose_Prompt_Block.md]])
 

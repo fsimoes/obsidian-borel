@@ -13,14 +13,15 @@ status: ativo
 
 **Pré-requisito:** [[script|script.md]] (beats) ✓ · [[panels|panels.md]] (painéis) → gerar imagens.
 
-## Fase atual: Cap. 1 v2 — **publicado** (2026-06-04)
+## Fase atual: Cap. 1 v2 — **regenerado** (2026-06-12)
 
-- [x] 10 páginas geradas (ChatGPT) → [[pages/README|pages/]]
+- [x] 10 páginas geradas (Cursor GenerateImage) → [[pages/README|pages/]] (`001.png` + `001.webp`–`010.webp`)
 - [x] `quartz/static/comic/cap-01-sessao-01/001.webp`–`010.webp`
-- [x] `chapters.json` → `status: docs-ready
-- [x] `npm run comic:webp` + `npm run copy:comic`
+- [x] `npm run comic:webp` (2026-06-12)
+- [ ] Mesa: revisão visual + falas PT antes de marcar publicado
+- [ ] `npm run build:site` ou `copy:comic` após aprovação
 
-**Revisão opcional:** P07 gola / Nightwolf vs ref — ver [[pages/README#Revisão mesa (opcional)|notas]].
+**Revisão opcional:** P07 gola / Nightwolf vs ref — ver [[pages/README#Revisão mesa (opcional)|notas]]. P005 exigiu 2ª tentativa (safety filter na 1ª).
 
 ### Regenerar uma página
 
@@ -111,4 +112,4 @@ Com fala:
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-12 via Cursor GenerateImage

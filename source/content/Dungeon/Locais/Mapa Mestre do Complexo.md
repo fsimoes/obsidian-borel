@@ -1,6 +1,6 @@
 # Mapa Mestre do Complexo
 
-Fonte única da verdade topológica para a campanha **Primeiro Dive** (10 sessões, 7 PJs). O jogador só vê o subset documentado em [[Stratum Novato]] e briefing na [[Antecamara da Guilda]]. Após a fuga do Predador, o grupo fica encurralado entre a criatura e um portal antigo; ao atravessar, desperta em um corredor que leva ao [[Level 1]], sem saber como essa marca se relaciona com o mapa oficial. A estrutura da campanha passa a ser **subir** até uma saída real.
+Fonte única da verdade topológica para a campanha **Primeiro Dive** (10 sessões, 7 PJs). O jogador só vê o subset documentado em [[Stratum Novato]] e briefing na [[Antecamara da Guilda]]. Após a fuga do Predador, o grupo fica encurralado entre a criatura e um portal antigo; ao atravessar, é **teletransportado** para o fundo de um poço no [[Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), sem saber a profundidade real. A estrutura da campanha passa a ser **subir** até uma saída real.
 
 ## Legenda
 
@@ -32,7 +32,7 @@ Cada quadrante é um mapa jogável. Detalhes: [[../Mapas/Estrutura de Quadrantes
 | 7 | Grande | 4 × 3 | Ossuário / cânions de pedra | Opcional; devorador de ossos | Bandos territoriais | ![[../Mapas/Concepts/andar-07-ossuario-canions.png\|120]] |
 | 6 | Médio | 3 × 3 | Cidade soterrada / mercado morto | Opcional; chefe local ou morto antigo | **Conflito de facções começa forte** | ![[../Mapas/Concepts/andar-06-cidade-soterrada.png\|120]] |
 | 5 | Médio | 3 × 3 | Máquinas antigas / elevadores quebrados | Opcional; construto ou operador corrompido | Facções disputam tecnologia/rotas | ![[../Mapas/Concepts/andar-05-maquinas-elevadores.png\|120]] |
-| 4 | Médio-pequeno | 3 × 2 | Cristais / magia instável | Opcional; criatura arcana | Facções disputam energia/refúgio | ![[../Mapas/Concepts/andar-04-cristais-magia.png\|120]] |
+| 4 | Médio-pequeno | 3 × 2 | Campo de guerra orc e ogro | Opcional; chefe de guerra ou tyran ogro | Orcs e ogros disputam rotas de subida | ![[../Mapas/Concepts/andar-04-guerra-orcs-ogros.png\|120]] |
 | 3 | Pequeno | 2 × 2 | Túneis estreitos / prisão natural | Opcional; carcereiro ou monstro entrincheirado | Facções pressionadas, pouca comida | ![[../Mapas/Concepts/andar-03-tuneis-prisao.png\|120]] |
 | 2 | Pequeno | 2 × 2 | Stratum antigo / protótipo da prova | Opcional; avaliador antigo ou guardião falho | Restos da influência da guilda | ![[../Mapas/Concepts/andar-02-stratum-antigo.png\|120]] |
 | 1 | Muito pequeno | 1 × 1 | Área de treino corrompida | **Predador S10** | Quase nenhuma; cerco final | ![[../Mapas/Concepts/andar-01-treino-corrompido.png\|120]] |
@@ -74,11 +74,14 @@ Detalhes: [[../NPCs/Faccoes dos Andares]].
          │
          F  (fuga S3: portal ou Predador; distância real desconhecida aos PJs)
          ▼
-    PV-01 Corredor pós-portal / acesso ao Level 1
+    PV-01 Fundo do poço / Campo avançado orc (Andar 4, S3)
          │
          SV
          ▼
-    PR-3 Andar inferior (S4) ──► PR-3-05 (2º combate Predador — S7)
+    A04 Campo de guerra orc/ogro (S3–4) ──► A03 → A02 → A01
+         │
+         ▼
+    PR-3 Andar inferior (S4–7) ──► PR-3-05 (2º combate Predador — S7)
          │
          SV
          ▼
@@ -133,7 +136,7 @@ Ver detalhes: [[Stratum Novato]] e [[Dungeon da Avaliacao]].
 
 | Sala | Nome | Notas |
 |------|------|-------|
-| RP-01 | Fenda do tremor / portal instável | Morte do [[Instrutor|avaliador Prata]] (S3); escolha entre portal e Predador; chegada a `PV-01` / [[Level 1]] |
+| RP-01 | Fenda do tremor / portal instável | Morte do [[Instrutor|avaliador Prata]] (S3); escolha entre portal e Predador; teletransporte a `PV-01` / [[Campo Avancado Orc]] |
 | RP-02 | Desmoronamento | Inseguro; volta a SN-07 bloqueada ou acima demais para alcançar |
 
 Ver: [[Fenda do Tremor]].
@@ -144,9 +147,9 @@ Ver: [[Fenda do Tremor]].
 
 | Sala | Nome | Tom | Notas |
 |------|------|-----|-------|
-| PV-01 | Corredor pós-portal | Choque | PJs despertam diante da marca **LEVEL 1** |
-| PV-02 | Limiar do Level 1 | Sobrevivência | Confirma que o mapa da guilda não serve mais |
-| PV-03 | Primeira subida visível | Tenso | Mostra que a saída fica acima, não atrás |
+| PV-01 | Fundo do poço / Campo avançado orc | Choque | Teletransporte do portal; PJs acordam no **Andar 4** |
+| PV-02 | Limiar do campo orc | Sobrevivência | Trincheiras, tambores, mapa da guilda inútil |
+| PV-03 | Primeira subida visível | Tenso | Rotas para cima passam pela guerra orc/ogro |
 
 ---
 

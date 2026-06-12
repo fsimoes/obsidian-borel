@@ -38,8 +38,8 @@ Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem apro
 | Lucian | `Referencias/Npcs/lucian-eq-inicial.png` | existente |
 | Alberto | `Referencias/Npcs/Alberto.png` | existente |
 | Amagard/Emmergard | `refs/emmergard-eq-inicial.png` | atualizada para loira/germanica; nao usar ref ruiva do cap. 4 |
-| Celeste | gerar | pendente |
-| Criaturas lupinas | gerar ou reaproveitar cap. 4 | pendente |
+| Celeste | `refs/celeste-eq-inicial.png` | aprovada jun/2026 v3 · cópia em `Referencias/npcs/celeste-eq-inicial.png` |
+| Criaturas lupinas | `refs/criaturas-lupinas-celeste.png` | aprovada jun/2026 v3 |
 
 ## Validacao Tecnica Final
 

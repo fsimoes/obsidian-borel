@@ -1,4 +1,4 @@
----
+﻿---
 title: "Refs - Cap. 15"
 type: comic-refs
 status: pending
@@ -14,12 +14,23 @@ status: pending
 - `Referencias/pcs/kaelion-eq-inicial.png`
 - `Referencias/pcs/borin-eq-inicial.png`
 - `Referencias/pcs/trash-eq-inicial.png`
-- `Referencias/npcs/Jorge.png`
+- `Referencias/Npcs/jorge-eq-inicial.png` (ou `Jorge.png` — mesma imagem)
 
-## Gerar/reusar antes das páginas
-- `Referencias/npcs/rita-dente-de-bronze-eq-revolta.webp`
-- `Referencias/npcs/leticia-eq-cidadela.webp` se Letícia tiver close.
-- Baú artefato pode ser prompt-only ou ref própria em `refs/bau-artefato.webp`.
+## Bloco D
+
+- `rita-dente-de-bronze-eq-revolta.png` — aprovada bloco D jun/2026 v3
+
+## Reutilizar (sem regen)
+
+- `Npcs/leticia-servical.png`
+- `Npcs/jorge-eq-inicial.png`
+- `Npcs/emmergard-eq-inicial.png`
+- `rita-dente-de-bronze.png` ou `rita-dente-de-bronze-eq-revolta.png` — mesma Rita; preferir **uma** + prompt
+
+## Bloco E (jun/2026 v3) — aprovado
+
+- [x] `bau-artefato.png` — objeto baú (+ cópia `Npcs/bau-artefato.png`)
+- [x] `guardas-rebeldes-perseguidores.png` — inimigos perseguidores (+ cópia `Npcs/`)
 
 ## Nota
 Jorge já tem ref, então as cenas emocionais devem usar essa imagem como prioridade.

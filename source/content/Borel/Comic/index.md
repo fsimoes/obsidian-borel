@@ -1,4 +1,4 @@
-﻿---
+---
 title: Quadrinho Borel
 type: indice
 tags:
@@ -238,7 +238,7 @@ Fonte: [[../NPCs/index|NPCs]] · [[../NPCs/Prompts_para_Imagens_NPCs|Prompts NPC
 ### Vol 3 — Sessões 17–25
 
 - [x] Docs caps 17–25 (`session-outline.md` nos caps 20–25)
-- [ ] Refs dungeon (Cerberus, golems, elementais) antes de gerar arte
+- [x] Refs dungeon caps 21–25 (blocos H/I/J) — **aprovado jun/2026 v3**
 
 ---
 

@@ -22,8 +22,8 @@ status: ready-for-image-generation
 
 ## Gerar Antes das Páginas
 
-- `emmergard-eq-inicial.png`: guerreira/taberneira, aliada de Alberto. **Gerada nesta execução.**
-- `criatura-lupina-celeste.png`: criatura inimiga, lobo humanoide grande, não Nightwolf. **Gerada nesta execução.**
+- `emmergard-eq-inicial.png`: guerreira/taberneira, aliada de Alberto. **Aprovada jun/2026 v3** · cópia global em `Referencias/npcs/emmergard-eq-inicial.png`.
+- `criatura-lupina-celeste.png`: criatura inimiga, lobo humanoide grande, não Nightwolf. **Aprovada jun/2026 v3**.
 - Opcional `celeste-silhueta-roxa.png`: só silhueta/gesto mágico, sem rosto revelado.
 
 ## Refs Locais

@@ -18,12 +18,8 @@ status: ready
 - `Referencias/pcs/borin-trash-eq-inicial.png`
 - `Referencias/Cenas/random/20250506_*` como apoio de composicao/ambiente.
 
-## Gerar antes das paginas se possivel
+## Bloco B (jun/2026 v3) — aprovado
 
-- `refs/goblins-cla-estrada.webp`
-- `refs/ogro-great-club.webp`
-- Opcional: `refs/elriste-exterior-interior.webp`
-
-## Observacao
-
-Refs novas nao foram geradas neste run; os prompts estao em `enemy-concepts.md`.
+- `refs/goblins-cla-estrada.png`
+- `refs/ogro-great-club.png`
+- `refs/elriste-exterior-interior.png` — aprovada bloco C jun/2026 v3

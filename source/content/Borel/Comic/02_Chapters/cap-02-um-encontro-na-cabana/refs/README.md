@@ -19,7 +19,7 @@ Anexar nesta ordem ao gerar as paginas do Cap. 2.
 | 4 | `04-nightwolf.png` | `Referencias/pcs/nightwolf-eq-inicial.png` | pronto |
 | 5 | `05-dustin.png` | `Referencias/pcs/dustin-eq-inicial.png` | pronto |
 | 6 | `06-tony.png` | `Referencias/pcs/tony-eq-inicial.png` | pronto |
-| 7 | `07-nikov.png` | gerado para Cap. 2 | pronto |
+| 7 | `07-nikov.png` | gerado para Cap. 2 | aprovado jun/2026 v3 · cópia em `Referencias/npcs/nikov-eq-inicial.png` |
 | 8 | `08-capita-guarda.png` | gerado para Cap. 2 | ref auxiliar |
 | 9 | `09-cama-final-topdown-heads-only.png` | gerado para Cap. 2 | ref preferida |
 | 10 | `09-cama-final-topdown.png` | gerado para Cap. 2 | ref alternativa |

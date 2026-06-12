@@ -27,3 +27,15 @@ title: Characters - Cap. 21
 ## Kaelion
 - Papel: PC
 - Ref: `kaelion-eq-inicial`
+
+## Orestan
+- Papel: PC
+- Ref: `orestan-eq-inicial`
+
+## Cerberus
+- Papel: NPC traidor
+- Ref: `Npcs/cerberus-eq-inicial.png` — aprovado bloco H jun/2026 v3
+
+## Emmergard
+- Papel: NPC (guarda)
+- Ref: `Npcs/emmergard-eq-inicial.png` — reutilizar

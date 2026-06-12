@@ -4,32 +4,32 @@ title: NPC sheets - Cap. 24
 
 # NPC sheets - Cap. 24
 
-## Descrição
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
-
-## Ações
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
-
-## Importância
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
-
 ## Golem de Gelo
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
+
+| Campo | Valor |
+|-------|--------|
+| Silhueta | Corpo cristalino azul; escudo de fogo |
+| Ref | `Npcs/golems-elementais-cap24.png` (sheet conjunto) |
+| Status | [x] aprovado bloco I jun/2026 v3 |
 
 ## Golem de Pedra
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
+
+| Campo | Valor |
+|-------|--------|
+| Silhueta | Corpo rochoso marrom; escudo flamejante |
+| Ref | `Npcs/golems-elementais-cap24.png` (sheet conjunto) |
+| Status | [x] aprovado bloco I jun/2026 v3 |
 
 ## Golem de Fogo
-- Fonte: Sessoes/
-- Papel: NPC da sessão 24
-- Ref: pendente se não existir em Referencias/
+
+| Campo | Valor |
+|-------|--------|
+| Silhueta | Corpo magma vermelho-laranja; escudo de gelo |
+| Ref | `Npcs/golems-elementais-cap24.png` (sheet conjunto) |
+| Status | [x] aprovado bloco I jun/2026 v3 |
+
+## Emmergard (espírito guardião)
+
+| Campo | Valor |
+|-------|--------|
+| Ref | `Npcs/emmergard-eq-inicial.png` — reutilizar + efeito espírito = prompt |

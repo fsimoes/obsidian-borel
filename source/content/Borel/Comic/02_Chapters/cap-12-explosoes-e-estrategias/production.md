@@ -12,8 +12,8 @@ target_pages: 18
 
 ## Fila de imagens
 
-1. Gerar ref/retrato de Rita Dente de Bronze em `refs/rita-dente-de-bronze.webp` ou `Referencias/npcs/rita-dente-de-bronze-eq-revolta.webp`.
-2. Gerar concept dos Guardas de Cristal em `refs/guardas-de-cristal.webp`.
+1. [x] `rita-dente-de-bronze-eq-revolta.png` — aprovada bloco D jun/2026 v3.
+2. [x] `guardas-de-cristal.png` — aprovada bloco D jun/2026 v3.
 3. Gerar capa `pages/000-cover.webp`.
 4. Gerar páginas `pages/001.webp` a `pages/018.webp`, uma imagem por página.
 5. Revisar cada página contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.

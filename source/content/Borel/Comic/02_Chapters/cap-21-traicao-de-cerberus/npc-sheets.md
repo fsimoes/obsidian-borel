@@ -4,12 +4,26 @@ title: NPC sheets - Cap. 21
 
 # NPC sheets - Cap. 21
 
-## Monges do Santuário
-- Fonte: Sessoes/
-- Papel: NPC da sessão 21
-- Ref: pendente se não existir em Referencias/
+## Cerberus
 
-## Emie Gart
-- Fonte: Sessoes/
-- Papel: NPC da sessão 21
-- Ref: pendente se não existir em Referencias/
+| Campo | Valor |
+|-------|--------|
+| Papel | Mago universitário; traidor; aliado do demônio |
+| Silhueta | Humano jovem; vestes acadêmicas; cajado |
+| Ref | `Npcs/cerberus-eq-inicial.png` |
+| Status | [x] aprovado bloco H jun/2026 v3 |
+
+## Emmergard
+
+| Campo | Valor |
+|-------|--------|
+| Papel | Guarda fora da caverna |
+| Ref | `Npcs/emmergard-eq-inicial.png` — reutilizar |
+| Status | [x] |
+
+## Monges do Santuário / Emie Gart
+
+| Campo | Valor |
+|-------|--------|
+| Papel | Figurantes ritual Kord |
+| Ref | prompt na cena — sem ref |

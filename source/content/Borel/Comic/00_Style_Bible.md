@@ -26,7 +26,8 @@ Documento **fonte da verdade** para gerar arte no ChatGPT. Baseado no [[AI_Tool_
 | Snippet copiável | [[03_Templates/Style_V2_Snippet|Style_V2_Snippet.md]] |
 | Poses por painel | [[03_Templates/Pose_Prompt_Block|Pose_Prompt_Block.md]] |
 | Cap. 5 referência ouro | [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/panels|panels.md]] + [[02_Chapters/cap-05-entre-rastros-risadas-e-revelacoes/prompt-all-pages|prompt-all-pages.md]] |
-| Ref piloto humor | `Referencias/style/cap-v3-humor-piloto.png` (bake-off: Cap. 5 pág. 004) |
+| **Ref estilo alvo (#1)** | `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png` — **arte** (linha, cel-shade, paleta). **Ignorar** balão e texto da imagem; copiar só a técnica (mesa ✓ jun/2026) |
+| Ref piloto humor | `Referencias/style/cap-v3-humor-piloto.png` — **aprovado jun/2026** (Cap. 5 pág. 004) |
 
 ### Prefixo v2 (obrigatório — todos os capítulos)
 
@@ -42,9 +43,11 @@ Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cin
 
 ### Refs de estilo (anexar em toda geração de página)
 
-1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
-2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
-3. `Referencias/style/cap-v3-humor-piloto.png` (quando disponível)
+1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png` — **fonte da verdade visual** (contorno preto forte, cel-shade legível, marrom/âmbar de taverna, expressão exagerada). Copiar **só a arte** — não a cena, **não o balão, não o texto**.
+2. `Referencias/style/cap-01-estilo-aprovado-gola.png` — ação, escala, urgência
+3. `Referencias/style/cap-v3-humor-piloto.png` — humor slapstick, balões PT, grid 2×2
+
+**Retratos de personagem:** mesma linha e cel-shade do «Traidor!», fundo cinza neutro, **sem balões**.
 
 ### Personagens
 

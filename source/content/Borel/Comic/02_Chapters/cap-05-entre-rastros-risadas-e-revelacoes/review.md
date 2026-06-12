@@ -44,8 +44,8 @@ Data: 2026-06-04.
 | Inimigos | OK | Lobos separados visualmente de Nightwolf. |
 | `target_pages` | OK | Exatamente 20 paginas, justificado por densidade e combate longo. |
 | Ritmo | OK | 8 investigacao/humor, 5 ritual/plano, 6 confronto, 1 fechamento. |
-| Momentos importantes | OK | Caixa, piscadela, velho, templo, maca, olhos roxos, mascara e cartas aparecem. |
-| Gancho | OK | Mascara + dividas + maca apontam continuidade. |
+| Momentos importantes | OK | Caixa, piscadela, velho, templo, maçã, olhos roxos, mascara e cartas aparecem. |
+| Gancho | OK | Mascara + dividas + maçã apontam continuidade. |
 | Balões | OK | Curtos e em portugues brasileiro; uma fala "Old School" foi adaptada para PT. |
 | Ingles nos balões | OK | Nenhum balao planejado em ingles. |
 | Leitura | OK | Paginas max. 4 paineis, foco claro. |
@@ -87,14 +87,14 @@ Executada em 2026-06-04 apos geracao de `pages/001.webp` a `pages/020.webp`.
 | 010 | OK | Regenerada: templo, sacerdote e Emmergard loira guiando Nightwolf. | Substituida. |
 | 011 | OK | Ritual de fumaca verde e estatua de Chantaner corretos. | Nenhuma. |
 | 012 | OK | Memoria de Celeste encantando Lucian e luz roxa corretas. | Nenhuma. |
-| 013 | OK | Regenerada: ataque/memoria, maca e Emmergard loira entregando o simbolo. | Substituida. |
-| 014 | OK | Regenerada: planejamento do grupo, maca no mapa, Emmergard loira ao fundo. | Substituida. |
+| 013 | OK | Regenerada: ataque/memoria, maçã e Emmergard loira entregando o simbolo. | Substituida. |
+| 014 | OK | Regenerada: planejamento do grupo, maçã no mapa, Emmergard loira ao fundo. | Substituida. |
 | 015 | OK | Dustin segue Lucian/Celeste e abordagem na casa correta. | Nenhuma. |
 | 016 | OK | Entrada torta na casa e inicio do confronto corretos. | Nenhuma. |
 | 017 | OK | Celeste, tentaculos, Tony segurando Lucian e combate corretos. | Nenhuma. |
 | 018 | OK | Lobos entram e Nightwolf permanece ranger humanoide. | Nenhuma. |
 | 019 | OK | Tony, Kaelion, Dustin e Bartrock normal finalizam lobos; Bartrock sem mascara. | Nenhuma. |
-| 020 | OK | Celeste vendada, mascara, cartas de divida e maca no gancho corretos. | Nenhuma. |
+| 020 | OK | Celeste vendada, mascara, cartas de divida e maçã no gancho corretos. | Nenhuma. |
 
 ## Regeneracoes
 
@@ -122,3 +122,7 @@ As artes de **galpao** e **taverna** tinham sido salvas com numeros trocados (`0
 ## Gate documentação v2 (2026-06-05)
 
 Status: `docs-ready`. Poses e prompts v2 completos. Arte antiga permanece até regeneração capítulo a capítulo.
+
+## Correção canon maçã (2026-06-01)
+
+Auditoria caps 1–5: roteiro tinha **maca** (arma) em vez de **maçã** mágica de Chantaner (transcrição `1:53:25`, Sessão 5, Livro). Corrigido em `script.md`, `concept.md`, `panels.md`, `prompt-all-pages.md`, `dialogues.md` (Emmergard + D047). **Regenerar `013`, `014` e `020`** se a arte atual mostrar maça de guerra.

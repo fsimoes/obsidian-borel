@@ -11,7 +11,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | ID | Personagem | Fala | Fonte | Status |
 |----|------------|------|-------|--------|
 | D001 | Narrador | "Então ele agora só vai virar um pincher." | Capitulo 17 - Entre Cordas e Confissões.md, condensed | condensed |
-| D002 | Narrador | "Então, vamos lá, tem um elfo besuntado, uma criança, uma Letícia é um prafanado." | Capitulo 17 - Parte 2 - Negociações e Preparativos.md, condensed | condensed |
+| D002 | Narrador | "Então, vamos lá, tem um elfo besuntado, uma criança, uma Letícia e um prafanado." | Capitulo 17 - Parte 2 - Negociações e Preparativos.md, condensed | condensed |
 | D003 | Narrador | "refugiados" | Capitulo 17 - Parte 2 - Negociações e Preparativos.md, condensed | condensed |
 | D004 | Narrador | "belo ambiente para criança crescer" | Capitulo 17 - Parte 2 - Negociações e Preparativos.md, condensed | condensed |
 | D005 | Narrador | "Quando ele falou formidáveis, meu peito chegou a abrir. Eu fiquei feliz, rindo sozinho. Orgulhoso." | Capitulo 17 - Parte 3 - Últimos Negócios e Descobertas.md, condensed | condensed |
@@ -32,12 +32,12 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D020 | Tony | "Eu falei, pô, né" | sessao 17_bloco01.txt @ 0:00:36 | canon |
 | D021 | Tony | "Tipo assim, lá no fundo da mente" | sessao 17_bloco01.txt @ 0:00:46 | canon |
 | D022 | Tony | "Fui pro caralho" | sessao 17_bloco01.txt @ 0:00:50 | canon |
-| D023 | Tony | "Podемонiu, pô, eu só me op weakness" | sessao 17_bloco01.txt @ 0:00:54 | canon |
+| D023 | Tony | — | sessao 17_bloco01.txt @ 0:00:54 | asr-removed |
 | D024 | Dustin | "Me esqueceu da hora." | sessao 17_bloco01.txt @ 0:00:55 | canon |
 | D025 | Tony | "Obrigado." | sessao 17_bloco01.txt @ 0:01:24 | canon |
-| D026 | Nightwolf | "Vai, Fl windows." | sessao 17_bloco01.txt @ 0:02:21 | canon |
-| D027 | Nightwolf | "Todos juntos os syguirão." | sessao 17_bloco01.txt @ 0:02:24 | canon |
-| D028 | Nightwolf | "Seanner." | sessao 17_bloco01.txt @ 0:02:27 | canon |
+| D026 | Nightwolf | — | sessao 17_bloco01.txt @ 0:02:21 | asr-removed |
+| D027 | Nightwolf | — | sessao 17_bloco01.txt @ 0:02:24 | asr-removed |
+| D028 | Nightwolf | — | sessao 17_bloco01.txt @ 0:02:27 | asr-removed |
 | D029 | Dustin | "Que eu não fosse na porrada?" | sessao 17_bloco01.txt @ 0:02:29 | canon |
 | D030 | Dustin | "Caralho" | sessao 17_bloco01.txt @ 0:02:36 | canon |
 | D031 | Tony | "Ele não pode ser uma ameaça se ele não tiver..." | sessao 17_bloco01.txt @ 0:02:48 | canon |
@@ -56,7 +56,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D044 | Tony | "Você está esquecendo de falar uma coisa muito importante" | sessao 17_bloco01.txt @ 0:06:50 | canon |
 | D045 | Dustin | "tá na hora da gente ver se deu certo" | sessao 17_bloco01.txt @ 0:06:55 | canon |
 | D046 | Dustin | "foi a noite" | sessao 17_bloco01.txt @ 0:06:57 | canon |
-| D047 | Tony | "Faltou, que o Matthew Wolf está beluntado" | sessao 17_bloco01.txt @ 0:06:59 | canon |
+| D047 | Tony | "Faltou, que o Nightwolf está besuntado" | sessao 17_bloco01.txt @ 0:06:59 | canon |
 | D048 | Nightwolf | "Faltou." | sessao 17_bloco01.txt @ 0:06:59 | canon |
 | D049 | Dustin | "eu acho que" | sessao 17_bloco01.txt @ 0:07:10 | canon |
 | D050 | Nightwolf | "É, verdade." | sessao 17_bloco01.txt @ 0:07:11 | canon |

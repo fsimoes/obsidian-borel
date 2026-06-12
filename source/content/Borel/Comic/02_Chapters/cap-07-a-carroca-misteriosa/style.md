@@ -1,4 +1,4 @@
----
+﻿---
 title: "Style - Cap. 7"
 type: comic
 tags:
@@ -20,7 +20,7 @@ Prefixo e Avoid: copiar de `Style_V2_Snippet.md` (não usar graphic novel escuro
 
 1. `Referencias/style/cap-01-estilo-aprovado-dustin-traidor.png`
 2. `Referencias/style/cap-01-estilo-aprovado-gola.png`
-3. `Referencias/style/cap-v3-humor-piloto.png` (quando aprovado)
+3. `Referencias/style/cap-v3-humor-piloto.png` — aprovado jun/2026
 4. Refs de personagem listadas em `panels.md` / `refs/README.md`
 
 ## Direção

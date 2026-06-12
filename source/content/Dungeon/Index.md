@@ -38,6 +38,7 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 ## Tramas
 
 - [[Plots/Primeiro Dive]] — visão geral, regras, milestones, morte de PJ
+- [[Plots/Quests dos Andares]] — quest principal de cada andar (gancho na entrada)
 
 ## Locais
 
@@ -47,6 +48,7 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 - [[Locais/Stratum Novato]]
 - [[Locais/Dungeon da Avaliacao]] — prova da guilda em 4 quadrantes
 - [[Locais/Fenda do Tremor]]
+- [[Locais/Campo Avancado Orc]] — chegada do portal (S3)
 - [[Mapas/Mapas da Avaliacao Roll20]] — battlemaps da prova para Roll20
 
 ## Personagens

@@ -126,7 +126,7 @@ Evolução de loadout: [[00_Equipamento_Evolucao|00_Equipamento_Evolucao]].
 | `normal` | **Alias** de `ressuscitado` | Mesmo visual e ref que `ressuscitado` |
 | `noble` | **Lord Bart** — Bartrock **antes da res.** (S1–2) | Jovem nobre, sem máscara, roupas finas, caótico; **altura ~1,75–1,85 m** (elfo magro) — ver cena gola vs Tobias ~1,20 m em [[../../02_Chapters/cap-01-negociacoes-frustradas/script|cap-01]] |
 | *(cena S1)* | Fuga da taverna | `noble` **inconsciente**, **carregado** por Nightwolf e Dustin |
-| `mask-only` | Máscara caída pós-fusão (S19+) | Rosto élfico exposto, trauma/cicatrizes; máscara **separada** do rosto |
+| `mask-only` | Máscara caída pós-fusão (S19+) | Rosto élfico exposto, trauma/cicatrizes; máscara **separada** do rosto · ref `bartrock-mask-only-eq-inicial.png` |
 
 ## Bloco Identidade LOCKED — `possessed` (inglês)
 
@@ -186,6 +186,13 @@ Heavy dark black cloak with high standing collar, burgundy purple interior linin
 
 - **Canon `eq-inicial` (`possessed`):** imagem acima (ChatGPT, 2026 — ref elfo aprovada jun/2026)
 - Usar **bartrock-possessed-eq-inicial** em painéis S16+; nome no prompt = **Bartrock**
+
+## Ref gerada — `mask-only` (S19+, jun/2026)
+
+![[../../Referencias/pcs/bartrock-mask-only-eq-inicial.png]]
+
+- **Canon `mask-only`:** retrato acima — **aprovado** bloco F jun/2026 v3
+- Usar quando a máscara **cai** ou está **na mão**, separada do rosto
 
 ## Ref aprovada — `normal` / `ressuscitado`
 

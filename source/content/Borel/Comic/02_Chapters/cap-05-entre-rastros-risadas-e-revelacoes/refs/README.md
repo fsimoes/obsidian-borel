@@ -32,4 +32,4 @@ Criadas/copidas:
 
 ## Notas
 
-Celeste, criaturas e Emmergard loira existem localmente em `refs/` e foram usadas como guia de continuidade para as paginas finais.
+Celeste, criaturas e Emmergard loira **aprovadas jun/2026 v3** em `refs/`; Emmergard e Celeste promovidas a `Referencias/npcs/`.

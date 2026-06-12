@@ -205,7 +205,7 @@ Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cin
 Generate an image. Fantasy RPG webcomic style — Borel approved funny look (Jun 2026 v2): clean bold black line art, professional cel-shading, warm readable palette (wood browns, amber torchlight, deep blues at night — never muddy or grim), exaggerated facial expressions, clear comedic body language, slapstick-friendly staging, expressive faces, modern western comic panels with subtle manga influence. Clear round speech bubbles with tails, legible hand-lettered comic font in Portuguese. Match attached style references for line weight, shading, and colors only — do not copy exact poses. Use character reference images for faces and outfits every panel.
 
 --- PAGE 013 ---
-Layout: 4 panel(s). lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+Layout: 4 panel(s). lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maçã verde surge aos pes da estatua e Emmergard entrega.
 Panel A — CHARACTERS & POSES: Nightwolf (standing, weight on one foot, readable silhouette, focused, readable emotion); Amagard (standing, weight on one foot, readable silhouette, focused, readable emotion); Celeste (standing, weight on one foot, readable silhouette, focused, readable emotion); Sacerdote (standing, weight on one foot, readable silhouette, focused, readable emotion).
 Bubbles: see dialogues.md (D029, D030, D033, D034.).
 

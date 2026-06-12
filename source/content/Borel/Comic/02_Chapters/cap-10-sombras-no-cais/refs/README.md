@@ -9,15 +9,15 @@ status: ready
 ## Usar Existentes
 
 - PCs: `Referencias/pcs/*-eq-inicial.png`.
-- Rita: `Comic/02_Chapters/cap-08-sussurros-de-revolta/refs/rita-dente-de-bronze.webp` ou cópia em cap. 9.
+- Rita: `cap-08/.../refs/rita-dente-de-bronze.png` ou cópia em cap. 9 / `Referencias/Npcs/`.
 - Cenas da Sessão 10: `Referencias/Cenas/Sessao10/` como apoio de composição, não como substituto dos prompts.
 
-## Gerar Antes das Páginas
+## Bloco B (aprovado)
 
-- `cavaleiro-misterioso.webp`: elmo fechado, armadura escura, sem rosto.
-- `axolotl-anciao.webp`: monstro anfíbio grande, brânquias externas, ameaça naval.
+- `cavaleiro-misterioso.png` — cópia em `Referencias/Npcs/`
 
-## Não Gerar Ainda
+## Bloco C (jun/2026 v3) — aprovado
 
-- Marujos individuais: usar figurantes.
-- Homem da Tocha: pode ser gerado direto na página 014.
+- `axolotl-anciao.png` · `homens-sapo.png` · `homem-da-tocha.png`
+- `marujos-navio.png` · `navio-polvora.png`
+- Cópias em `Referencias/Npcs/`

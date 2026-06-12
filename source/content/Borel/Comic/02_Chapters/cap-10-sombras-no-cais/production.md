@@ -13,8 +13,8 @@ target_pages: 18
 
 ## Fila de imagem
 
-1. [ ] Gerar ref/model sheet do Cavaleiro Misterioso em `refs/cavaleiro-misterioso.webp`.
-2. [ ] Gerar ref do Axolotl Ancião em `refs/axolotl-anciao.webp`.
+1. [x] `refs/cavaleiro-misterioso.png` — aprovado bloco B jun/2026 v3.
+2. [x] Bloco C: `axolotl-anciao.png`, `homens-sapo.png`, `homem-da-tocha.png`, `marujos-navio.png`, `navio-polvora.png` — aprovados jun/2026 v3.
 3. [ ] Gerar capa `pages/000-cover.webp`.
 4. [ ] Gerar páginas `pages/001.webp` a `pages/018.webp`.
 5. [ ] Revisar todas contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.

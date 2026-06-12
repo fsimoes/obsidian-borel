@@ -29,9 +29,8 @@ status: ready
 - Objetivo: nao ativo neste capitulo; passado aponta para experimentos.
 - Segredo/subtexto: talvez ligada a outras pessoas ou culto; nao fechar resposta.
 - Tom de fala: sem fala de balao neste capitulo.
-- Aparencia: mulher ruiva, roupa urbana danificada, amarrada/vendada.
-- Ref: sem ref canonicamente suficiente; prompt de retrato necessario antes de paginas com close.
-- Prompt de retrato: "Character portrait of Celeste Falcon, red-haired adult woman, refined but dangerous urban mage, tired prisoner after a fight, medieval fantasy clothing, no speech bubbles, neutral gray background."
+- Aparencia: mesma identidade de `Npcs/celeste-eq-inicial.png` (cabelo escuro/roxo, olhos roxos, mascara de metal); roupa danificada, amarrada/vendada, cansada pos-luta.
+- Ref: `refs/celeste-falcon-prisioneira.png` — aprovada bloco A jun/2026 v3.
 - Restricoes: nao exagerar sexualizacao; nao mostrar gore.
 
 ## Lucian

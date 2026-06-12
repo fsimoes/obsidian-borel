@@ -19,7 +19,7 @@
 
 ## Descrição geral
 
-Campanha dungeon crawl **fechada em 10 sessões**: sete aventureiros atrelados à guilda fazem a primeira descida oficial como grupo (nível 5), o **exame de Bronze** para receber a primeira licença plena de aventureiro. O avaliador é um aventureiro **Prata** de nível efetivo ~10, observando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|avaliador]]; na fuga, o grupo fica encurralado entre a criatura e um portal antigo instável. A decisão brutal é imediata: atravessar o portal sem saber para onde ele leva, ou enfrentar o monstro ali. Se atravessarem, despertam em um corredor pós-portal que leva ao [[../Locais/Level 1|Level 1]], sem saber o que essa numeração significa dentro do complexo. A saga vira uma subida pelas camadas da dungeon até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
+Campanha dungeon crawl **fechada em 10 sessões**: sete aventureiros atrelados à guilda fazem a primeira descida oficial como grupo (nível 5), o **exame de Bronze** para receber a primeira licença plena de aventureiro. O avaliador é um aventureiro **Prata** de nível efetivo ~10, observando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|avaliador]]; na fuga, o grupo fica encurralado entre a criatura e um portal antigo instável. A decisão brutal é imediata: atravessar o portal sem saber para onde ele leva, ou enfrentar o monstro ali. Se atravessarem, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), no meio de uma linha de frente orc, sem saber a profundidade real. A saga vira uma subida pelas camadas da dungeon até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
 
 Tom: leve (S1–2) → brutal (S4+). O que era uma avaliação controlada vira sobrevivência real; a pergunta deixa de ser "vamos passar na prova?" e vira "quanto falta para subir?".
 
@@ -71,8 +71,8 @@ Tipos de conflito úteis:
 |--------|-----|------|------|-------|------|
 | **1** | Leve | Briefing do exame de Bronze; 1º combate; conhecer avaliador | AN, SN parcial | 5 | Avaliação começou |
 | **2** | Leve | Objetivos da prova; **tremor no fim** | SN completo | 5 | Prova sai do controle |
-| **3** | Choque | Fenda; **morte do avaliador**; perseguição; escolha do portal | RP → corredor do Level 1 | **6** | Sem mapa confiável |
-| **4** | Tenso | Acordar abaixo; medir recursos; 1º santuário | PR-3 ou mais fundo | 6 | Descobrir que precisam subir |
+| **3** | Choque | Fenda; **morte do avaliador**; perseguição; escolha do portal | RP → Campo Avançado Orc | **6** | Sem mapa confiável |
+| **4** | Tenso | Sobreviver à chegada na guerra; medir recursos; 1º refúgio | Andar 4 → subida | 6 | Descobrir que precisam subir |
 | **5** | Brutal | Primeiro marco de subida; facção; recursos escassos | PR-2 | **7** | Prova era só a casca |
 | **6** | Brutal | Subida sob perseguição; atalhos e poços | PR-2→PR-1 | 7 | Superfície ainda distante |
 | **7** | Brutal | 2º combate Predador — **foge** | PR-1/rota vertical | **8** | Reconhecem criatura S3 |
@@ -85,7 +85,7 @@ Tipos de conflito úteis:
 - **A (S1–2):** prova controlada; avaliador vivo; encontros fáceis.
 - **B (fim S2):** tremor.
 - **C (S3):** predador; morte do avaliador; fuga; portal; nível 6.
-- **D (S4–8):** Level 1 e camadas seguintes; subida; níveis 7–8.
+- **D (S4–8):** Andar 4 e camadas acima; subida; níveis 7–8.
 - **E (S9–10):** corrida vertical; boss final; escape.
 
 ### Notas de DM
@@ -107,10 +107,10 @@ O [[../NPCs/Instrutor|avaliador Prata]] está avaliando a turma e está **certo*
 - O grupo fica encurralado: **entrar no portal** ou **enfrentar o Predador** ali mesmo.
 - Enquanto decidem e atravessam, o Predador continua atacando quem ainda ficou deste lado.
 - A cada PJ que atravessa, o portal fica mais transparente; os que ficam para trás veem a passagem enfraquecer enquanto o Predador se aproxima. Quando o último PJ passa, o portal é destruído atrás dele.
-- Se entrarem, a travessia parece uma queda sem chão: impacto de luz, raízes, ruínas, poeira e inconsciência. Eles não sabem se foram transportados, derrubados ou engolidos por um mecanismo antigo. Quando acordam, estão em um corredor que leva ao [[../Locais/Level 1|Level 1]].
+- Se entrarem, a travessia parece uma queda longa sem chão: luz fria, vento seco, poeira e impacto em pedra. Eles não sabem se foram transportados, derrubados ou engolidos por um mecanismo antigo. Quando acordam, estão no **fundo de um poço** no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]], cercados por trincheiras e tambores de guerra.
 - Se escolherem lutar, o Predador deve deixar claro em 1 rodada que ficar é quase suicida; ainda assim, sobreviver ao confronto e atravessar depois preserva a agência.
 
-O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, a saída conhecida está acima e a pergunta central é o que significa estar no **Level 1** de uma dungeon que a guilda não mapeou.
+O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, a saída conhecida está acima e a pergunta central é como sobreviver numa **guerra** que a guilda nem sabia que existia.
 
 ---
 
@@ -118,7 +118,7 @@ O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, 
 
 Detalhes: [[../NPCs/Instrutor]]. Morre na sessão 3; era o avaliador Prata do exame de Bronze e tinha razão sobre recuar.
 
-**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; o avaliador segura a criatura diante de um portal antigo; um ataque letal; o grupo precisa escolher entre atravessar o portal ou enfrentar o monstro enquanto a criatura continua atacando. A cada PJ que passa, o portal fica mais transparente; quando o último atravessa, ele se destrói. A travessia joga todos em um corredor pós-portal que leva ao [[../Locais/Level 1|Level 1]].
+**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; o avaliador segura a criatura diante de um portal antigo; um ataque letal; o grupo precisa escolher entre atravessar o portal ou enfrentar o monstro enquanto a criatura continua atacando. A cada PJ que passa, o portal fica mais transparente; quando o último atravessa, ele se destrói. A travessia **teletransporta** todos para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
 
 ---
 
@@ -150,7 +150,7 @@ Detalhes: [[../NPCs/O Predador]]. **Mesma criatura** na S3 e boss S10.
 ## Segredos de DM
 
 - O exame de Bronze era real, mas limitado: avaliar aventureiros registrados no stratum, não jogá-los no complexo inteiro.
-- A guilda não sabia da dungeon abaixo. Ela certificou o Stratum Novato como área isolada porque seus mapas, vistorias e tradição nunca revelaram o Level 1.
+- A guilda não sabia da dungeon abaixo. Ela certificou o Stratum Novato como área isolada porque seus mapas, vistorias e tradição nunca revelaram o que o portal ligava às profundezas — muito menos um campo de guerra orc.
 - Stratum novato: **camada de treino** sobre ruínas antigas.
 - Saída A fica acima deles após o portal; vitória = encontrar uma rota de subida até uma saída real.
 - Profundezas: aberração / civilização perdida / dungeon vivo (TBD lore).

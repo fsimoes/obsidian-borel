@@ -4,14 +4,12 @@ title: Enemy concepts - Cap. 20
 
 # Enemy concepts - Cap. 20
 
-## Criaturas de dungeon
-- Silhueta: definir na geração
-- Ref: pendente
+## Criaturas de dungeon / elementais / demônios
 
-## Elementais
-- Silhueta: definir na geração
-- Ref: pendente
+Sem design fixo documentado — **não gerar ref** até mesa definir silhueta em sessão ou ficha dedicada.
 
-## Demônios
-- Silhueta: definir na geração
-- Ref: pendente
+Usar prompt por página conforme `prompt-all-pages.md`.
+
+## Demônio do julgamento
+
+Figurante de cena — sem ref de personagem neste bloco (foco em Mago Namarath + máscara xamã).

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mago dos portais (Namarath)"
 type: npc
 tags:
@@ -36,8 +36,9 @@ Mago que defendeu a segurança dos portais num debate em Namarath. Durante a dem
 
 ## Aparência (notas de mesa)
 
-- Robes acadêmicas, presença formal
-- Detalhes visuais: a documentar (não confundir com [[Tobias]])
+- Robes acadêmicas burgundy/cream, universidade Namarath, presença formal
+- Ref HQ: `Referencias/Npcs/mago-portais-namarath-eq-inicial.png` (aprovado bloco G jun/2026 v3)
+- **Não confundir** com [[Tobias]] (halfling S1) nem com `tobias-peso-morto-eq-inicial.png`
 
 ## Links
 

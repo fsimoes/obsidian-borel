@@ -6,13 +6,12 @@ status: ready
 
 # Refs - Cap. 9
 
-## Geradas
-
-- `rita-dente-de-bronze.webp` - reutilizada do Cap. 8 neste run.
-- `baronesa-helena.webp` - nova ref gerada neste run.
-- `leticia-servical.webp` - nova ref gerada neste run.
-
-## Reutilizadas
+## Usar
 
 - PCs em `Referencias/pcs/`.
-- Rita LOCKED em `Comic/01_Cast_Model_Sheets/NPCs_Tier_A.md`.
+- `rita-dente-de-bronze.png` — aprovada bloco A jun/2026 v3; cópia de cap. 8 / `Referencias/Npcs/rita-dente-de-bronze.png`.
+
+## Bloco B (jun/2026 v3) — aprovado
+
+- `baronesa-helena.png` — cópia em `Referencias/Npcs/baronesa-helena.png`
+- `leticia-servical.png` — cópia em `Referencias/Npcs/leticia-servical.png`

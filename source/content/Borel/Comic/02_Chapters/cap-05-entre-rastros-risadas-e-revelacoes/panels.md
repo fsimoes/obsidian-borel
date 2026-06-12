@@ -488,7 +488,7 @@ target_pages: 20
 | Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | floating in smoke, arms loose | focused, readable emotion | toward action center | `celeste-eq-inicial` |
 - **Cena:** Nightwolf flutua em fumaca; Lucian dormindo; Celeste lancando encanto na cabeca dele; ela olha pela janela para Nightwolf.
 
-## Página 013 — Olhos roxos, maca verde
+## Página 013 — Olhos roxos, maçã verde
 
 - **Arquivo:** `013.webp`
 - **Painéis:** 4
@@ -503,7 +503,7 @@ target_pages: 20
 | Amagard | compact strong blonde Germanic warrior woman, green/brown mercenary clothes | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `amagard-eq-inicial` |
 | Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
 | Sacerdote | elderly priest, green-gray robes, wet hands from font | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `sacerdote-eq-inicial` |
-- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maçã verde surge aos pes da estatua e Emmergard entrega.
 
 #### Painel 013-b
 
@@ -513,7 +513,7 @@ target_pages: 20
 | Amagard | compact strong blonde Germanic warrior woman, green/brown mercenary clothes | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `amagard-eq-inicial` |
 | Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
 | Sacerdote | elderly priest, green-gray robes, wet hands from font | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `sacerdote-eq-inicial` |
-- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maçã verde surge aos pes da estatua e Emmergard entrega.
 
 #### Painel 013-c
 
@@ -523,7 +523,7 @@ target_pages: 20
 | Amagard | compact strong blonde Germanic warrior woman, green/brown mercenary clothes | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `amagard-eq-inicial` |
 | Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
 | Sacerdote | elderly priest, green-gray robes, wet hands from font | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `sacerdote-eq-inicial` |
-- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maçã verde surge aos pes da estatua e Emmergard entrega.
 
 #### Painel 013-d
 
@@ -533,7 +533,7 @@ target_pages: 20
 | Amagard | compact strong blonde Germanic warrior woman, green/brown mercenary clothes | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `amagard-eq-inicial` |
 | Celeste | elegant young woman, burgundy dress, silver half-mask, violet eyes when casting | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `celeste-eq-inicial` |
 | Sacerdote | elderly priest, green-gray robes, wet hands from font | standing, weight on one foot, readable silhouette | focused, readable emotion | toward action center | `sacerdote-eq-inicial` |
-- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maca surge aos pes da estatua e Amagard entrega.
+- **Cena:** lobisomem/criatura ataca na memoria; olhos roxos apagam tudo; Nightwolf volta ao templo; maçã verde surge aos pes da estatua e Emmergard entrega.
 
 ## Página 014 — Precisamos de prova
 

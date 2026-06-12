@@ -41,9 +41,9 @@ Momento da morte do avaliador:
 6. Enquanto eles tentam atravessar, o Predador continua atacando quem ainda está deste lado. Use golpes, garras na pedra, empurrões e ataques de oportunidade para deixar a fila perigosa.
 7. A cada PJ que atravessa, o portal fica mais transparente. Os últimos conseguem ver o Predador e a pedra rachada através dele, como se a passagem estivesse acabando.
 8. Quando o último PJ passa, o portal se destrói atrás dele: a película de luz racha, dobra para dentro e some em estilhaços silenciosos.
-9. Se atravessarem, a sensação é de queda em etapas por luz, raízes, ruínas e poeira.
-10. Eles despertam em um corredor pós-portal: estreito, inclinado e silencioso, com marcas antigas que apontam para o [[Level 1]].
-11. A primeira certeza não é a profundidade, mas a direção: atrás deles o portal morreu; à frente, o corredor leva ao primeiro nível real da dungeon.
+9. Se atravessarem, a sensação é de queda longa por luz fria, vento seco e poeira — não um corredor, mas um **poço** aberto no meio de pedra viva.
+10. Eles **teletransportam** para o fundo desse poço, no [[Campo Avancado Orc|Campo Avançado Orc]]: trincheiras orcs, tambores de guerra, fumaça e gritos distantes.
+11. A primeira certeza não é a profundidade, mas o perigo imediato: atrás deles o portal morreu; ao redor, um acampamento de guerra; acima, a única direção possível é **subir**.
 12. Milestone: **nível 6** ao fim da sessão.
 
 ## Perigos
@@ -53,22 +53,22 @@ Momento da morte do avaliador:
 - Estrutural: rochas podem cair; a travessia deve ferir, separar recursos ou assustar, não matar a campanha.
 - Portal em colapso: use a transparência crescente como contagem dramática. Quando o último PJ atravessa, o portal é destruído; se alguém hesitar demais antes disso, a passagem pode exigir um teste, custo ou intervenção de outro PJ.
 - Psicológico: culpa pela morte do avaliador.
-- Orientação: os PJs sabem que chegaram ao **Level 1**, mas não sabem se isso corresponde ao mapa da guilda, a uma camada antiga ou a uma numeração de outro sistema.
+- Orientação: os PJs não sabem em qual andar estão, quantos níveis caíram nem como o poço se liga ao mapa da guilda.
 
 ## Funcionamento pós-S3
 
 - Retorno a SN-07 está acima demais, bloqueado ou impossível sem atravessar outros andares. O portal não reabre por vontade dos PJs.
 - **Saída A** (elevador) ainda existe, mas ficou no mundo de cima.
-- Daqui em diante, o mapa dos jogadores é preenchido por exploração a partir do corredor que leva ao [[Level 1]].
+- Daqui em diante, o mapa dos jogadores é preenchido por exploração a partir do [[Campo Avancado Orc|Campo Avançado Orc]].
 
 ## Mistérios
 
 - O tremor foi causado pelo grupo, pelo Predador, pelo portal ou por algo mais profundo?
 - O avaliador percebeu sinais de instabilidade sem entender o que havia abaixo?
-- O que "Level 1" significa: primeiro andar da dungeon real, primeiro nível abaixo da prova ou uma marca deixada por exploradores antigos?
+- Por que o portal joga os PJs no meio de uma guerra orc, e não em um corredor vazio?
 
 ## Ligações
 
 - Acima: [[Stratum Novato]] (SN-07)
-- Abaixo: [[Mapa Mestre do Complexo#Pós-portal `PV-*`, Sessão 3–4|Pós-portal]] / [[Level 1]]
+- Abaixo: [[Mapa Mestre do Complexo#Pós-portal `PV-*`, Sessão 3–4|Pós-portal]] / [[Campo Avancado Orc]]
 - Boss final (S10): mesmo [[../NPCs/O Predador|Predador]], bloqueando a rota final de subida

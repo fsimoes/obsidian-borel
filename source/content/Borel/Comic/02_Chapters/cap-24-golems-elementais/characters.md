@@ -27,3 +27,15 @@ title: Characters - Cap. 24
 ## Kaelion
 - Papel: PC
 - Ref: `kaelion-eq-inicial`
+
+## Orestan
+- Papel: PC
+- Ref: `orestan-eq-inicial`
+
+## Groih
+- Papel: PC
+- Ref: `groih-eq-inicial`
+
+## Golems elementais
+- Papel: Inimigo
+- Ref: `Npcs/golems-elementais-cap24.png` — aprovado bloco I jun/2026 v3 · ≠ golem-guardiao

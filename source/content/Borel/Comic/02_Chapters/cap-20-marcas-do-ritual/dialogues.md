@@ -36,7 +36,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D024 | Tony | "É pra poder não ver a mancha, pô." | sessao 20_bloco01.txt @ 0:02:16 | canon |
 | D025 | Nightwolf | "Obrigado." | sessao 20_bloco01.txt @ 0:02:29 | canon |
 | D026 | Tony | "Foi ele que falou com a gente." | sessao 20_bloco01.txt @ 0:02:50 | canon |
-| D027 | Dustin | "Não se россia..." | sessao 20_bloco01.txt @ 0:02:58 | canon |
+| D027 | Dustin | "Não se preocupa..." | sessao 20_bloco01.txt @ 0:02:58 | canon |
 | D028 | Tony | "Porque o cara..." | sessao 20_bloco01.txt @ 0:02:59 | canon |
 | D029 | Dustin | "O Carrefour estava batendo a porta." | sessao 20_bloco01.txt @ 0:03:02 | canon |
 | D030 | Dustin | "Fechado." | sessao 20_bloco01.txt @ 0:03:04 | canon |
@@ -50,7 +50,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D038 | Dustin | "Tirar uma soneca, que eu precisei..." | sessao 20_bloco01.txt @ 0:03:30 | canon |
 | D039 | Tony | "Eu vou lá falar com o cara antes disso." | sessao 20_bloco01.txt @ 0:03:33 | canon |
 | D040 | Dustin | "Gastei bastante magia na última..." | sessao 20_bloco01.txt @ 0:03:33 | canon |
-| D041 | Tony | "Pagado." | sessao 20_bloco01.txt @ 0:03:35 | canon |
+| D041 | Tony | "Pagão." | sessao 20_bloco01.txt @ 0:03:35 | canon |
 | D042 | Tony | "Pedaço de corpo de..." | sessao 20_bloco01.txt @ 0:03:37 | canon |
 | D043 | Tony | "Ai, que maré." | sessao 20_bloco01.txt @ 0:03:39 | canon |
 | D044 | Tony | "A gente chega aqui e..." | sessao 20_bloco01.txt @ 0:03:41 | canon |
@@ -64,7 +64,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D052 | Tony | "Brother..." | sessao 20_bloco01.txt @ 0:04:31 | canon |
 | D053 | Tony | "tua mulher morreu..." | sessao 20_bloco01.txt @ 0:04:35 | canon |
 | D054 | Tony | "ela está morta..." | sessao 20_bloco01.txt @ 0:04:37 | canon |
-| D055 | Tony | "ela é uma floresta..." | sessao 20_bloco01.txt @ 0:04:39 | canon |
+| D055 | Tony | — | sessao 20_bloco01.txt @ 0:04:39 | asr-removed |
 
 ## Notas de revisão ortográfica
 

@@ -26,7 +26,6 @@ Português **coloquial BR** (você/vocês). Usar **exatamente** nos balões.
 | 05 | B | — | *(silêncio — Bart não responde)* |
 | 05 | C | Lord Bart | **Como você ousa falar comigo, verme?** |
 | 05 | D | Capitã | **Então eu te mostro, verme!** |
-| 06 | A | SFX | **TAP!** |
 | 07 | B | Dustin | **Temos que sair daqui — agora!** |
 | 08 | A | Nightwolf | **Bart!** |
 | 08 | B | Nightwolf | **Por aqui!** |
@@ -42,6 +41,7 @@ Português **coloquial BR** (você/vocês). Usar **exatamente** nos balões.
 | 05-A | *Onde está o cocheiro* | Alinha ao Livro (*"Onde estava quando—"* cortado) **se** a mesa usou o cocheiro no trabalho; senão use **Fala! O que vocês fizeram?** |
 | 05-C | *Como ousas se dirigir a palavra a mim* | Tom muito formal/PT → **Como você ousa falar comigo, verme?** |
 | 05-D | *Vou te mostrar o verme!* | Mantida a ideia → **Então eu te mostro, verme!** (pré-tapa) |
+| 06-A | *TAP!* (SFX) | **Removido** — HQ não desenha o tapa (P06 = caos; ver `script.md`) |
 | 09-A | *Vamos logo!* | Painel = **carregar** Bart → **Segura ele — vamo!** |
 
 ## Regras

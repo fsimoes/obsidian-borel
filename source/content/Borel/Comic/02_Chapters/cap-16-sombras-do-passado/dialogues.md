@@ -16,7 +16,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D004 | Narrador | "se transformar em cachorro" | Capitulo 16 – Parte 3 - Negociações na Prisão.md, condensed | condensed |
 | D005 | Narrador | "piscada feia" | Capitulo 16 – Parte 3 - Negociações na Prisão.md, condensed | condensed |
 | D006 | Narrador | "virar lobo na sala do Alberto" | Capitulo 16 – Parte 3 - Negociações na Prisão.md, condensed | condensed |
-| D007 | Bartrock | "Você não quer ser o mais forte de todos? Estou aqui. Me obedecer." | Capitulo 16 – Parte 4 - A Máscara da Corrupção.md | canon |
+| D007 | Bartrock | "Você não quer ser o mais forte de todos? Estou aqui. Me obedeça." | Capitulo 16 – Parte 4 - A Máscara da Corrupção.md | canon |
 | D008 | Narrador | "passar óleo" | Capitulo 16 – Parte 4 - A Máscara da Corrupção.md, condensed | condensed |
 | D009 | Narrador | "dobrar o level" | Capitulo 16 – Parte 4 - A Máscara da Corrupção.md, condensed | condensed |
 | D010 | Nightwolf | "Caralho, que lobisomem é isso!" | Capitulo 16 – Sombras do Passado.md | canon |
@@ -39,7 +39,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D027 | Tony | "Quem não quer ir" | sessao 16 - 1.txt @ 0:06:45 | canon |
 | D028 | Tony | "Não explode" | sessao 16 - 1.txt @ 0:06:49 | canon |
 | D029 | Tony | "Pata de elefante" | sessao 16 - 1.txt @ 0:06:57 | canon |
-| D030 | Dustin | "[0:07:00] - 3-FS_SIMOES - Fode" | sessao 16 - 1.txt @ 0:06:59 | canon |
+| D030 | Tony | "Fode." | sessao 16 - 1.txt @ 0:06:59 | canon |
 | D031 | Tony | "Eu posso só falar alguma coisa?" | sessao 16 - 1.txt @ 0:07:17 | canon |
 | D032 | Tony | "Nesse meio do caminho" | sessao 16 - 1.txt @ 0:07:19 | canon |
 | D033 | Tony | "Eu vou" | sessao 16 - 1.txt @ 0:07:23 | canon |
@@ -48,9 +48,9 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D036 | Dustin | "E a gente protege eles" | sessao 16 - 1.txt @ 0:08:13 | canon |
 | D037 | Dustin | "Tem que proteger ela do nosso grupo, né?" | sessao 16 - 1.txt @ 0:08:17 | canon |
 | D038 | Tony | "o negócio" | sessao 16 - 1.txt @ 0:08:30 | canon |
-| D039 | Nightwolf | "Você pode reaproveitar os morgas e os tremor" | sessao 16 - 1.txt @ 0:08:35 | canon |
+| D039 | Nightwolf | "Você pode reaproveitar os mapas" | sessao 16 - 1.txt @ 0:08:35 | canon |
 | D040 | Tony | "vou procurar aqui e te mando" | sessao 16 - 1.txt @ 0:09:00 | canon |
-| D041 | Tony | "acabei de ver o Caílon com a moranga na mão" | sessao 16 - 1.txt @ 0:09:14 | canon |
+| D041 | Tony | "Acabei de ver o Kaelion com a arma na mão" | sessao 16 - 1.txt @ 0:09:14 | canon |
 | D042 | Tony | "eu acho que aqui no outro" | sessao 16 - 1.txt @ 0:09:16 | canon |
 | D043 | Tony | "em nossa direção ou contra nossa direção?" | sessao 16 - 1.txt @ 0:10:16 | canon |
 | D044 | Tony | "tipo, o mesmo movimento que a gente?" | sessao 16 - 1.txt @ 0:10:33 | canon |

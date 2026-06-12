@@ -1,4 +1,4 @@
----
+﻿---
 title: "Production - Cap. 14"
 type: comic-production
 status: docs-ready
@@ -8,7 +8,7 @@ target_pages: 18
 # Production - Cap. 14
 
 ## Status
-`ready-for-image-generation`. A pré-produção, roteiro, falas, painéis, prompts e revisão pré-imagem estão prontos. Imagens finais não foram geradas nesta execução porque não há fluxo disponível para anexar todas as refs necessárias, gerar e salvar WebP sequencial no vault/leitor.
+`ready-for-image-generation`. A prÃ©-produÃ§Ã£o, roteiro, falas, painÃ©is, prompts e revisÃ£o prÃ©-imagem estÃ£o prontos. Imagens finais nÃ£o foram geradas nesta execuÃ§Ã£o porque nÃ£o hÃ¡ fluxo disponÃ­vel para anexar todas as refs necessÃ¡rias, gerar e salvar WebP sequencial no vault/leitor.
 
 ## Fila de imagem
 1. Gerar refs:
@@ -17,16 +17,16 @@ target_pages: 18
    - `Referencias/npcs/emmergard-eq-cerco.webp` se close for usado.
 2. Gerar `pages/000-cover.webp`.
 3. Gerar `pages/001.webp` a `pages/018.webp`.
-4. Revisar cada página contra `panels.md` e `dialogues.md`.
-5. Regenerar qualquer página com texto em inglês, fala errada, personagem trocado, gore excessivo ou ordem visual confusa.
+4. Revisar cada pÃ¡gina contra `panels.md` e `dialogues.md`.
+5. Regenerar qualquer pÃ¡gina com texto em inglÃªs, fala errada, personagem trocado, gore excessivo ou ordem visual confusa.
 
-## Publicação
-Só copiar para `source/quartz/static/comic/cap-14-sessao-14/` depois de existir capa + 18 páginas WebP revisadas.
+## PublicaÃ§Ã£o
+SÃ³ copiar para `source/quartz/static/comic/cap-14-sessao-14/` depois de existir capa + 18 pÃ¡ginas WebP revisadas.
 
-## Revisão pós-imagem
-Pendente por ausência de imagens.
+## RevisÃ£o pÃ³s-imagem
+Pendente por ausÃªncia de imagens.
 
-## Documentação v2 (jun/2026)
+## DocumentaÃ§Ã£o v2 (jun/2026)
 
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES

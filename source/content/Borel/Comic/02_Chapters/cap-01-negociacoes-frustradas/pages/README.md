@@ -6,12 +6,20 @@ tags:
   - tipo/comic
   - comic/cap-01
 status: ready
-exported: "2026-06-04"
+exported: "2026-06-12"
 ---
 
 # Páginas — Cap. 1 (v2 webcomic)
 
 Cópia das **`001.webp`–`010.webp`** publicadas no leitor.
+
+**Regeneração (2026-06-12):** 10 páginas geradas via Cursor `GenerateImage` a partir de [[../prompt-all-pages-tirinha|prompt-all-pages-tirinha.md]] + 6 refs (`Referencias/style/`, `pcs/`, `Npcs/`). PNG em `pages/`; WebP em `quartz/static/comic/cap-01-sessao-01/` (`npm run comic:webp`).
+
+| Nota | Detalhe |
+|------|---------|
+| P005 | 1ª tentativa bloqueada (safety); regenerada com prompt de confronto verbal |
+| Canon | Tobias traidor · P06 sem tapa · P07 gola halfling×elfo · Dustin adagas |
+| Revisão | Conferir falas PT e rostos vs refs antes de publicar |
 
 | Pág. | Cena |
 |------|------|

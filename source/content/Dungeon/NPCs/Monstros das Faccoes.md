@@ -229,51 +229,161 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 
 ---
 
-## Andar 4 — Segredista do Vidro
+## Andar 4 — Chefe de Guerra Orc
 
-![[Concepts/monstro-04-segredista-vidro.png]]
+![[Concepts/monstro-04-chefe-guerra-orc.png]]
 
-**Facção:** [[Faccoes dos Andares#Nothics do Vidro|Nothics do Vidro]]
+**Facção:** [[Faccoes dos Andares#Clã da Marca Férrea|Clã da Marca Férrea]]
 
-**Papel:** espião arcano, comprador de segredos e chantagista.
+**Papel:** comandante de trincheira, estrategista brutal e dono da melhor rampa oriental.
 
-**Base 5e sugerida:** nothic, mage fraco com visão verdadeira parcial, spectator social.
+**Base 5e sugerida:** orc war chief, orc eye of Gruumsh, veteran com lacaios.
 
-**Comportamento:** oferece respostas antes de pedir preço. Fala como se já conhecesse culpa e medo dos PJs.
+**Comportamento:** avalia força antes de atacar. Prefere cerco, emboscada e negociação dura a combate aberto sem vantagem.
 
-**Política:** quer quebrar o monopólio dos Guardiões Prismáticos sobre os cristais, usando segredos como moeda.
+**Política:** acredita que quem controla a subida controla o andar. Os ogros são barreira temporária; invasores são recurso ou ameaça.
 
 **Poderes de cena:**
 
-- Olho de culpa: revela medo ou arrependimento recente.
-- Reflexo falso: cria duplicata ilusória em cristal.
-- Troca indecente: dá informação real por segredo perigoso.
+- Tambor de avanço: aliados ganham vantagem na próxima investida.
+- Marca de sangue: designa alvo prioritário para worgs e arqueiros.
+- Trincheira viva: muda cobertura e linha de fogo no meio do combate.
 
-**Barganha:** mostra atalho por refração se receber uma confissão, nome verdadeiro ou memória do avaliador.
+**Barganha:** abre corredor seguro se os PJs ajudarem a quebrar uma barricada ogro, entregarem inteligência ou aceitarem missão de sabotagem.
 
 ---
 
-## Andar 4 — Guardião Prismático
+## Andar 4 — Tyran da Trincheira
 
-![[Concepts/monstro-04-guardiao-prismatico.png]]
+![[Concepts/monstro-04-tyran-trincheira.png]]
 
-**Facção:** [[Faccoes dos Andares#Guardiões Prismáticos|Guardiões Prismáticos]]
+**Facção:** [[Faccoes dos Andares#Ogros da Trincheira|Ogros da Trincheira]]
 
-**Papel:** elemental protetor, sentinela de focos mágicos e inimigo dos ladrões de energia.
+**Papel:** ogro colossal, aríete vivo e terror da linha de frente.
 
-**Base 5e sugerida:** galeb duhr cristalino, elemental menor, spectator retematizado.
+**Base 5e sugerida:** ogre, half-ogre boss, ettin retematizado.
 
-**Comportamento:** reage a magia agressiva, quebra de cristais e mentira diante dos focos.
+**Comportamento:** avança até o cheiro de comida ou barulho de batalha. Não persegue longe de um acampamento ogro, mas esmaga quem bloqueia a passagem.
 
-**Política:** acredita que os cristais seguram o andar inteiro. Para ele, explorar energia é arriscar colapso.
+**Política:** quer carne, pilhagem e o fim dos tambores orcs. Para ele, tudo que não come ou não obedece é obstáculo.
 
 **Poderes de cena:**
 
-- Raio refratado: ricocheteia em cristais.
-- Prisma de contenção: prende sem matar.
-- Luz julgadora: revela invisibilidade ou disfarce.
+- Arremesso de entulho: derruba barricada ou cria terreno difícil.
+- Passo esmagador: atordoa em área estreita.
+- Fome de guerra: fica mais perigoso se não receber comida ou sangue recente.
 
-**Barganha:** purifica uma relíquia ou abre uma ponte de luz se os PJs impedirem roubo de cristais.
+**Barganha:** deixa os PJs passarem se trouxerem presa grande, destruírem acampamento orc ou provocarem combate em outro quadrante.
+
+---
+
+## Capitão Varkash da Marca
+
+![[Concepts/monstro-04-capitao-varkash.png]]
+
+**Facção:** [[Faccoes dos Andares#Clã da Marca Férrea|Clã da Marca Férrea]]
+
+**Papel:** capitão da [[../Locais/Campo Avancado Orc#Legião dos Conscritos|Legião dos Conscritos]]; dá as ordens, escolhe as fileiras e comanda a investida contra os ogros.
+
+**Base 5e sugerida:** orc war chief, veteran com multiataque, orc eye of Gruumsh enfraquecido.
+
+**Comportamento:** fala em frases curtas; não negocia com conscritos no primeiro dia. Observa quem obedece, quem hesita e quem mata de verdade. Respeita força e resultado, não desculpas.
+
+**Política:** conscritos existem para gastar a fúria ogro antes dos orcs de verdade entrarem. Para ele, os PJs são sorte ou lixo — depende do que fizerem no campo. Mantém a tropa na linha com a **promessa de liberdade após a guerra**.
+
+**Promessa oficial:**
+
+- Quem **sobreviver** e **obedecer** até o fim da guerra ganha liberdade: marca lavada, armas devolvidas, permissão para subir e sair do campo.
+- "Guerra acabada" = ogros recuarem da rampa leste ou Varkash declarar vitória.
+- Ele pode cumprir a palavra com sobreviventes úteis para manter os outros conscritos obedientes — ou adiar o fim da guerra indefinidamente.
+
+**Ordens típicas:**
+
+- Tambor parou → primeira fileira avança.
+- Conscritos na frente; orcs atrás.
+- Recuo só quando **ele** bater o tambor; desobediência = morte na hora.
+- Quem trouxer sangue ogro de volta pode pedir comida ou troca de fileira.
+- "Lutem agora. A liberdade vem **depois**."
+
+**Poderes de cena:**
+
+- Voz de ferro: conscritos que ouvem sua ordem têm desvantagem em testes contra medo na mesma rodada.
+- Marca da frente: designa um PJ ou NPC para a ponta da fileira — pressão narrativa imediata.
+- Olho do campo: percebe desertores ou hesitação; manda o sargento resolver.
+
+**Barganha:** não liberta antes da hora sem feito extraordinário. Se os ogros recuarem ou os PJs virarem a batalha, Varkash pode **honrar a promessa** e libertar o grupo — ou promover sobreviventes a mercenários pagos. Feito antecipado (tyran ferido, brecha na rampa): pode negociar liberdade imediata em vez de esperar o fim da guerra.
+
+---
+
+## Legião dos Conscritos — aliados
+
+Monstros presos na [[../Locais/Campo Avancado Orc#Legião dos Conscritos|Legião dos Conscritos]] que podem virar aliados dos PJs se estes forem recrutados à força. Funcionam como **fonte de lore** e **catalisadores de fuga**. O **Capitão Varkash** manda; eles sussurram o que ele não diz.
+
+### Griba, o Contador
+
+**Base 5e sugerida:** goblin, goblin boss enfraquecido.
+
+**Papel:** conscrito há três semanas; ajuda os orcs a marcar e contar novos recrutas.
+
+**Personalidade:** fala rápido, ri nervoso, odeia o chefe de patrulha.
+
+**O que sabe:**
+
+- Como funciona a legião: fileira da frente, fileira da morte, fileira dos que voltam cambaleando.
+- Que a próxima investida começa quando os tambores mudam de ritmo (1d4 horas após chegada dos PJs).
+- Onde ficam as lanças menos podres (Investigation DC 12 ou Griba conta de graça se os PJs fingirem obediência).
+- Que a promessa de liberdade é repetida **toda semana**; já viu dois conscritos "libertos" voltarem marcados de novo no dia seguinte.
+
+**Como ajuda:** distração, troca de marcas de tinta, rumor falso para o sargento; conta qual frase de Varkash é mentira desta vez.
+
+---
+
+### Thakka, a Cicatriz
+
+**Base 5e sugerida:** hobgoblin, veteran enfraquecido.
+
+**Papel:** ex-sargento hobgoblin capturada após uma emboscada fracassada; conhece trincheiras e rotas.
+
+**Personalidade:** calma, militar, não desperdiça palavras.
+
+**O que sabe:**
+
+- O mapa mental do Andar 4: acampamento orc, campo vazio, linha ogro, **rampa leste** (melhor subida).
+- Que os ogros atacam em ondas de fome, não de tática — há janelas para atravessar o campo.
+- Que "subir" passa por túneis estreitos (Andar 3) onde até orcs evitam ir em bando grande.
+- Que Varkash já redefiniu "fim da guerra" duas vezes neste mês — mas **pode** cumprir com quem provar valor real; orcs respeitam resultado.
+
+**Como ajuda:** plano de deserção na investida, identificação de cobertura, avaliação de quando correr; critérios para tornar a promessa exigível.
+
+---
+
+### Muro-de-Três-Dedos
+
+**Base 5e sugerida:** bugbear, bugbear com corrente no tornozelo.
+
+**Papel:** conscrito de força bruta; os orcs mantêm-no acorrentado porque ele mata ogros demais para jogar na frente cedo demais.
+
+**Personalidade:** poucas palavras; respeita quem não mente na cara dele.
+
+**O que sabe:**
+
+- O lado ogro por instinto: cheiro de cozinha, medo de tambores, onde os tyrans descansam.
+- Pegadas grandes no campo — não são ogros; algo **caça entre as batalhas** (pista do Predador).
+- Uma galeria lateral no campo de batalha que leva para cima sem passar pelo acampamento (Perception DC 14 ou ele aponta se os PJs o soltarem).
+- Não acredita na promessa de liberdade — mas acha que Varkash **tem medo** de perder conscritos bons demais; isso é alavanca.
+
+**Como ajuda:** quebrar correntes, abrir caminho na confusão, intimidar goblins mesquinhos; pressionar Varkash no momento em que precisa deles vivos.
+
+---
+
+### Usar o capitão e os aliados
+
+- **Varkash** dá as ordens oficiais e a pressão do relógio (investida iminente).
+- **Griba** explica o funcionamento imediato e o humor da legião.
+- **Thakka** explica a guerra e as rotas.
+- **Muro** explica o perigo maior e a fuga física.
+
+Varkash fala alto; os aliados falam baixo. Não é obrigatório apresentar todos na mesma cena. O mínimo é Varkash + um aliado; Thakka e Muro recompensam PJs que exploram a trincheira depois do discurso.
 
 ---
 

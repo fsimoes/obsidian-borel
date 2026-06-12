@@ -37,7 +37,7 @@ Falas curtas para balões. Baseadas em `Transcricoes/sessao 14.txt`; adaptaçõe
 | D025 | Nightwolf | "Falando em Megard, me cure." | 1:31:45 | canon |
 | D026 | Megard | "O que é para fazer, Sr. Tony? Vamos fugir?" | 2:42:19 | canon |
 | D027 | Tony | "Não vamos fugir." | 2:42:33 | canon |
-| D028 | Mestre | "Ivan corta a perna é o ombro da Rita." | 2:33:50-2:33:57, condensado | condensed |
+| D028 | Mestre | "Ivan corta a perna e o ombro da Rita." | 2:33:50-2:33:57, condensado | condensed |
 | D029 | Dustin | "Ele vai botar na cara do Ivan. Pra ajudar a Rita." | 3:57:41-3:57:55, condensado | condensed |
 | D030 | Mestre | "Ivan está bem fudido." | 4:00:57-4:01:00 | canon |
 | D031 | Mestre | "São quatro ataques na Rita." | 4:04:13-4:04:19 | canon |

@@ -28,7 +28,7 @@ target_pages: "10"
 | Combate | Tony vs **4 cachorros** · Nikov vs **3 guardas** · trio ataca **à distância** |
 | Tragédia | Bart acerta **fireball em Nikov** → Nikov morre |
 | Bart | Pânico, foge pelos **fundos** → **guarda** mata Bart |
-| Fim | Cama (vista de cima) · katana · fuga **para longe de Rilonde** |
+| Fim | Cama (vista de cima) · katana · fuga **rumo a Rilonde** |
 
 **Não é canon deste HQ:** explosivos do Tony, Beastmaster/lobos, grito mágico de Dustin, salto pela janela (versão Livro antiga).
 
@@ -44,4 +44,4 @@ target_pages: "10"
 
 ## Elenco
 
-Lord Bart (`noble`) · Nightwolf · Dustin · Tony · Nikov (ref pendente) · guardas/cães = figurantes
+Lord Bart (`noble`) · Nightwolf · Dustin · Tony · Nikov · guardas/cães = figurantes

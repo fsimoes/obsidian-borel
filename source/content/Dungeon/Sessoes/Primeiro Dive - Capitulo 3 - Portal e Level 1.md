@@ -1,15 +1,15 @@
-# Primeiro Dive - Capitulo 3 - Portal e Level 1
+# Primeiro Dive - Capitulo 3 - Portal e Campo Avançado
 
 ## Resumo
 
-A prova deixa de ser uma avaliação. O [[../NPCs/Instrutor|avaliador Prata]] tenta tirar os PJs da área instável, mas o [[../NPCs/O Predador|Predador]] aparece, mata ou incapacita o avaliador e força o grupo até a [[../Locais/Fenda do Tremor|Fenda do Tremor]]. A única saída viável é atravessar o portal antigo. Do outro lado, eles caem em um corredor que conduz ao [[../Locais/Level 1|Level 1]].
+A prova deixa de ser uma avaliação. O [[../NPCs/Instrutor|avaliador Prata]] tenta tirar os PJs da área instável, mas o [[../NPCs/O Predador|Predador]] aparece, mata ou incapacita o avaliador e força o grupo até a [[../Locais/Fenda do Tremor|Fenda do Tremor]]. A única saída viável é atravessar o portal antigo. Do outro lado, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
 
 ## Objetivos da sessão
 
 - Revelar que a situação saiu do controle da guilda.
 - Fazer a morte do avaliador virar perda real, não só informação.
 - Transformar o portal em escolha sob pressão.
-- Encerrar com os PJs vivos, no corredor pós-portal, diante da marca **LEVEL 1**.
+- Encerrar com os PJs vivos no meio de um **campo avançado orc**, sem mapa e sem retorno.
 
 ## Estrutura
 
@@ -19,18 +19,18 @@ A prova deixa de ser uma avaliação. O [[../NPCs/Instrutor|avaliador Prata]] te
 | 2 | Ataque do Predador | Avaliador cai; PJs entendem que não é combate justo |
 | 3 | Corrida até a fenda | Perseguição curta, recursos e ordem importam |
 | 4 | Portal em colapso | Cada PJ atravessa sob pressão |
-| 5 | Corredor pós-portal | Chegada ao [[../Locais/Level 1|Level 1]] |
+| 5 | Fundo do poço | Chegada ao [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] |
 
 ## Cena final para narrar
 
 > O último de vocês atravessa quando o portal já está quase transparente. Por um instante, ainda dá para ver a silhueta do Predador do outro lado, grande demais para o corredor, as garras abrindo sulcos na pedra. Então a luz dobra para dentro e desaparece.
 >
-> A queda não é uma queda só. É luz fria, raiz, ruína, poeira, impacto.
+> A queda não é curta. É luz fria, vento seco, poeira no olho e o estômago subindo antes do impacto.
 >
-> Quando vocês voltam a respirar, estão deitados em um corredor inclinado. A parede atrás de vocês é lisa. À frente, a passagem desce em curva suave. Gravado na pedra, gasto pelo tempo mas ainda legível, está escrito: **LEVEL 1**.
+> Vocês batem em pedra áspera. Acima, um poço aberto sobe até virar teto de rocha e fumaça. Ao redor, estacas, sacos de areia, couro esticado e estandartes com marcas de ferro vermelho. Orcs viram a cabeça. Um tambor para no meio do compasso. Alguém grita em orc: **"Do poço! Armas!"**
 
 ## Encerramento
 
 Milestone: os PJs chegam ao **nível 6** ao fim da sessão, depois da travessia.
 
-Gancho para a próxima sessão: o corredor leva ao primeiro nível real da dungeon, e o mapa da guilda não serve mais.
+Gancho para a próxima sessão: sobreviver à chegada, entender que estão numa guerra, e encontrar uma rota para **subir**.

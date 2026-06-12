@@ -10,8 +10,8 @@ status: blocked:image-tool-error
 
 | Arquivo sugerido | Uso | Status |
 |---|---|---|
-| `rita-dente-de-bronze.webp` | páginas 002-006, 012, 015 | pendente; reusar cap. 12 quando disponível |
-| `maga-quartel-sul.webp` | Capa, páginas 007-010 | pendente |
+| `rita-dente-de-bronze-eq-revolta.png` | páginas 002-006, 012, 015 | aprovada bloco D jun/2026 v3 |
+| `maga-quartel-sul.png` | Capa, páginas 007-010 | aprovada bloco D jun/2026 v3 |
 
 ## Usar refs existentes
 - `Referencias/pcs/tony-eq-inicial.png`

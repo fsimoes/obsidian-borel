@@ -16,9 +16,7 @@ target_pages: 18
 
 - PCs: Tony, Nightwolf, Dustin, Kaelion, Bartrock, Borin, Trash.
 - Refs: `Referencias/pcs/tony-eq-inicial.png`, `nightwolf-eq-inicial.png`, `dustin-eq-inicial.png`, `kaelion-eq-inicial.png`, `bartrock-normal-eq-inicial.png`, `borin-eq-inicial.png`, `trash-eq-inicial.png`, `borin-trash-eq-inicial.png`.
-- Inimigos: criar refs se possivel:
-  - `refs/goblins-cla-estrada.webp`
-  - `refs/ogro-great-club.webp`
+- Inimigos: `refs/goblins-cla-estrada.png`, `refs/ogro-great-club.png` — aprovados bloco B jun/2026 v3.
 - Ambiente: `Referencias/Cenas/random/20250506_*` tem cenas de apoio de estrada/taverna/Elriste, mas nao substitui `panels.md`.
 
 ## Status de geracao

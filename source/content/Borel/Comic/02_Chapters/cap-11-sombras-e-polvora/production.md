@@ -1,4 +1,4 @@
----
+﻿---
 title: "Production - Cap. 11"
 type: comic-production
 status: docs-ready
@@ -13,12 +13,13 @@ target_pages: 17
 
 ## Fila de imagem
 
-1. [ ] Gerar ref/model sheet de Ivan em `refs/ivan-guarda.webp`.
-2. [ ] Gerar ref do Golem Guardião em `refs/golem-guardiao.webp`, se não reutilizar referência aprovada de `Referencias/Cenas/random/20250603_1550...` ou `20250603_1600...`.
-3. [ ] Gerar capa `pages/000-cover.webp`.
-4. [ ] Gerar páginas `pages/001.webp` a `pages/017.webp`.
-5. [ ] Revisar contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.
-6. [ ] Regenerar páginas com texto em inglês, mapa legível errado, golem moderno, Ivan nobre demais ou falas fora de `dialogues.md`.
+1. [x] `refs/ivan-guarda.png` — aprovada bloco D jun/2026 v3.
+2. [x] `refs/golem-guardiao.png` — aprovada bloco D jun/2026 v3.
+3. [x] `refs/puzzle-arcano-sala.png` — aprovada bloco E jun/2026 v3.
+4. [ ] Gerar capa `pages/000-cover.webp`.
+5. [ ] Gerar páginas `pages/001.webp` a `pages/017.webp`.
+6. [ ] Revisar contra `panels.md`, `dialogues.md`, `characters.md`, `npc-sheets.md` e `enemy-concepts.md`.
+7. [ ] Regenerar páginas com texto em inglês, mapa legível errado, golem moderno, Ivan nobre demais ou falas fora de `dialogues.md`.
 
 ## Refs obrigatorias
 

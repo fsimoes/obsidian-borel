@@ -10,7 +10,7 @@ tags:
 
 **Índice mestre:** [[00_Caracteristicas_Visuais|Características visuais]] · **Prompts ChatGPT:** [[01_Prompts_Retratos_ChatGPT|copiar tudo]] · **Loot / armadura:** [[00_Equipamento_Evolucao|evolução de equipamento]]
 
-Cada ficha tem traços **LOCKED** (inglês) + checklist de aprovação da mesa. Retratos em `Referencias/` vêm **depois** da aprovação.
+Cada ficha tem traços **LOCKED** (inglês). **Refs v3:** 13/13 aprovados jun/2026 — [[../../Referencias/pcs/README|pcs/README]].
 
 **Arquivos:** `PC_<nome>.md` (jogadores) · `NPC_<nome>.md` (NPCs com ficha dedicada) · resumos em [[NPCs_Tier_A]].
 

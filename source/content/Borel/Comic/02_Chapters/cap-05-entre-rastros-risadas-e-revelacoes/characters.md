@@ -26,7 +26,7 @@ status: preimage-approved
 |---|---|---|---|---|---|---|---|
 | Amagard / Emmergard | Ajuda a levar Nightwolf ao templo; ponte de confianca | Sessoes cap. 5; Transcricoes 0:18-0:20, 1:00, 1:13, 1:53; correcao canon do usuario em 2026-06-04 | Guerreira loira de aparencia germanica/alema, forte, compacta, roupa pratica de viajante/mercenaria | Franca, casada, amigavel mas nao ingenua | `refs/emmergard-eq-inicial.png` | Sim, ref local atualizada | Manter menos glamour/pin-up; corpo forte e arredondado; cabelo loiro obrigatorio |
 | Sacerdote de Chantaner | Conduz ritual de memoria | Sessoes cap. 5; Transcricoes 1:41-1:54 | Homem idoso, vestes simples verde/cinza, maos molhadas de fonte | Solene, cansado apos ritual | Nenhuma | Sim, prompt textual basta | Tier B; pode reaparecer |
-| Chantaner (entidade/estatua) | Presenca divina, entrega simbolica da maca | Sessoes cap. 5; Transcricoes 1:41-1:53 | Estatua feminina encapuzada com fonte; manifestacao por luz verde e maca | Misteriosa, benevolente, severa | Nenhuma | Conceito textual | Nao personificar demais; usar estatua e luz |
+| Chantaner (entidade/estatua) | Presenca divina, entrega simbolica da maçã | Sessoes cap. 5; Transcricoes 1:41-1:53 | Estatua feminina encapuzada com fonte; manifestacao por luz verde e maçã | Misteriosa, benevolente, severa | Nenhuma | Conceito textual | Nao personificar demais; usar estatua e luz |
 
 ## NPCs Neutros
 

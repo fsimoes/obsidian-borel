@@ -25,4 +25,4 @@ Avoid: photorealistic, hyper-detailed oil painting, dark muddy palette, grim cin
 ```
 
 
-Salvar resultado aprovado em `Referencias/style/cap-v3-humor-piloto.png`.
+**Status:** aprovado jun/2026 → `Referencias/style/cap-v3-humor-piloto.png` (anexar em toda geração junto com dustin-traidor e gola).

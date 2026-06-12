@@ -206,41 +206,43 @@ Constructos, autômatos e servos de manutenção que ainda seguem protocolos ant
 
 ---
 
-## Andar 4 — Cristais e magia instável
+## Andar 4 — Campo de guerra orc e ogro
 
-![[../Mapas/Concepts/andar-04-cristais-magia.png]]
+![[../Mapas/Concepts/andar-04-guerra-orcs-ogros.png]]
 
-### Facções: Nothics do Vidro e Guardiões Prismáticos
+### Facções: Clã da Marca Férrea e Ogros da Trincheira
 
-Este andar negocia em segredos. Cristais repetem vozes, distorcem magia e preservam verdades que não deveriam sobreviver.
+Este andar é uma frente de batalha. Trincheiras, barricadas de osso, estandartes rasgados e fogueiras de guerra dividem o espaço entre bandos orcs organizados e ogros famintos que esmagam tudo na passagem.
 
-**Monstros típicos:** nothics, spectators, mephits, gricks, galeb duhr menores, shadows cristalinas, elementais menores.
+**Entrada canônica (S3):** o portal da [[../Locais/Fenda do Tremor|Fenda do Tremor]] teletransporta os PJs para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] — linha de frente do Clã da Marca Férrea.
 
-**Boss opcional:** Oráculo de Cristal, um spectator mutado ou elemental prismático.
+**Monstros típicos:** orcs, half-ogres, ogres, bugbears, worgs, goblins subordinados, chamanes orcs, berserkers, ettins mercenários.
 
-### Nothics do Vidro
+**Boss opcional:** Chefe de Guerra Orc ou Tyran da Trincheira, cada um controlando uma rampa importante de subida.
 
-Coletores de segredo que espionam todos os viajantes.
+### Clã da Marca Férrea
 
-- Querem memórias, nomes verdadeiros e culpa.
-- Trocam informação por confissão.
-- Sabem pistas sobre o avaliador e a guilda.
+Orcs em bandos disciplinados que tratam a subida como conquista.
 
-### Guardiões Prismáticos
+- Querem controlar rotas, suprimentos e prisioneiros.
+- Usam tambores de guerra, emboscadas e cerco coordenado.
+- Podem contratar os PJs como mercenários contra os ogros.
 
-Elementais e criaturas cristalinas que protegem focos de energia.
+### Ogros da Trincheira
 
-- Querem impedir uso irresponsável da magia instável.
-- Atacam quem quebra cristais ou lança magia agressiva.
-- Podem purificar uma relíquia, mas exigem prova de contenção.
+Ogros brutais que avançam por fome e força.
+
+- Querem comida, carne fresca e o fim dos acampamentos orcs.
+- Preferem investida frontal, arremesso de pedras e demolição de barricadas.
+- Podem deixar os PJs passarem se trouxerem presa, cabeças orcs ou distração útil.
 
 **Política do andar:**
 
-- Nothics querem explorar os cristais; Guardiões querem preservar.
-- PJs podem revelar segredo, roubar energia, purificar item ou negociar passagem.
-- O boss local pode responder perguntas, mas cobra algo íntimo.
+- A guerra nunca para de verdade; só muda de quadrante.
+- PJs podem atravessar terra de ninguém, aliar-se a um lado, provocar batalha como distração ou negociar corredor seguro.
+- Derrotar um chefe abre uma rota, mas pode fortalecer o lado rival.
 
-**O que oferecem:** revelações, atalhos por refração, recarga de item, pistas do Predador.
+**O que oferecem:** passagem protegida, guias de trincheira, saque de guerra, armas improvisadas, informação sobre rotas bloqueadas e movimento do Predador.
 
 ---
 

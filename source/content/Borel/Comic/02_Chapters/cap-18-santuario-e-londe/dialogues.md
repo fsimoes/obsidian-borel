@@ -33,8 +33,8 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D021 | Bartrock | "Tentei, mano" | sessao 18_bloco01.txt @ 0:01:15 | canon |
 | D022 | Tony | "É, justo." | sessao 18_bloco01.txt @ 0:01:25 | canon |
 | D023 | Tony | "E né, na 13, daí você bota outra nele, e ele faz isso, e usa essa rotulena, nossa." | sessao 18_bloco01.txt @ 0:01:30 | canon |
-| D024 | Tony | "Ichi a g дисothermatizado." | sessao 18_bloco01.txt @ 0:01:41 | canon |
-| D025 | Tony | "A Matr awake?" | sessao 18_bloco01.txt @ 0:01:46 | canon |
+| D024 | Tony | — | sessao 18_bloco01.txt @ 0:01:41 | asr-removed |
+| D025 | Tony | — | sessao 18_bloco01.txt @ 0:01:46 | asr-removed |
 | D026 | Tony | "Tarou pra um lugar." | sessao 18_bloco01.txt @ 0:01:48 | canon |
 | D027 | Tony | "A Alá-" | sessao 18_bloco01.txt @ 0:01:52 | canon |
 | D028 | Tony | "Uns vídeos do Capitão." | sessao 18_bloco01.txt @ 0:01:55 | canon |
@@ -44,7 +44,7 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D032 | Tony | "É como eu coloco?" | sessao 18_bloco01.txt @ 0:02:58 | canon |
 | D033 | Tony | "Cover." | sessao 18_bloco01.txt @ 0:03:15 | canon |
 | D034 | Tony | "Legal, porque assim, qual o nome?" | sessao 18_bloco01.txt @ 0:03:20 | canon |
-| D035 | Nightwolf | "e tudo por o sangue" | sessao 18_bloco01.txt @ 0:03:29 | canon |
+| D035 | Nightwolf | "É tudo puro sangue, filho." | sessao 18_bloco01.txt @ 0:03:29 | canon |
 | D036 | Tony | "O nome, eu repartilhei o nome do meu cavalo." | sessao 18_bloco01.txt @ 0:03:30 | canon |
 | D037 | Tony | "Vou revelar agora, pode ser?" | sessao 18_bloco01.txt @ 0:03:58 | canon |
 | D038 | Tony | "O nome do meu cavalo é..." | sessao 18_bloco01.txt @ 0:04:05 | canon |
@@ -56,9 +56,9 @@ Falas curtas para balões. Fontes: `Sessoes/` (citações e momentos-chave) + `T
 | D044 | Tony | "Ah, não." | sessao 18_bloco01.txt @ 0:04:28 | canon |
 | D045 | Nightwolf | "Relaxa que o Luiz é do Brejo." | sessao 18_bloco01.txt @ 0:04:29 | canon |
 | D046 | Tony | "Pô, é, é..." | sessao 18_bloco01.txt @ 0:04:31 | canon |
-| D047 | Tony | "Ah tá bom aí E Whereas" | sessao 18_bloco01.txt @ 0:04:38 | canon |
-| D048 | Tony | "Tá bom relationship." | sessao 18_bloco01.txt @ 0:04:41 | canon |
-| D049 | Tony | "how to love you" | sessao 18_bloco01.txt @ 0:04:54 | canon |
+| D047 | Tony | — | sessao 18_bloco01.txt @ 0:04:38 | asr-removed |
+| D048 | Tony | — | sessao 18_bloco01.txt @ 0:04:41 | asr-removed |
+| D049 | Tony | — | sessao 18_bloco01.txt @ 0:04:54 | asr-removed |
 | D050 | Tony | "Lá vem." | sessao 18_bloco01.txt @ 0:04:58 | canon |
 | D051 | Tony | "Todos os preparativos foram feitos." | sessao 18_bloco01.txt @ 0:06:13 | canon |
 | D052 | Tony | "Luiz, só para você saber, quando a gente fala assim," | sessao 18_bloco01.txt @ 0:06:18 | canon |
