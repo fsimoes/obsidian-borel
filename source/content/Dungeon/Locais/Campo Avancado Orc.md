@@ -14,6 +14,8 @@ Zona **PV-01** no [[Mapa Mestre do Complexo]]. Bioma do andar: [[../NPCs/Faccoes
 
 A guilda não sabia que o portal da fenda ligava a um poço de guerra tão abaixo do stratum. O [[Stratum Novato]] foi certificado como área isolada porque ninguém mapeou a conexão real com o complexo profundo — muito menos com um acampamento orc em plena ofensiva.
 
+Em segredo de DM, o Andar 4 é um setor de **mobilização** da [[../Plots/Torre Pre-Invasao|Torre Pré-Invasão]]. A guerra entre orcs e ogros não é só disputa territorial: é um ciclo de teste, seleção e reposição de tropas para a primeira onda de ataque.
+
 Para os PJs, a pergunta deixa de ser "para onde fomos?" e vira "como saímos vivos da linha de frente?".
 
 ## Travessia do portal
@@ -49,6 +51,54 @@ Para os PJs, a pergunta deixa de ser "para onde fomos?" e vira "como saímos viv
 | Magia barulhenta | Alerta total | Inicia combate ou faz ogros mirarem o acampamento |
 
 ## Consequências principais
+
+### Ciclo de renascimento
+
+Ao fim de cada dia, ou quando o ciclo de guerra é encerrado pelos tambores do andar, **todos os mortos do Andar 4 renascem**.
+
+Não é milagre, cura divina nem ressurreição benevolente. É reposição militar. A torre recolhe os mortos, reconstrói corpos e devolve soldados às suas zonas de origem para que a guerra continue no dia seguinte.
+
+| Morto | Onde renasce |
+|-------|--------------|
+| Orcs da Marca Férrea | Barracas, fossos de triagem ou trincheiras do clã |
+| Ogros da Trincheira | Valas de lama, carne e ossos no lado ogro |
+| Conscritos | Trincheira da Legião dos Conscritos |
+| PJs mortos | Poço de chegada, mesa de triagem ou trincheira de registro |
+
+Os nativos do andar já pertencem ao ciclo. Os PJs renascem porque a torre tenta registrá-los como **material de guerra**.
+
+#### Marca da Mobilização
+
+Quando um PJ morre no Andar 4 e renasce no ciclo, ele retorna vivo, mas marcado.
+
+Use consequências leves, acumulativas e narrativas:
+
+- **1ª morte:** uma marca escura surge no pulso, pescoço ou peito; goblins contadores reconhecem o PJ como "registrado".
+- **2ª morte:** o PJ acorda ouvindo ordens militares em sonho ou em sussurros distantes.
+- **3ª morte:** a torre sabe melhor onde ele está; o Predador ou patrulhas conseguem rastreá-lo com mais facilidade.
+- **4ª morte:** em momentos de tambor, marcha ou formação, o PJ precisa resistir à sensação de obedecer ao ciclo.
+
+Regra simples de mesa: cada renascimento pode impor 1 nível de exhaustion até o próximo descanso longo seguro, ou apenas uma consequência narrativa se o grupo já estiver sob pressão alta. Não use o ciclo para humilhar ou prender jogador sem saída; use para mostrar que morrer aqui **não liberta**, prende.
+
+#### Cena de renascimento
+
+> Você abre os olhos com gosto de ferro na boca. Não está no céu, nem no escuro. Está deitado em pedra fria, perto do poço por onde caiu. No seu pulso há uma marca nova, como tinta queimada sob a pele. Ao longe, os tambores começam de novo. Um goblin contador olha para você, risca algo numa tábua e diz: "Mais um registrado."
+
+#### O que os veteranos sabem
+
+- "Amanhã eles levantam. Sempre levantam. Mas cada vez levantam menos eles mesmos."
+- Varkash sabe que a promessa de liberdade é incompleta: sair da legião não significa escapar do ciclo se a torre já registrou a criatura.
+- Alguns conscritos se mataram para fugir da guerra e acordaram no mesmo lugar.
+- Os ogros voltam mais famintos, deformados ou instáveis a cada ciclo.
+- Se os PJs quebrarem o mecanismo de renascimento, a guerra passa a ser real: mortos deixam de voltar, o pânico se espalha e a torre perde dados importantes.
+
+#### Dilema do andar
+
+O objetivo não é só sobreviver à guerra ou alcançar a rampa de subida.
+
+O dilema real é:
+
+> Vocês vão usar a guerra eterna para subir, ou tentar quebrar o ciclo antes que a torre registre vocês de vez?
 
 ### Perder a luta → conscritos
 
@@ -126,6 +176,7 @@ Use estes NPCs para **briefing in-world** sem monólogo do mestre:
 |--------|----------------|
 | A guerra | Orcs do Clã da Marca Férrea querem a rampa de subida; ogros querem comida e o fim do acampamento |
 | O andar | Isto é o **Andar 4** — campo de guerra; não há saída lateral segura |
+| O ciclo | Ao fim do dia, os mortos levantam de novo; quem volta muitas vezes fica menos livre |
 | Conscritos | Primeira fileira da investida; quem sobrevive duas ondas vira "útil" e pode ser remanejado |
 | Liberdade | Varkash promete libertar quem obedecer **após a guerra**; veteranos duvidam se ele cumpre |
 | Subida | **Acima** ficam túneis mais estreitos (Andar 3) e camadas antigas; **abaixo** só piora |

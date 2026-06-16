@@ -38,6 +38,7 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 ## Tramas
 
 - [[Plots/Primeiro Dive]] — visão geral, regras, milestones, morte de PJ
+- [[Plots/Torre Pre-Invasao]] — lore macro: base pré-invasão, mago mestre, portal maior e função dos andares
 - [[Plots/Quests dos Andares]] — quest principal de cada andar (gancho na entrada)
 
 ## Locais
@@ -73,7 +74,8 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 - Exame de Bronze vs realidade
 - Mapa incompleto vs verdade do complexo
 - Avaliação interrompida por catástrofe
-- Pirâmide invertida — andares maiores e mais selvagens no fundo
+- Torre pré-invasão — a dungeon é uma base de ataque ancorada no mundo
+- Portal instável — efeito colateral do experimento para abrir o portal maior
 - Bosses locais opcionais, nunca chaves obrigatórias
 - Facções de monstros em conflito a partir dos andares médios
 - Predação — **o mesmo monstro do início**
@@ -83,7 +85,8 @@ Detalhes: [[Plots/Primeiro Dive#Calendário das 10 sessões]].
 
 - O que é o Predador e por que marcou **esta** turma?
 - Quantos andares eles caíram?
-- A guilda sabia que a prova ficava sobre algo muito maior?
+- A guilda sabia que a prova ficava sobre uma base pré-invasão?
+- Quem está tentando abrir o portal maior?
 - Qual rota sobe de volta para a superfície? (o DM conhece as saídas no [[Locais/Mapa Mestre do Complexo]])
 
 ## Cronologia

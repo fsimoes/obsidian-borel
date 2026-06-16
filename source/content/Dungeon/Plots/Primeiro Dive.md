@@ -150,10 +150,12 @@ Detalhes: [[../NPCs/O Predador]]. **Mesma criatura** na S3 e boss S10.
 ## Segredos de DM
 
 - O exame de Bronze era real, mas limitado: avaliar aventureiros registrados no stratum, não jogá-los no complexo inteiro.
-- A guilda não sabia da dungeon abaixo. Ela certificou o Stratum Novato como área isolada porque seus mapas, vistorias e tradição nunca revelaram o que o portal ligava às profundezas — muito menos um campo de guerra orc.
-- Stratum novato: **camada de treino** sobre ruínas antigas.
+- A guilda não sabia da verdade abaixo. Ela certificou o Stratum Novato como área isolada porque seus mapas, vistorias e tradição nunca revelaram que o local era a casca superior de uma **base pré-invasão**.
+- Stratum novato: **camada de treino** construída sobre uma instalação militar/arcana preparada para abrir caminho ao mundo da superfície.
+- O portal da fenda não é o portal principal. Ele é um **efeito colateral** do experimento do mago mestre para abrir o portal maior.
+- Cada andar prepara uma parte da invasão: âncora, mutação, sustento, reserva morta, ocupação, logística, mobilização, contenção, reconhecimento e ruptura.
 - Saída A fica acima deles após o portal; vitória = encontrar uma rota de subida até uma saída real.
-- Profundezas: aberração / civilização perdida / dungeon vivo (TBD lore).
+- Profundezas: não são naturais; são setores de preparação para a invasão. Detalhes: [[Torre Pre-Invasao]].
 - **Predador** marcou a turma (tremor, selo, cheiro) — TBD motivação.
 - **Canônico:** a criatura que mata o avaliador é o boss final.
 

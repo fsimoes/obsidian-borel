@@ -24,6 +24,21 @@ Os PJs podem ter caído até perto do andar 10, mas não sabem disso de imediato
 
 Cada quadrante é um mapa jogável. Detalhes: [[../Mapas/Estrutura de Quadrantes]].
 
+Lore macro: [[../Plots/Torre Pre-Invasao]]. Em segredo, os biomas abaixo não são naturais: cada andar funciona como um setor de preparação para uma invasão maior.
+
+| Andar | Função secreta |
+|-------|----------------|
+| 10 | Fundação / Âncora |
+| 9 | Mutação |
+| 8 | Sustento |
+| 7 | Reserva Morta |
+| 6 | Ocupação |
+| 5 | Logística |
+| 4 | Mobilização |
+| 3 | Contenção |
+| 2 | Reconhecimento |
+| 1 | Ruptura |
+
 | Andar | Tamanho | Grade | Bioma / identidade | Boss local | Facções | Referência visual |
 |-------|---------|-------|--------------------|------------|---------|-------------------|
 | 10 | Imenso | 5 × 4 | Deserto de obsidiana / catedrais de basalto | Opcional; colosso mineral ou criatura abissal seca | Nenhuma ou presença fragmentada | ![[../Mapas/Concepts/andar-10-deserto-obsidiana.png\|120]] |

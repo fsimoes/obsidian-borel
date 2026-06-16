@@ -5,7 +5,7 @@ tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-02
-status: docs-ready
+status: ready
 ---
 
 # Produção — Cap. 2
@@ -56,4 +56,20 @@ Não apagar o Livro — marcar `fidelity: mesa` no capítulo. Ajustar Livro numa
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte v2 (2026-06-12, Cursor GenerateImage)
+
+## Regeneração 2026-06-12 (2ª rodada)
+
+- **Gerador:** Cursor GenerateImage com refs `refs/01–10`
+- **Regens:** P003, P004, P006, P008, P009, P010 (+ P007 na 1ª rodada)
+- **Publicado:** `quartz/static/comic/cap-02-sessao-02/` · build OK
+
+| Pág. | Review |
+|------|--------|
+| 001–002, 005, 007 | OK (mantidas) |
+| 003 | OK (regen) — Nightwolf drow cabelo preto |
+| 004 | OK (regen) — noite + trio correto no porão |
+| 006 | OK (regen) — cabana, Tony com a fala |
+| 008 | OK (regen) — Bart loiro; extra «Vai arder.» |
+| 009 | OK (regen) — Bart loiro, morte clara |
+| 010 | Atenção — cama ambígua (sono vs morte) |

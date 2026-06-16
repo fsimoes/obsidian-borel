@@ -39,4 +39,15 @@ Ver [[panels#Regra de elenco|elenco por página]] — uma página = um foco dram
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte v2 (`images-pending-regen`) — 2026-06-16, Cursor GenerateImage
+
+## Regeneração 2026-06-16
+
+- **Gerador:** Cursor GenerateImage + refs `refs/` (14 PNGs)
+- **Regens:** P019, P020 (fala atribuída ao personagem errado na 1ª versão)
+- **Publicado:** `quartz/static/comic/cap-03-sessao-03/` · build OK
+
+- `dialogues.md` — OK, sem alterações ortográficas necessárias.
+- `prompt-all-pages.md` — **corrompido** (páginas 000 duplicadas); usar `rascunho.md` + `dialogues.md` + `prompt-regenerate-016-020.md`.
+- `refs/` — 14 PNGs copiados (estilo + PCs + NPCs do cap). Morgana sem ref dedicada — figurante genérico.
+- Próximo: gerar `pages/001.png`–`020.png` (Borel v2), revisão visual, publicar.
