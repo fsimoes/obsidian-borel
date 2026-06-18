@@ -1,33 +1,38 @@
 ---
-title: "Pages - Cap. 4 - Noite na Cidade"
+title: "Páginas - Cap. 4"
 type: comic
 tags:
   - rpg/borel
   - tipo/comic
   - comic/cap-04
 status: ready
+exported: "2026-06-18"
+regenerated: "2026-06-18"
+generator: "Cursor GenerateImage (Borel v2 + refs)"
 target_pages: 16
 ---
 
-# Pages - Cap. 4
+# Páginas — Cap. 4 (webcomic v2)
 
-Pasta reservada para as páginas finais:
+| Pág. | Cena | Review |
+|------|------|--------|
+| 001 | Rescaldo — missão de pé | OK |
+| 002 | Emmergard — bebe e joga? | OK — loira, não ruiva |
+| 003 | Mercado — escudo | OK |
+| 004 | Katana de Kaelion | OK |
+| 005 | Plano da carroça | OK |
+| 006 | Casa de Lucian — vigia | OK |
+| 007 | Telhados — AUUU | OK — Nightwolf drow |
+| 008 | Perseguição lupina | OK — criatura ≠ Nightwolf |
+| 009 | Queda — CRACK/GRRR | OK |
+| 010 | Flecha em chamas | OK |
+| 011 | Tony deixa a carroça | OK |
+| 012 | Combate + luz roxa | OK |
+| 013 | Memórias embaralhadas | OK |
+| 014 | Despertar no beco | OK (regen) — Dustin humano, sem halfling |
+| 015 | Retorno à carroça | OK |
+| 016 | Detect Magic — aura roxa | OK — gancho final |
 
-- `001.webp`
-- `002.webp`
-- `003.webp`
-- `004.webp`
-- `005.webp`
-- `006.webp`
-- `007.webp`
-- `008.webp`
-- `009.webp`
-- `010.webp`
-- `011.webp`
-- `012.webp`
-- `013.webp`
-- `014.webp`
-- `015.webp`
-- `016.webp`
+**Regens 2026-06-18:** P014 (halfling/cachecol teal na 1ª versão).
 
-Status atual: páginas finais geradas e salvas em WebP. A revisão pós-imagem aprovou a narrativa e a sequência; a perda de diacríticos na página 05 foi aceita como ajuste leve.
+**Site:** `source/quartz/static/comic/cap-04-sessao-04/` · `chapters.json` → `ready`

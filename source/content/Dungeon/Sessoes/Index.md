@@ -10,4 +10,4 @@
 
 ## Proximas
 
-- Capitulo 4: sobreviver à guerra no Andar 4 e encontrar o primeiro refugio na subida.
+- Capitulo 4: sobreviver à guerra cíclica no Andar 4, descobrir que os mortos renascem e encontrar o primeiro caminho de subida.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borel/Comic/02_Chapters/cap-21-traicao-de-cerberus/characters.md",
+                "file": "Dungeon/Locais/Stratum Novato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "characters"
+              "title": "Stratum Novato"
             }
           }
         ],
@@ -184,19 +184,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d5864ecbdf3526",
+  "active": "643220a9d8fd77b2",
   "lastOpenFiles": [
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/trapaceiro-dados-enguia-roxa.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/tony-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/nightwolf-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/lucian-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/kaelion-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/jonas-guarda-rilonde.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/figurantes-rilonde-guardas-trabalhadores.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/dustin-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/bartrock-normal-eq-inicial.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/Alberto.png",
-    "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/pages/020.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/018.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/017.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/016.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/015.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/014.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/013.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/012.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/011.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/010.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/009.png",
+    "Borel/Comic/02_Chapters/cap-10-sombras-no-cais/pages/008.png",
+    "Dungeon/Locais/Mapa Mestre do Complexo.md",
+    "Dungeon/Locais/Level 1.md",
+    "Borel/Comic/02_Chapters/cap-21-traicao-de-cerberus/characters.md",
     "Borel/Comic/02_Chapters/_loop-state.md",
     "Dungeon/Plots/Torre Pre-Invasao.md",
     "Borel/Comic/02_Chapters/cap-01-negociacoes-frustradas/prompts.md",
@@ -220,9 +223,6 @@
     "Dungeon/Plots/Quests dos Andares.md",
     "Borel/Comic/02_Chapters/cap-03-entre-dados-e-desconfiancas/refs/README.md",
     "Borel/Comic/02_Chapters/cap-00-elenco/panels.md",
-    "Dungeon/NPCs/Tokens dos Monstros.md",
-    "Dungeon/NPCs/Tokens dos Aliados.md",
-    "Dungeon/NPCs/O Predador.md",
     "Borel/Comic/02_Chapters/cap-15-sombras-e-fugas/panels.md.restored",
     "Borel/Comic/02_Chapters/cap-14-o-cerco-final/panels.md.restored",
     "Borel/Comic/02_Chapters/cap-13-o-fogo-da-revolta/panels.md.restored",

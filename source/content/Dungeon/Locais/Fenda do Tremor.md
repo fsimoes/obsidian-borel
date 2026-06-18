@@ -4,6 +4,8 @@
 
 Passagem aberta pelo **tremor** (fim da sessão 2): pilar antigo rachado, poeira, ar quente vindo de baixo. O mapa da guilda mostrava parede sólida em SN-07 — agora há uma câmara antiga que desce para as profundezas reais. No centro dela existe um **portal instável**, vertical, escuro como vidro queimado e riscado por luz fria.
 
+Em segredo de DM, este portal não é a passagem principal da invasão. Ele é um vazamento do experimento do mago mestre para abrir um portal maior ([[../Plots/Torre Pre-Invasao]]). A fenda acorda no momento errado, puxa os PJs para dentro do sistema de transporte da torre e os despeja no setor de mobilização do Andar 4.
+
 Durante a fuga do Predador, essa fenda não é apenas um acidente: ela vira uma escolha. Os PJs ficam encurralados entre o monstro e o portal. Eles podem atravessar sem saber para onde ele leva, ou tentar enfrentar a criatura ali.
 
 Zona **RP-*** no [[Mapa Mestre do Complexo]].
@@ -36,7 +38,7 @@ Momento da morte do avaliador:
 1. [[../NPCs/Instrutor|Avaliador Prata]] revela, direta ou indiretamente, que a descida era o **exame de Bronze** do grupo.
 2. Tremor rompe SN-07; o avaliador interrompe a prova e ordena recuo.
 3. **O Predador** emboscador — **surprise** — mata ou incapacita o avaliador à vista de todos.
-4. O grupo foge até a câmara da fenda e encontra o portal antigo desperto.
+4. O grupo foge até a câmara da fenda e encontra o portal instável desperto.
 5. O Predador bloqueia a rota de volta; pedras caem, a passagem estreita e a escolha fica clara: portal ou monstro.
 6. Enquanto eles tentam atravessar, o Predador continua atacando quem ainda está deste lado. Use golpes, garras na pedra, empurrões e ataques de oportunidade para deixar a fila perigosa.
 7. A cada PJ que atravessa, o portal fica mais transparente. Os últimos conseguem ver o Predador e a pedra rachada através dele, como se a passagem estivesse acabando.
@@ -63,9 +65,9 @@ Momento da morte do avaliador:
 
 ## Mistérios
 
-- O tremor foi causado pelo grupo, pelo Predador, pelo portal ou por algo mais profundo?
+- O tremor foi causado pelo grupo, pelo Predador, pelo portal maior ou por algo mais profundo?
 - O avaliador percebeu sinais de instabilidade sem entender o que havia abaixo?
-- Por que o portal joga os PJs no meio de uma guerra orc, e não em um corredor vazio?
+- Por que o portal joga os PJs no meio de uma guerra orc, e não em um corredor vazio? Resposta de DM provisória: porque o experimento estava movendo tropas, suprimentos, prisioneiros ou conscritos pelo setor de mobilização.
 
 ## Ligações
 

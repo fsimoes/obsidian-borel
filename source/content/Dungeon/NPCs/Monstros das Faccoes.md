@@ -291,11 +291,13 @@ Tokens para mapa/VTT: [[Tokens dos Monstros]].
 
 **Política:** conscritos existem para gastar a fúria ogro antes dos orcs de verdade entrarem. Para ele, os PJs são sorte ou lixo — depende do que fizerem no campo. Mantém a tropa na linha com a **promessa de liberdade após a guerra**.
 
+**Ciclo:** Varkash sabe que os mortos do Andar 4 voltam quando os tambores encerram o dia. Ele fala em sobrevivência e liberdade porque isso mantém a legião obediente, mas sabe que quem já foi registrado pela torre pode voltar marcado mesmo depois de "liberto".
+
 **Promessa oficial:**
 
 - Quem **sobreviver** e **obedecer** até o fim da guerra ganha liberdade: marca lavada, armas devolvidas, permissão para subir e sair do campo.
 - "Guerra acabada" = ogros recuarem da rampa leste ou Varkash declarar vitória.
-- Ele pode cumprir a palavra com sobreviventes úteis para manter os outros conscritos obedientes — ou adiar o fim da guerra indefinidamente.
+- Ele pode cumprir a palavra com sobreviventes úteis para manter os outros conscritos obedientes — ou adiar o fim da guerra indefinidamente. Mesmo quando cumpre, a liberdade não apaga marcas do ciclo.
 
 **Ordens típicas:**
 
@@ -330,6 +332,7 @@ Monstros presos na [[../Locais/Campo Avancado Orc#Legião dos Conscritos|Legião
 **O que sabe:**
 
 - Como funciona a legião: fileira da frente, fileira da morte, fileira dos que voltam cambaleando.
+- Como funciona o ciclo: no fim do dia, mortos voltam; alguns voltam com menos memória, menos vontade ou marcas novas.
 - Que a próxima investida começa quando os tambores mudam de ritmo (1d4 horas após chegada dos PJs).
 - Onde ficam as lanças menos podres (Investigation DC 12 ou Griba conta de graça se os PJs fingirem obediência).
 - Que a promessa de liberdade é repetida **toda semana**; já viu dois conscritos "libertos" voltarem marcados de novo no dia seguinte.
@@ -349,6 +352,7 @@ Monstros presos na [[../Locais/Campo Avancado Orc#Legião dos Conscritos|Legião
 **O que sabe:**
 
 - O mapa mental do Andar 4: acampamento orc, campo vazio, linha ogro, **rampa leste** (melhor subida).
+- Onde ficam os fossos de retorno: lugares para onde corpos reconstruídos reaparecem depois do ciclo.
 - Que os ogros atacam em ondas de fome, não de tática — há janelas para atravessar o campo.
 - Que "subir" passa por túneis estreitos (Andar 3) onde até orcs evitam ir em bando grande.
 - Que Varkash já redefiniu "fim da guerra" duas vezes neste mês — mas **pode** cumprir com quem provar valor real; orcs respeitam resultado.
@@ -368,6 +372,7 @@ Monstros presos na [[../Locais/Campo Avancado Orc#Legião dos Conscritos|Legião
 **O que sabe:**
 
 - O lado ogro por instinto: cheiro de cozinha, medo de tambores, onde os tyrans descansam.
+- Que os ogros voltam mais famintos e deformados a cada renascimento.
 - Pegadas grandes no campo — não são ogros; algo **caça entre as batalhas** (pista do Predador).
 - Uma galeria lateral no campo de batalha que leva para cima sem passar pelo acampamento (Perception DC 14 ou ele aponta se os PJs o soltarem).
 - Não acredita na promessa de liberdade — mas acha que Varkash **tem medo** de perder conscritos bons demais; isso é alavanca.

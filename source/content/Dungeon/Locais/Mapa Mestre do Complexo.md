@@ -1,6 +1,6 @@
 # Mapa Mestre do Complexo
 
-Fonte única da verdade topológica para a campanha **Primeiro Dive** (10 sessões, 7 PJs). O jogador só vê o subset documentado em [[Stratum Novato]] e briefing na [[Antecamara da Guilda]]. Após a fuga do Predador, o grupo fica encurralado entre a criatura e um portal antigo; ao atravessar, é **teletransportado** para o fundo de um poço no [[Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), sem saber a profundidade real. A estrutura da campanha passa a ser **subir** até uma saída real.
+Fonte única da verdade topológica para a campanha **Primeiro Dive** (10 sessões, 7 PJs). O jogador só vê o subset documentado em [[Stratum Novato]] e briefing na [[Antecamara da Guilda]]. Após a fuga do Predador, o grupo fica encurralado entre a criatura e um portal instável, efeito colateral do experimento para abrir o portal maior; ao atravessar, é **teletransportado** para o fundo de um poço no [[Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), sem saber a profundidade real. A estrutura da campanha passa a ser **subir** até uma saída real.
 
 ## Legenda
 

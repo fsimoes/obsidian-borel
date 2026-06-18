@@ -19,7 +19,7 @@
 
 ## Descrição geral
 
-Campanha dungeon crawl **fechada em 10 sessões**: sete aventureiros atrelados à guilda fazem a primeira descida oficial como grupo (nível 5), o **exame de Bronze** para receber a primeira licença plena de aventureiro. O avaliador é um aventureiro **Prata** de nível efetivo ~10, observando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|avaliador]]; na fuga, o grupo fica encurralado entre a criatura e um portal antigo instável. A decisão brutal é imediata: atravessar o portal sem saber para onde ele leva, ou enfrentar o monstro ali. Se atravessarem, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), no meio de uma linha de frente orc, sem saber a profundidade real. A saga vira uma subida pelas camadas da dungeon até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
+Campanha dungeon crawl **fechada em 10 sessões**: sete aventureiros atrelados à guilda fazem a primeira descida oficial como grupo (nível 5), o **exame de Bronze** para receber a primeira licença plena de aventureiro. O avaliador é um aventureiro **Prata** de nível efetivo ~10, observando conduta, disciplina, leitura de risco e sobrevivência em equipe. O stratum novato parece seguro, mas foi construído sobre um complexo muito maior; em segredo, esse complexo é uma [[Torre Pre-Invasao|base pré-invasão]] ancorada no mundo. Um **tremor** abre a [[../Locais/Fenda do Tremor|ruptura]]; o [[../NPCs/O Predador|Predador]] mata o [[../NPCs/Instrutor|avaliador]]; na fuga, o grupo fica encurralado entre a criatura e um portal instável, efeito colateral do experimento para abrir o portal maior. A decisão brutal é imediata: atravessar o portal sem saber para onde ele leva, ou enfrentar o monstro ali. Se atravessarem, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] (Andar 4), no meio de uma linha de frente orc, sem saber a profundidade real. A saga vira uma subida pelos setores da torre até **alcançar a superfície** após derrotar o **mesmo** Predador na sessão 10.
 
 Tom: leve (S1–2) → brutal (S4+). O que era uma avaliação controlada vira sobrevivência real; a pergunta deixa de ser "vamos passar na prova?" e vira "quanto falta para subir?".
 
@@ -118,7 +118,7 @@ O ponto de virada é desorientação: ao acordarem, o mapa de prova não serve, 
 
 Detalhes: [[../NPCs/Instrutor]]. Morre na sessão 3; era o avaliador Prata do exame de Bronze e tinha razão sobre recuar.
 
-**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; o avaliador segura a criatura diante de um portal antigo; um ataque letal; o grupo precisa escolher entre atravessar o portal ou enfrentar o monstro enquanto a criatura continua atacando. A cada PJ que passa, o portal fica mais transparente; quando o último atravessa, ele se destrói. A travessia **teletransporta** todos para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
+**Cena-tipo (S3):** prova interrompida; Predador surge com **surprise**; o avaliador segura a criatura diante de um portal instável; um ataque letal; o grupo precisa escolher entre atravessar o portal ou enfrentar o monstro enquanto a criatura continua atacando. A cada PJ que passa, o portal fica mais transparente; quando o último atravessa, ele se destrói. A travessia **teletransporta** todos para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
 
 ---
 
@@ -189,6 +189,7 @@ Usar DMG encounter building + treasure tables; calibrar para limiares equivalent
 
 - PHB: death saves, stabilizar, corpos para *revivify* / *raise dead*.
 - Kit guilda (S1–2): pode incluir diamante 300 gp ou pergaminho — perdido após S3.
+- Exceção do Andar 4: mortos no [[../Locais/Campo Avancado Orc#Ciclo de renascimento|ciclo de renascimento]] podem voltar no fim do dia marcados pela torre; isso não substitui magia de ressurreição fora desse setor.
 - Facção PR-2: componentes raros.
 - **Não** reviver o avaliador.
 - Novo PJ: nível do grupo (DMG); ganchos: 2ª turma, sobrevivente, refugiado, rival, substituição burocrática.
@@ -214,7 +215,7 @@ Usar DMG encounter building + treasure tables; calibrar para limiares equivalent
 - 7 PJs, lvl 5→8; encontros DMG ×1.5–1.75.
 - Milestone (DMG 261) ou XP (PHB 15).
 - Descanso PHB 186.
-- Morte/res: PHB + componentes.
+- Morte/res: PHB + componentes; exceção local no ciclo do Andar 4.
 - Avaliador Prata: Veteran + classe (não concede níveis).
 - Boss: [[../NPCs/O Predador]] (MM).
 

@@ -2,7 +2,7 @@
 
 ## Descrição geral
 
-A boca oficial do complexo subterrâneo usado para **provas de descida** da guilda. Pedra lavrada, tochas permanentes, cheiro de óleo e couro. Para a guilda, este é um espaço certificado e limitado. Na verdade, sem que ninguém saiba, é só a pele de uma dungeon muito maior ([[Mapa Mestre do Complexo]]).
+A boca oficial do complexo subterrâneo usado para **provas de descida** da guilda. Pedra lavrada, tochas permanentes, cheiro de óleo e couro. Para a guilda, este é um espaço certificado e limitado. Na verdade, sem que ninguém saiba, é só a pele superior de uma base pré-invasão ancorada no mundo ([[Mapa Mestre do Complexo]], [[../Plots/Torre Pre-Invasao]]).
 
 ## Características físicas
 
@@ -32,7 +32,7 @@ Reabrir é possível apenas via condição no núcleo (NU-01) — backup narrati
 
 ## Mistérios
 
-- Como a guilda nunca percebeu que havia uma dungeon abaixo do stratum?
+- Como a guilda nunca percebeu que o stratum era a casca de uma base pré-invasão?
 - Quem trava o elevador após o tremor?
 
 ## Sessões

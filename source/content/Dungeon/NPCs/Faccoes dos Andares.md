@@ -1,6 +1,6 @@
 # Facções dos Andares
 
-Guia de facções, monstros e política para a pirâmide invertida. Cada andar tem uma facção dominante ou força territorial, mas os PJs nunca precisam derrotar o boss local para subir. A política de cada área deve criar escolhas: negociar, atravessar, sabotar, ajudar, pagar preço ou usar um conflito contra outro.
+Guia de facções, monstros e política para a pirâmide invertida. Em segredo de DM, cada andar também é um setor de preparação da [[../Plots/Torre Pre-Invasao|Torre Pré-Invasão]]. Cada andar tem uma facção dominante ou força territorial, mas os PJs nunca precisam derrotar o boss local para subir. A política de cada área deve criar escolhas: negociar, atravessar, sabotar, ajudar, pagar preço ou usar um conflito contra outro.
 
 Bestiário visual: [[Monstros das Faccoes]].
 
@@ -212,7 +212,9 @@ Constructos, autômatos e servos de manutenção que ainda seguem protocolos ant
 
 ### Facções: Clã da Marca Férrea e Ogros da Trincheira
 
-Este andar é uma frente de batalha. Trincheiras, barricadas de osso, estandartes rasgados e fogueiras de guerra dividem o espaço entre bandos orcs organizados e ogros famintos que esmagam tudo na passagem.
+Este andar é uma frente de batalha e, em segredo, um setor de **mobilização** da torre. Trincheiras, barricadas de osso, estandartes rasgados e fogueiras de guerra dividem o espaço entre bandos orcs organizados e ogros famintos que esmagam tudo na passagem.
+
+Ao fim de cada ciclo de guerra, os mortos renascem e retornam às zonas de origem. A guerra nunca acaba porque o andar usa morte como reposição, teste e registro de tropas. Detalhes: [[../Locais/Campo Avancado Orc#Ciclo de renascimento]].
 
 **Entrada canônica (S3):** o portal da [[../Locais/Fenda do Tremor|Fenda do Tremor]] teletransporta os PJs para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]] — linha de frente do Clã da Marca Férrea.
 
@@ -238,11 +240,12 @@ Ogros brutais que avançam por fome e força.
 
 **Política do andar:**
 
-- A guerra nunca para de verdade; só muda de quadrante.
+- A guerra nunca para de verdade; só muda de quadrante e reinicia após cada ciclo de renascimento.
 - PJs podem atravessar terra de ninguém, aliar-se a um lado, provocar batalha como distração ou negociar corredor seguro.
 - Derrotar um chefe abre uma rota, mas pode fortalecer o lado rival.
+- Quebrar o ciclo de renascimento transforma a guerra em morte real, espalha pânico e atrasa os preparativos da invasão.
 
-**O que oferecem:** passagem protegida, guias de trincheira, saque de guerra, armas improvisadas, informação sobre rotas bloqueadas e movimento do Predador.
+**O que oferecem:** passagem protegida, guias de trincheira, saque de guerra, armas improvisadas, informação sobre rotas bloqueadas, movimento do Predador e rumores sobre o ciclo.
 
 ---
 

@@ -44,4 +44,15 @@ Observacao lettering: priorizar fidelidade total aos dialogos na proxima passada
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 71897 #3
+
+## Revisão texto+refs (2026-06-18 — tick 71897 #3)
+
+- `dialogues.md` OK. Fonte: `script` + `dialogues`.
+- Refs: 14 PNGs (estilo + PCs + Rita + Letícia + Baronesa Helena + Elriste).
+
+## Publicação v2 (2026-06-18 — tick 71897 #3)
+
+- 16 PNG v2 gerados (`cap09-001`…`016`), copiados para `pages/` e `quartz/static/comic/cap-09-sessao-09/`.
+- `npm run comic:webp` + `npm run build:site` OK.
+- Capa `000-cover.webp` mantida.

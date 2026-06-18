@@ -56,4 +56,14 @@ Pre-producao, roteiro, paineis, falas e prompts prontos. Revisao pre-imagem apro
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte v2 (`images-pending-regen`) — 2026-06-18 tick loop 3h
+
+## Regeneração 2026-06-18 (tick loop)
+
+- **Gerador:** Cursor GenerateImage + refs (15 PNGs)
+- **Publicado:** `quartz/static/comic/cap-05-sessao-05/` · build OK
+- Capa `000-cover.webp` mantida da entrega anterior
+
+- `dialogues.md` — OK.
+- `prompt-all-pages.md` — OK (sem PAGE 000 duplicado).
+- `refs/` — refs globais copiadas + Celeste/Emmergard/criaturas locais.

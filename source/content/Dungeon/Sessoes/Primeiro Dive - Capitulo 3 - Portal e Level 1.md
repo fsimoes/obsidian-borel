@@ -2,7 +2,7 @@
 
 ## Resumo
 
-A prova deixa de ser uma avaliação. O [[../NPCs/Instrutor|avaliador Prata]] tenta tirar os PJs da área instável, mas o [[../NPCs/O Predador|Predador]] aparece, mata ou incapacita o avaliador e força o grupo até a [[../Locais/Fenda do Tremor|Fenda do Tremor]]. A única saída viável é atravessar o portal antigo. Do outro lado, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
+A prova deixa de ser uma avaliação. O [[../NPCs/Instrutor|avaliador Prata]] tenta tirar os PJs da área instável, mas o [[../NPCs/O Predador|Predador]] aparece, mata ou incapacita o avaliador e força o grupo até a [[../Locais/Fenda do Tremor|Fenda do Tremor]]. A única saída viável é atravessar o portal instável; em segredo, ele é um vazamento do experimento para abrir o portal maior da [[../Plots/Torre Pre-Invasao|Torre Pré-Invasão]]. Do outro lado, são **teletransportados** para o fundo de um poço no [[../Locais/Campo Avancado Orc|Campo Avançado Orc]].
 
 ## Objetivos da sessão
 

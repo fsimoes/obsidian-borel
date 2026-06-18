@@ -51,4 +51,15 @@ Status correto: `ready`.
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 71897 #2
+
+## Revisão texto+refs (2026-06-18 — tick 71897 #2)
+
+- `dialogues.md` OK. `panels.md` / `prompt-all-pages.md` corrompidos (PAGE 000 duplicadas) → `script` + `dialogues`.
+- Refs: 13 PNGs (estilo + PCs + Borin/Trash + goblins + ogro + Elriste).
+
+## Publicação v2 (2026-06-18 — tick 71897 #2)
+
+- 18 PNG v2 gerados (`cap07-001`…`018`), copiados para `pages/` e `quartz/static/comic/cap-07-sessao-07/`.
+- `npm run comic:webp` + `npm run build:site` OK.
+- Capa `000-cover.webp` mantida.

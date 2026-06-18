@@ -36,4 +36,15 @@ target_pages: 14
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 461257 #2
+
+## Revisão texto+refs (2026-06-18 — tick 461257 #2)
+
+- `dialogues.md` OK. Fonte: `script` + `dialogues`.
+- Refs: 12 PNGs (estilo + PCs + Rita Dente de Bronze + Elriste).
+
+## Publicação v2 (2026-06-18 — tick 461257 #2)
+
+- 14 PNG v2 gerados (`cap08-001`…`014`), copiados para `pages/` e `quartz/static/comic/cap-08-sessao-08/`.
+- `npm run comic:webp` + `npm run build:site` OK.
+- Capa `000-cover.webp` mantida.

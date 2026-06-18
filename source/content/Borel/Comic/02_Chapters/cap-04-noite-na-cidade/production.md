@@ -98,4 +98,15 @@ Executada em 2026-06-05 após referência aprovada pelo usuário:
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte v2 (`images-pending-regen`) — 2026-06-18, Cursor GenerateImage
+
+## Regeneração 2026-06-18
+
+- **Gerador:** Cursor GenerateImage + refs `refs/` (11 PNGs)
+- **Regens:** P014 (halfling/cachecol teal na 1ª versão)
+- **Publicado:** `quartz/static/comic/cap-04-sessao-04/` · build OK
+
+- `dialogues.md` — OK, sem alterações.
+- `prompt-all-pages.md` — **corrompido** (9× PAGE 000); fonte: `script.md` + `dialogues.md` + `concept.md`.
+- `refs/` — 11 PNGs (estilo + PCs + Emmergard + criatura lupina + Lucian).
+- Emmergard: **loira**, não ruiva (canon jun/2026).

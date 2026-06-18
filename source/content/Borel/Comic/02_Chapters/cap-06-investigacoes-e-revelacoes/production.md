@@ -54,4 +54,15 @@ Preimage review aprovado em `review.md`. Refs pendentes, capa e paginas finais f
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte v2 (`images-pending-regen`) — 2026-06-18 tick 461257
+
+## Revisão texto+refs (2026-06-18 — tick 461257)
+
+- `dialogues.md` OK. `prompt-all-pages.md` corrompido (9× PAGE 000) → `script` + `dialogues` + `concept`.
+- Refs: 12 PNGs (estilo + PCs + Celeste prisioneira + criatura tanque).
+
+## Publicação v2 (2026-06-18 — tick 461257)
+
+- 16 PNG v2 gerados (`cap06-001`…`016`), copiados para `pages/` e `quartz/static/comic/cap-06-sessao-06/`.
+- `npm run comic:webp` + `npm run build:site` OK.
+- Capa `000-cover.webp` mantida.

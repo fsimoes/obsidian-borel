@@ -60,7 +60,7 @@ Lendas vivas e autoridades raras da guilda. Podem interditar regioes, contradize
 
 ### Cartografos do Fundo
 
-Especialistas que comparam relatos, corrigem mapas e decidem quais areas entram nos arquivos oficiais. Eles dependem de dados incompletos e, ate a queda dos PJs, nunca identificaram a dungeon real abaixo do Stratum Novato.
+Especialistas que comparam relatos, corrigem mapas e decidem quais areas entram nos arquivos oficiais. Eles dependem de dados incompletos e, ate a queda dos PJs, nunca identificaram que o Stratum Novato era a casca superior de uma estrutura muito maior.
 
 ### Conselho da Lanterna
 
@@ -72,17 +72,17 @@ Pequeno grupo que negocia com autoridades da superficie, controla a reputacao da
 - Ha pedra antiga sob a area da avaliacao.
 - Relatorios recentes citaram tremores, marcas raspadas e manutencao incomum.
 - Varric pediu vistoria mais profunda e recebeu adiamentos burocraticos.
-- Alguns registros antigos usam termos vagos para a fundacao, mas ninguem interpretou isso como sinal de uma dungeon abaixo.
+- Alguns registros antigos usam termos vagos para a fundacao, mas ninguem interpretou isso como sinal de uma base pre-invasao ancorada abaixo do stratum.
 
 ## O que a guilda nao sabe
 
-A guilda nao sabe que existe uma dungeon real sob o stratum. Ela controla apenas os pontos que encontrou, limpou e domesticou.
+A guilda nao sabe que existe uma base pre-invasao sob o stratum. Ela controla apenas os pontos que encontrou, limpou e domesticou.
 
-O complexo subterraneo e maior, mais antigo e mais vivo do que qualquer mapa publico ou privado da guilda sugere. Algumas portas da guilda foram construidas perto de selos que ja existiam. Alguns elevadores e corredores talvez tenham sido reaproveitados sem que a instituicao percebesse a escala da estrutura original.
+O complexo subterraneo e maior, mais antigo e mais intencional do que qualquer mapa publico ou privado da guilda sugere. Algumas portas da guilda foram construidas perto de selos que ja existiam. Alguns elevadores e corredores talvez tenham sido reaproveitados sem que a instituicao percebesse a escala da estrutura original.
 
 ## Segredo util para o DM
 
-A avaliacao dos PJs falha porque a guilda esta errada, nao porque ela esta escondendo a dungeon. A prova foi montada sobre uma zona classificada como "estavel por historico". Os sinais recentes pareciam manutencao ruim, tremor local ou desgaste de pedra, nao evidencia de um megacomplexo abaixo.
+A avaliacao dos PJs falha porque a guilda esta errada, nao porque ela esta escondendo a torre. A prova foi montada sobre uma zona classificada como "estavel por historico". Os sinais recentes pareciam manutencao ruim, tremor local ou desgaste de pedra, nao evidencia de uma infraestrutura de invasao abaixo.
 
 Isso nao precisa significar vilania. A tragedia fica mais forte se cada pessoa tiver uma desculpa razoavel:
 
@@ -108,7 +108,7 @@ Quando o grupo cai fora das rotas certificadas, a guilda vira ausencia. Suas reg
 
 ### Final
 
-Se os PJs voltarem, eles carregam uma verdade politicamente perigosa: a guilda nao perdeu uma turma por azar; ela quase perdeu uma turma porque confundiu area certificada com area compreendida.
+Se os PJs voltarem, eles carregam uma verdade politicamente perigosa: a guilda nao perdeu uma turma por azar; ela quase perdeu uma turma porque confundiu area certificada com area compreendida, e essa area pode ser a borda de uma invasao.
 
 ## NPCs ligados
 
@@ -143,5 +143,5 @@ Se os PJs voltarem, eles carregam uma verdade politicamente perigosa: a guilda n
 - Um membro do Conselho tenta declarar os PJs culpados por "quebra de protocolo" para proteger a reputacao da guilda.
 - Mira encontra requisicoes antigas de Varric negadas e entrega aos sobreviventes.
 - Um Cartografo do Fundo oferece ajuda em troca do selo de bronze recuperado.
-- A guilda envia uma segunda equipe de resgate sem entender que esta mandando mais gente para a dungeon real.
+- A guilda envia uma segunda equipe de resgate sem entender que esta mandando mais gente para a base real.
 - O juramento dos aventureiros vira arma moral: eles cumpriram melhor as virtudes do que a propria instituicao.
