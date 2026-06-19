@@ -6,14 +6,10 @@ target_pages: 20
 
 # Production - Cap. 19
 
-Status: `ready-for-image-generation` — refs D/E/F/G aprovadas jun/2026.
+Status: `published` — v2 PNG jun/2026, webp + build tick 71897 #8.
 
 ## Refs (jun/2026)
 - [x] Criatura floresta + espectro — bloco F
 - [x] Bartrock `mask-only` — `pcs/bartrock-mask-only-eq-inicial.png`
-- [x] Inimigos + mask-only aprovados (jun/2026)
-
-## Documentação v2
-- [x] panels.md
-- [x] prompt-all-pages.md (após comic-docs-v2)
-- [ ] WebP em pages/
+- [x] 14 refs copiados para `refs/`
+- [x] WebP em quartz (`cap-19-sessao-19`)

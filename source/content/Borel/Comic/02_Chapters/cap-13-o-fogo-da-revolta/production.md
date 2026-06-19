@@ -43,4 +43,14 @@ Pendente. Deve verificar que Kaelion finaliza a maga, Rita aparece como aliada, 
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 71897 #5
+
+## Revisão texto+refs (2026-06-18 — tick 71897 #5)
+
+- `dialogues.md` OK. Fonte: `script` + `dialogues`.
+- Refs: 12 PNGs (estilo + PCs + Rita revolta + maga quartel sul + Elriste).
+
+## Publicação v2 (2026-06-18 — tick 71897 #5)
+
+- 15 PNG v2 gerados (`cap13-001`…`015`), copiados para `pages/` e `quartz/static/comic/cap-13-sessao-13/`.
+- `npm run comic:webp` + `npm run build:site` OK.

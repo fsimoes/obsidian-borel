@@ -33,4 +33,14 @@ Pendente por ausência de imagens.
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 71897 #6
+
+## Revisão texto+refs (2026-06-18 — tick 71897 #6)
+
+- `dialogues.md` OK. Fonte: `script` + `dialogues`.
+- Refs: 14 PNGs (estilo + PCs + Rita + Jorge + Letícia + baú + perseguidores + castelo).
+
+## Publicação v2 (2026-06-18 — tick 71897 #6)
+
+- 16 PNG v2 gerados (`cap15-001`…`016`), copiados para `pages/` e `quartz/static/comic/cap-15-sessao-15/`.
+- `npm run comic:webp` + `npm run build:site` OK.

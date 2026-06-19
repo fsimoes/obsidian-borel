@@ -39,4 +39,14 @@ target_pages: 17
 - [x] `panels.md` com poses por painel
 - [x] `prompt-all-pages.md` prefixo v2 + CHARACTERS & POSES
 - [x] `style.md` v2
-- [ ] Regenerar arte (`images-pending-regen`)
+- [x] Regenerar arte (`images-pending-regen`) — 2026-06-18 tick 71897 #4
+
+## Revisão texto+refs (2026-06-18 — tick 71897 #4)
+
+- `dialogues.md` OK. Fonte: `script` + `dialogues`.
+- Refs: 12 PNGs (estilo + PCs + Rita + golem + Ivan + puzzle).
+
+## Publicação v2 (2026-06-18 — tick 71897 #4)
+
+- 17 PNG v2 gerados (`cap11-001`…`017`), copiados para `pages/` e `quartz/static/comic/cap-11-sessao-11/`.
+- `npm run comic:webp` + `npm run build:site` OK.
