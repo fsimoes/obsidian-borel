@@ -2,28 +2,33 @@
 
 | Campo | Valor |
 |-------|-------|
-| `next_cap` | 22 |
-| `slug` | cap-22-sessao-22 |
-| `folder` | cap-22-batalha-das-minhocas |
-| `target_pages` | TBD |
-| `last_tick` | 2026-06-19 (tick loop 3h) |
-| `last_phase` | D — Cap 21 v2 publicado |
-| `pages_done` | 19/19 PNG v2 (000–018) |
+| `next_cap` | done |
+| `slug` | — |
+| `folder` | — |
+| `target_pages` | — |
+| `last_tick` | 2026-06-20 (tick loop #6 — sem trabalho, série completa) |
+| `last_phase` | D — Cap 25 v2 publicado · série 21–25 completa |
+| `pages_done` | 17/17 PNG v2 (cap 25) |
 | `loop_interval` | 3h |
-| `loop_pid` | 95848, 71476 |
-| `loop_armed_at` | 2026-06-18 |
+| `loop_pid` | — (loop parado neste tick) |
+| `loop_armed_at` | 2026-06-20 |
 | `loop_sentinel` | AGENT_LOOP_TICK_BOREL_HQ |
-| `notes` | Cap 21 completo neste tick. Regen 003 (Nightwolf drow). Próximo: cap 22. |
+| `notes` | Tick #6 sem cap pendente. Loop parado para evitar ticks vazios. Rearmar quando houver novo cap. |
 
 ## Como checar se o loop está ativo
 
 ```powershell
-Get-Process -Id 95848,71476 -ErrorAction SilentlyContinue
 Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -match 'AGENT_LOOP_TICK_BOREL' }
 ```
 
 ## Histórico
 
+- **2026-06-20** — Tick loop #6: nenhuma ação; loop parado.
+- **2026-06-20** — Tick loop #5: nenhuma ação (série completa).
+- **2026-06-20** — Tick loop #4: nenhuma ação (série completa).
+- **2026-06-20** — Tick loop #3: Cap 25 v2 FINALE (17 PNG), webp + build.
+- **2026-06-20** — Tick loop #2: Cap 24 v2 (19 PNG), webp + build.
+- **2026-06-19** — Tick manual: Cap 22 v2 (17 PNG 000–016), webp + build.
 - **2026-06-19** — Tick loop 3h: Cap 21 v2 (19 PNG 000–018), webp + build.
 - **2026-06-18** — Tick loop 461257 #8: Cap 20 v2 (16 PNG), webp + build.
 - **2026-06-18** — Tick loop 71897 #8: Cap 19 v2 (19 PNG), webp + build.

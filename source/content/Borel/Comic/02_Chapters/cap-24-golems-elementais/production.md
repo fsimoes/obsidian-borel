@@ -1,21 +1,20 @@
 ---
 title: Production - Cap. 24
-status: refs-ready
+status: published
 target_pages: 19
 ---
 
 # Production - Cap. 24
 
-Status: `ready-for-image-generation` — blocos H/I/J aprovados jun/2026.
+Status: `published` — v2 PNG jun/2026, webp + build tick loop 2026-06-20.
+
+## Revisão texto+refs (2026-06-20)
+- dialogues.md: ortografia OK; sem alterações neste tick.
+- refs: PCs + estilo v2 + golems elementais (11 arquivos).
+- Geração: 19 PNG (000–018).
 
 ## Refs (jun/2026)
-- [x] Golems elementais — bloco I (≠ golem-guardiao cap. 11)
+- [x] Golems elementais — bloco I
 - [x] PCs + Emmergard — reutilizar
-- [ ] Sala três símbolos — opcional · prompt
 - [x] Bloco I aprovado (jun/2026)
-
-## Documentação v2
-- [x] panels.md
-- [x] prompt-all-pages.md
-- [x] enemy-concepts.md · refs/README.md · npc-sheets.md
-- [ ] WebP em pages/
+- [x] WebP em quartz (`cap-24-sessao-24`) — 19 páginas 000–018
