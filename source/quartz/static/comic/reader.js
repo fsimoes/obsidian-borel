@@ -1,5 +1,5 @@
 ﻿/** Bump when chapters.json changes so browsers refetch the catalog. */
-const CATALOG_VERSION = "14"
+const CATALOG_VERSION = "15"
 const CONFIG_URL = `chapters.json?v=${CATALOG_VERSION}`
 const STORAGE_KEY = "borel-comic-access"
 

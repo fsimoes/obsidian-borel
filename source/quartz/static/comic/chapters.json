@@ -105,6 +105,166 @@
       "cover": "000-cover.webp",
       "fidelity": "documented",
       "status": "ready"
+    },
+    {
+      "id": "cap-10-sessao-10",
+      "title": "Cap. 10 — Sombras no Cais",
+      "session": 10,
+      "pageCount": 18,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-11-sessao-11",
+      "title": "Cap. 11 — Sombras e Pólvora",
+      "session": 11,
+      "pageCount": 17,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-12-sessao-12",
+      "title": "Cap. 12 — Explosões e Estratégias",
+      "session": 12,
+      "pageCount": 18,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-13-sessao-13",
+      "title": "Cap. 13 — O Fogo da Revolta",
+      "session": 13,
+      "pageCount": 15,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-14-sessao-14",
+      "title": "Cap. 14 — O Cerco Final",
+      "session": 14,
+      "pageCount": 18,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-15-sessao-15",
+      "title": "Cap. 15 — Sombras e Fugas",
+      "session": 15,
+      "pageCount": 16,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-16-sessao-16",
+      "title": "Cap. 16 — Sombras do Passado",
+      "session": 16,
+      "pageCount": 17,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-17-sessao-17",
+      "title": "Cap. 17 — Entre Cordas e Confissões",
+      "session": 17,
+      "pageCount": 16,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-18-sessao-18",
+      "title": "Cap. 18 — Santuário e Londe",
+      "session": 18,
+      "pageCount": 18,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-19-sessao-19",
+      "title": "Cap. 19 — Floresta dos Horrores",
+      "session": 19,
+      "pageCount": 19,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-20-sessao-20",
+      "title": "Cap. 20 — Marcas do Ritual",
+      "session": 20,
+      "pageCount": 16,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-21-sessao-21",
+      "title": "Cap. 21 — Traição de Cerberus",
+      "session": 21,
+      "pageCount": 19,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-22-sessao-22",
+      "title": "Cap. 22 — Batalha das Minhocas Gigantes",
+      "session": 22,
+      "pageCount": 17,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-23-sessao-23",
+      "title": "Cap. 23 — Caverna dos Cogumelos",
+      "session": 23,
+      "pageCount": 17,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-24-sessao-24",
+      "title": "Cap. 24 — Golems Elementais",
+      "session": 24,
+      "pageCount": 19,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
+    },
+    {
+      "id": "cap-25-sessao-25",
+      "title": "Cap. 25 — Despedidas e Novos Rumos",
+      "session": 25,
+      "pageCount": 17,
+      "startPage": 1,
+      "cover": null,
+      "fidelity": "documented",
+      "status": "ready"
     }
   ]
 }
